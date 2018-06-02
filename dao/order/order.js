@@ -1,31 +1,48 @@
 const query = require('../database')
 
+let insert = function (order) {
+    return new Promise((resolve, reject) => {
+    })
+}
+
+let update = function (order) {
+    return new Promise((resolve, reject) => {
+    })
+}
+
 let findById = function (id) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByGuideId = function (guideId) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByGuideIdAndState = function (guideId, state) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByGuideIdAndKeyword = function (guideId, keyword) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByTouristId = function (touristId) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByTouristIdAndState = function (touristId, state) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByTouristAndKeyword = function (touristId, keyword) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 module.exports = {
