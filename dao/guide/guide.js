@@ -1,19 +1,35 @@
 const query = require('../database')
 
+let insert = function (guide) {
+    let sql = 'insert into guide () values';
+    //return query(sql, guide);
+    return new Promise((resolve, reject) => {
+    })
+}
+
+let update = function (guide) {
+    return new Promise((resolve, reject) => {
+    })
+}
+
 let findByOpenId = function (openId) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findById = function (id) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByFavorSpot = function (spotId) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByKeyword = function (keyword) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 module.exports = {findById, findByOpenId, findByFavorSpot, findByKeyword}

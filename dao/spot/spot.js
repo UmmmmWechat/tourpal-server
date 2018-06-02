@@ -1,17 +1,28 @@
+const query = require('../database')
+
+let update = function (guide) {
+    return new Promise((resolve, reject) => {
+    })
+}
+
 let findById = function (id) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByProvinceAndCity = function (province, city) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByKeyword = function (keyword) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 let findByCityAndKeyword = function (city, keyword) {
-    return []
+    return new Promise((resolve, reject) => {
+    })
 }
 
 module.exports = {findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
