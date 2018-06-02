@@ -1,0 +1,9 @@
+module.exports = {
+    WAITING: 'WAITING',
+    ONGOING: 'ONGOING',
+    REJECTED: 'REJECTED',
+    CANCELED: 'CANCELED',
+    FINISHED: 'FINISHED',
+    TIMEOUT: 'TIMEOUT',
+    ALL: 'ALL'
+}
