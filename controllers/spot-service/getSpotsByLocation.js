@@ -9,8 +9,6 @@ var fn = async (ctx, next) => {
         location = JSON.parse(location)
         ctx.body = JSON.stringify([{location:location}])
     }
-
-    
 }
 
 module.exports = {
