@@ -1,3 +1,3 @@
-var getSpotsByKeyword = function (keyword, lastIndex) {
+module.exports = function (keyword, lastIndex) {
     return []
 }

@@ -1,3 +1,6 @@
+/**
+ * 这个文件是用来注册所有的controller 和 路由的
+ */
 const fs = require('fs')
 
 function scanControllers (router, dir) {
