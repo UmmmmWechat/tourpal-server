@@ -1,27 +1,23 @@
-const OrderDAO = require('../../dao/order/order')
+const spotDAO = require('../../dao/spot/spot')
+const SpotSortBy = require('./SpotSort')
 const CommonGetByCache = require('../CommonGetArrayByCache')
-const PAGE_SIZE = 10
+const PAGE_SIZE = require('./SpotConst').PAGE_SIZE
 const ResultMessage = require('../../utils/ResultMessage')
 
-/**
-* 
-* @param {int} touristId 游客id
-* @param {} keyword
-* @param {int} lastIndex
-*/
-module.exports = function (touristId, keyword, lastIndex) {
+
+module.exports = function (keyword, city, lastIndex) {
     return new Promise((resolve, reject) => {
-        let key = 'order' + touristId + keyword
+        let key = 'spot' + keyword + city
         CommonGetByCache(
             key,
             lastIndex,
             lastIndex + PAGE_SIZE,
-            undefined,
+            SpotSortBy,
             (res) => {  // res是查到的数据
                 resolve(res)
             },
             callback => { // cache中不存在资源
-                OrderDAO.findByTouristAndKeyword(touristId, keyword)
+                spotDAO.findByCityAndKeyword(city, keyword)
                 .then(res => {
                     if (res.length === 0) { // 如果查询结果为空，直接返回了，不要存在cache了
                         resolve(res)

@@ -46,6 +46,8 @@ let findByTouristAndKeyword = function (touristId, keyword) {
 }
 
 module.exports = {
+    update,
+    insert,
     findById,
     findByGuideId,
     findByGuideIdAndState,

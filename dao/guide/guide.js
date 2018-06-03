@@ -32,4 +32,12 @@ let findByKeyword = function (keyword) {
     })
 }
 
-module.exports = {findById, findByOpenId, findByFavorSpot, findByKeyword}
+
+module.exports = {
+    insert,
+    update,
+    findById, 
+    findByOpenId, 
+    findByFavorSpot, 
+    findByKeyword
+}

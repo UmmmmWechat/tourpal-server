@@ -1,25 +1,3 @@
-var http = require('http')
-var options = {  
-    port: 3000,  
-    path: '/spots/by-id?id=1',  
-    method: 'GET',  
-    headers: {  
-        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'  
-    }  
-};  
-var req = http.request(options, function(res) {
-    // console.log(res.body)
-    res.setEncoding('utf8')
-    res.on(
-        'data',
-        function (chunk) {
-            console.log(chunk)
-        }
-    )
-})
+const appid = require('./serivice_impl/index/OpenId')
 
-req.on('error', function (e) {  
-    console.log('problem with request: ' + e.message);  
-});  
-
-req.end()
+appid('033yCUwf2Q28xC0bmhyf20oHwf2yCUw2')

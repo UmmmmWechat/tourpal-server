@@ -1,5 +1,4 @@
-/* 
-* @param {int} spotId 景点ID
+/*
 * @param {int} lastIndex
 */
 // /spot?keyword=&lastIndex=

@@ -26,6 +26,6 @@ var fn = async (ctx, next) => {
 }
 
 module.exports = {
-    // orderId
+    // guide
     'POST /guides/modify': fn
 }
