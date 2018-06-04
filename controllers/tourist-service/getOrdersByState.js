@@ -1,6 +1,8 @@
+const CommonCotroller = require('../CommonController')
+const GetOrdersByState = require('../../serivice_impl/tourist/GetOrdersByState')
 /* 
 * @param {int} touristId 游客id
-* @param {} state 状态
+* @param {} keyword
 * @param {int} lastIndex
 */
 
@@ -8,11 +10,16 @@ var fn = async (ctx, next) => {
     let touristId = ctx.query.touristId
     let lastIndex = ctx.query.lastIndex
     let state = ctx.query.state
-    if (!state) {
-        await next()
-    } else {
-        ctx.body = state
-    }
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            'touristId': touristId,
+            'state': state,
+            'lastIndex': lastIndex
+        },
+        () => GetOrdersByState(touristId, state, lastIndex)
+    )
 }
 
 module.exports = {

@@ -22,5 +22,10 @@ module.exports = async function (spotId, lastIndex) {
             },
             () => GuideDAO.findByFavorSpot(spotId)
         )
+    // 去掉敏感信息
+    for (let i = 0; i < result.length; i++) {
+        let guide = result[i]
+        result[i] = CutGuide(guide)
+    }
     return result
 }

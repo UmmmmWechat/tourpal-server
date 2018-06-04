@@ -1,3 +1,5 @@
+const CommonCotroller = require('../CommonController')
+const GetOrdersByKeyword = require('../../serivice_impl/tourist/GetOrdersByKeyword')
 /* 
 * @param {int} touristId 游客id
 * @param {} keyword
@@ -8,11 +10,16 @@ var fn = async (ctx, next) => {
     let touristId = ctx.query.touristId
     let lastIndex = ctx.query.lastIndex
     let keyword = ctx.query.keyword
-    if (!keyword) {
-        await next()
-    } else {
-        ctx.body = keyword
-    }
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            'touristId': touristId,
+            'keyword': keyword,
+            'lastIndex': lastIndex
+        },
+        () => GetOrdersByKeyword(touristId, keyword, lastIndex)
+    )
 }
 
 module.exports = {

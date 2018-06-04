@@ -23,8 +23,8 @@ public class GuidePre {
 */
 /**
  * 注册，其实是新增一个guide
+ * TODO: 其实是更新， 不是增加
  * @param {Guide} guide 
- * 这个guide已经有 openId了，为什么呢，因为在打开小程序的那一刻，就已经将openId下发
  */
 module.exports = async function (guide) {
     try {

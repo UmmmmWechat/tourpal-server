@@ -20,5 +20,5 @@ var fn = async (ctx, next) => {
 }
 
 module.exports = {
-    'GET /spots/by-keyword': fn
+    'GET /spots/by-keyword-and-city': fn
 }

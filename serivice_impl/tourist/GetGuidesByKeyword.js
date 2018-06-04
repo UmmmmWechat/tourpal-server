@@ -4,6 +4,7 @@ const GuideSortBy = require('./GuideSortBy')
 const CommonGetByCache = require('../CommonGetArrayByCache')
 const PAGE_SIZE = 10
 const ResultMessage = require('../../utils/ResultMessage')
+const CutGuide = require('../../utils/CutGuide')
 
 /**
  * 
@@ -23,6 +24,10 @@ module.exports = async function (keyword, lastIndex) {
             },
             () => GuideDAO.findByKeyword(keyword)
         )
-
+        // 去掉敏感信息
+        for (let i = 0; i < result.length; i++) {
+            let guide = result[i]
+            result[i] = CutGuide(guide)
+        }
         return result
 }

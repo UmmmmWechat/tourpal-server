@@ -3,12 +3,12 @@ const CommonController = require('../CommonController')
 // /spot?id=1
 var fn = async (ctx, next) => {
     const query = ctx.query
-    let id = query.id
+    let spotId = query.spotId
     await CommonCotroller(
         ctx,
         next,
         {
-            'id': id
+            'spotId': spotId
         },
         () => GetSpotById(id)
     )

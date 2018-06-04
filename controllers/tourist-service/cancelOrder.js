@@ -1,12 +1,18 @@
+const CommonCotroller = require('../CommonController')
+const CancelOrder = require('../../serivice_impl/tourist/CancelOrderById')
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
     let cancelMessage = body.cancelMessage
-    if (!orderId) {
-        await next()
-    } else {
-        ctx.body = JSON.stringify(body)
-    }
+   CommonCotroller(
+       ctx,
+       next,
+       {
+           orderId: orderId,
+           cancelMessage: cancelMessage
+       },
+       () => CancelOrder(orderId, cancelMessage)
+   )
 }
 
 module.exports = {

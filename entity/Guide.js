@@ -10,4 +10,5 @@ module.exports = function () {
     this.introduction = '';
     this.goodFeedbackRate = '';
     this.numOfFinishOrder = '';
+    this.favorSpots = [];
 }

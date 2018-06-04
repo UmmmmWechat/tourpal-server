@@ -6,20 +6,18 @@ const GetGuidesBySpotId = require('../../serivice_impl/tourist/GetGuidesBySpotId
 */
 
 var fn = async (ctx, next) => {
-    let spotId = ctx.query.spotId
-    let lastIndex = ctx.query.lastIndex
+    let guideId = ctx.query.guideId
     await CommonCotroller(
         ctx,
         next,
         {
-            'spotId': spotId,
-            'lastIndex': lastIndex
+            'spotId': spotId
         },
-        () => GetGuidesBySpotId(spotId, lastIndex)
+        () => undefined
     )
-    console.log('get guide by keyword over')
+    console.log('get guide by id over')
 }
 
 module.exports = {
-    'GET /guides/by-spot-id': fn
+    'GET /guides/by-id': fn
 }

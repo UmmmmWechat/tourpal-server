@@ -1,22 +1,18 @@
-/*
-    private int id;
-
-    private int spotPoint;
-
-    private int guidePoint;
-
-    private String comment;
-*/
+const CommonCotroller = require('../CommonController')
+const CommendOrder = require('../../serivice_impl/tourist/CommendOrderById')
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
     let feedback = body.feedback
-    if (!orderId || !feedback) {
-        await next()
-    } else {
-        feedback = JSON.parse(feedback)
-        ctx.body = JSON.stringify(body)
-    }
+    CommonCotroller(
+       ctx,
+       next,
+       {
+           orderId: orderId,
+           feedback: feedback
+       },
+       () => CommendOrder(orderId, feedback)
+   )
 }
 
 module.exports = {

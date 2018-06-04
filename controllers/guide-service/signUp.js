@@ -1,3 +1,5 @@
+const CommonController = require('../CommonController')
+const SignUp = require('../../serivice_impl/guide/SignUp')
 /* 
 public class GuidePre {
     public String openId;
@@ -23,14 +25,17 @@ public class GuidePre {
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let guideInfo = body.guide
-    if (!guideInfo) {
-        await next()
-    } else {
-        ctx.body = guideInfo
-    }
+    CommonController(
+        ctx,
+        next,
+        {
+            guide: guideInfo
+        },
+        () => SignUp(guideInfo)
+    )
 }
 
 module.exports = {
     // {Object} guide
-    'POST /sign-up': fn
+    'POST /sign-up/guide': fn
 }
