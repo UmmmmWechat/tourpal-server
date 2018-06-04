@@ -15,22 +15,23 @@ module.exports = async function (location, lastIndex) {
             (res) => {
                 resolve(res)
             },
-            (callback) => {
-                spotDAO.findByProvinceAndCity(
-                    location.province,
-                    location.city
-                )
-                .then(res => {
-                  if (res.length === 0) {
-                      resolve(res)
-                  } else {
-                      callback(res)
-                  }
-                })
-                .catch(err => {
-                    reject(ResultMessage.ERROR_DATABASE)
-                })
-            }
+            () => spotDAO.findByProvinceAndCity(location.province, location.city)
+            // (callback) => {
+            //     spotDAO.findByProvinceAndCity(
+            //         location.province,
+            //         location.city
+            //     )
+            //     .then(res => {
+            //       if (res.length === 0) {
+            //           resolve(res)
+            //       } else {
+            //           callback(res)
+            //       }
+            //     })
+            //     .catch(err => {
+            //         reject(ResultMessage.ERROR_DATABASE)
+            //     })
+            // }
         )
     })
     

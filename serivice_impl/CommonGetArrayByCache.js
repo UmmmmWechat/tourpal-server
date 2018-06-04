@@ -14,15 +14,15 @@ var sliceArray = function (list, start, end) {
  * @param {*} onCacheSuccess 成功从cache获取时的回调
  * @param {*} onCacheFail 失败时的回调
  */
-module.exports = (key, start, end, sortBy ,onCacheSuccess, onCacheFail) => {
-    cache.getResource(key)
-    .then(res => {  // 获取cache中资源成功
-        // 这里不用sort，因为放在cache中，已经是排序过放进去的了
-        res = sliceArray(res, start, end)
+module.exports = async (key, start, end, sortBy ,onCacheSuccess, onCacheFail) => {
+    let res;
+    try {
+        res = await cache.getResource(key)
         onCacheSuccess(res)
-    })
-    .catch(err => {
-        onCacheFail((data) => { // 如果不在cache中，则做其他事，最后将data传过来存在cache中
+    } catch(e) {
+        await onCacheFail()
+        .then((data) => { // 如果不在cache中，则做其他事，最后将data传过来存在cache中
+            console.log('callback')
             if (sortBy) {
                 data = data.sort(sortBy)
             }
@@ -31,5 +31,44 @@ module.exports = (key, start, end, sortBy ,onCacheSuccess, onCacheFail) => {
             data = sliceArray(data, start, end)
             onCacheSuccess(data)
         })
-    })
+        // await onCacheFail(async (data) => { // 如果不在cache中，则做其他事，最后将data传过来存在cache中
+        //     console.log('callback')
+        //     if (sortBy) {
+        //         data = data.sort(sortBy)
+        //     }
+        //     cache.setResource(key, data)
+        //     // 继续成功回调
+        //     data = sliceArray(data, start, end)
+        //     onCacheSuccess(data)
+        // })
+    }
+    
+    // .then(res => {  // 获取cache中资源成功
+    //     // 这里不用sort，因为放在cache中，已经是排序过放进去的了
+    //     res = sliceArray(res, start, end)
+    //     onCacheSuccess(res)
+    // })
+    // .catch( async err => {
+    //     console.log(err)
+    //     await onCacheFail((data) => { // 如果不在cache中，则做其他事，最后将data传过来存在cache中
+    //         console.log('callback')
+    //         if (sortBy) {
+    //             data = data.sort(sortBy)
+    //         }
+    //         cache.setResource(key, data)
+    //         // 继续成功回调
+    //         data = sliceArray(data, start, end)
+    //         onCacheSuccess(data)
+        // })
+        // await onCacheFail()
+        // .then(data => {
+        //     if (sortBy) {
+        //         data = data.sort(sortBy)
+        //     }
+        //     cache.setResource(key, data)
+        //      // 继续成功回调
+        //     data = sliceArray(data, start, end)
+        //     onCacheSuccess(data)
+        // })
+    // })
 }

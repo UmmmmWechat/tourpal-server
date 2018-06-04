@@ -111,6 +111,7 @@ Cache.prototype.getResource = function (key) {
         (resolve, reject) => {
             var data = this.resourceMap[key]
             if (data !== undefined) {
+                console.log('cache命中' + key)
                 resolve(data.value)
             } else {
                 reject('资源不存在，请重新获取')
