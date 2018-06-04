@@ -1,19 +1,17 @@
 const CommonController = require('../CommonController')
-var fn =  function (res) {
-    return new Promise((onSuccess, onError) => {
-        setTimeout(() => onError(res), 1000)
-    })
-}
+const OpenId = require('../../serivice_impl/tencent/OpenId')
 // var fn = async function (onSuccess, onError) {
 //     await setTimeout(() => onSuccess('dkdkdkd'))
 // }
 var index_fn = async (ctx, next) => {
-    var obj = {a: 'a'} 
+    let code = ctx.query.code
     await CommonController(
         ctx,
         next,
-        obj,
-        () => fn('kdkdkd')
+        {
+            code: code
+        },
+        () => OpenId(code)
     )
 }
 // 这个Index可以用来获取 openId

@@ -1,20 +1,16 @@
 const spotDAO = require('../../dao/spot/spot')
 const ResultMessage = require('../../utils/ResultMessage')
 
-
-module.exports = function (spotId) {
-    return new Promise((resolve, reject) => {
-        spotDAO.findById(spotId)
-        .then(res => {
-            res = res[0]
-            if (res) {
-                resolve(res)
-            } else {
-                reject(ResultMessage.NOT_FOUND)
-            }         
-        })
-        .catch(err => {
-            reject(err)
-        })
-    })
+module.exports = async function (spotId) {
+    try {
+        let res = await spotDAO.findById(spotId)
+        res = res[0]
+        if (res) {
+            return res
+        } else {
+            throw new Error(ResultMessage.ERROR_DATABASE)
+        }
+    } catch (err) {
+        throw err
+    }
 }

@@ -1,13 +1,19 @@
+const CommonController = require('../CommonController')
+const AcceptOrder = require('../../serivice_impl/guide/AcceptOrRejectOrder').acceptOrder
+
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
 
-    if (!orderId) {
-        await next()
-    } else {
-        ctx.body = orderId
-    }
-
+    await CommonController(
+        ctx,
+        next,
+        {
+            orderId: orderId
+        },
+        () => AcceptOrder(orderId)
+    )
+    
 }
 
 module.exports = {

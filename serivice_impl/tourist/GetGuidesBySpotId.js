@@ -9,18 +9,18 @@ const ResultMessage = require('../../utils/ResultMessage')
  * @param {*} spotId 
  * @param {*} lastIndex 
  */
-module.exports = function (spotId, lastIndex) {
-    return new Promise((resolve, reject) => {
+module.exports = async function (spotId, lastIndex) {
+    let result
         let key = 'guide' + spotId
-        CommonGetByCache(
+        await CommonGetByCache(
             key,
             lastIndex,
             lastIndex + PAGE_SIZE,
             GuideSortBy,
             (res) => {  // res是查到的数据
-                resolve(res)
+                result = res
             },
             () => GuideDAO.findByFavorSpot(spotId)
         )
-    })
+    return result
 }

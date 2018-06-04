@@ -1,3 +1,5 @@
+const CommonController = require('../CommonController')
+const InviteGuide = require('../../serivice_impl/tourist/InviteGuide')
 // 邀请某位导游
 /**
  * public class Order {
@@ -17,11 +19,15 @@
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let order = body.order
-    if (!order) {
-        await next()
-    } else {
-        ctx.body = order
-    }
+
+    await CommonController (
+        ctx,
+        next,
+        {
+            order: order
+        },
+        () => InviteGuide(order)
+    )
 }
 
 module.exports = {

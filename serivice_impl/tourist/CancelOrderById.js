@@ -4,31 +4,24 @@ const OrderState = require('../../utils/OrderState')
 const ResultMessage = require('../../utils/ResultMessage')
 // 参数为 {int} orderId, {String} cancelMessage
 module.exports = async function (orderId, cancelMessage) {
-    return new Promise(
-        async (resolve, reject) => {
-            let order = undefined;
-            order = new Order()
-
-            await orderDAO.findById(orderId)
-            .then(res => { // 查询成功
-                    res = res[0]
-                    if (res === undefined) {
-                        reject(ResultMessage.NOT_FOUND)
-                    } else {
-                        Object.assign(order ,res[0])
-                        order.state = OrderState.CANCELED
-                        // 更新数据库
-                        return orderDAO.update(order)
-                    }  
-                }
-            )
-            .then(() => { // 数据库更新成功
-                resolve()
-            })
-            .catch(err => {
-                console.log(err)
-                reject(err)
-            })
+    let order = undefined;
+    order = new Order()
+    try {
+        // 获取
+        let res = await orderDAO.findById(orderId)
+        res = res[0]
+        if (res === undefined) {
+            throw new Error(ResultMessage.NOT_FOUND)
+        } else {
+            Object.assign(order, res)
         }
-    )
+        // 改变状态
+        order.state = OrderState.CANCELED
+        // 更新数据库
+        await orderDAO.update(order)
+        // 返回成功
+        return ResultMessage.SUCCESS
+    } catch (err) {
+        throw err
+    }
 }

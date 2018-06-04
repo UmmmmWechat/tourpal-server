@@ -1,13 +1,22 @@
-// querySpots(string keyword, int lastIndex);
+const GetSpotsByKeyword = require('../../serivice_impl/spot/GetSpotsByKeyword')
+
+// querySpots(string keyword, String city ,int lastIndex);
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
-    let lastIndex = ctx.query.lastIndex || 0
+    let lastIndex = ctx.query.lastIndex
+    let city = ctx.query.city
 
-    if (!keyword) {
-        await next()
-    }
-
-    ctx.body = [{key:keyword}]
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            keyword: keyword,
+            lastIndex: lastIndex,
+            city: city
+        },
+        () => GetSpotsByKeyword(keyword, city ,lastIndex)
+    )
+    console.log('get spots by keyword over')
 }
 
 module.exports = {

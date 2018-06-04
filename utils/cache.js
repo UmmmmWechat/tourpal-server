@@ -111,9 +111,12 @@ Cache.prototype.getResource = function (key) {
         (resolve, reject) => {
             var data = this.resourceMap[key]
             if (data !== undefined) {
+                console.log(new Date().toLocaleTimeString())
                 console.log('cache命中' + key)
                 resolve(data.value)
             } else {
+                console.log(new Date().toLocaleTimeString())
+                console.log('资源不存在，请重新获取')
                 reject('资源不存在，请重新获取')
             }
         }
@@ -123,6 +126,7 @@ Cache.prototype.setResource = function (key, value) {
     let data = new Data(value)
     this.resourceMap[key] = data
     console.log('------------------')
+    console.log(new Date().toLocaleTimeString())
     console.log('Resource: ' + key + ' set')
     console.log('------------------')
 }

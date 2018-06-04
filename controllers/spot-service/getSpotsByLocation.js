@@ -1,14 +1,19 @@
+const GetSpotsByLocation = require('../../serivice_impl/spot/GetSpotsByLocation')
 // querySpots(Location location, int lastIndex);
 var fn = async (ctx, next) => {
     let location = ctx.query.location
-    let lastIndex = ctx.query.lastIndex || 0
+    let lastIndex = ctx.query.lastIndex
 
-    if (!location) {
-        await next()
-    } else {
-        location = JSON.parse(location)
-        ctx.body = JSON.stringify([{location:location}])
-    }
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            location: location,
+            lastIndex: lastIndex
+        },
+        () => GetSpotsByLocation(location, lastIndex)
+    )
+    console.log('get spots by location over')
 }
 
 module.exports = {

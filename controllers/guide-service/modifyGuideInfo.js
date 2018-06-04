@@ -1,3 +1,5 @@
+const CommonController = require('../CommonController')
+const ModifyGuideInfo = require('../../serivice_impl/guide/ModifyGuideInfo')
 /*
 public class GuideModify {
     public int id;
@@ -17,12 +19,13 @@ var fn = async (ctx, next) => {
     const body = ctx.request.body
     let guide = body.guide
 
-    if (!guide) {
-        await next()
-    } else {
-        ctx.body = guide
-    }
-
+    await CommonController(
+        ctx,
+        next, {
+            guide: guide
+        },
+        () => ModifyGuideInfo(guide)
+    )
 }
 
 module.exports = {

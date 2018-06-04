@@ -5,34 +5,18 @@ const PAGE_SIZE = require('./SpotConst').PAGE_SIZE
 const ResultMessage = require('../../utils/ResultMessage')
 
 module.exports = async function (location, lastIndex) {
-    return new Promise((resolve, reject) => {
+    let result
         let key = 'spot' + location.province + location.city + location.region
-        CommonGetByCache(
+        await CommonGetByCache(
             key,
             lastIndex,
             lastIndex + PAGE_SIZE,
             SpotSortBy,
             (res) => {
-                resolve(res)
+                result = res
             },
             () => spotDAO.findByProvinceAndCity(location.province, location.city)
-            // (callback) => {
-            //     spotDAO.findByProvinceAndCity(
-            //         location.province,
-            //         location.city
-            //     )
-            //     .then(res => {
-            //       if (res.length === 0) {
-            //           resolve(res)
-            //       } else {
-            //           callback(res)
-            //       }
-            //     })
-            //     .catch(err => {
-            //         reject(ResultMessage.ERROR_DATABASE)
-            //     })
-            // }
         )
-    })
+    return result
     
 }

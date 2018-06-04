@@ -1,18 +1,27 @@
+const CommonCotroller = require('../CommonController')
+const GetOrdersByState = require('../../serivice_impl/guide/GetOrdersByState')
+
 /* 
-* @param {int} guideId 导游
-* @param {} state 状态
-* @param {int} lastIndex
-*/
+ * @param {int} guideId id
+ * @param {} state
+ * @param {int} lastIndex
+ */
 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
     let lastIndex = ctx.query.lastIndex
     let state = ctx.query.state
-    if (!state) {
-        await next()
-    } else {
-        ctx.body = state
-    }
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            'guideId': guideId,
+            'lastIndex': lastIndex,
+            'state': state
+        },
+        () => GetOrdersByState(guideId, state, lastIndex)
+    )
+    console.log('get order by state over')
 }
 
 module.exports = {

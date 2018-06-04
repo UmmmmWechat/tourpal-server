@@ -1,4 +1,5 @@
 const Guide = require('../../entity/Guide')
+const ResultMessage = require('../../utils/ResultMessage')
 
 let mock = function () {
     return new Promise((resolve, reject) => {
@@ -26,7 +27,13 @@ let insert = function (guide) {
 }
 
 let update = function (guide) {
+    console.log('updating guide')
     return new Promise((resolve, reject) => {
+        setTimeout (
+            // () => resolve(ResultMessage.SUCCESS),
+            () => reject('MY_ERROR'),
+            1000
+        )
     })
 }
 

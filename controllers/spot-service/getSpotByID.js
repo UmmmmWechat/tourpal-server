@@ -4,37 +4,16 @@ const CommonController = require('../CommonController')
 var fn = async (ctx, next) => {
     const query = ctx.query
     let id = query.id
-    CommonController(
+    await CommonCotroller(
         ctx,
         next,
         {
             'id': id
         },
-        (onError) => {
-            GetSpotById(id)
-            .then(res => {
-                ctx.body = res
-            })
-            .catch(err => {
-                onError(err)
-            })
-        }
+        () => GetSpotById(id)
     )
-    // if (!id) {
-    //     await next()
-    //     ctx.response.status = 400
-    //     ctx.response.message = '缺少id参数'
-    // } else {
-    //     GetSpotById(id)
-    //     .then(res => {
-    //         ctx.body = res
-    //     })
-    //     .catch(err => {
-    //         ctx.response.status = 500
-    //         ctx.response.message = err
-    //     })
-        
-    // }
+    console.log(new Date().toLocaleTimeString())
+    console.log('over')
 }
 
 module.exports = {

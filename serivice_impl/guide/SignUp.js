@@ -1,4 +1,5 @@
 const GuideDAO = require('../../dao/guide/guide')
+const ResultMessage = require('../../utils/ResultMessage')
 /* 
 public class GuidePre {
     public String openId;
@@ -25,16 +26,11 @@ public class GuidePre {
  * @param {Guide} guide 
  * 这个guide已经有 openId了，为什么呢，因为在打开小程序的那一刻，就已经将openId下发
  */
-module.exports = function (guide) {
-    return new Promise((resolve, reject) => {
-        GuideDAO.insert(guide)
-        .then(() => {
-            resolve()
-        })
-        .catch(err => {
-            console.log(err)
-            reject(err)
-        })
-    })
-    
+module.exports = async function (guide) {
+    try {
+        await GuideDAO.insert(guide)
+        return ResultMessage.SUCCESS
+    } catch (err) {
+        throw err
+    }
 }

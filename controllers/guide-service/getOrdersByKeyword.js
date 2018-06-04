@@ -1,18 +1,27 @@
+const CommonCotroller = require('../CommonController')
+const GetOrdersByKeyword = require('../../serivice_impl/guide/GetOrdersByKeyword')
+
 /* 
-* @param {int} guideId id
-* @param {} keyword
-* @param {int} lastIndex
-*/
+ * @param {int} guideId id
+ * @param {} keyword
+ * @param {int} lastIndex
+ */
 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
     let lastIndex = ctx.query.lastIndex
     let keyword = ctx.query.keyword
-    if (!keyword) {
-        await next()
-    } else {
-        ctx.body = keyword
-    }
+    await CommonCotroller(
+        ctx,
+        next,
+        {
+            'guideId': guideId,
+            'lastIndex': lastIndex,
+            'keyword': keyword
+        },
+        () => GetOrdersByKeyword(guideId, keyword, lastIndex)
+    )
+    console.log('get order by keyword over')
 }
 
 module.exports = {

@@ -26,9 +26,15 @@ module.exports = async function (ctx, next, params, operation) {
         }
     }
     // 没有参数错误
-    await operation()
-    .then(onSuccess)
-    .catch(onError)
-    // .then(onSuccess)
-    // .catch(onError)
+    try {
+        let result = await operation()
+        if (result) {
+            onSuccess(result)
+        } else {
+            onError('NOT_FOUND')
+        }
+    } catch (err) {
+        onError(err)
+    }
+    console.log(new Date().toLocaleTimeString())
 }

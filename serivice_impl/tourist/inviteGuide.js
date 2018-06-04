@@ -1,5 +1,7 @@
-const OrderDAO = require('../../dao/order/order')
-const GuideDAO = require('../../dao/guide/guide')
+const config = require('../../config')
+const OrderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order`)
+const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
+const ResultMessage = require('../../utils/ResultMessage')
 const NoticeGuide = require('../notice/NoticeGuide')
 
 // 邀请某位导游
@@ -23,17 +25,14 @@ const NoticeGuide = require('../notice/NoticeGuide')
  * TODO: 向guide发送通知
  */
 module.exports = async function (order) {
-    return new Promise((resolve, reject) => {
-        OrderDAO.insert(order)
-        .then(() => {
-            // 这里新建了成功就行了，
-            // 发送通知那个可以后台慢慢去做，和本次流程的关系不大
-            // 不必等着
-            resolve()
-            return NoticeGuide.noticeNewInvitation(order.guideId)
-        })
-        .then((res) => {
-            console.log(`发送新邀请通知给 ${order.guideId} 成功`)
-        })
-    })
+    try {
+        await OrderDAO.insert(order)
+        // 这里新建了成功就行了，
+        // 发送通知那个可以后台慢慢去做，和本次流程的关系不大
+        // 不必等着
+        NoticeGuide.noticeNewInvitation(order.guideId) // 这个发送通知的，后台慢慢做吧
+        return ResultMessage.SUCCESS
+    } catch (err) {
+        throw err
+    }
 }
