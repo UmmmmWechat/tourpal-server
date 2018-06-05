@@ -17,4 +17,8 @@ let findByOpenId = function (openId) {
     })
 }
 
-module.exports = {findById, findByOpenId}
+module.exports = {
+    insert,
+    findById,
+    findByOpenId
+}

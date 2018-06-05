@@ -8,7 +8,7 @@ module.exports = function () {
     this.wechat = '';
     this.phone = '';
     this.introduction = '';
-    this.goodFeedbackRate = '';
-    this.numOfFinishOrder = '';
+    this.goodFeedbackRate = 0;
+    this.numOfFinishOrder = 0;
     this.favorSpots = [];
 }

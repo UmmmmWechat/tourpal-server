@@ -1,9 +1,9 @@
 module.exports = function () {
     this.id = '';
 
-    this.spotPoint = '';
+    this.spotPoint = 5;
 
-    this.guidePoint = '';
+    this.guidePoint = 5;
 
     this.comment = '';
 }

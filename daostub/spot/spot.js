@@ -1,11 +1,17 @@
-
+const Spot = require('../../entity/Spot')
+let mock = () => {
+    let spot = new Spot()
+    return spot
+}
 let update = function (guide) {
     return new Promise((resolve, reject) => {
+        resolve('SUCCESS')
     })
 }
 
 let findById = function (id) {
     return new Promise((resolve, reject) => {
+        resolve(mock())
     })
 }
 
@@ -24,5 +30,5 @@ let findByCityAndKeyword = function (city, keyword) {
     })
 }
 
-module.exports = {findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
+module.exports = {update, findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
 

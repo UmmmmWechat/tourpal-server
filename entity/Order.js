@@ -7,9 +7,9 @@ module.exports = function () {
 
     this.spotId = '';
 
-    this. generatedDate = '';
+    this.generatedDate = '';
 
-    this. travelDate = '';
+    this.travelDate = '';
 
     this.message = '';
 

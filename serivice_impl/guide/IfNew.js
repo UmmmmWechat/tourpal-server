@@ -1,3 +1,4 @@
+// 废弃
 // boolean queryIfNew(String code);
 var fn = async (ctx, next) => {
     let code = ctx.query.code

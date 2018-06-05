@@ -36,9 +36,9 @@ module.exports = async function (code) {
                 })
             }
         )
+        await request.end()
     } catch (err) {
         console.log(err)
     }
-    await request.end()
     return openId
 }

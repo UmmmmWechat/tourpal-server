@@ -150,13 +150,14 @@
   - code (微信小程序临时凭证)
 - 返回
   - guideId (向导在系统中的标识)
+  - NOT_FOUND (没有这个guide，需要注册了)
 
 ### guide注册
 
 - /sign-up/guide
 - POST
 - 参数
-  - code (微信小程序临时凭证)
+  - guide （数据结构见会议）
 - 返回
   - guideId (向导在系统中的标识)
 

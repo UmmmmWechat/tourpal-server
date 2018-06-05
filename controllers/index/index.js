@@ -4,17 +4,9 @@ const OpenId = require('../../serivice_impl/tencent/OpenId')
 //     await setTimeout(() => onSuccess('dkdkdkd'))
 // }
 var index_fn = async (ctx, next) => {
-    let code = ctx.query.code
-    await CommonController(
-        ctx,
-        next,
-        {
-            code: code
-        },
-        () => OpenId(code)
-    )
+    ctx.body = ctx.request.body
 }
 // 这个Index可以用来获取 openId
 module.exports = {
-    'GET /index': index_fn
+    'POST /index': index_fn
 }

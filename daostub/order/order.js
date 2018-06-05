@@ -3,9 +3,7 @@ let insert = function (order) {
     return new Promise((resolve, reject) => {
         setTimeout(
             () => {
-                console.log(new Date().toLocaleTimeString())
-                console.log(order)
-                reject('MY_ERROR')
+                resolve('SUCCESS')
             },
             1000
         )
@@ -16,8 +14,6 @@ let update = function (order) {
     return new Promise((resolve, reject) => {
         setTimeout(
             () => {
-                console.log(new Date().toLocaleTimeString())
-                console.log(order)
                 resolve('SUCCESS')
             },
             1000

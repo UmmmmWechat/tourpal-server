@@ -8,6 +8,7 @@ const INTERVAL = 60 * 1000
 function Data (value) {
     this.value = JSON.parse(JSON.stringify(value))  // 利用 JSON进行深copy
     this.startTime = new Date().getTime()   // 资源进入cache的时间
+    this.maxDelt = MAX_DELT
 }
 
 var Cache = function() {
@@ -95,8 +96,9 @@ Cache.prototype.clearCacheLoop = function () {
                 }
                 let delt = now - data.startTime
                 // 超时清空
-                if (delt >= MAX_DELT) {
+                if (delt >= data.maxDelt) {
                     console.log('clear resource:' + key )
+                    console.log(`Resource ${key}'s maxDelt is ${data.maxDelt / 1000} seconds`)
                     this.resourceMap[key] = undefined
                 } else {
                     console.log('remain resource:' + key )
@@ -117,13 +119,16 @@ Cache.prototype.getResource = function (key) {
             } else {
                 console.log(new Date().toLocaleTimeString())
                 console.log('资源不存在，请重新获取')
-                reject('资源不存在，请重新获取')
+                reject(ResultMessage.NOT_FOUND)
             }
         }
     )
 }
-Cache.prototype.setResource = function (key, value) {
+Cache.prototype.setResource = function (key, value, maxDelt) {
     let data = new Data(value)
+    if (maxDelt) {
+        data.maxDelt = maxDelt
+    }
     this.resourceMap[key] = data
     console.log('------------------')
     console.log(new Date().toLocaleTimeString())

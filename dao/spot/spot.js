@@ -25,5 +25,5 @@ let findByCityAndKeyword = function (city, keyword) {
     })
 }
 
-module.exports = {findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
+module.exports = {update, findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
 

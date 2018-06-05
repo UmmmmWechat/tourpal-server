@@ -1,7 +1,7 @@
 module.exports = function () {
-    this.id;
+    this.id = 0;
 
-    this.name;
+    this.name = 'name';
 
     this.location;
 
@@ -9,7 +9,7 @@ module.exports = function () {
 
     this.introduction;
 
-    this.popularity;    // 热度
+    this.popularity = 0;    // 热度
 
-    this.recommendLevel;    // 星级
+    this.recommendLevel = 0;    // 星级
 }

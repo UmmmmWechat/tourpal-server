@@ -9,7 +9,7 @@ const ResultMessage = require('../../utils/ResultMessage')
 * @param {} keyword
 * @param {int} lastIndex
 */
-module.exports = function (touristId, keyword, lastIndex) {
+module.exports = async function (touristId, keyword, lastIndex) {
     let result
         let key = 'order' + touristId + keyword
         await CommonGetByCache(

@@ -28,8 +28,8 @@ public class GuidePre {
  */
 module.exports = async function (guide) {
     try {
-        await GuideDAO.insert(guide)
-        return ResultMessage.SUCCESS
+        let insertResult = await GuideDAO.insert(guide)
+        return insertResult.insertId
     } catch (err) {
         throw err
     }

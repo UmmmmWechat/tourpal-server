@@ -31,7 +31,7 @@ let update = function (guide) {
     return new Promise((resolve, reject) => {
         setTimeout (
             // () => resolve(ResultMessage.SUCCESS),
-            () => reject('MY_ERROR'),
+            () => resolve('MY_ERROR'),
             1000
         )
     })
@@ -39,11 +39,13 @@ let update = function (guide) {
 
 let findByOpenId = function (openId) {
     return new Promise((resolve, reject) => {
+        resolve(new Guide())
     })
 }
 
 let findById = function (id) {
     return new Promise((resolve, reject) => {
+        resolve(new Guide())
     })
 }
 

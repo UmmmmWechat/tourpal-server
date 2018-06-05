@@ -1,27 +1,13 @@
-// const appid = require('./serivice_impl/index/OpenId')
-const ByCache = require('./serivice_impl/CommonGetArrayByCache')
+const CommendOrder = require('./serivice_impl/tourist/CommendOrderById')
+const Order = require('./entity/Order')
+const Feedback = require('./entity/Feedback')
 
-// appid('033yCUwf2Q28xC0bmhyf20oHwf2yCUw2')
-
-
-var result;
-var fn = async function () {
-    ByCache(
-        'key',
-        0,
-        2,
-        undefined,
-        (res) => {
-            result = res
-            console.log(res)
-        },
-       () => new Promise(resolve =>{
-           setTimeout(
-               () => resolve('rerere'),
-               2000
-           )
-       })
-    )
+var fn = async () => {
+    try {
+        let result = await CommendOrder('orderId', new Feedback())
+        console.log(result)
+    } catch (error) {
+        console.log(error)
+    }
 }
-
 fn()
