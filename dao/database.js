@@ -81,9 +81,17 @@ let order = `create table if not exists my_order (
 
 let order_feedback = `create table if not exists order_feedback (
     orderId integer not null,
-    guidePoint integer not null, 
-    spotPoint integer not null, 
+    guidePoint integer not null default 5, 
+    spotPoint integer not null default 5, 
     comment longtext)
+    default charset=utf8;`
+
+let message = `create table if not exists message (
+    id integer not null auto_increment, 
+    orderId integer not null,
+    formId varchar(255),
+    createDate datetime default now(),
+    primary key (id))
     default charset=utf8;`
 
 let createTable = function (sql) {
@@ -97,5 +105,6 @@ createTable(order)
 createTable(order_feedback)
 createTable(guide)
 createTable(guide_favor_spot)
+createTable(message)
 
 module.exports = query

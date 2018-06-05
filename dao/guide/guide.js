@@ -78,23 +78,23 @@ let find = function (sql) {
 }
 
 let findById = function (id) {
-    let sql = "select * from guide where id=" + id;
+    let sql = "select * from guide where id=" + id
     return find(sql)
 }
 
 let findByOpenId = function (openId) {
-    let sql = "select * from guide where openId='" + openId + "'";
-    return find(sql);
+    let sql = "select * from guide where openId='" + openId + "'"
+    return find(sql)
 }
 
 let findByFavorSpot = function (spotId) {
-    let sql = "select * from guide where exists (select * from guide_favor_spot where guide_favor_spot.guideId=guide.id and spotId=" + spotId + ")";
-    return find(sql);
+    let sql = "select * from guide where exists (select * from guide_favor_spot where guide_favor_spot.guideId=guide.id and spotId=" + spotId + ")"
+    return find(sql)
 }
 
 let findByKeyword = function (keyword) {
-    let sql = "select * from guide where realName like '%" + keyword + "%' or introduction like '%" + keyword + "%'";
-    return find(sql);
+    let sql = "select * from guide where realName like '%" + keyword + "%' or introduction like '%" + keyword + "%'"
+    return find(sql)
 }
 
 module.exports = {insert, update, findById, findByOpenId, findByFavorSpot, findByKeyword}

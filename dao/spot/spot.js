@@ -20,7 +20,7 @@ let insert = function (spot) {
 }
 
 let update = function (spot) {
-    let sql = "update spot set popularity=?, recommendLevel=? where id=?";
+    let sql = "update spot set popularity=?, recommendLevel=? where id=?"
     return query(sql, [spot.popularity, spot.recommendLevel, spot.id])
 }
 
@@ -50,7 +50,7 @@ let find = function (sql) {
 
 
 let findById = function (id) {
-    let sql = "select * from spot where id=" + id;
+    let sql = "select * from spot where id=" + id
     return find(sql)
 }
 

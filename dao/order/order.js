@@ -1,9 +1,9 @@
 const query = require('../database')
 
 let insert = function (order) {
-    let sql = "insert into my_order (guideId, message, spotId, touristId, travelDate) values (?, ?, ?, ?, ?)"
+    let sql = "insert into my_order (guideId, message, spotId, touristId, generatedDate, travelDate) values (?, ?, ?, ?, ?, ?)"
 
-    return query(sql, [order.guideId, order.message, order.spotId, order.touristId, order.travelDate])
+    return query(sql, [order.guideId, order.message, order.spotId, order.touristId, order.generatedDate, order.travelDate])
 }
 
 let update = function (order) {
