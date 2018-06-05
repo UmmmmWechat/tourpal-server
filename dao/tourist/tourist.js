@@ -6,12 +6,12 @@ let insert = function (tourist) {
 }
 
 let findById = function (id) {
-    let sql = "select * from tourist where id=?";
+    let sql = "select * from tourist where id=?"
     return query(sql, [id])
 }
 
 let findByOpenId = function (openId) {
-    let sql = "select * from tourist where openId=?";
+    let sql = "select * from tourist where openId=?"
     return query(sql, [openId])
 }
 
