@@ -1,5 +1,5 @@
 const config = require('../../config')
-const GuideDAO = require('../../dao/guide/guide')
+// const GuideDAO = require('../../dao/guide/guide')
 const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
 const GetOpenId = require('../../serivice_impl/tencent/OpenId')
 const ResultMessage = require('../../utils/ResultMessage')

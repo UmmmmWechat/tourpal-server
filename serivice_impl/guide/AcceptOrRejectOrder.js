@@ -1,6 +1,7 @@
+const config = require('../../config')
 const OrderState = require('../../utils/OrderState')
 // const OrderDAO = require('../../dao/order/order')
-const OrderDAO = require('../../daostub/order/order')
+const OrderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order`)
 const NoticeTourist = require('../notice/NoticeTourist')
 const ResultMessage = require('../../utils/ResultMessage')
 
