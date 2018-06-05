@@ -1,13 +1,13 @@
-const CommendOrder = require('./serivice_impl/tourist/CommendOrderById')
-const Order = require('./entity/Order')
-const Feedback = require('./entity/Feedback')
+const getOpenId = require('./serivice_impl/tencent/OpenId')
 
 var fn = async () => {
-    try {
-        let result = await CommendOrder('orderId', new Feedback())
-        console.log(result)
-    } catch (error) {
-        console.log(error)
-    }
+   getOpenId('0334syKn08uROs1ST7Ln0DKpKn04syKV')
+   .then(res => {
+       console.log(res)
+   })
+   .catch(err => {
+       console.log(err)
+   })
 }
+
 fn()

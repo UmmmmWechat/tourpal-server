@@ -1,5 +1,6 @@
+const config = require('../../config')
 const GetOpenId = require('../tencent/OpenId')
-const TouristDAO = require('../../dao/tourist/tourist')
+const TouristDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/tourist/tourist`)
 const ResultMessage = require('../../utils/ResultMessage')
 const Tourist = require('../../entity/Tourist')
 /**
@@ -21,18 +22,6 @@ module.exports = async function (code) {
         if (!tourist) { // 如果不存在，就给他新增一个呗
             tourist = new Tourist()
             tourist.openId = openId
-            // 插入数据库
-            /**
-              * INSERT ID: OkPacket {
-                fieldCount: 0,
-                affectedRows: 1,
-                insertId: 6,
-                serverStatus: 2,
-                warningCount: 0,
-                message: '',
-                protocol41: true,
-                changedRows: 0 }
-              */
             let insertResult = await TouristDAO.insert(tourist)
             tourist.id = insertResult.insertId
         }

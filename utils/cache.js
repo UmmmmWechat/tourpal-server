@@ -6,7 +6,11 @@ const MAX_DELT = 3 * 60 * 1000
 const INTERVAL = 60 * 1000
 
 function Data (value) {
-    this.value = JSON.parse(JSON.stringify(value))  // 利用 JSON进行深copy
+    if (typeof(value) === Object || typeof(value) === Array) {
+        this.value = JSON.parse(JSON.stringify(value))  // 利用 JSON进行深copy
+    } else {
+        this.value = value
+    }
     this.startTime = new Date().getTime()   // 资源进入cache的时间
     this.maxDelt = MAX_DELT
 }
