@@ -1,4 +1,4 @@
-const Koa = require('Koa')
+const Koa = require('koa')
 const router = require('koa-router')()
 const controller = require('./controller')
 const logger = require('./utils/logger')
