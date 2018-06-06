@@ -1,4 +1,5 @@
-const GuideDAO = require('../../dao/guide/guide')
+const config = require('../../config')
+const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
 const ResultMessage = require('../../utils/ResultMessage')
 /* 
 public class GuidePre {

@@ -3,8 +3,9 @@ const ResultMessage = require('../../utils/ResultMessage')
 const OrderState = require('../../utils/OrderState')
 // const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
 // const SpotDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/spot/spot`)
-const SpotDAO = require('../../dao/spot/spot')
+
 const PATTERN = config.isTest ? 'daostub' : 'dao'
+const SpotDAO = require(`../../${PATTERN}/spot/spot`)
 const TouristDAO = require(`../../${PATTERN}/tourist/tourist`)
 const GuideDAO = require(`../../${PATTERN}/guide/guide`)
 const FormDAO = require(`../../${PATTERN}/message/message`)
