@@ -50,10 +50,10 @@ let guide = `create table if not exists guide (
     id integer not null auto_increment, 
     avatar varchar(255), 
     gender varchar(255) not null, 
-    goodFeedbackRate integer not null default 0, 
+    goodFeedbackRate integer not null, 
     idCard varchar(255), 
     introduction varchar(255), 
-    numOfFinishOrder integer not null default 0, 
+    numOfFinishOrder integer not null, 
     openId varchar(255), 
     phone varchar(255), 
     realName varchar(255), 
@@ -69,11 +69,11 @@ let guide_favor_spot = `create table if not exists guide_favor_spot (
 let order = `create table if not exists my_order (
     id integer not null auto_increment, 
     cancelReason varchar(255), 
-    generatedDate datetime default now(), 
+    generatedDate datetime, 
     guideId integer not null, 
     message varchar(255), 
     spotId integer not null, 
-    state varchar(255) default 'WAITING', 
+    state varchar(255), 
     touristId integer not null, 
     travelDate datetime, 
     primary key (id))
@@ -81,8 +81,8 @@ let order = `create table if not exists my_order (
 
 let order_feedback = `create table if not exists order_feedback (
     orderId integer not null,
-    guidePoint integer not null default 5, 
-    spotPoint integer not null default 5, 
+    guidePoint integer not null, 
+    spotPoint integer not null, 
     comment longtext)
     default charset=utf8;`
 

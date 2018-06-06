@@ -1,9 +1,10 @@
 const query = require('../database')
+const orderState = require('../../utils/OrderState')
 
 let insert = function (order) {
-    let sql = "insert into my_order (guideId, message, spotId, touristId, generatedDate, travelDate) values (?, ?, ?, ?, ?, ?)"
+    let sql = "insert into my_order (guideId, message, spotId, touristId, generatedDate, travelDate, state) values (?, ?, ?, ?, ?, ?, ?)"
 
-    return query(sql, [order.guideId, order.message, order.spotId, order.touristId, order.generatedDate, order.travelDate])
+    return query(sql, [order.guideId, order.message, order.spotId, order.touristId, order.generatedDate, order.travelDate, orderState.WAITING])
 }
 
 let update = function (order) {
@@ -15,6 +16,43 @@ let update = function (order) {
                 if (feedback != null) {
                     sql = "insert into order_feedback values (?, ?, ?, ?)"
                     await query(sql, [order.id, feedback.guidePoint, feedback.spotPoint, feedback.comment])
+                        .then()
+                        .catch(err => reject(err))
+                }
+                resolve(res)
+            })
+            .catch(err => reject(err))
+    })
+}
+
+let updateTimeout = function (list) {
+    let s = ""
+
+    for (let i = 0; i < list.length - 1; i++)
+        s += list[i] + ","
+
+    s += list[list.length - 1]
+
+    let sql = "update my_order set state=? where id in (" + s + ")"
+
+    return query(sql, [orderState.TIMEOUT])
+}
+
+let updateFinished = function (list) {
+    let s = ""
+
+    for (let i = 0; i < list.length - 1; i++)
+        s += list[i] + ","
+
+    s += list[list.length - 1]
+
+    return new Promise((resolve, reject) => {
+        let sql = "update my_order set state=? where id in (" + s + ")"
+        query(sql, [orderState.FINISHED])
+            .then(async res => {
+                for (let i = 0; i < list.length; i++) {
+                    sql = "insert into order_feedback values (?, ?, ?, ?)"
+                    await query(sql, [list[i], 5, 5, ''])
                         .then()
                         .catch(err => reject(err))
                 }
@@ -93,6 +131,8 @@ let findByTouristAndKeyword = function (touristId, keyword) {
 module.exports = {
     insert,
     update,
+    updateTimeout,
+    updateFinished,
     findById,
     findByGuideId,
     findByGuideIdAndState,
