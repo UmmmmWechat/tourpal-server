@@ -1,121 +1,141 @@
 const Order = require('../../entity/Order')
-let insert = function (order) {
+
+var OrderDAO = function () {
+    this.db = []
+}
+OrderDAO.prototype.insert = function (order) {
+    var that = this
     return new Promise((resolve, reject) => {
         setTimeout(
             () => {
+                that.db.push(order)
                 resolve('SUCCESS')
             },
-            1000
+            100
         )
     })
 }
 
-let update = function (order) {
+OrderDAO.prototype.update = function (order) {
+    var that = this
     return new Promise((resolve, reject) => {
-        setTimeout(
-            () => {
+        for (let i = 0; i < that.db.length; i++) {
+            let thisOrder = that.db[i]
+            if (thisOrder.id === order.id) {
+                Object.assign(thisOrder, order)
                 resolve('SUCCESS')
-            },
-            1000
-        )
+            }
+        }
+        reject('NOT_FOUND')
     })
 }
 
-let findById = function (id) {
+OrderDAO.prototype.findById = function (id) {
+    var that = this
     return new Promise((resolve, reject) => {
-        setTimeout(
-            () => resolve([new Order()]),
-            1000
-        )
+        let results = []
+        for (let i = 0; i < that.db.length; i++) {
+            if (that.db[i].id === id) results.push(that.db[i])
+        }
+        resolve(results)
     })
 }
 
-let findByGuideId = function (guideId) {
+OrderDAO.prototype.findByGuideId = function (guideId) {
+    var that = this
+    return new Promise((resolve, reject) => {
+        let results = []
+        for (let i = 0; i < that.db.length; i++) {
+            let order = that.db[i]
+            if (order.guideId === guideId) {
+                results.push(order)
+            }
+        }
+        resolve(results)
+    })
+}
+
+OrderDAO.prototype.findByGuideIdAndState = function (guideId, state) {
+    var that = this
+    return new Promise((resolve, reject) => {
+        let results = []
+        for (let i = 0; i < that.db.length; i++) {
+            let order = that.db[i]
+            if (order.guideId === guideId && order.state === state) {
+                results.push(order)
+            }
+        }
+        resolve(results)
+    })
+}
+
+OrderDAO.prototype.findByGuideIdAndKeyword = function (guideId, keyword) {
+    var that = this
+    return new Promise((resolve, reject) => {
+        let results = []
+        for (let i = 0; i < that.db.length; i++) {
+            let order = that.db[i]
+            if (order.guideId === guideId) {
+                results.push(order)
+            }
+        }
+        resolve(results)
+    })
+}
+
+OrderDAO.prototype.findByTouristId = function (touristId) {
+    var that = this
+    return new Promise((resolve, reject) => {
+        let results = []
+        for (let i = 0; i < that.db.length; i++) {
+            let order = that.db[i]
+            if (order.touristId === touristId) {
+                results.push(order)
+            }
+        }
+        resolve(results)
+    })
+}
+
+OrderDAO.prototype.findByTouristIdAndState = function (touristId, state) {
+    var that = this
+    return new Promise((resolve, reject) => {
+        let results = []
+        // let order = new Order()
+        // order.touristId = touristId
+        // order.state = state
+        // results.push(order)
+        for (let i = 0; i < that.db.length; i++) {
+            console.log()
+            let order = that.db[i]
+            if (order.touristId === touristId && order.state === state) {
+                results.push(order)
+            }
+        }
+        resolve(results)
+    })
+}
+
+OrderDAO.prototype.findByTouristAndKeyword = function (touristId, keyword) {
     return new Promise((resolve, reject) => {
         let result = []
         for (let i = 0; i < 10; i++) {
             result.push(new Order())
         }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
+         resolve(result)
     })
 }
 
-let findByGuideIdAndState = function (guideId, state) {
-    return new Promise((resolve, reject) => {
-        let result = []
-        for (let i = 0; i < 10; i++) {
-            result.push(new Order())
-        }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
-    })
+
+
+
+OrderDAO.getInstance = function () {
+    if (!this.instance) {
+        this.instance = new OrderDAO()
+    }
+    return this.instance
 }
 
-let findByGuideIdAndKeyword = function (guideId, keyword) {
-    return new Promise((resolve, reject) => {
-        let result = []
-        for (let i = 0; i < 10; i++) {
-            result.push(new Order())
-        }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
-    })
-}
 
-let findByTouristId = function (touristId) {
-    return new Promise((resolve, reject) => {
-        let result = []
-        for (let i = 0; i < 10; i++) {
-            result.push(new Order())
-        }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
-    })
-}
 
-let findByTouristIdAndState = function (touristId, state) {
-    return new Promise((resolve, reject) => {
-        let result = []
-        for (let i = 0; i < 10; i++) {
-            result.push(new Order())
-        }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
-    })
-}
-
-let findByTouristAndKeyword = function (touristId, keyword) {
-    return new Promise((resolve, reject) => {
-        let result = []
-        for (let i = 0; i < 10; i++) {
-            result.push(new Order())
-        }
-        setTimeout(
-            () => resolve(result),
-            1000
-        )
-    })
-}
-
-module.exports = {
-    update,
-    insert,
-    findById,
-    findByGuideId,
-    findByGuideIdAndState,
-    findByGuideIdAndKeyword,
-    findByTouristId,
-    findByTouristIdAndState,
-    findByTouristAndKeyword
-}
+module.exports = OrderDAO.getInstance()

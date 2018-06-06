@@ -4,6 +4,6 @@ module.exports = function (guide) {
     delete guide.openId
     delete guide.phone
     delete guide.wechat
-    delete guide.favorSpots
+    // delete guide.favorSpots
     return guide
 }

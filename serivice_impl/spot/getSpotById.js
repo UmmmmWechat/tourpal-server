@@ -1,4 +1,5 @@
-const spotDAO = require('../../dao/spot/spot')
+const config = require('../../config')
+const spotDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/spot/spot`)
 const ResultMessage = require('../../utils/ResultMessage')
 
 module.exports = async function (spotId) {

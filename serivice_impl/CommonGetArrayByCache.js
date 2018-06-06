@@ -1,5 +1,8 @@
 const cache = require('../utils/cache')
 var sliceArray = function (list, start, end) {
+    if (start > list.length) {
+        return []
+    }
     if (end > list.length) {
         end = list.length
     }
@@ -16,9 +19,10 @@ var sliceArray = function (list, start, end) {
  */
 module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) => {
     let res;
-    let notCacheHit;
+    let notCacheHit
     try {
         res = await cache.getResource(key)
+        res = sliceArray(res, start, end)
         onCacheSuccess(res)
     } catch (e) {
         notCacheHit = e

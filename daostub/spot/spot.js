@@ -1,34 +1,93 @@
 const Spot = require('../../entity/Spot')
-let mock = () => {
-    let spot = new Spot()
-    return spot
+
+
+var SpotDAO = function () {
+    this.db = []
 }
-let update = function (guide) {
+
+
+SpotDAO.prototype.insert = function (spot) {
+    let that = this
     return new Promise((resolve, reject) => {
+        that.db.push(spot)
         resolve('SUCCESS')
     })
 }
 
-let findById = function (id) {
+SpotDAO.prototype.update = function (spot) {
     return new Promise((resolve, reject) => {
-        resolve(mock())
+        for (let i = 0; i < this.db.length; i++) {
+            let thisSpot = this.db[i]
+            if(thisSpot.id === spot.id) {
+                Object.assign(thisSpot, spot)
+                resolve('SUCCESS')
+            }
+        }
+        reject("NOT_FOUND")
     })
 }
 
-let findByProvinceAndCity = function (province, city) {
+SpotDAO.prototype.findById = function (id) {
+    let that = this
+    let results = []
     return new Promise((resolve, reject) => {
+        for (let i = 0; i < that.db.length; i++) {
+            if (that.db[i].id === id)  {
+                results.push(this.db[i])
+            }
+        }
+        resolve(results)
     })
 }
 
-let findByKeyword = function (keyword) {
+SpotDAO.prototype.findByProvinceAndCity = function (province, city) {
+    let that = this
+    let results = []
     return new Promise((resolve, reject) => {
+        for (let i = 0; i < that.db.length; i++) {
+            let spot = that.db[i]
+            if (spot.location.province === province &&
+            spot.location.city === city) {
+                results.push(spot)
+            }
+        }
+        resolve(results)
     })
 }
 
-let findByCityAndKeyword = function (city, keyword) {
+SpotDAO.prototype.findByKeyword = function (keyword) {
+    let that = this
+    let results = []
     return new Promise((resolve, reject) => {
+        for (let i = 0; i < that.db.length; i++) {
+            let spot = tthathis.db[i]
+            if (spot.name.indexOf(keyword) !== -1) {
+                results.push(spot)
+            }
+        }
+        resolve(results)
     })
 }
 
-module.exports = {update, findById, findByProvinceAndCity, findByKeyword, findByCityAndKeyword}
+SpotDAO.prototype.findByCityAndKeyword = function (city, keyword) {
+    let that = this
+    let results = []
+    return new Promise((resolve, reject) => {
+        for (let i = 0; i < that.db.length; i++) {
+            let spot = that.db[i]
+            if ((spot.name.indexOf(keyword) !== -1 || spot.introduction.indexOf(keyword) !== -1)
+                && spot.location.city === city) {
+                results.push(spot)
+            }
+        }
+        resolve(results)
+    })
+}
 
+SpotDAO.getInstance = function () {
+    if (!this.instance) {
+        this.instance = new SpotDAO()
+    } return this.instance
+}
+
+module.exports = SpotDAO.getInstance()

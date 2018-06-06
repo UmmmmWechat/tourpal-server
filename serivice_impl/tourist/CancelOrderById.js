@@ -1,4 +1,5 @@
-const orderDAO = require('../../dao/order/order')
+const config = require('../../config')
+const orderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order`)
 const Order = require('../../entity/Order')
 const OrderState = require('../../utils/OrderState')
 const ResultMessage = require('../../utils/ResultMessage')

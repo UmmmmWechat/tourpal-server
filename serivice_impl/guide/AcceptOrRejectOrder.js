@@ -21,14 +21,15 @@ var stateOrder = async (orderId, state) => {
     try {
         // 先获取，等待
         let res = await OrderDAO.findById(orderId)
+        console.log('in state order',res)
         order = res[0]
         if (!order) {
-            throw new Error(ResultMessage.ERROR_DATABASE)
+            throw new Error(ResultMessage.NOT_FOUND)
         }
         // 更新
         order.state = state
         await OrderDAO.update(order)
-        NoticeTourist.noticeInviteResult(order)
+        NoticeTourist.noticeInvitationResult(order)
     } catch (err) {
         throw err
     }

@@ -7,8 +7,7 @@ const GuideDao = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide
 module.exports = async function (guideId) {
     try {
         let res = await GuideDao.findById(guideId)
-        let guide = new Guide()
-        guide = res[0]
+        let guide = res[0]
         if (guide) {
             return guide
         } else {

@@ -13,7 +13,7 @@ const CutGuide = require('../../utils/CutGuide')
  */
 module.exports = async function (keyword, lastIndex) {
         let key = 'guide' + keyword
-        let result;
+        let result
         await CommonGetByCache(
             key,
             lastIndex,

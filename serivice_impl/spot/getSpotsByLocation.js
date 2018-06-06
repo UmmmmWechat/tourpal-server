@@ -1,4 +1,5 @@
-const spotDAO = require('../../dao/spot/spot')
+const config = require('../../config')
+const spotDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/spot/spot`)
 const SpotSortBy = require('./SpotSort')
 const CommonGetByCache = require('../CommonGetArrayByCache')
 const PAGE_SIZE = require('./SpotConst').PAGE_SIZE

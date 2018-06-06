@@ -47,6 +47,10 @@ module.exports = async function (orderId, feedback) {
         // 先找出
         // console.log('开始查询guide')
         let guide = await GuideDAO.findById(order.guideId)
+        guide = guide[0]
+        if (!guide) {
+            throw new Error('GUIDE_NOT_FOUND')
+        }
         // console.log('查询guide结束')
         let numOfFinishedOrders = guide.numOfFinishOrder
         let rate = guide.goodFeedbackRate // 这个rate是百分比的整数部分
@@ -65,6 +69,10 @@ module.exports = async function (orderId, feedback) {
         // 数据库查询
         // console.log('开始查询spot')
         let spot = await SpotDAO.findById(order.spotId)
+        spot = spot[0]
+        if (!spot) {
+            throw new Error('SPOT_NOT_FOUND')
+        }
         // console.log('结束查询spot')
         let popularity = spot.popularity
         let recommendLevel = spot.recommendLevel

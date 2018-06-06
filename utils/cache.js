@@ -22,8 +22,8 @@ var Cache = function() {
     // this.clearCacheLoop = function () {
     //     this.intervalId = setInterval(
     //         () => {
-    //             console.log('-----------------------')
-    //             console.log('Start to clear cache...')
+    //             console.info('-----------------------')
+    //             console.info('Start to clear cache...')
     //             let now = new Date().getTime()
     //             for (let key in this.resourceMap) {
     //                 let data = this.resourceMap[key]
@@ -34,10 +34,10 @@ var Cache = function() {
     //                 let delt = now - data.startTime
     //                 // 超时清空
     //                 if (delt >= MAX_DELT) {
-    //                     console.log('clear resource:' + key )
+    //                     console.info('clear resource:' + key )
     //                     this.resourceMap[key] = undefined
     //                 } else {
-    //                     console.log('remain resource:' + key )
+    //                     console.info('remain resource:' + key )
     //                 }
     //             }
     //         },
@@ -45,15 +45,15 @@ var Cache = function() {
     //     )
     // }
     // this.init = function () {
-    //     console.log('--------------------')
-    //     console.log('init cache')
+    //     console.info('--------------------')
+    //     console.info('init cache')
     //     this.resourceMap = {}
     //     if (this.intervalId !== undefined) {
     //         clearInterval(this.intervalId)
     //         this.intervalId = undefined
     //     }
     //     this.clearCacheLoop()
-    //     console.log('--------------------')
+    //     console.info('--------------------')
     // }
     // this.getResource = function (key) {
     //     return new Promise(
@@ -70,27 +70,27 @@ var Cache = function() {
     // this.setResource = function (key, value) {
     //     let data = new Data(value)
     //     this.resourceMap[key] = data
-    //     console.log('------------------')
-    //     console.log('Resource: ' + key + ' set')
-    //     console.log('------------------')
+    //     console.info('------------------')
+    //     console.info('Resource: ' + key + ' set')
+    //     console.info('------------------')
     // }
 }
 Cache.prototype.init = function () {
-    console.log('--------------------')
-    console.log('init cache')
+    console.info('--------------------')
+    console.info('init cache')
     this.resourceMap = {}
     if (this.intervalId !== undefined) {
         clearInterval(this.intervalId)
         this.intervalId = undefined
     }
     this.clearCacheLoop()
-    console.log('--------------------')
+    console.info('--------------------')
 }
 Cache.prototype.clearCacheLoop = function () {
     this.intervalId = setInterval(
         () => {
-            console.log('-----------------------')
-            console.log('Start to clear cache...')
+            console.info('-----------------------')
+            console.info('Start to clear cache...')
             let now = new Date().getTime()
             for (let key in this.resourceMap) {
                 let data = this.resourceMap[key]
@@ -101,11 +101,11 @@ Cache.prototype.clearCacheLoop = function () {
                 let delt = now - data.startTime
                 // 超时清空
                 if (delt >= data.maxDelt) {
-                    console.log('clear resource:' + key )
-                    console.log(`Resource ${key}'s maxDelt is ${data.maxDelt / 1000} seconds`)
+                    console.info('clear resource:' + key )
+                    console.info(`Resource ${key}'s maxDelt is ${data.maxDelt / 1000} seconds`)
                     this.resourceMap[key] = undefined
                 } else {
-                    console.log('remain resource:' + key )
+                    console.info('remain resource:' + key )
                 }
             }
         },
@@ -117,12 +117,12 @@ Cache.prototype.getResource = function (key) {
         (resolve, reject) => {
             var data = this.resourceMap[key]
             if (data !== undefined) {
-                console.log(new Date().toLocaleTimeString())
-                console.log('cache命中' + key)
+                console.info(new Date().toLocaleTimeString())
+                console.info('cache命中' + key)
                 resolve(data.value)
             } else {
-                console.log(new Date().toLocaleTimeString())
-                console.log('资源不存在，请重新获取')
+                console.info(new Date().toLocaleTimeString())
+                console.info('资源' + key + '不存在，请重新获取')
                 reject(ResultMessage.NOT_FOUND)
             }
         }
@@ -134,10 +134,10 @@ Cache.prototype.setResource = function (key, value, maxDelt) {
         data.maxDelt = maxDelt
     }
     this.resourceMap[key] = data
-    console.log('------------------')
-    console.log(new Date().toLocaleTimeString())
-    console.log('Resource: ' + key + ' set')
-    console.log('------------------')
+    console.info('------------------')
+    console.info(new Date().toLocaleTimeString())
+    console.info('Resource: ' + key + ' set')
+    console.info('------------------')
 }
 
 
