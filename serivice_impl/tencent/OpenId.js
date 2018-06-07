@@ -18,7 +18,7 @@ module.exports = async function (code) {
         request(URL, function (error, response, body) {
             body = JSON.parse(body)
             if (!error && response.statusCode == 200 && !body.errcode) {
-                console.log('body',body)
+                console.log('openid',body.openid)
                 resolve(body.openid)
             } else {
                 reject(body.errmsg)

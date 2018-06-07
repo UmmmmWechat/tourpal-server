@@ -1,6 +1,16 @@
+const config = require('../config')
 let mysql = require('mysql')
 
-let connection = mysql.createConnection({
+const remoteConnection = mysql.createConnection({
+    host: '111.231.99.122',
+    post: 3306,
+    user: 'root',
+    password: '970603',
+    // password: '123456',
+    database: 'tourpal',
+})
+
+let localConnection = mysql.createConnection({
     host: 'localhost',
     post: 3306,
     user: 'root',
@@ -8,6 +18,17 @@ let connection = mysql.createConnection({
     // password: '123456',
     database: 'tourpal',
 })
+
+let connection = localConnection
+
+// let connection = mysql.createConnection({
+//     host: 'localhost',
+//     post: 3306,
+//     user: 'root',
+//     password: '970603',
+//     // password: '123456',
+//     database: 'tourpal',
+// })
 
 connection.connect()
 
