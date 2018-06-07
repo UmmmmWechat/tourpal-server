@@ -30,7 +30,7 @@ module.exports = async function (order, formId) {
         let orderId = insertResult.insertId
         let form = new FormItem()
         form.formId = formId
-        form.orderId = insertId
+        form.orderId = orderId
         form.createdDate = new Date().toDateString()
         await FormDAO.insert(form)
 
