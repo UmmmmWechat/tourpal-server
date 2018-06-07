@@ -4,7 +4,7 @@ let connection = mysql.createConnection({
     host: 'localhost',
     post: 3306,
     user: 'root',
-    password: 'wxa3dd150b667dff82',
+    password: '970603',
     // password: '123456',
     database: 'tourpal',
 })
