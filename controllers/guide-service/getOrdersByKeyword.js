@@ -9,6 +9,7 @@ const GetOrdersByKeyword = require('../../serivice_impl/guide/GetOrdersByKeyword
 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
+    guideId = parseInt(guideId)
     let lastIndex = ctx.query.lastIndex
     lastIndex = parseInt(lastIndex)
     let keyword = ctx.query.keyword

@@ -9,6 +9,7 @@ const GetOrdersByState = require('../../serivice_impl/guide/GetOrdersByState')
 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
+    guideId = parseInt(guideId)
     let lastIndex = ctx.query.lastIndex
     lastIndex = parseInt(lastIndex)
     let state = ctx.query.state

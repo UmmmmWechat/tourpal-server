@@ -4,6 +4,7 @@ const RejectOrder = require('../../serivice_impl/guide/AcceptOrRejectOrder').rej
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
+    orderId = parseInt(orderId)
 
     await CommonController(
         ctx,

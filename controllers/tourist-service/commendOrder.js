@@ -3,6 +3,7 @@ const CommendOrder = require('../../serivice_impl/tourist/CommendOrderById')
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
+    orderId = parseInt(orderId)
     let feedback = body.feedback
     feedback = JSON.parse(feedback)
     CommonCotroller(

@@ -2,6 +2,7 @@ const CommonController = require('../CommonController')
 // 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
+    guideId = parseInt(guideId)
     CommonController(
         ctx,
         next,

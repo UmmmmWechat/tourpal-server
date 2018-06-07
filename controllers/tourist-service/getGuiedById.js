@@ -7,6 +7,7 @@ const GetGuidesBySpotId = require('../../serivice_impl/tourist/GetGuidesBySpotId
 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
+    guideId = parseInt(guideId)
     await CommonCotroller(
         ctx,
         next,

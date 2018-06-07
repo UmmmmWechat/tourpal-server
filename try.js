@@ -1,4 +1,6 @@
-var list = [1,2,3,4,5]
+var obj = {
+    a: 1,
+    b: 2
+}
 
-list = list.slice(10,10)
-console.log(list)
+console.log(JSON.stringify(obj))
