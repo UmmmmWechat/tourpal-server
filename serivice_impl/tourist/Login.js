@@ -18,7 +18,8 @@ module.exports = async function (code) {
             throw new Error(ResultMessage.NOT_FOUND)
         }
         // 再从数据库查询 实体信息
-        tourist = await TouristDAO.findByOpenId(openId)[0]
+        tourist = await TouristDAO.findByOpenId(openId)
+        tourist = tourist[0]
         if (!tourist) { // 如果不存在，就给他新增一个呗
             tourist = new Tourist()
             tourist.openId = openId
