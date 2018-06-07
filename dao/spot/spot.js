@@ -40,6 +40,8 @@ let find = function (sql) {
                             spot.location = {province: location.province, city: location.city, region: location.region}
                         })
                         .catch(err => reject(err))
+
+                    spots.push(spot)
                 }
 
                 resolve(spots)
@@ -55,7 +57,7 @@ let findById = function (id) {
 }
 
 let findByProvinceAndCity = function (province, city) {
-    let sql = "select * from spot where exists (select * from location where province='" + province + "' and city='" + city + "' and location.spotId=spot.id)"
+    let sql = "select * from spot where exists (select * from location where province='" + province + "' and city='" + city + "' and spotId=id)"
     return find(sql)
 }
 
@@ -65,7 +67,7 @@ let findByKeyword = function (keyword) {
 }
 
 let findByCityAndKeyword = function (city, keyword) {
-    let sql = "select * from spot where exists (select * from location city='" + city + "' and (name like '%" + keyword + "%' or introduction like '%" + keyword + "%') and location.spotId=spot.id)"
+    let sql = "select * from spot where exists (select * from location where city='" + city + "' and (name like '%" + keyword + "%' or introduction like '%" + keyword + "%') and spotId=id)"
     return find(sql)
 }
 
