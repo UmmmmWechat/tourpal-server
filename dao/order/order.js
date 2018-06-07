@@ -13,7 +13,7 @@ let update = function (order) {
         query(sql, [order.state, order.cancelReason, order.id])
             .then(async res => {
                 let feedback = order.feedback;
-                if (feedback != null) {
+                if (feedback !== null && feedback !== '') {
                     sql = "insert into order_feedback values (?, ?, ?, ?)"
                     await query(sql, [order.id, feedback.guidePoint, feedback.spotPoint, feedback.comment])
                         .then()
