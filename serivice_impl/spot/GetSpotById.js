@@ -5,11 +5,12 @@ const ResultMessage = require('../../utils/ResultMessage')
 module.exports = async function (spotId) {
     try {
         let res = await spotDAO.findById(spotId)
+        console.log(res)
         res = res[0]
         if (res) {
             return res
         } else {
-            throw new Error(ResultMessage.ERROR_DATABASE)
+            throw new Error(ResultMessage.NOT_FOUND)
         }
     } catch (err) {
         throw err
