@@ -1,5 +1,5 @@
 const GetSpotsByKeyword = require('../../serivice_impl/spot/GetSpotsByKeyword')
-
+const CommonCotroller = require('../CommonController')
 // querySpots(string keyword, String city ,int lastIndex);
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
