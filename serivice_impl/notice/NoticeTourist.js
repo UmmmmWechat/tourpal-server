@@ -59,14 +59,15 @@ var noticeInvitationResult = (order) => {
             reject(ResultMessage.ERROR_ACCESS_TOKEN)
         }
         // 向数据库找formId
-        let formItem = await FormDAO.findByOrderId(order.id)[0]
-        if (!formItem) {
+        let formItem = await FormDAO.findByOrderId(order.id)
+        formItem = formItem[0]
+        if (formItem) {
             // 过期的就要去掉了
             FormDAO.removeById(formItem.id)
             reject(ResultMessage.NOT_FOUND)
         }
         // 验证是否过期
-        let createdDate = new Date(formItem.createdDate)
+        let createdDate = formItem.createdDate
         let now = new Date()
         let delt = (now - createdDate) / (3600 * 1000 * 24)
         if (delt > 7) { // 过期抛 超时 错
