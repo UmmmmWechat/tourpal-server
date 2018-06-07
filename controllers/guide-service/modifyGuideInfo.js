@@ -18,7 +18,6 @@ public class GuideModify {
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let guide = body.guide
-    guide = JSON.parse(guide)
 
     await CommonController(
         ctx,

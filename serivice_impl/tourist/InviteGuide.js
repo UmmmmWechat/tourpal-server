@@ -2,6 +2,7 @@ const config = require('../../config')
 const OrderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order`)
 const FormDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/message/message`)
 const ResultMessage = require('../../utils/ResultMessage')
+const OrderState = require('../../utils/OrderState')
 const FormItem = require('../../entity/Message')
 
 // 邀请某位导游
@@ -26,6 +27,7 @@ const FormItem = require('../../entity/Message')
  */
 module.exports = async function (order, formId) {
     try {
+        order.state = OrderState.WAITING
         let insertResult = await OrderDAO.insert(order)
         let orderId = insertResult.insertId
         let form = new FormItem()
