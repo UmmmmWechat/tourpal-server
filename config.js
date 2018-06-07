@@ -6,7 +6,7 @@ const CONF = {
     appSecret: 'a12b0686230289e20ed891faa5b1f887',
 
     // 是否测试环境
-    isTest: true,
+    isTest: false,
 
     // access_token_key
     accessTokenKey: 'accessToken',
