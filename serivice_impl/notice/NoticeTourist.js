@@ -46,9 +46,12 @@ var noticeInvitationResult = (order) => {
     let travelDate = order.travelDate
 
     return new Promise(async (resolve, reject) => {
-        let guide = await GuideDAO.findById(guideId)[0]
-        let spot = await SpotDAO.findById(spotId)[0]
-        let tourist = await TouristDAO.findById(touristId)[0]
+        let guide = await GuideDAO.findById(guideId)
+        guide = guide[0]
+        let spot = await SpotDAO.findById(spotId)
+        spot = spot[0]
+        let tourist = await TouristDAO.findById(touristId)
+        tourist = tourist[0]
         let accessToken = await GetAccessToken()
         // let accessToken = await Cache.getResource(config.accessTokenKey)
         // 判空
