@@ -3,7 +3,7 @@ const CommonCotroller = require('../CommonController')
 // querySpots(string keyword, String city ,int lastIndex);
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
-    let lastIndex = ctx.query.lastIndex
+    let lastIndex = ctx.query.lastIndex || 0
     lastIndex = parseInt(lastIndex)
     let city = ctx.query.city
 

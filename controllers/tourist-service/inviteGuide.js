@@ -20,14 +20,16 @@ var fn = async (ctx, next) => {
     const body = ctx.request.body
     let order = body.order
     order = JSON.parse(order)
+    let formId = body.formId
 
     await CommonController (
         ctx,
         next,
         {
-            order: order
+            order: order,
+            formId: formId
         },
-        () => InviteGuide(order)
+        () => InviteGuide(order, formId)
     )
 }
 
