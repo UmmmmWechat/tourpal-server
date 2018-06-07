@@ -1,6 +1,9 @@
-var obj = {
-    a: 1,
-    b: 2
-}
+const GetAccessToken = require('./serivice_impl/tencent/AccessToken')
 
-console.log(JSON.stringify(obj))
+GetAccessToken()
+.then(res => {
+    console.log(res)
+})
+.catch(err => {
+    console.log(err)
+})

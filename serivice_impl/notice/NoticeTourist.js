@@ -10,6 +10,7 @@ const TouristDAO = require(`../../${PATTERN}/tourist/tourist`)
 const GuideDAO = require(`../../${PATTERN}/guide/guide`)
 const FormDAO = require(`../../${PATTERN}/message/message`)
 const Cache = require('../../utils/cache')
+const GetAccessToken = require('../tencent/AccessToken')
 const request = require('request')
 /**
  * this.id = '';
@@ -48,7 +49,8 @@ var noticeInvitationResult = (order) => {
         let guide = await GuideDAO.findById(guideId)[0]
         let spot = await SpotDAO.findById(spotId)[0]
         let tourist = await TouristDAO.findById(touristId)[0]
-        let accessToken = await Cache.getResource(config.accessTokenKey)
+        let accessToken = await GetAccessToken()
+        // let accessToken = await Cache.getResource(config.accessTokenKey)
         // 判空
         if (!guide || !spot || !tourist) {
             reject(ResultMessage.NOT_FOUND)
