@@ -68,6 +68,8 @@ var noticeInvitationResult = (order) => {
             // 过期的就要去掉了
             FormDAO.removeById(formItem.id)
             reject(ResultMessage.NOT_FOUND)
+        } else {
+            reject(ResultMessage.NOT_FOUND)
         }
         // 验证是否过期
         let createdDate = formItem.createdDate
