@@ -122,7 +122,7 @@ var noticeInvitationResult = (order) => {
             body: params
         }, function (err, response, body) {
             if (!err) {
-                resovle(ResultMessage.SUCCESS)
+                resolve(ResultMessage.SUCCESS)
             } else {
                 reject(err)
             }
