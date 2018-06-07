@@ -1,5 +1,6 @@
 // const GuideDAO = require('../../dao/guide/guide')
-const GuideDAO = require('../../daostub/guide/guide')
+const config = require('../../config')
+const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao' }/guide/guide`)
 const GuideSortBy = require('./GuideSortBy')
 const CommonGetByCache = require('../CommonGetArrayByCache')
 const PAGE_SIZE = 10

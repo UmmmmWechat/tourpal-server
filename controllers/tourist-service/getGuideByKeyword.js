@@ -7,7 +7,7 @@ const GetGuideByKeyword = require('../../serivice_impl/tourist/GetGuidesByKeywor
 // /spot?keyword=&lastIndex=
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
-    let lastIndex = ctx.query.lastIndex
+    let lastIndex = ctx.query.lastIndex || 0
     lastIndex = parseInt(lastIndex)
     await CommonCotroller(
         ctx,
