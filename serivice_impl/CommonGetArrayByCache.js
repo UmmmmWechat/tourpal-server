@@ -1,12 +1,12 @@
 const cache = require('../utils/cache')
 var sliceArray = function (list, start, end) {
-    if (start > list.length) {
-        return []
-    }
-    if (end > list.length) {
-        end = list.length
-    }
-    console.log('slice array', end - start)
+    console.log('start', start, 'end', end)
+    // if (start > list.length) {
+    //     return []
+    // }
+    // if (end > list.length) {
+    //     end = list.length
+    // }
     return list.slice(start, end)
 }
 /**
@@ -21,9 +21,10 @@ var sliceArray = function (list, start, end) {
 module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) => {
     let res;
     let notCacheHit
+    console.log(`start:${start}, end:${end}`)
     try {
         res = await cache.getResource(key)
-        res = sliceArray(res, start, end)
+        res = res.slice(start, end)
         onCacheSuccess(res)
     } catch (e) {
         notCacheHit = e
@@ -38,7 +39,7 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
             }
             cache.setResource(key, data)
             // 继续成功回调
-            data = sliceArray(data, start, end)
+            data = data.slice(start, end)
             onCacheSuccess(data)
         } catch (e) {
             throw e

@@ -7,7 +7,7 @@ const ResultMessage = require('../../utils/ResultMessage')
 
 module.exports = async function (location, lastIndex) {
     let result
-        let key = 'spot' + location.province + location.city + location.region
+        let key = 'spot' + location.province + location.city
         await CommonGetByCache(
             key,
             lastIndex,
