@@ -4,7 +4,7 @@ const CommonController = require('../CommonController')
 var fn = async (ctx, next) => {
     const query = ctx.query
     let spotId = query.spotId
-    await CommonCotroller(
+    await CommonController(
         ctx,
         next,
         {
