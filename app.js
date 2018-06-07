@@ -8,7 +8,7 @@ const app = new Koa()
 
 
 // app.use(bodyParser())
-// app.use(bodyParser())
+app.use(bodyParser())
 app.use(logger)
 app.use(controller())
 
