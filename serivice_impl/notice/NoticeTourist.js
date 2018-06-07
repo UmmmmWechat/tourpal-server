@@ -105,7 +105,7 @@ var noticeInvitationResult = (order) => {
                     value: spot.name
                 },
                 [keywords.travelDate]: {
-                    value: order.travelDate
+                    value: order.travelDate.toLocaleDateString()
                 },
                 [keywords.result]: {
                     value: result
