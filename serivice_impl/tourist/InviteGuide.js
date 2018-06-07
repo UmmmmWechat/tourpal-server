@@ -30,7 +30,7 @@ module.exports = async function (order, formId) {
         order.state = OrderState.WAITING
         // 要转成 Date()对象才能存入数据库
         order.travelDate = new Date(order.travelDate)
-        order.generatedDate = new Date(generatedDate)
+        order.generatedDate = new Date(order.generatedDate)
         let insertResult = await OrderDAO.insert(order)
         let orderId = insertResult.insertId
         let form = new FormItem()
