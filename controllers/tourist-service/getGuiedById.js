@@ -12,7 +12,7 @@ var fn = async (ctx, next) => {
         ctx,
         next,
         {
-            'spotId': spotId
+            'guideId': guideId
         },
         () => undefined
     )

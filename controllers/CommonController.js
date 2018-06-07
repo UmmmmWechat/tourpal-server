@@ -12,7 +12,7 @@ module.exports = async function (ctx, next, params, operation) {
         ctx.response.body = res
     }
     var onError = function (err) {
-        console.log('on error')
+        console.log('on error', err)
         ctx.response.status = 500
         ctx.response.body = err
     }
@@ -22,7 +22,6 @@ module.exports = async function (ctx, next, params, operation) {
             await next()
             ctx.response.status = 400
             ctx.response.body = `Param ${key} is required!`
-            return
         }
     }
     // 没有参数错误
@@ -36,5 +35,6 @@ module.exports = async function (ctx, next, params, operation) {
     } catch (err) {
         onError(err)
     }
+    console.log('common controller over')
     console.log(new Date().toLocaleTimeString())
 }
