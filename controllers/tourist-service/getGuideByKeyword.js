@@ -8,6 +8,7 @@ const GetGuideByKeyword = require('../../serivice_impl/tourist/GetGuidesByKeywor
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
     await CommonCotroller(
         ctx,
         next,

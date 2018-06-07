@@ -9,6 +9,7 @@ const GetOrdersByState = require('../../serivice_impl/tourist/GetOrdersByState')
 var fn = async (ctx, next) => {
     let touristId = ctx.query.touristId
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
     let state = ctx.query.state
     await CommonCotroller(
         ctx,

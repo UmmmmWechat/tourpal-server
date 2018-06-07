@@ -8,6 +8,7 @@ const GetGuidesBySpotId = require('../../serivice_impl/tourist/GetGuidesBySpotId
 var fn = async (ctx, next) => {
     let spotId = ctx.query.spotId
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
     await CommonCotroller(
         ctx,
         next,

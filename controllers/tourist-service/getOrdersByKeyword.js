@@ -9,6 +9,7 @@ const GetOrdersByKeyword = require('../../serivice_impl/tourist/GetOrdersByKeywo
 var fn = async (ctx, next) => {
     let touristId = ctx.query.touristId
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
     let keyword = ctx.query.keyword
     await CommonCotroller(
         ctx,

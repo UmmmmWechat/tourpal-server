@@ -4,6 +4,7 @@ const CommonCotroller = require('../CommonController')
 var fn = async (ctx, next) => {
     let location = ctx.query.location
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
 
     location = JSON.parse(location)
 

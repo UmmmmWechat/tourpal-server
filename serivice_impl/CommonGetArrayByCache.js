@@ -1,14 +1,4 @@
 const cache = require('../utils/cache')
-var sliceArray = function (list, start, end) {
-    console.log('start', start, 'end', end)
-    // if (start > list.length) {
-    //     return []
-    // }
-    // if (end > list.length) {
-    //     end = list.length
-    // }
-    return list.slice(start, end)
-}
 /**
  * 
  * @param {*} key cache中的key

@@ -4,6 +4,7 @@ const CommonCotroller = require('../CommonController')
 var fn = async (ctx, next) => {
     let keyword = ctx.query.keyword
     let lastIndex = ctx.query.lastIndex
+    lastIndex = parseInt(lastIndex)
     let city = ctx.query.city
 
     await CommonCotroller(
