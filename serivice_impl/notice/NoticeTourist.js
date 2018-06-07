@@ -39,7 +39,6 @@ const request = require('request')
  * @param {Order} order
  */
 var noticeInvitationResult = (order) => {
-    // TODO: 发送模板消息
     let guideId = order.guideId
     let touristId = order.touristId
     let spotId = order.spotId
@@ -63,6 +62,7 @@ var noticeInvitationResult = (order) => {
         }
         // 向数据库找formId
         let formItem = await FormDAO.findByOrderId(order.id)
+        console.log('notice result:', formItem)
         formItem = formItem[0]
         if (formItem) {
             // 过期的就要去掉了
