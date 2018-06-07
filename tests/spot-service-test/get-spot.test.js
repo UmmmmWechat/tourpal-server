@@ -49,5 +49,14 @@ describe('', function () {
         }
     })
 
+    it('根据地址查找, start 为 5', async function () {
+        const GetByLocation = require('../../serivice_impl/spot/GetSpotsByLocation')
+        let res = await GetByLocation(location, 5)
+        expect(res).to.has.length(5)
+        for (let i = 0; i < 5; i++) {
+            expect(res[i].location).to.be.equal(location)
+        }
+    })
+
 
 })

@@ -6,6 +6,7 @@ var sliceArray = function (list, start, end) {
     if (end > list.length) {
         end = list.length
     }
+    console.log('slice array', end - start)
     return list.slice(start, end)
 }
 /**

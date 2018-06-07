@@ -4,6 +4,7 @@ const ResultMessage = require('../../utils/ResultMessage')
 
 module.exports = async function (spotId) {
     try {
+        console.log('find by id...')
         let res = await spotDAO.findById(spotId)
         console.log(res)
         res = res[0]
