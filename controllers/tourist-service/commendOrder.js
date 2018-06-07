@@ -4,6 +4,7 @@ var fn = async (ctx, next) => {
     const body = ctx.request.body
     let orderId = body.orderId
     let feedback = body.feedback
+    feedback = JSON.parse(feedback)
     CommonCotroller(
        ctx,
        next,

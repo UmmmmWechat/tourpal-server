@@ -5,6 +5,8 @@ var fn = async (ctx, next) => {
     let location = ctx.query.location
     let lastIndex = ctx.query.lastIndex
 
+    location = JSON.parse(location)
+
     await CommonCotroller(
         ctx,
         next,

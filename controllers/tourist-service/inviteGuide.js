@@ -19,6 +19,7 @@ const InviteGuide = require('../../serivice_impl/tourist/InviteGuide')
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let order = body.order
+    order = JSON.parse(order)
 
     await CommonController (
         ctx,

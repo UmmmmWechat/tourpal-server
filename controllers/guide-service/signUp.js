@@ -25,6 +25,7 @@ public class GuidePre {
 var fn = async (ctx, next) => {
     const body = ctx.request.body
     let guideInfo = body.guide
+    guideInfo = JSON.parse(guideInfo)
     CommonController(
         ctx,
         next,
