@@ -52,6 +52,8 @@ var noticeInvitationResult = (order) => {
         let tourist = await TouristDAO.findById(touristId)
         tourist = tourist[0]
         let accessToken = await GetAccessToken()
+
+        console.log(guide, spot, tourist, order)
         // let accessToken = await Cache.getResource(config.accessTokenKey)
         // 判空
         if (!guide || !spot || !tourist) {
@@ -65,9 +67,8 @@ var noticeInvitationResult = (order) => {
         console.log('notice result:', formItem)
         formItem = formItem[0]
         if (formItem) {
-            // 过期的就要去掉了
+            // 用过的的就要去掉了
             FormDAO.removeById(formItem.id)
-            reject(ResultMessage.NOT_FOUND)
         } else {
             reject(ResultMessage.NOT_FOUND)
         }
