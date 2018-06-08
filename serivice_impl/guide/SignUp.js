@@ -1,6 +1,8 @@
 const config = require('../../config')
 const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
+const GetOpenId = require('../tencent/OpenId')
 const ResultMessage = require('../../utils/ResultMessage')
+const Cache = require('../../utils/cache')
 /* 
 public class GuidePre {
     public String openId;
@@ -23,15 +25,16 @@ public class GuidePre {
 }
 */
 /**
- * 注册，其实是新增一个guide
+ * 
  * TODO: 其实是更新， 不是增加
  * @param {Guide} guide 
  */
 module.exports = async function (guide) {
     try {
-        let insertResult = await GuideDAO.insert(guide)
-        return insertResult.insertId
-    } catch (err) {
-        throw err
+        await GuideDAO.update(guide)
+    } catch (error) {
+        throw error
     }
+
+    return ResultMessage.SUCCESS
 }

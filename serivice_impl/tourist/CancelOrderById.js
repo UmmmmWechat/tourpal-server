@@ -6,7 +6,6 @@ const ResultMessage = require('../../utils/ResultMessage')
 // 参数为 {int} orderId, {String} cancelMessage
 module.exports = async function (orderId, cancelMessage) {
     let order = undefined;
-    order = new Order()
     try {
         // 获取
         let res = await orderDAO.findById(orderId)
@@ -14,7 +13,13 @@ module.exports = async function (orderId, cancelMessage) {
         if (res === undefined) {
             throw new Error(ResultMessage.NOT_FOUND)
         } else {
-            Object.assign(order, res)
+            order = res
+        }
+        // 检查是否已经被 guide处理了
+        if (order.state === OrderState.ONGOING) {
+            throw new Error(ResultMessage.ALREADY_ACCEPTED)
+        } else if (order.state === OrderState.REJECTED) {
+            throw new Error(ResultMessage.ALREADY_REJECTED)
         }
         // 改变状态
         order.state = OrderState.CANCELED

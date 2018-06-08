@@ -1,9 +1,5 @@
-const GetAccessToken = require('./serivice_impl/tencent/AccessToken')
+let a = ''
 
-GetAccessToken()
-.then(res => {
-    console.log(res)
-})
-.catch(err => {
-    console.log(err)
-})
+if (!a) {
+    console.log('dfdf')
+}

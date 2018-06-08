@@ -26,6 +26,10 @@ var stateOrder = async (orderId, state) => {
         if (!order) {
             throw new Error(ResultMessage.NOT_FOUND)
         }
+        // 检查是否被 tourist 取消了
+        if (order.state === OrderState.CANCELED) {
+            throw new Error(ResultMessage.ALREADY_CANCELED)
+        }
         // 更新
         order.state = state
         await OrderDAO.update(order)
