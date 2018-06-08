@@ -1,5 +1,5 @@
 const CommonCotroller = require('../CommonController')
-const GetGuidesBySpotId = require('../../serivice_impl/tourist/GetGuidesBySpotId')
+const GetGuideById = require('../../serivice_impl/tourist/GetGuideById')
 /* 
 * @param {int} spotId 景点ID
 * @param {int} lastIndex
@@ -14,7 +14,7 @@ var fn = async (ctx, next) => {
         {
             'guideId': guideId
         },
-        () => undefined
+        () => GetGuideById(guideId)
     )
     console.log('get guide by id over')
 }
