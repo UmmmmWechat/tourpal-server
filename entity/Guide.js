@@ -1,7 +1,7 @@
 module.exports = function () {
     this.id = ''; // 
     this.openId = ''; //
-    this.avatar = '';
+    this.avatar = 'https://www.wenxiangdong.cn/images/user.svg';
     this.realName = '';
     this.idCard = '';
     this.gender = '';

@@ -13,7 +13,8 @@ module.exports = async function (code) {
             throw new Error(ResultMessage.NOT_FOUND)
         }
         // 去找guide信息
-        let guide = await GuideDAO.findByOpenId(openId)[0]
+        let guide = await GuideDAO.findByOpenId(openId)
+        guide = guide[0]
         if (!guide) {
             // 没有这个游客，这说明需要注册啦
             throw new Error(ResultMessage.NOT_FOUND)
