@@ -70,7 +70,7 @@ let find = function (sql) {
 
                 for (let i = 0; i < res.length; i++) {
                     let order = res[i]
-                    if (order.state === 'FINISH') {
+                    if (order.state === orderState.FINISHED) {
                         sql = "select * from order_feedback where orderId=?"
                         await query(sql, [order.id])
                             .then(res => {
