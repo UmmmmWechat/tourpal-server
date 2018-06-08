@@ -11,5 +11,5 @@ module.exports = function () {
 
     this.popularity = 0;    // 热度
 
-    this.recommendLevel = 0;    // 星级
+    this.recommendLevel = 3;    // 星级
 }
