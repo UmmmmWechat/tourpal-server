@@ -20,6 +20,7 @@ module.exports = async function (code) {
         if (!guide) {   // 如果系统没有这个guide
             // 给它插入一个新的初始的
             guide = new Guide()
+            guide.openId = openId
             let insertResult = await GuideDAO.insert(guide)
             return {
                 message: ResultMessage.NOT_REGISTER,
