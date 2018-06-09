@@ -9,10 +9,12 @@ let insert = function (spot) {
                 let id = res.insertId;
                 let location = spot.location
 
-                sql = "insert into location values (?, ?, ?, ?)"
-                await query(sql, [id, location.province, location.city, location.region])
-                    .then()
-                    .catch(err => reject(err))
+                if (location) {
+                    sql = "insert into location (spotId, province, city, region)values (?, ?, ?, ?)"
+                    await query(sql, [id, location.province, location.city, location.region])
+                        .then()
+                        .catch(err => reject(err))
+                }
 
                 resolve(res)
             }).catch(err => reject(err))

@@ -1,0 +1,877 @@
+[
+  {
+    "name": "岳麓山",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/83025aafa40f4bfb5ee4e6f6034f78f0f736185f.jpg",
+    "introduction": "毗临湘江、文物古迹众多的岳麓山，是南岳衡山七十二峰之一，有一份古老的墨香，是一个寻幽访古的好去处。",
+    "popularity": "1478",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "橘子洲",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1cd4147babf31f9f0bd187cc.jpg",
+    "introduction": "橘子洲晚上的烟火可是一道靓丽的风景，印象最深的就是喷泉和烟花，小火车挺好玩的。毛爷爷巨大的雕塑特霸气，巨大的毛主席头像是亮点。感受下伟人的气魄，太漂亮太震撼了。",
+    "popularity": "1747",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "马王堆汉墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b25aae516bdde573377abe15.jpg",
+    "introduction": "西汉长沙国丞相利仓及其家属墓葬，为后人了解西汉历史提供资料。还算保存的完好，在这里可见中国古人的智慧。",
+    "popularity": "444",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "长沙世界之窗",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e7ce6dca4cb83f9cc116600.jpg",
+    "introduction": "湖南卫视的许多节目都是在长沙世界之窗拍摄完成的，它将刺激的游乐项目和世界各国的历史遗迹，融为一体。",
+    "popularity": "680",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "岳麓书院",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c87c6ecf0739f053f9dc61c9.jpg",
+    "introduction": "我国古代著名的“四大书院”之一，现存建筑大部分为明清遗物，是我国目前保存最完好的一座古代书院。",
+    "popularity": "692",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "天心阁",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b840549040ef49d5a877a4e2.jpg",
+    "introduction": "是古城长沙的标志，历史气息非常的浓厚，天心阁的建筑还挺壮观的，保存得很好，四周都被桥围起来了，墙外面种了树包围着，在这样一个地方感受历史真是不错。",
+    "popularity": "566",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "爱晚亭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1cd4147ba9d7199f0bd187e8.jpg",
+    "introduction": "秋天去最漂亮枫叶飘飞时景色不错，环境还可以山上空气很清新。很适合放松的地方，看看风景还不错。是岳麓山最美妙的景点，景色还是不错的。",
+    "popularity": "553",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "黄兴路步行街",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4bdf49ae2483025aafa50f06ea.jpg",
+    "introduction": "酒吧一条街：长沙的特色啊，整一条街都是酒吧，这里打车也很难，也很堵。离黄兴路步行街很近。湖南人很喜欢热闹，还没到深夜酒吧里已经全是人了。和柳先生去的是MUSE2，我表示喝酒无能。一杯鸡尾酒，晕了好久。喜欢撩菜的和被撩菜的，可以选择深夜独自去。我和柳先生这样的老人还是选择在深夜前撤退了。",
+    "popularity": "409",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "靖港",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d048adde3a123d31cdbf1a5f.jpg",
+    "introduction": "环境宜人，是个很安静的地方，而且游客不算太多。景区很有特色，比较幽静的古镇，感觉时代气息很浓厚。小镇的小吃也很多而且不贵。",
+    "popularity": "181",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "湖南省博物馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d478a80037e500dfe950cdcb.jpg",
+    "introduction": "博物馆荟萃了湖湘大地的文物遗珍，展现了湘楚文明的来龙去脉，是优雅宁静的文化休闲去处，是了解湖湘文化的最佳窗口。馆藏丰富，文物很著名，让人不禁感慨古人的智慧。",
+    "popularity": "519",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "开福寺",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/21e55823b00dfe3c9922edce.jpg",
+    "introduction": "在长沙城北新河与湘江交汇处凤嘴，有一座殿宇宏伟、气势非凡的千年古寺，这便是三湘名刹开福寺。",
+    "popularity": "230",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "杜甫江阁",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3ddda94a21bba1cd11728b2952.jpg",
+    "introduction": "杜甫江阁，属于园林仿古建筑，为纪念唐朝诗人杜甫所建。杜甫文化给湖湘文化的发展注入新的血液。",
+    "popularity": "338",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "烈士公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/969cbf4459c73de9b3b7dcc4.jpg",
+    "introduction": "庄严雄伟的纪念区、花红柳绿的游览区与各种现代化设备的娱乐区构成了长沙市最大的公园。",
+    "popularity": "375",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "月亮岛",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd7042602f4532b18cb10df8.jpg",
+    "introduction": "因南宽北窄，宛如一轮明月浮卧湘江之中而得名。空间十分大，空旷，有露营的意境，可以扎帐篷，还可以骑马奔驰，美丽的自然风光这边独好。",
+    "popularity": "110",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "大围山",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5beeba0fef10c2b5aa6457e0.jpg",
+    "introduction": "以森林茂密，资源丰富，风景秀丽，气候宜人，被称为“湘东绿色明珠”。空气挺好，树木繁茂，有很多很大很高的树木，而且景区避暑还可以。",
+    "popularity": "84",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "石燕湖",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b527d27bf07cd5b908f9d15.jpg",
+    "introduction": "石燕湖湖水清幽纯净，达到国家一级水质标准，可直接作饮用水。自然景色秀美、森林覆盖率高，被誉为“天然大氧吧”。",
+    "popularity": "156",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "贾谊故宅",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11794d43196ede7f9213c628.jpg",
+    "introduction": "贾谊故居室内是长沙作为“屈贾之乡”的标志性文化遗产，被誉为“湖湘文化源头”。",
+    "popularity": "279",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "梅溪湖公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/eac4b74543a98226ceb6e3c38b82b9014b90ebdb.jpg",
+    "introduction": "在每天夜幕降临后的梅溪湖喷泉会随震撼的音乐翩翩起舞，令人目不暇接，梅溪湖音乐喷泉，同种颜色喷泉音乐喷泉可随着音乐的节奏律动，与绚丽的灯光融合变幻出无穷的水幕，斑斓的水柱如婀娜的少女摆动身姿，妩媚而温柔，梅溪湖喷泉音乐会让人十分震撼，因为它的规模十分庞大，舞姿迷人又浪漫。在炎热的夏天去到梅溪湖感受音乐喷泉的清凉，它绚丽的色彩会把人带进了童话般的梦幻中。",
+    "popularity": "175",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "千佛洞",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae10edde3bd9620c94ee3794.jpg",
+    "introduction": "山清水秀，奇峰峻岭，石龙洞、峡溪、猴公大山、少年水库四大景点共同勾勒出千佛洞景区的秀美和壮丽。",
+    "popularity": "157",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "湖南省第一师范学院",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b64543a98226cffc78f2100cb9014a90f703eab0.jpg",
+    "introduction": "湖南一师历史悠久、名人辈出，有“千年学府、百年师范”的美誉，是毛主席曾经学习过的地方。",
+    "popularity": "369",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "湘江",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a6c7d7173a810562c83d6d0f.jpg",
+    "introduction": "世界东方，有江名湘。发源桂壤，千里蜿蜒，神韵流淌。四时风光，一江碧玉，波影摇曳，山缠水魄，水泊山魂。",
+    "popularity": "638",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "白沙井",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/73ca5910f226a092c3ce7987.jpg",
+    "introduction": "一口古井，说它是景点，或许有点牵强，前来打水的人络绎不绝，不过那一泓清泉还是让我这个北方来的小伙儿很是感兴趣，情不自禁地用手取了一捧水，旁边的老爷爷很不爽地批评我把水搞脏了，看来这泉水在当地很受推崇呢。",
+    "popularity": "138",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "长沙简牍博物馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f3d3572c11dfa9ec04ecf90663d0f703908fc1e5.jpg",
+    "introduction": "从中国第一把钢剑和中国第一支毛笔的身上，感受湖湘文化的深厚浓郁。\n\n",
+    "popularity": "146",
+    "recommendLevel": "4.1"
+  },
+  {
+    "name": "千龙湖",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0db2c9ca8803301ef31fe706.jpg",
+    "introduction": "说是全国排名第七的星级旅游度假村，承办了一系列的啥子啥子国家性国际性的活动，其实地方好小，居然在服务中心还挂了个湿地公园的牌子，真是不知道从何而来。\n饭菜非常之一般，味道不咋滴，价格还不便宜。我们买了168一个人的团体票，传说中能够包两餐中饭的，中餐的时候发现海带汤居然不是炖出来，是海带煮熟放一边、另外舀汤出来放在碗里又把海带丢进去的，然后就端上餐桌了。\n服务更是没啥好说的，棋牌室要很多张票才能开一间带个卫生间的小间，，连张躺椅都没有的；洗脚那里可以坐上30分钟没有人来理睬，出去找了几次才来了个人，草草洗两下就收场；不吃晚饭连蔬菜和山货都不允许多兑一包。",
+    "popularity": "67",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "摩天轮游乐购物中心",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8f9d72a6059252dcf1e1c33369b033b5bb5b9ff.jpg",
+    "introduction": "在长沙市中心侯家塘商业街区，楼顶上的摩天轮，夜景很漂亮。",
+    "popularity": "98",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "雷锋纪念馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/09bb4f3dc5c863b63d6d979d.jpg",
+    "introduction": "雷锋纪念馆是免费开放的，需要刷身份证进去，纪念馆里面展示了雷锋故居，生平的故事值得我们像雷锋学习的好精神。",
+    "popularity": "107",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "蔡锷墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f15e2429392d8e9098250ae3.jpg",
+    "introduction": "平生慷慨班都护，万里间关马伏波。蔡锷将军功绩，可标青史。",
+    "popularity": "108",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "长沙生态动物园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b211a6a69eb2cb8065380dd78e45.jpg",
+    "introduction": "长沙生态动物园位于长沙县暮云镇西湖莲华两村范围内，前身是位于烈士公园畔的长沙动物园。",
+    "popularity": "66",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "云麓宫",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dc854fdad75657b5b7fd4828.jpg",
+    "introduction": "云麓宫，在湘江西岸岳麓山右顶峰上，是一个道观。始建于明代，现有建筑为1957年重建。从火车站乘立珊线到岳麓山站下，门票5元。这里可领略“直上云麓三千丈，来看长沙百万家”的壮阔景色，登上云麓宫里的望湘楼，还可以看到“湘江北去，桔子洲头”的景象。深秋游览，阳光透过杏黄色的银杏树叶，照在红墙上，别有一番风韵。",
+    "popularity": "97",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "鸟语林",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0e2442a7d933c895a363da88d01373f082020027.jpg",
+    "introduction": "长沙鸟语林原本坐落在著名的国家级风景名胜区岳麓山。现在，园内所有的鸟都搬迁至生态动物园。",
+    "popularity": "89",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "太平街",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2cec3fdfc039245fd0e75f28694a4c27c1e2597.jpg",
+    "introduction": "长沙保留完好的老街，建筑很有特色，交通便利，是“古老长沙”一缩影。周围遍布很多小吃店，很是热闹。",
+    "popularity": "341",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "刘少奇故里",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/adee30dd506f0cb78c102937.jpg",
+    "introduction": "这里再现了20世纪初江南民居的典型风貌和刘少奇在这里生活和学习的部分场景。",
+    "popularity": "64",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "天龙瀑布",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0d968f2373dad32aad34ded3.jpg",
+    "introduction": "很不错的景点，天龙九瀑顾名思义有九处瀑布，分别分布在山的几个地方，这个导游在带我们上山的时候每到一处都会讲解。这些瀑布有大有小，最好玩的是靠近山顶的一处，那里有块石头就像龙头一样，然后从石头缝隙里面喷出一股水流，就像龙喷水一样，非常逼真！还有的瀑布非常高，一泻而下，很漂亮，不过瀑布的水量比较小，和著名的瀑布还是不好比的。天龙九瀑除了瀑布还有缆车，索道可以玩，上山基本要靠爬的，下山就可以轻松一点。在山脚那里还有一个游乐场，哈哈，有跷跷板，秋千啥的可以玩，非常可以满足我们这些大孩子的童心未泯~",
+    "popularity": "43",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "长沙博物馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/03087bf40ad162d98b87fcff10dfa9ec8b13cdec.jpg",
+    "introduction": "综合性的地志博物馆",
+    "popularity": "79",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "麓山寺",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5af4d7eaca7952b8d439c900.jpg",
+    "introduction": "喜欢的可以看看，不喜欢的就免了吧，值得看的是里面有一个老建筑",
+    "popularity": "188",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "仙剑瀑布",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32bb9c8b8dcad9bdfc1f10e7.jpg",
+    "introduction": "瀑布好似一把仙剑，挥舞于自然清幽处，时而变换招式，等待奇侠。",
+    "popularity": "60",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "湖南省第一师范学校",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/241f95cad1c8a786b0293feb6609c93d71cf50d7.jpg",
+    "introduction": "前身为南宋时期张栻创办的城南书院，历史悠久",
+    "popularity": "49",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "麓谷公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/73ca5910f71cad97c3ce79de.jpg",
+    "introduction": "是一个比较休闲的公园，环境很好，空气也不错，绿化很好，规划布局很规范。公园面积很大，树木成林，大小花坛很多，健身器材也很多，凉亭有有特色。有很多的各种各样的大小型活动在这里举行，附近的居民都在这里晨练，跑步，锻炼身体。适合周末去逛逛。",
+    "popularity": "38",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "黄兴墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/eab9044c9be0b797d62afcfb.jpg",
+    "introduction": "指挥刀、炮弹筒和笔筒，他只带走了这三样东西。",
+    "popularity": "81",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "密印寺",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6391e9034e279ab409fa9326.jpg",
+    "introduction": "比较偏远，游客较少，附近也没有什么特别出名的景点，所以一般只有以下几种人去玩：一种是对佛教非常热爱的人，一种是非常闲的人，还有一种是顺便去看看的人。门票68元，军人35元，宁乡人16元，宁乡籍的军人8元。\n这个寺跟其它旅游景点的寺相比有一个最大的不同：它不忽悠游客烧香！不知道是我没注意还是真的，里面好象连卖香火的都没有。佛像就在庙里，你烧不烧香它都在那里！大观音像只能在外面看，不能进入塔底。大观音像塔的三面是三十三观音像，前方下面还有四大天王，都雕的比较传神，还有两个童子雕的一般。塔外周围的浮雕很漂亮。",
+    "popularity": "27",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "船山学社",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/389aa8fd0530a07808244d61.jpg",
+    "introduction": "船山学社相传是毛泽东当时在这里学习，所以现在被作为文物单位保护下来了，这个地方很小也很隐蔽，我去的时候是下午，人很少，大家可以去参观一下，里面有王船山的一些思想，他是衡阳人，可以了解一下湖南相关的历史。",
+    "popularity": "40",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "花明楼",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1b21b19c728718bfe9.jpg",
+    "introduction": "抛开刘少奇同志故居的名头，花明楼作为一个5A景区，景色还算可以，走下一圈大约需要2个小时。作为一个免费的景区，挺不错了。里面除了瞻仰刘少奇同志铜像，参观纪念馆了解刘少奇同志生平。你还可以登上花明楼登高远眺，看看整个园区的风景。景区里还有一架飞机，据说是刘少奇同志当年坐过的。我是自驾过去的，跟着导航，还算比较方便，车停景区门口也不收钱，这点很不错。另外，景区边上有个小饭馆，据说是刘少奇同志嫡亲开的，味道不错，价格也公道。",
+    "popularity": "103",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "晓园公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/834344afcb5a2695faed5060.jpg",
+    "introduction": "哓园公园就在长沙火车站旁边一点，走路过去几分钟就到了，如果你刚好要在长沙火车站坐车，而时间还有很多没地方可去，那你就可以去哓园公园坐会，里面有亭子有板凳可以坐，星期四的过去的时候是中午，里面有很多的老爷爷老太太在里面拉琴唱歌，真的让我感觉生活态度特别的积极向上，我觉得等我老了有这样的生活态度我就满足了，然后还看到很多的人带着牙牙学语的小孩子在里面玩，绿草地和老人们的歌声交织在一起，让人心情很平静，很安宁，都市中的休闲地，好希望武汉也多点这样的地方。",
+    "popularity": "54",
+    "recommendLevel": "3.5"
+  },
+  {
+    "name": "心形石",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9d4cf43cb16a07d72f05d68.jpg",
+    "introduction": "心形石，因为演员李晨送给女友的像心形的石头引起广泛关注。8月30日张馨予甜蜜晒出李晨送给她的礼物，一颗心形的石头。张馨予称这颗石头是李晨偶然在一个地方发现捡回来的，并希望这颗石头能够经受考验，不再玻璃心，一语双关。",
+    "popularity": "50",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "贺龙体育馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/71cf3bc79f3df8dc47a39172cc11728b461028b2.jpg",
+    "introduction": "我是住在贺龙体育馆附近的如家，感觉不是很便利，因为离吃的太远了。坐车到司门口下车，走到步行街罗家臭豆腐。长沙现在在修地铁，凌乱的很。进步行街走施工的左边，人最多的那个巷子就是了，巷子口是卖烤串的，可以尝试下。我看见烤串的汉子们挥汗如雨的样子，没引起我的食欲……里面还有一家卖炸土豆的，我是狂热的土豆爱好者，吃起来不错。臭豆腐（小份有8块臭豆腐，我一个人吃觉得足够了）和土豆都是10块钱。臭豆腐我还是比较推荐罗家的，在坡子街还有一家黑色经典，看见排队的长龙直接放弃……",
+    "popularity": "43",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "黑麋峰森林公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e3df8dcd100baa1e7ceeb6a4610b912c9fc2e04.jpg",
+    "introduction": "黑麋峰森林公园，位于湖南省望城县东北角，地处湘江东岸、长沙近郊，公园主体是黑麋峰，森林覆盖率达73.9%；主峰海拔590.5m，为长沙市区方圆30km内第一高峰，为岳麓山的两倍，给游客一种环境质量明显有别于城市生活居住环境的旅游体验，能满足游客回归自然的需求哦",
+    "popularity": "21",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "大围山峡谷漂流",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a21123342449b961a4cffd4.jpg",
+    "introduction": "空气新鲜环境好，总体还可以。风景宜人，热天避暑是个很好的地方。非常适合带家里老人，玩的很开心。",
+    "popularity": "35",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "陶公庙",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/263e802f953159561f30898d.jpg",
+    "introduction": "平日里游人很少，庙堂虽小，比起很多名胜古刹，反而很喜欢这种古朴幽静的感觉；古戏台上的对联发人深省。",
+    "popularity": "19",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "半山亭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b258f5c433c727c28326ac4b.jpg",
+    "introduction": "半山亭就是岳麓山半山腰上一座六方形凉亭，据说很早以前此地为半云庵所在，为上下山必经之路而得名。不是亭子上写了半山亭三个字，你都很难注意到这里，现在就是供游客休息的一个亭子吧。周围植被很好，绿油油的，亭子很古朴雅致，算是岳麓山很不起眼的小景点。如果从东大门进山一般很难走到这里，坐观光车时间要长些。从南大门一路走阶梯小道必然经过这，但要费体力些。",
+    "popularity": "46",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "湖南大学图书馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9922720e0cf3d7ca9e6b518bf31fbe096a63a9aa.jpg",
+    "introduction": "在东方红广场旁边，很小，但是附近人太多，学习环境不好",
+    "popularity": "89",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "周洛",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b5ce925406ed1d763a2935ca.jpg",
+    "introduction": "山清水秀、空气清新、风景奇绝的周洛，是一个适合都市人回归自然、度假、休闲、娱乐的绝妙去处。空气非常清新，尤其是瀑布好美的。",
+    "popularity": "33",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "道吾山",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b527d27bfbdcd5b908f9d63.jpg",
+    "introduction": "第一次来到长沙，刚好想去爬山，朋友推荐去的长沙的吾道山，整个山是长沙这边的一座名山。在车上前往景区的路上，快到景区，小了一点小雨，雨后的道吾山空气非常清新，山清水秀，这里的生态环境非常好，都是自然风光，山外还是山，树里还是树，整个山峰峦叠嶂，怪石深壑，留下了非常好的印象。【地理位置和交通】道吾山风景名胜区是在长沙市浏阳市集里乡道吾村，来这里可以直接在长沙汽车东站乘坐班车，每10分钟左右就有一趟开住浏阳汽车东站的车，票价约为18元/人，班车很多，交通很便利。",
+    "popularity": "31",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "长沙月湖公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0eb30f2442a7d9330178ce96ac4bd11372f00106.jpg",
+    "introduction": "长沙月湖公园是长沙近年新建的公园，公园场地开阔，湖水碧绿，亭台楼榭，透着古朴大气，像月芽一样的多宝娱乐湖水被一座石拱桥隔开。公园的绿化和景物都是人工所为。长沙市属唯一的一所大学长沙大学(现名长沙学院)和月湖公园仅相隔一条马路，每到晚霞映照时，学院的师生便到这里来欣赏湖光美色，尽情地享受大自然的清新。",
+    "popularity": "60",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "长沙南郊公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f41347843f4ac241f95cad0c85ee8.jpg",
+    "introduction": "南郊公园位于长沙市猴子石大桥东桥头，于二环线北边，是一座森林植物公园，园内植被茂密，树种繁多，有银杉等名贵珍稀树木，是星城有名的清肺之地，绿地明珠。园内有桃园林，梅园，趣乐园，游乐场，烧烤区等，休闲娱乐健身野炊好处去。交通： 公交线路：122、123、150、152、603、701、804、902路。乘5、7路公交车到太慈桥下车转小巴，或者乘73路中巴车可直达公园门口。",
+    "popularity": "91",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "北正街教堂",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b30b596f108d162d9f2d3c907.jpg",
+    "introduction": "长沙市北正街教堂原名为“中华圣公会三一堂”，是一处基督教教堂，建于1905年，1910年被毁，1911年于原址重建。该建筑是典型的西方哥特式建筑，平面布局为拉丁字型，由大块麻石砌筑，是长沙仅存的唯一一座麻石教堂。",
+    "popularity": "16",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "洗心禅寺",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0df3d7ca7bcb0a469b5267dd6a63f6246a60afe6.jpg",
+    "introduction": "去的时候是从开福寺的门口坐907A公交车直达到洗心禅寺的一个公交车站，下车还要走上几百米，以前是可以直达到寺庙的门口的。 到达洗心禅寺的时候，我的两个小伙伴已经在这里等我很久了，看着这座翻修一新的寺庙，眼前豁然开朗，记得前年来的时候，有几个地方还在修建中，加上第一次来的时候，天气不怎么好，未能看到像今天这样如此之壮观，这里就是寺庙外的洗心广场。广场周围竖着几座刻着佛家语录的石墩。",
+    "popularity": "26",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "长沙中山亭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/241f95cad1c8a786bcb13bde6609c93d71cf5042.jpg",
+    "introduction": "很多外地人不知道，长沙中山亭这里有一家味道很棒的酱板鸭几十年的老店，【金元源】。通常远方的游子回来带给朋友的伴手礼就是这个，听到别人说来20个鸭子！也不要惊讶哦，味道简直就是棒！(ง •̀_•́)ง他们的卤制是用中药材制作，味道回甘，香辣，鸡爪也不错。是来长沙不可错过的美食之一。[微笑][微笑][微笑]",
+    "popularity": "40",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "湖南省立第一师范学校旧址",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d14323ae8a1671f082025aaf072e.jpg",
+    "introduction": "端午节后去的，当时下着下雨，天不热。来到毛爷爷早起上学的地方，旧址保存的很好，参观时碰巧听到有个小姑娘在给大学生们讲解，第一师范以前是城南书院，已经有上千年的历史，培育出了很多爱过革命人士，非常值得一去，看看毛爷爷曾经读书的地方。",
+    "popularity": "52",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "北斗庵瀑布",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/61183b2d1852595a359bf74c.jpg",
+    "introduction": "北斗庵瀑布位于周洛，形状跟北斗星相似，由一块石头和水组成的，边起来像一把勺子。其实也就是一个很普通的瀑布，没有特别稀奇的。",
+    "popularity": "16",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "酷贝拉长沙欢乐城",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b64543a98226cffc798b124ab8014a90f703eaa1.jpg",
+    "introduction": "酷贝拉长沙欢乐城是一个模拟仿真社会社区，武汉此类地方比较多，就是让孩子在社区中任一职，模拟各种社会活动，以锻炼孩子的实际生活能力。这个创意是非常好，可以增长孩子的知识，锻炼孩子的技能，尤其对现在的孩子来说，成天生活在家长的呵护下，很难适应社会，在这里，孩子们可以自己做主，锻炼成长为一个真正的社会人。",
+    "popularity": "10",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "化龙池",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5fdf8db1cb13495441708a81574e9258d0094aec.jpg",
+    "introduction": "化龙池化龙池返程第二天一早我们就动车返京了，动车5个小时就从南到北，路上一如来时下起了雨，有种这趟旅程前后呼应的感觉。最后分享几张长沙文夕大火前的古城样貌，愿你记得这座2000年历史的古城，除了芒果台，除了吃吃喝喝，还有过这些已经慢慢被遗忘的古城故事……",
+    "popularity": "34",
+    "recommendLevel": "3.5"
+  },
+  {
+    "name": "长沙园林生态园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bf33a87e950352abdecf3e55243fbf2b3118b4a.jpg",
+    "introduction": "我当时是乘坐149路公交车在彭家巷下车，然后再做摩的十几分钟就到了这里 一趟是15块钱 ，这么偏僻的地方也只能搭摩托车了 太划不来了。进来容易出来就难了 难的是 没有摩的搭 要走两个多小时才能到大路上，亲们 你们一定想象不到 这条乡间小路要走出来到底有多艰难。不说了，满满的都是汗水和泪水，幸好",
+    "popularity": "19",
+    "recommendLevel": "3.2"
+  },
+  {
+    "name": "黑糜峰",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d089b986ff580f5067096e9a.jpg",
+    "introduction": "原名叫洞阳山，在长沙市望城县，离市区有点远，有40公里路，门票是10元一个人，这里的主峰有590.5米高，风景很美，树木成林，古树参天，山峰耸立，山脉相连，很壮观的进景色，山中云雾满天，大水库的水面宽阔，水质清澈。是个不错的景点。适合户外运动，锻炼身体，游览山水。",
+    "popularity": "52",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "桂花峡",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd704260226f2fb18cb10d12.jpg",
+    "introduction": "在周洛迷人谷内小溪边及沿溪两岸约1公里内的两岸山坡长有1026株野生桂花，多长在石缝中，有三个品种：丹桂、金桂、银桂。该桂花群是中国首次发现的野生桂花群，而且有待研究该桂花群是否是世界桂花的发源地。 峡谷的小道上，时不时的可以看到扶手上停留着的蝴蝶，看到此景不禁想起庄周梦蝶里的那一只。栩栩然蝴蝶也。看到我在拍它，竟然停在这里不动了，非常的配合我的拍照。",
+    "popularity": "22",
+    "recommendLevel": "4.2"
+  },
+  {
+    "name": "湖南省森林植物园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d057b12cebba1cd11738b29b2.jpg",
+    "introduction": "没花门票钱进去过，只是不够，进去雾里看花。",
+    "popularity": "85",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "蟒蛇洞",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd428c459a72b951869473cd.jpg",
+    "introduction": "蟒蛇洞在岳蔍山禹王碑北面的一个山谷中。传说宋代有道士叫张抱黄，曾在此洞修炼成仙，所以得名抱黄洞；后来张道士升仙飞升，此洞就被蟒蛇盘踞，每年7月15日蟒蛇都要出洞为害，时任荆州刺史陶侃射死这条蟒蛇，为了其为民除害，后人将其射箭之年叫射蟒台。传说归传说，其实蟒蛇洞就是一个天然的大石洞，里面幽深昏暗，不见其底，并有凉风吹出，所以人们往往赋予这些不能解释又比较恐惧的地方一些神话传说。",
+    "popularity": "41",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "舍利塔",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cb4fefe8c4dd35f5d600873.jpg",
+    "introduction": "舍利，其实是古代高僧圆寂后的结晶，所以通俗点说，舍利塔其实是供奉高僧尸骸的佛塔，这座塔位于爱晚亭后方不远处的密林，没有石阶路上去，我们几个是跟着另一个旅游团的人踩着一条偏僻的小路上去的，走了一段小路后，后山兀然现出一片枫林，沿着枫林的道路而下，走十分钟左右就可以看到这座十三层的僧帽式佛塔。周围挂了许多彩色的经幡。",
+    "popularity": "38",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "刘少奇同志纪念馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d048adde3cd12300ccbf1a89.jpg",
+    "introduction": "这是全国唯一一座完整地展示、宣传、研究刘少奇生平思想和收藏、保护、研究刘少奇文物的人物类纪念专馆。",
+    "popularity": "70",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "月亮潭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f4979110b7f2d38594.jpg",
+    "introduction": "月亮潭位于“迷人谷”上游，形似上下两水缸口对接，下部装水呈圆形，上部呈下大上小圆形，上有一斜形瀑布倾泻入潭，在潭内形成旋转状态，相传“迷人谷”有一天仙，每逢八月十五月圆时，都要邀聚天下群仙汇聚于此，饮酒赏月，故称月亮潭。只可惜没看到神仙，也没闻到一股仙气，只看到了这月亮潭的水不是那么的清澈。",
+    "popularity": "13",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "禹王碑",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea4ffcf64999152eef8.jpg",
+    "introduction": "在岳麓山上看到的，还行吧，不算太破",
+    "popularity": "25",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "回龙山",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e49cf911ab4c4c9ea6ef3f58.jpg",
+    "introduction": "回龙山，位于湖南省宁乡县境内，因山脉如青龙奔腾向西，突折迂回，似有“回龙望祖”之势而得名。方圆30余里，主峰回龙峰海拔365米，山形逶迤，群峰耸翠，风景秀丽。山顶有一箕形盆地，方百余亩，翠竹丛生，绿树蔽天，常有清风拂面，白云停驻，故名白云窝。全国百大名寺——回龙山白云寺即建于此。现门票价格为20元/人。学生半价。春可赏花、夏可避暑、秋可观枫、冬可赏雪、四季皆可登山拜佛。常设旅游活动：农历2月19，6月19,9月19，举行观音诞庆典。提示：6-9月份，回龙山气温一般在25至28度。",
+    "popularity": "41",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "宁乡灰汤紫龙湾温泉度假区",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d6ff18a290060828381e30fde3.jpg",
+    "introduction": "错开了冬季大部分泡温泉的人，选择在这个淡季的时候来，果真没让自己失望。这次温泉之旅体验非常开心。紫龙湾温泉不仅仅只有温泉，连在一起的还有紫龙湾酒店，在网上买的套票。带着家人就出发了。【地址】紫龙湾温泉是在长沙的宁乡县灰汤镇将军路2号，大多泡温泉的人都是选择自驾过来，因为方便一些。自驾的话是从长沙上的京珠高速然后转长常高速，下了高速后路边全部都是泡温泉的酒店，靠着导航来到紫龙湾温泉。除了自驾过来也可以在长沙做汽车，汽车站有直达到灰汤的车子，在长沙西站出发，车票23元就可以了。",
+    "popularity": "11",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "灰汤温泉",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1160924ab18972bf10f8f41e7cd7b899e510a07.jpg",
+    "introduction": "总体满意，温泉很舒服，风景还不错，周边的空气也很好，是很好的疗养地方。总体满意，环境还不错。",
+    "popularity": "16",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "长沙动物园(已搬迁)",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a8405208f32e70fb0a7b82bc.jpg",
+    "introduction": "没有搬迁的时候去看过骆驼这类东西",
+    "popularity": "106",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "咸嘉湖唐墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/476217f72d07f34c730eec61.jpg",
+    "introduction": "咸嘉湖唐墓在长沙市河西咸嘉湖附近的山丘上，该墓全部用青砖垒砌而成，规模较大，据考证，墓主人应为初唐时五品以上的官吏。",
+    "popularity": "21",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "明藩府",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f9589818ba23b6da4bedbc6d.jpg",
+    "introduction": "首先，我必须纠正下，百度旅游的配图错误，配图显示的是杜甫江阁。其次我感觉这是我旅行生涯遇到最神奇的一个景点，我为了这个景点专门到过长沙三次，但是三次竟然都找不到这个景点，问当地的朋友、同事，也大都不知道这个景点。按照地图显示来看，藩王府在长沙市公安局里面或者是公安局和旁边的人民银行之间，但这俩个地方都是不方便参观的所在，所以我怀疑这个景点，并不是对外开放的。不过，也有意外收获，旁边是一条小巷，巷子本身显得很有长沙市井气息，里面有家小店叫做吴家粉店，每次寻找未果之后，带着失望的情绪去这里嗦粉，真的很让人难忘，至今都记得清清楚楚。或许我第二次、第三次寻找藩王府是假，去这里吃粉是真的。",
+    "popularity": "20",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "桃子湖",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa18972bd40735fac2c3c6689f510fb30f24082b.jpg",
+    "introduction": "去湖南大学的路上经过这里的，还行",
+    "popularity": "34",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "湖南湘绣博物馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ac4bd11373f0820269331ff94afbfbedaa641b56.jpg",
+    "introduction": "去的时候黄了，从门口拿了一本宣传册，权当收藏。",
+    "popularity": "25",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "麓山寺碑",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b13fd480803c62b99123d9d0.jpg",
+    "introduction": "麓山寺碑位于岳麓书院南面护碑亭内，是唐开元十八年（730年）李邕撰书，江夏黄仙鹤所刻，青石材质，碑额有阳文篆刻\"麓山寺碑\"，碑文为楷书，主要叙述自晋泰始年间建寺至唐立碑时近五百年间麓山寺情况，但因年久碑石风化，字已不太清晰，能认出的还有一千余字。碑文内容很华丽，撰写很漂亮，加上刻工精湛，非常难得，故有\"三绝碑\"之称；又因李邕曾任北海太守，故亦称之为\"北海三绝\"碑。麓山寺碑艺术价值很高，宋代大书法家米芾曾专程前来临习，并于碑阴面刻\"襄阳米黻同广惠道人来，元丰庚申元日\"，更增加了其价值。学习书法的人可以到此研习一下，定有好处。",
+    "popularity": "38",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "石柱峰",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1571724f36fe545d5074242.jpg",
+    "introduction": "当地的很多人都说在石柱峰上的顶峰，可以看到长沙城，只可惜虽然今天天空晴朗，但是山里的雾气依然弥漫，视觉不是特别的广阔。  在山顶的时候，遇见了这两个山下镇上的小孩子，还在上初中，然后我就邀请他们跟我一起下山了，也好下山的路上有个聊天的小伙伴。",
+    "popularity": "14",
+    "recommendLevel": "3.0"
+  },
+  {
+    "name": "长沙裕湘纱厂",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9a504fc2d5628535c37287c291ef76c6a6ef6346.jpg",
+    "introduction": "这附近有几家逼格比较高的咖啡馆，整个裕湘纱厂就只剩下一个门了，好像凯旋门，这里很适合拍文艺小清新的照片的",
+    "popularity": "25",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "迷人谷",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b110e61900824714dbb4bd2e.jpg",
+    "introduction": "在周洛迷人谷内小溪边及沿溪两岸约1公里内的两岸山坡长有1026株野生桂花，多长在石缝中，有三个品种：丹桂、金桂、银桂。该桂花群是中国首次发现的野生桂花群，而且有待研究该桂花群是否是世界桂花的发源地。",
+    "popularity": "14",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "星沙公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3fb43166d224f4a6ea4acd308f790529822d135.jpg",
+    "introduction": "饭后过来散散步挺好的，园内有一很大的湖，沿着湖走一圈就当帮助消化了，风景一般般吧，我只知道清晨和傍晚有很多中年人在此做锻炼。位置很好找，是一个以休闲为主的公园，里面还有一座不算高的山，可以走大路或小路上山，不过山顶树木太多，看不到什么风景",
+    "popularity": "25",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "吴王墓遗址",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32fa828ba61ea8d3bbbc28ba940a304e241f58f5.jpg",
+    "introduction": "吴王墓在长沙城北，此吴王非三国时期的吴国国王，是指秦末汉初吴芮。吴芮，秦时被封为番阳令，楚王项羽封吴为衡山王，汉朝建立后，刘邦将临江改长沙，封吴芮为长沙王。吴芮管理长沙期间，政通人和，深得民心，死后被厚葬，即现在的吴王墓。",
+    "popularity": "27",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "印心石屋",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21bb051f8198618244f23444bed2e738ad4e6e2.jpg",
+    "introduction": "在岳麓山距鸟语林方向几十米的地方有“印心石屋”石刻。岳麓山很冷门的景点，事实上看点也不多，到是“印心石屋”这几个大字比较明显点。这是道光帝钦赐的四个字给两江总督陶澍的，其依次为荣，在山川胜地多处摹刻，岳麓山就是一处。岳麓山这处就是一块汉白玉石匾嵌在一墙上，石匾上刻“印心石屋”四个大字。从蔡锷墓走过去也不远，免费参观，但不建议专程前往。",
+    "popularity": "37",
+    "recommendLevel": "3.0"
+  },
+  {
+    "name": "石燕湖漂流",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8ad4b31c8701a18bb223f9999f2f07082938fe18.jpg",
+    "introduction": "漂流挺刺激的，离长沙也不远，周末就可以去的呢。漂流的时候要记得把衣服带好的哦，上次去没有带换洗的衣服，结果。。。呵呵，你懂得，就没有换了，湿着身子回来的哦。那里还可以烧烤的。环境很不错。建议去看看，一定会有惊喜的哦。还可以坐滑索，挺刺激的。",
+    "popularity": "9",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "白鹤泉",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/58af236de7abdc9542169464.jpg",
+    "introduction": "还不错，白鹤泉位于岳麓山观音阁外南侧，也属于岳麓山风景区内，相传古时有一对仙鹤爱泉水之甘而飞止其上，此后泉水中就一直留有一对鹤影，以泉水沏茶，热雾升腾，盘旋于杯口之上，酷似一双白鹤翩翩起舞，古人即将此泉谓之白鹤泉。现在泉水的旁边建有茶室，专用清洌的白鹤泉水沏茶，供游客品尝。长沙市市区内可搭乘106路、立珊专线等线路公交车到达景区。",
+    "popularity": "22",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "湖南民俗文化村",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4a36acaf2edda3cc028a74e000e93901203f9280.jpg",
+    "introduction": "从小就去烈士公园游玩，却是第一次知道有这个地方的存在，就在公园的东北方向，从烈士公园北门进入会比较近。这里汇聚了土家族、侗族、苗族、白族、瑶族的民俗，主要是一些工艺品展示和民俗表演，还有一些地道的民族美食，我最喜欢的是苗家的竹板鱼，20元一条，非常香脆。总而言之，这里绝对对得起10元的门票价格，对了，学生、老人还有优惠票。",
+    "popularity": "16",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "张仲景祠",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a005b334b76fd9d9d1a2d3f9.jpg",
+    "introduction": "还不错，张仲景祠，位于湖南中医学院第二附属医院院内。原有“张仲景祠”和“保节堂”，现在均不复存在。 张仲景祠，据载清嘉庆二年重修。民国时这里亦办过育英小学，抗战时毁。1947年，长沙中医界曾捐款重建新祠三间，改名仲景堂，后因修马路，祠又废弃。可以乘坐7路，701路，123路等公交车到东塘南站，然后步行一段即可到。",
+    "popularity": "15",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "五轮塔",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/71cf3bc79f3df8dcf2722441cc11728b46102896.jpg",
+    "introduction": "五轮塔这样建筑形式的塔我还是第一次见到，在岳麓山上将士公墓沿石阶步行不远可到五轮塔牌坊，进入牌坊后不远便是五轮塔。岳麓山有麓山景区、橘子洲景区、岳麓书院等大景区，五轮塔就在核心景区麓山景区，这是为纪念北伐阵亡将士修建的，据说是为阵亡将士招魂和超度的，五轮塔距离岳麓山主打景点爱晚亭非常近，我们就是从爱晚亭过去的。爱晚亭虽然只是个亭子，但却是中国四大名亭之一，四周风景超美，所以五轮塔也算是可以顺道前往的景点了。",
+    "popularity": "25",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "毛泽东文学院",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/63d0f703918fa0ecea351de2279759ee3c6ddb6b.jpg",
+    "introduction": "里面还挺多书籍的，喜欢红色景区的朋友可以看过来",
+    "popularity": "13",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "隋舍利塔",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1f178a82b9014a9022b45c64a8773912b21bee65.jpg",
+    "introduction": "隋舍利塔位于岳麓山景区，在爱晚亭后右方不远的密林中，由隋文帝杨坚下令建造。善于隋舍利塔还有一段传说。传说幼年杨坚暴病，久治不愈，突然有一个叫“智仙”的僧尼到访，说杨坚人福像，有天佛保佑，以后必成帝君，但要到寺庙居住不能住在家中，于是杨忠建居所居住在寺庙，杨坚30岁时回家，僧尼赠其百余颗舍利，让其带在身边，保佑其“以此福苍生。”杨坚称帝后，诏令全国五十二州，在名山福地建塔，分藏舍利子，塔下绘尼之像以纪之，岳麓山的这座舍利塔就是其中之一。",
+    "popularity": "24",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "刘少奇旧居",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/18d8bc3eb13533faca1ec31aaad3fd1f41345b5d.jpg",
+    "introduction": "刘少奇故居位于中国湖南省宁乡县花明楼炭子冲。故居在一座盖有茅草的栅栏门内的四合院中。为土木结构，泥砖墙上粉饰着糠壳泥，屋面是一半小青瓦、一半茅草。门前有清澈的池塘，屋后是山峦。老公随单位同事参加的是 “长沙—花明楼—韶山”名人故里游，刘少奇故居是这两条黄金旅游热线的中枢联结点，是全国独一无二的伟人故里“金三角”的重要组成部分。",
+    "popularity": "31",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "沩山风景名胜区",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d608aa7bcd060828381e30fd7c.jpg",
+    "introduction": "大多人都知道宁乡沩山是搞漂流滴，很少人知道其实沩山滴脚下还有一座千年古刹---密印寺。密印寺很早就知道了，一直想去，但因为许多因素未能成行。趁着这个空闲的时间，计划早点去看看 朝圣一下这个千古名寺。去之前，问了好几个人，都说太远了，不去，怕回不来，其实哪有那么多的借口和理由，信仰从来是不需要理由的，于是我跟我的小伙伴说，哪怕是我自已一个人，我也要去，任何的时间和空间都无法阻挡信仰的力量。",
+    "popularity": "15",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "太极潭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/020e66f08774ddad7931aa96.jpg",
+    "introduction": "逛到最后一个景点，太极佛光。山中的泉水把这个冲刷出一个天然的太极形状，据说在太阳照到这里的时候，山泉闪闪发光，犹如一阵佛光，故名曰 太极佛光。 虽然没有这个缘分看到佛光，但是看到这个天然形成的太极，也值得了。",
+    "popularity": "9",
+    "recommendLevel": "2.8"
+  },
+  {
+    "name": "李富春故居",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d3ed92bf0bba1cd11728b2932.jpg",
+    "introduction": "李富春故居。。在里面用美颜相机自拍了几张~恩恩，果然是神器~\\(≧▽≦)/~，，再往前走就是坡子街啦~吃货一条街，可惜都是大排档，小饭店，不能每家都去吃，好忧桑。。",
+    "popularity": "17",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "长沙乐民水上乐园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8ea15ce36d3d539dc4ad53b3b87e950342ab0d7.jpg",
+    "introduction": "夏天即将来临，让我们准备好泳装，出发吧。去的交通还是很方便的，我们从长沙火车站出发，乘坐坐7路（或者107路）公交车到高升村南站下，然后去马路对面坐16路公交车到省植物园北下即可到。门票价格设计的也很人性化，儿童票38元，成人票68，最可爱的是家庭套票，包含两个大人一个小孩，才150元，当然我们买的是学生票，50元。里头的游乐项目比较多：童戏水池、750反斗乐、激战鲨鱼岛、海浪池、大碗滑道、四并列滑道、成人泳池、激流勇进、太空漫步等，我们玩得还是非常开心的，唯一让人有点不满的是，水上乐园的换衣间比较小，隔间也不多，还要收费。我们等了差不多半个小时才轮上，换衣服又用了半个小时，总觉得耽误了时间。",
+    "popularity": "13",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "长沙工人文化宫",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4034970a304e251f2b40292ea686c9177e3e53b5.jpg",
+    "introduction": "长沙市工人文化官，在东塘广场西南，是集文化、娱乐、学习、游览于一体的多功能的活动中心。现在早已失去了1989年刚健成时的繁华和热闹。",
+    "popularity": "31",
+    "recommendLevel": "4.3"
+  },
+  {
+    "name": "伍厚德堂",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1e30e924b899a90167159ff61c950a7b0308f5ca.jpg",
+    "introduction": "民国时期坡子街钱庄众多，号称钱业“四大金刚”的裕顺长、谦和、春茂、万裕隆全设在坡子街。伍厚德堂建于1946年，是裕顺长钱庄经理伍芷清的公馆，现在已成为一家饭店，而且在长沙还非常有名，据说在这里吃饭，很有一种高端大气上档次的感觉，我不知道怎么形容，那次主要是朋友在这里请吃饭，我也才有机会进入这里。走进饭店的大厅，这里挂有世界时钟，还有伍厚德堂的简介和一些老照片，包括前主人伍芷清的照片，还有买卖伍厚德堂的契约书。往里走去，伍厚德堂的不同愈加显现出来。灯光略昏暗，一切都沉静下来。外面是热热闹闹的坡子街，但一进入这里，就仿佛挡住了城市的喧嚣。现在这里是品尝湖南本帮菜必不能错过的地方，只是价钱有点小贵，据说梅兰芳大师曾在此用过餐。",
+    "popularity": "11",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "花明楼",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd039245d688d43f0d0ce17f7d1ed21b0ff43b91.jpg",
+    "introduction": "取意“柳暗花明又一村”这一名句，展示了宁乡风光秀丽、物华天宝的自然环境和人杰地灵的文化氛围。",
+    "popularity": "45",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "王陵公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0823dd54564e92585fc6a6009d82d158cdbf4e69.jpg",
+    "introduction": "王陵公园现在已经改名字叫做望月公园了，在咸嘉湖附近，具体大家可以根据导航前往。推荐对历史文化感兴趣的朋友前往，这里面因为出土过一座汉墓而闻名，公园内有一座“象鼻山”，山顶上有一座大墓，是汉朝时期长沙国王吴著的墓葬，现在没有回填，保留了一个很大的墓坑，上面的宣传牌上写这是湖南省目前为止发现的规模最大，等级最高的一座汉墓，采用的是“黄肠题奏”的样式建造，如今这里杂草丛生，但是仍然可以感受这座墓葬的伟大。墓葬旁边有一颗樟树，有八颗树干，叫做“八樟奇发”，可以看一下。其次公园内还有胡波，以及游乐园可供游玩，主要是了解历史的话可以在这里参观，可以学习很多知识，下面附图三张。",
+    "popularity": "10",
+    "recommendLevel": "3.1"
+  },
+  {
+    "name": "杨开慧纪念馆",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e61190ef76c6a7ef6c2074e6fcfaaf51f2de66e8.jpg",
+    "introduction": "杨开慧纪念馆位由杨开慧故居、陵园、杨公庙、陈列馆四部分组成，占地126亩，是中国百家红色旅游经典景区之一、湖南省爱国主义教育基地、湖南省妇女儿童爱国主义教育基地，内有故居、陵园、杨公庙三处省级文物保护单位，从1966年起对外开放。",
+    "popularity": "22",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "左宗棠墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/359b033b5bb5c9ea7b2dde23d439b6003bf3b310.jpg",
+    "introduction": "左宗棠墓位于湖南省长沙市长沙县跳马乡白竹村，从黄兴镇过东山大桥，南行约2公里， 即可见公路边的“重修左宗棠墓碑记”。从碑后登数十级石阶，“清太傅大学士属靖侯左文襄公之墓”跃入眼帘。墓前有石砌平台，配以石桌、石鼓、石香炉。",
+    "popularity": "11",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "瑞翔冰雪世界",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/562c11dfa9ec8a13d2801a13f603918fa1ecc0af.jpg",
+    "introduction": "滑雪场还可以，就是有点小贵，强行消费，服装和柜子都是必须消费，服装不是很干净穿两小时三十元，柜子每人十元，我们人多，根本就不需要那么多柜子，同去的朋友都请了教练，女生可以请教练，男士胆子大可以自己摸爬滚打自学成才，建议请教练，领悟高的可以2人合请一名教练，基本半小时都学会了，但也有同事学了整整一小时。教练服务态度很好！教练带滑第一把，有一种飞的感觉，这冰爽，这速度，刺激",
+    "popularity": "12",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "蔡和森故居",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/adaf2edda3cc7cd9052af1193801213fb90e91ef.jpg",
+    "introduction": "蔡和森故居位于岳麓山下的新民学会旧址里面，是一处普通的农家院落。蔡和森是共产党早期的重要领导人，在长沙求学时曾与毛泽东等人组织进步组织新民学会。接下来我给大家介绍下这里的情况【一】属于免费景点，需凭身份证领票参观。【二】靠近岳麓山，有很多班公交车到达这里，建议准备好零钱搭乘公交车即可。【三】故居在一个小巷子里，对面是新民小学，附近还有一家老长沙的小店，里面的米粉做的极为弹性、爽口。建议把蔡和森故居同岳麓山放在一起游览，先来这里逛一逛。当走在这座简陋的故居内，畅想青年时代的蔡和森、毛泽东等伟人也曾坐在这里探路论今、立志救国，最后成就一番大事业的壮志情怀，我觉得青少年都有必要来这里参观一下。",
+    "popularity": "15",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "曾国藩墓",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91ef76c6a7efce1b1533f935ae51f3deb48f6530.jpg",
+    "introduction": "曾国藩墓下的寺庙，据说之前住的是一个得到高僧，就是因为这个高僧的默许，曾国藩才得以将墓修在风水这么好的一个地方。曾国藩的后代每年都回来扫墓。还有一些他的崇拜者也会经常过来，即使是这样，我们看到的也是一番冷冷清清的景象。除了不远处的建筑声。",
+    "popularity": "16",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "芙蓉广场",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e824b899a9014c0851d6c3480b7b02087af4f46a.jpg",
+    "introduction": "芙蓉广场算是长沙市的商业中心了，同时也是长沙的标志性景观之一，尤其是在地铁二号线开通了以后。【一】免费参观，没有门票。【二】由于地理位置极佳，地铁二号线及多条公交线路通过这里，建议搭乘地铁最好。【三】注意事项，目前芙蓉广场还在维修，和旁边的五一广场比起来，人流少了很多，但毕竟是长沙的老牌商业中心，附近的餐饮、购物、景点数不胜数。来长沙，在这里泡几个小时，是必须的。美食推荐：广场附近有家叫做福栈米线的餐厅，过桥米线做的蛮好吃的，而且可以在网上团购，价格也蛮实惠。",
+    "popularity": "58",
+    "recommendLevel": "3.5"
+  },
+  {
+    "name": "自卑亭",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/34fae6cd7b899e51f9aee1d443a7d933c9950dca.jpg",
+    "introduction": "自卑亭源于古语“君子之道，譬如远行，必自迩；譬如登高，必自卑。”当年的自卑亭是通向岳麓书院的必经之地，特别的雄壮。现在的自卑亭，却处在路边的一个角落，完全被人们忽视。自卑亭就在毛泽东雕像旁边，但是很少有人去看，亭子里面甚至还有人在卖东西，这让我感到非常的气愤，那么有教育意义的亭子就这样被糟蹋了，真的是可悲可叹。",
+    "popularity": "36",
+    "recommendLevel": "3.0"
+  },
+  {
+    "name": "胡耀邦故居",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034f60222bebaec379310b551d6b.jpg",
+    "introduction": "胡耀邦曾是中共最高领导人，老家在湖南浏阳东中和镇，其故居在湘赣边界罗霄山余脉“西岭”脚下，所以有称“西岭故居”的。故居背依“西岭”，前临“敏溪”，从风水学上讲是一块风水宝地，按现在的观点看，这里的风景非常秀美，是人杰地灵之所。胡耀邦的故居是典型的湖南农家建筑，坐北朝南，据说这处老宅建于清咸丰年间，至今应该有一百四五十年的历史了。用现在的眼光看这处老宅，显得很简陋、古朴，其实这在当时那个年代已经是相当的奢侈了。胡耀邦曾任中共最高领导人，但由于政治原因，其故居很长时间鲜有人问津，不像毛泽东甚至后来的刘少奇故居那样有名。",
+    "popularity": "12",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "新民学会旧址",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/54fbb2fb43166d224152094d472309f79152d2c5.jpg",
+    "introduction": "新民学会旧址藏在某小学操场旁边的巷子里。事实上，长沙各种朝代各种类型的旧址几乎都藏在角落里、埋藏在土里，船山学社旧址、贾谊故居、李富春故居、马王堆遗址……如果不是刻意去寻找，走过路过就会错过了。大概也就是这些旧址，能看清历史中的长沙了。辉煌的、动荡的、忧郁的、满是革命情怀的，这个城市有太多一一消散在风里的故事。每每看到那些只语片语的简介，才会恍然原来历史发生在这里。",
+    "popularity": "26",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "大围山滑雪场",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6609c93d70cf3bc7464d1e3ed000baa1cc112a97.jpg",
+    "introduction": "大围山野外滑雪场位于大围山国家森林公园里面，所以来大围山滑雪是必须要购买大围山国家森林公园门票",
+    "popularity": "20",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "长沙普瑞温泉",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6159252dd42a283455c8f2f35ab5c9ea14cebfd8.jpg",
+    "introduction": "从长沙的开福寺门口的公交车站坐车，可以直达到那边，还是很方便的",
+    "popularity": "8",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "徐特立公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7dd98d1001e93901a9054bfe7aec54e737d196ef.jpg",
+    "introduction": "这座公园其实距离市区还是有一段距离的，因为它已经位于长沙的市郊星沙了。要不是朋友在这边工作，估计我都不会知道有这么一座公园的存在。好在去的交通还是挺方便的，可以在市内乘坐501、703或808路等多趟公交车直达。公园免费向公众开放，虽然面积并不算大（走一圈差不多半小时就可以了），不过风景还是不错，到处有鲜花和绿树点缀，可以平时休闲娱乐时来玩。整个公园以尊师重道为主要特色，首先映入眼帘的就是位于中央花坛上竖立着徐特立先生的铜像，绕过铜像，沿着其身后的阶梯往前走，不远处就是一座三层的阁楼建筑——师圣阁，里面有一些儒家的经典读物。这里现在是由湖南省师范大学的校方在进行管理，所以不时会有学生从这边经过。倒也成为了一条美丽的风景线。",
+    "popularity": "16",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "六朝松",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/472309f7905298222a64e911d6ca7bcb0b46d489.jpg",
+    "introduction": "走到岳麓山的麓山寺，之间寺门口有两株罗汉松，左边那株就是“六朝松”，这是岳麓山最古老的古树，据说树龄超1700年了，又被称为“六朝遗迹”而得名，喜欢古树的一定得去看看哦。顺便可去麓山寺转转，很是宁静和安详的感觉，这里地处岳麓山半腰，可在此休息一阵再上山。",
+    "popularity": "31",
+    "recommendLevel": "3.8"
+  },
+  {
+    "name": "潮宗街",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2fdda3cc7cd98d108ae4d7f1203fb80e7bec903a.jpg",
+    "introduction": "隐藏在江边万达后一条小街，在长沙的意外收获，很旧很旧的店透出属于傍晚的灯光，在万达的巨大冲击下，不知道它们还能存在多久",
+    "popularity": "18",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "周洛飞瀑漂流",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/71cf3bc79f3df8dc82c3d461cc11728b46102847.jpg",
+    "introduction": "公司组织的活动，整个过程中除了最后一下的落差非常非常大以外，其余的落差都比较的小，虽然小但是有的地方水流还是很急的，人多水战就各种各种中枪，o(∩_∩)o",
+    "popularity": "10",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "浏阳六叠泉漂流",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a899e510fb30f24be5433d5c995d143ac4b031e.jpg",
+    "introduction": "六叠泉漂流全程有180多米的垂直落差，S型、回旋型、波浪型、叠瀑飞漂，各种类型设计的水道，让我们玩得很尽兴，最重要的是听说这里的水富含元素“硒”，可以起到抗癌的作用，当地人会吃“硒”土治病。从漂流处出来，还有便利的超市和餐厅，可以享受美食。",
+    "popularity": "5",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "七星峰",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/574e9258d109b3de70a168bacdbf6c81810a4cc2.jpg",
+    "introduction": "七星峰是大围山主峰。大围山在浏阳市东北部，是不座风景秀丽的“湘东明珠”，主峰七星峰海拔1608米。七星峰其实指的是1500以上的七座山峰，位置与北斗七星相似，所以又名“七星望月”。这里看点还有附近的大大小小的湖泊，虽然面积不大，但数量众多，共13个，最大的叫天星湖，站在高山之巅欣赏山下湖泊似珍珠般散落也是一种享受。大围山还有一绝，那就是杜鹃！大围山有上万亩高山杜鹃，一到春季，五色杜鹃竞相开放，争妍斗艳，绝对震撼。七大围山交通也是相当便利，从长沙走长浏高速，到大围山南口下按路标指示即可到达。记住，春天去看杜鹃，夏天是避暑！",
+    "popularity": "12",
+    "recommendLevel": "3.9"
+  },
+  {
+    "name": "古风洞",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/95eef01f3a292df563c58ad4bd315c6035a873e8.jpg",
+    "introduction": "适合春天踏青的好地方，一般的旅行社会把浏阳的古风洞和大围山景区绑定游览，时间大概是两天左右，如果自己有车的话，可以自己驱车前往古风洞，从长沙市出发大致两小时左右就可以了。古风洞的门票是68元，如果网上预订，可以稍微便宜一点。洞内的景观在灯光照射下，婀娜多姿。里面主要有三个洞穴，首洞长百余米，夏日凉风习习，是个天然大剧场。侧看四周，洞中有洞，上下多洞重叠，左洞右洞，洞洞相连。进入二、三洞，眼前就会豁然开朗，小桥、流水、人家，潭水清澈，光影相叠，让人宛若进入了一个光与影的世界。",
+    "popularity": "11",
+    "recommendLevel": "3.3"
+  },
+  {
+    "name": "西文庙坪牌坊",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/359b033b5bb5c9ea29662c22d439b6003bf3b35d.jpg",
+    "introduction": "文庙坪牌坊绝美经典，建筑考究精细，堪称无价之宝。",
+    "popularity": "7",
+    "recommendLevel": "4.0"
+  },
+  {
+    "name": "紫凤公园",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/203fb80e7bec54e7a67ec0deb8389b504ec26a64.jpg",
+    "introduction": "紫凤公园在长沙市湘江东岸、长沙跨湘江主干桥——银盆岭大桥下面，实际上是大桥的配套绿地，现在建成公园，供休闲健身用。",
+    "popularity": "7",
+    "recommendLevel": "3.6"
+  },
+  {
+    "name": "云麓长廊",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5bafa40f4bfbfbede26bab5c7af0f736afc31fe6.jpg",
+    "introduction": "岳麓山上的云麓长廊，已经没啥印象",
+    "popularity": "20",
+    "recommendLevel": "3.2"
+  },
+  {
+    "name": "黄兴故居",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f636afc379310a55ba661b34b64543a9832610ab.jpg",
+    "introduction": "黄兴故居位于长沙城东约15公里长沙县杨托乡（今黄兴镇）凉塘。为一所泥砖青瓦平房的民居建筑。建于清同治初年，1874年10月25日，黄兴出生于此。1981年维修。占地面积约4300平方米。 故居有房屋共12间，包括上堂屋左右正房和下堂屋左右正房及厢房、横屋过堂。砖木结构，坐西朝东。正门有廖承志题书“黄兴故居”门额。",
+    "popularity": "11",
+    "recommendLevel": "3.4"
+  },
+  {
+    "name": "浏阳凤凰峡漂流",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d6ca7bcb0a46f21fef1f99abf7246b600c33ae1b.jpg",
+    "introduction": "去了一次绝对不会去第二次，水是臭的，黄的，之前在网上也看到了很多好的评论才去的，结果大失所望，就不知道这些评论哪来的，老公说非常失望，都是人工修出来的，说这里好的都是没去过其它地方的漂流的，虽然最后一个35米落差很大，很刺激，但感觉也很危险，没有什么保护措施，漂完一身都是臭的，气死了!",
+    "popularity": "7",
+    "recommendLevel": "3.7"
+  },
+  {
+    "name": "松柏寺",
+    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4034970a304e251f52f03e38a686c9177e3e53ef.jpg",
+    "introduction": "交通不是很方便，需要转车，首先在火车站出站口前坪坐127路公交车，到星沙一桥下车，下车再向东走3-5分钟到天华路，就看到星沙汽车站了，票价2元。到星沙汽车站后，乘坐105路公交车，大致半小时左右，到星沙文化公园下车，接着再走个两三百米就到了。松柏寺的历史还是很久远的，可惜最后毁于战火，现在的寺院为重建。以红黄两色为主色，宏伟大气。",
+    "popularity": "9",
+    "recommendLevel": "2.8"
+  }
+]
