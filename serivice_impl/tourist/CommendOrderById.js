@@ -61,10 +61,10 @@ module.exports = async function (orderId, feedback) {
         }
         // console.log('查询guide结束')
         let numOfFinishedOrders = guide.numOfFinishOrder
-        let rate = guide.goodFeedbackRate // 这个rate是百分比的整数部分
+        let rate = guide.goodFeedbackRate // 这个rate是百分比 * 100
         // 开始计算 包括将5 星数转换成好评率
         rate = (((rate / 100) * 5) * numOfFinishedOrders + guidePoint) / (numOfFinishedOrders + 1)
-        rate = Math.round(rate / 5 * 100)
+        rate = rate / 5 * 100
         // 更新
         guide.numOfFinishOrder = numOfFinishedOrders + 1
         guide.goodFeedbackRate = rate
@@ -85,7 +85,7 @@ module.exports = async function (orderId, feedback) {
         let popularity = spot.popularity
         let recommendLevel = spot.recommendLevel
         recommendLevel = (recommendLevel * popularity + spotPoint) / (popularity + 1)
-        recommendLevel = Math.round(recommendLevel)
+        recommendLevel = recommendLevel
         // 更新
         spot.popularity = popularity + 1
         spot.recommendLevel = recommendLevel
