@@ -86,9 +86,8 @@ var noticeInvitationResult = (order) => {
         // 状态转换
         let result = '接受'
         let ps = ''
-        if (order.state === OrderState.CANCELED) {
+        if (order.state === OrderState.REJECTED) {
             result = '拒绝'
-            ps = `原因：${order.cancelReason}`
         } else {
             ps = `向导手机：${guide.phone}，向导微信：${guide.wechat}`
         }
