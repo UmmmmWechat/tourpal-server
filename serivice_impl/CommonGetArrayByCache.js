@@ -25,14 +25,10 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
             let data = await onCacheFail()
             // 如果不在cache中，则做其他事，最后将data传过来存在cache中
             if (sortBy) {
-                console.log('before sort')
-                for (let i in data) {
-                    console.log(data[i].name)
-                }
                 data = data.sort(sortBy)
-                console.log('after sort')
                 for (let i in data) {
-                    console.log(data[i].name)
+                    let value = data[i].popularity * 0.4 + data[i].recmmendLevel * 60
+                    console.log(data[i].name, ':' ,value)
                 }
             }
             cache.setResource(key, data)
