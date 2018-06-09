@@ -143,7 +143,7 @@ Cache.prototype.setResource = function (key, value, maxDelt) {
 Cache.prototype.removeResource = function (key) {
     console.log('-------------')
     console.log('clear resource', key)
-    HTMLDListElement.resourceMap[key] = undefined
+    this.resourceMap[key] = undefined
 }
 
 
