@@ -1,3 +1,5 @@
+let mysql = require('mysql')
+
 let localConnection = mysql.createConnection({
     host: 'localhost',
     post: 3306,
