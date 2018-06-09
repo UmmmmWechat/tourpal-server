@@ -10,7 +10,7 @@ var fn = async (ctx, next) => {
        {
            orderId: orderId,
        },
-       () => CancelOrder(orderId, cancelMessage)
+       () => CancelOrder(orderId)
    )
 }
 

@@ -4,7 +4,7 @@ const Order = require('../../entity/Order')
 const OrderState = require('../../utils/OrderState')
 const ResultMessage = require('../../utils/ResultMessage')
 // 参数为 {int} orderId, {String} cancelMessage
-module.exports = async function (orderId, cancelMessage) {
+module.exports = async function (orderId) {
     let order = undefined;
     try {
         // 获取
