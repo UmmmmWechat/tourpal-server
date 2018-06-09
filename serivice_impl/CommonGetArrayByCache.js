@@ -14,7 +14,9 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
     console.log(`start:${start}, end:${end}`)
     try {
         res = await cache.getResource(key)
-        res = res.slice(start, end)
+        if (start !== -1) {
+            res = res.slice(start, end)
+        }
         onCacheSuccess(res)
     } catch (e) {
         notCacheHit = e
@@ -33,8 +35,11 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
             }
             cache.setResource(key, data)
             // 继续成功回调
-            data = data.slice(start, end)
+            if (start !== -1) {
+                data = data.slice(start, end)
+            }
             onCacheSuccess(data)
+            
         } catch (e) {
             throw e
         }
