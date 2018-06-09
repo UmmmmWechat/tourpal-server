@@ -5,7 +5,7 @@ var fn = async (ctx, next) => {
     let orderId = body.orderId
     orderId = parseInt(orderId)
     let feedback = body.feedback
-    CommonCotroller(
+    await CommonCotroller(
        ctx,
        next,
        {
