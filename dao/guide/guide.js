@@ -8,11 +8,13 @@ let insert = function (guide) {
             .then(async res => {
                 let id = res.insertId;
                 let favorSpots = guide.favorSpots;
-                for (let i = 0; i < favorSpots.length; i++) {
-                    sql = "insert into guide_favor_spot (guideId, spotId) values (?, ?)"
-                    await query(sql, [id, favorSpots[i]])
-                        .then()
-                        .catch(err => reject(err))
+                if (favorSpots) {
+                    for (let i = 0; i < favorSpots.length; i++) {
+                        sql = "insert into guide_favor_spot (guideId, spotId) values (?, ?)"
+                        await query(sql, [id, favorSpots[i]])
+                            .then()
+                            .catch(err => reject(err))
+                    }
                 }
                 resolve(res)
             })
@@ -24,6 +26,7 @@ let update = function (guide) {
     return new Promise((resolve, reject) => {
         // let sql = "update guide set avatar=?, introduction=?, phone=?, wechat=?, goodFeedbackRate=?, numOfFinishOrder=? where id=?"id
         let sql = "update guide set "
+
         for (let key in guide) {
             if (guide[key] && (key !== 'favorSpots')) {
                 sql += `${key}='${guide[key]}',`
@@ -35,14 +38,16 @@ let update = function (guide) {
         query(sql)
             .then(async res => {
                 sql = "delete from guide_favor_spot where guideId=?"
-                query(sql, [guide.id])
+                await query(sql, [guide.id])
                     .then(async res => {
                         let favorSpots = guide.favorSpots;
-                        for (let i = 0; i < favorSpots.length; i++) {
-                            sql = "insert into guide_favor_spot (guideId, spotId) values (?, ?)"
-                            await query(sql, [guide.id, favorSpots[i]])
-                                .then()
-                                .catch(err => reject(err))
+                        if (favorSpots) {
+                            for (let i = 0; i < favorSpots.length; i++) {
+                                sql = "insert into guide_favor_spot (guideId, spotId) values (?, ?)"
+                                await query(sql, [guide.id, favorSpots[i]])
+                                    .then()
+                                    .catch(err => reject(err))
+                            }
                         }
                     })
                     .catch(err => reject(err))
