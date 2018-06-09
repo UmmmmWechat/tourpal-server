@@ -1,4 +1,5 @@
 const CommonController = require('../CommonController')
+const GetGuideById = require('../../serivice_impl/guide/GetInfo')
 // 
 var fn = async (ctx, next) => {
     let guideId = ctx.query.guideId
@@ -9,7 +10,7 @@ var fn = async (ctx, next) => {
         {
             guideId: guideId
         },
-        () => ''
+        () => GetGuideById(guideId)
     )
 }
 
