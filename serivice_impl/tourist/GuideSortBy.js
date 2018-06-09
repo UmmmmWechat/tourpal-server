@@ -2,5 +2,5 @@
 module.exports = (x, y) => {
     let valueX = x.goodFeedbackRate
     let valueY = y.goodFeedbackRate
-    return valueX - valueY
+    return valueY - valueX
 }
