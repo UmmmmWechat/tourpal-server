@@ -56,7 +56,7 @@ let spot = `create table if not exists spot (
     name varchar(255), 
     pictureUrl varchar(255), 
     popularity integer not null, 
-    recommendLevel integer not null, 
+    recommendLevel double not null, 
     primary key (id))
     default charset=utf8;`
 
@@ -71,7 +71,7 @@ let guide = `create table if not exists guide (
     id integer not null auto_increment, 
     avatar varchar(255), 
     gender varchar(255) not null, 
-    goodFeedbackRate integer not null, 
+    goodFeedbackRate double not null, 
     idCard varchar(255), 
     introduction varchar(255), 
     numOfFinishOrder integer not null, 
