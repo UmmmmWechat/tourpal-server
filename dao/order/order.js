@@ -107,7 +107,7 @@ let findByGuideIdAndState = function (guideId, state) {
     let sql = "select * from my_order where guideId=" + guideId + " and state='" + state + "'";
 
     if (state !== orderState.CANCELED && state !== orderState.REJECTED && state !== orderState.TIMEOUT)
-        sql += " order by travelDate desc";
+        sql += " order by travelDate ";
 
     return find(sql);
 }
@@ -126,7 +126,7 @@ let findByTouristIdAndState = function (touristId, state) {
     let sql = "select * from my_order where touristId=" + touristId + " and state='" + state + "'";
 
     if (state !== orderState.CANCELED && state !== orderState.REJECTED && state !== orderState.TIMEOUT)
-        sql += " order by travelDate desc";
+        sql += " order by travelDate ";
 
     return find(sql);
 }
