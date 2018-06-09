@@ -29,7 +29,7 @@ module.exports = async function (orderId) {
         // 清除cache
         let key = 'order' + order.touristId + OrderState.WAITING
         Cache.removeResource(key)
-        let key = 'order' + order.guideId + OrderState.WAITING
+        key = 'order' + order.guideId + OrderState.WAITING
         Cache.removeResource(key)
         // 返回成功
         return ResultMessage.SUCCESS

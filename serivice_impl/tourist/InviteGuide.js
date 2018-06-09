@@ -43,7 +43,7 @@ module.exports = async function (order, formId) {
         let key = 'order' + order.touristId + order.state
         // 移除cache因为已经更新了
         Cache.removeResource(key)
-        let key = 'order' + order.guideId + OrderState.WAITING
+        key = 'order' + order.guideId + order.state
         Cache.removeResource(key)
 
         return ResultMessage.SUCCESS

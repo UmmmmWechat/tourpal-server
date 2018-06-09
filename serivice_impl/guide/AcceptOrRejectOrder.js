@@ -42,7 +42,7 @@ var stateOrder = async (orderId, state) => {
     console.log('state order:' + state + ' over')
     let key = 'order' + order.touristId + order.state
     Cache.removeResource(key)
-    let key = 'order' + order.guideId + order.state
+    key = 'order' + order.guideId + order.state
     Cache.removeResource(key)
     return ResultMessage.SUCCESS
 }
