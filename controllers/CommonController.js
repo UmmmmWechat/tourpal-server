@@ -22,6 +22,7 @@ module.exports = async function (ctx, next, params, operation) {
             await next()
             ctx.response.status = 400
             ctx.response.body = `Param ${key} is required!`
+            return
         }
     }
     // 没有参数错误
