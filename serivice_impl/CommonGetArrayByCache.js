@@ -25,9 +25,15 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
             let data = await onCacheFail()
             // 如果不在cache中，则做其他事，最后将data传过来存在cache中
             if (sortBy) {
-                console.log(data)
+                console.log('before sort')
+                for (let i in data) {
+                    console.log(data[i].name)
+                }
                 data = data.sort(sortBy)
-                console.log(data)
+                console.log('after sort')
+                for (let i in data) {
+                    console.log(data[i].name)
+                }
             }
             cache.setResource(key, data)
             // 继续成功回调
