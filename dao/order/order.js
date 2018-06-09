@@ -13,7 +13,7 @@ let update = function (order) {
         query(sql, [order.state, order.cancelReason, order.id])
             .then(async res => {
                 let feedback = order.feedback;
-                if (feedback !== null && feedback !== '') {
+                if (feedback) {
                     sql = "insert into order_feedback values (?, ?, ?, ?)"
                     await query(sql, [order.id, feedback.guidePoint, feedback.spotPoint, feedback.comment])
                         .then()
@@ -74,16 +74,18 @@ let find = function (sql) {
                         sql = "select * from order_feedback where orderId=?"
                         await query(sql, [order.id])
                             .then(res => {
-                                let feedback = res[0]
-                                order.feedback = {
-                                    spotPoint: feedback.spotPoint,
-                                    guidePoint: feedback.guidePoint,
-                                    comment: feedback.comment
+                                if (res.length > 0) {
+                                    let feedback = res[0]
+                                    order.feedback = {
+                                        spotPoint: feedback.spotPoint,
+                                        guidePoint: feedback.guidePoint,
+                                        comment: feedback.comment
+                                    }
                                 }
                             })
                             .catch(err => reject(err))
                     }
-                    else order.feedback = null
+                    else order.feedback = undefined
 
                     orders.push(order)
                 }
@@ -107,7 +109,7 @@ let findByGuideIdAndState = function (guideId, state) {
     let sql = "select * from my_order where guideId=" + guideId + " and state='" + state + "'";
 
     if (state !== orderState.CANCELED && state !== orderState.REJECTED && state !== orderState.TIMEOUT)
-        sql += " order by travelDate ";
+        sql += " order by travelDate";
 
     return find(sql);
 }
@@ -126,7 +128,7 @@ let findByTouristIdAndState = function (touristId, state) {
     let sql = "select * from my_order where touristId=" + touristId + " and state='" + state + "'";
 
     if (state !== orderState.CANCELED && state !== orderState.REJECTED && state !== orderState.TIMEOUT)
-        sql += " order by travelDate ";
+        sql += " order by travelDate";
 
     return find(sql);
 }

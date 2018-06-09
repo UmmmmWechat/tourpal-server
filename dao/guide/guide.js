@@ -22,9 +22,17 @@ let insert = function (guide) {
 
 let update = function (guide) {
     return new Promise((resolve, reject) => {
-        let sql = "update guide set avatar=?, introduction=?, phone=?, wechat=?, goodFeedbackRate=?, numOfFinishOrder=? where id=?"
+        // let sql = "update guide set avatar=?, introduction=?, phone=?, wechat=?, goodFeedbackRate=?, numOfFinishOrder=? where id=?"id
+        let sql = "update guide set "
+        for (let key in guide) {
+            if (guide[key] && (key !== 'favorSpots')) {
+                sql += `${key}='${guide[key]}',`
+            }
+        }
 
-        query(sql, [guide.avatar, guide.introduction, guide.phone, guide.wechat, guide.goodFeedbackRate, guide.numOfFinishOrder, guide.id])
+        sql = sql.slice(0, sql.length - 1) + " where id=" + guide.id;
+
+        query(sql)
             .then(async res => {
                 sql = "delete from guide_favor_spot where guideId=?"
                 query(sql, [guide.id])
