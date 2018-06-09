@@ -140,6 +140,12 @@ Cache.prototype.setResource = function (key, value, maxDelt) {
     console.info('------------------')
 }
 
+Cache.prototype.removeResource = function (key) {
+    console.log('-------------')
+    console.log('clear resource', key)
+    HTMLDListElement.resourceMap[key] = undefined
+}
+
 
 Cache.getInstance = function () {
     if (this.instance === undefined) {

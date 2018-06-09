@@ -4,6 +4,7 @@ const FormDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/message/mess
 const ResultMessage = require('../../utils/ResultMessage')
 const OrderState = require('../../utils/OrderState')
 const FormItem = require('../../entity/Message')
+const Cache = require('../../utils/cache')
 
 // 邀请某位导游
 /**
@@ -38,6 +39,12 @@ module.exports = async function (order, formId) {
         form.orderId = orderId
         form.createdDate = new Date()
         await FormDAO.insert(form)
+
+        let key = 'order' + order.touristId + order.state
+        // 移除cache因为已经更新了
+        Cache.removeResource(key)
+        let key = 'order' + order.guideId + OrderState.WAITING
+        Cache.removeResource(key)
 
         return ResultMessage.SUCCESS
     } catch (err) {

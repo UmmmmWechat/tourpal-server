@@ -15,6 +15,7 @@ const OrderDao = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order
 const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
 const SpotDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/spot/spot`)
 const ResultMessage = require('../../utils/ResultMessage')
+const Cache = require('../../utils/cache')
 
 // 参数为 {int} orderId, {Feedback} feedback
 /**
@@ -25,6 +26,7 @@ const ResultMessage = require('../../utils/ResultMessage')
  */
 module.exports = async function (orderId, feedback) {
     let order = new Order()
+    let key = 'key'
     try {
         // 查出来 
         let res = await OrderDao.findById(orderId)
@@ -41,6 +43,12 @@ module.exports = async function (orderId, feedback) {
         let guidePoint = feedback.guidePoint
         // 更新
         await OrderDao.update(order)
+         // cache中的key
+        key = 'order' + order.touristId + order.state 
+        Cache.removeResource(key)
+
+        key = 'order' + order.guideId + order.state 
+        Cache.removeResource(key)
 
         // 其他业务逻辑
         // 计算guide的信息

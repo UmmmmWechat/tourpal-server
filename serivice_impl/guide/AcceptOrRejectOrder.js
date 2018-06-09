@@ -4,6 +4,7 @@ const OrderState = require('../../utils/OrderState')
 const OrderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order`)
 const NoticeTourist = require('../notice/NoticeTourist')
 const ResultMessage = require('../../utils/ResultMessage')
+const Cache = require('../../utils/cache')
 
 /**
  * TODO: 结果通知
@@ -39,6 +40,10 @@ var stateOrder = async (orderId, state) => {
     }
     console.log(new Date().toLocaleTimeString())
     console.log('state order:' + state + ' over')
+    let key = 'order' + order.touristId + order.state
+    Cache.removeResource(key)
+    let key = 'order' + order.guideId + order.state
+    Cache.removeResource(key)
     return ResultMessage.SUCCESS
 }
 

@@ -3,6 +3,7 @@ const orderDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order
 const Order = require('../../entity/Order')
 const OrderState = require('../../utils/OrderState')
 const ResultMessage = require('../../utils/ResultMessage')
+const Cache = require('../../utils/cache')
 // 参数为 {int} orderId, {String} cancelMessage
 module.exports = async function (orderId) {
     let order = undefined;
@@ -25,6 +26,11 @@ module.exports = async function (orderId) {
         order.state = OrderState.CANCELED
         // 更新数据库
         await orderDAO.update(order)
+        // 清除cache
+        let key = 'order' + order.touristId + OrderState.WAITING
+        Cache.removeResource(key)
+        let key = 'order' + order.guideId + OrderState.WAITING
+        Cache.removeResource(key)
         // 返回成功
         return ResultMessage.SUCCESS
     } catch (err) {
