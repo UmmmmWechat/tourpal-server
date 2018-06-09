@@ -27,7 +27,7 @@ module.exports = async (key, start, end, sortBy, onCacheSuccess, onCacheFail) =>
             if (sortBy) {
                 data = data.sort(sortBy)
                 for (let i in data) {
-                    let value = data[i].popularity * 0.4 + data[i].recmmendLevel * 60
+                    let value = data[i].popularity * 0.4 + data[i].recommendLevel * 60
                     console.log(data[i].name, ':' ,value)
                 }
             }
