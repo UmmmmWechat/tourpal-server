@@ -18,7 +18,7 @@ module.exports = async function (ctx, next, params, operation) {
     }
     // 检查参数
     for (let key in params) {
-        if (!params[key]) {
+        if (!params[key] && params[key] !== 0) {
             await next()
             ctx.response.status = 400
             ctx.response.body = `Param ${key} is required!`
