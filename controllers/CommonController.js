@@ -14,7 +14,7 @@ module.exports = async function (ctx, next, params, operation) {
     var onError = function (err) {
         console.log('on error', err)
         ctx.response.status = 500
-        ctx.response.body = err
+        ctx.response.body = err.message
     }
     // 检查参数
     for (let key in params) {

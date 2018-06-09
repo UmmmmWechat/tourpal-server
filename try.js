@@ -1,5 +1,7 @@
 let a = ''
 
-if (!a) {
-    console.log('dfdf')
+try {
+    throw new Error('dkkd')
+} catch (error) {
+    console.log(error.message)
 }
