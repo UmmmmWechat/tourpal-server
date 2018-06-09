@@ -24,5 +24,5 @@ module.exports = (x, y) => {
         let weightR = 0.6
         let valueX = x.popularity * weightP + x.recmmendLevel * 100 * weightR
         let valueY = y.popularity * weightP + y.recmmendLevel * 100 * weightR
-        return valueX - valueY
+        return valueY - valueX
 }
