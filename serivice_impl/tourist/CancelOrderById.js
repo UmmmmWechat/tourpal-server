@@ -22,15 +22,17 @@ module.exports = async function (orderId) {
         } else if (order.state === OrderState.REJECTED) {
             throw new Error(ResultMessage.ALREADY_REJECTED)
         }
+        // 清缓存
+        let key = 'order' + order.touristId + OrderState.WAITING
+        Cache.removeResource(key)
+        key = 'order' + order.guideId + OrderState.WAITING
+        Cache.removeResource(key)
         // 改变状态
         order.state = OrderState.CANCELED
         // 更新数据库
         await orderDAO.update(order)
         // 清除cache
-        let key = 'order' + order.touristId + OrderState.WAITING
-        Cache.removeResource(key)
-        key = 'order' + order.guideId + OrderState.WAITING
-        Cache.removeResource(key)
+        
         // 返回成功
         return ResultMessage.SUCCESS
     } catch (err) {
