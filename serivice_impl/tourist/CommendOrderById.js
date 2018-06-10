@@ -42,15 +42,21 @@ module.exports = async function (orderId, feedback) {
         // 景点和向导评分
         let spotPoint = feedback.spotPoint
         let guidePoint = feedback.guidePoint
+        // cache中的key
+        key = 'order' + order.touristId + order.state
+        Cache.removeResource(key)
+
+        key = 'order' + order.guideId + order.state
+        Cache.removeResource(key)
         //状态变成了finished
         order.state = OrderState.FINISHED
         // 更新
         await OrderDao.update(order)
-         // cache中的key
-        key = 'order' + order.touristId + order.state 
+        // cache中的key
+        key = 'order' + order.touristId + order.state
         Cache.removeResource(key)
 
-        key = 'order' + order.guideId + order.state 
+        key = 'order' + order.guideId + order.state
         Cache.removeResource(key)
 
         // 其他业务逻辑
