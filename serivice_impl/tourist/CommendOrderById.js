@@ -15,6 +15,7 @@ const OrderDao = require(`../../${config.isTest ? 'daostub' : 'dao'}/order/order
 const GuideDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/guide/guide`)
 const SpotDAO = require(`../../${config.isTest ? 'daostub' : 'dao'}/spot/spot`)
 const ResultMessage = require('../../utils/ResultMessage')
+const OrderState = require('../../utils/OrderState')
 const Cache = require('../../utils/cache')
 
 // 参数为 {int} orderId, {Feedback} feedback
@@ -41,6 +42,8 @@ module.exports = async function (orderId, feedback) {
         // 景点和向导评分
         let spotPoint = feedback.spotPoint
         let guidePoint = feedback.guidePoint
+        //状态变成了finished
+        order.state = OrderState.FINISHED
         // 更新
         await OrderDao.update(order)
          // cache中的key
