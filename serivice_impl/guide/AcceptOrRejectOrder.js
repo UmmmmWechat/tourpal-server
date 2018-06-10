@@ -22,7 +22,7 @@ var stateOrder = async (orderId, state) => {
     try {
         // 先获取，等待
         let res = await OrderDAO.findById(orderId)
-        console.log('in state order',res)
+        console.log('in state order', res)
         order = res[0]
         if (!order) {
             throw new Error(ResultMessage.NOT_FOUND)
@@ -31,6 +31,11 @@ var stateOrder = async (orderId, state) => {
         if (order.state === OrderState.CANCELED) {
             throw new Error(ResultMessage.ALREADY_CANCELED)
         }
+        // 消除cache
+        let key = 'order' + order.touristId + order.state
+        Cache.removeResource(key)
+        key = 'order' + order.guideId + order.state
+        Cache.removeResource(key)
         // 更新
         order.state = state
         await OrderDAO.update(order)
@@ -40,10 +45,6 @@ var stateOrder = async (orderId, state) => {
     }
     console.log(new Date().toLocaleTimeString())
     console.log('state order:' + state + ' over')
-    let key = 'order' + order.touristId + order.state
-    Cache.removeResource(key)
-    key = 'order' + order.guideId + order.state
-    Cache.removeResource(key)
     return ResultMessage.SUCCESS
 }
 

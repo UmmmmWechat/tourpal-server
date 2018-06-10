@@ -21,15 +21,6 @@ let localConnection = mysql.createConnection({
 
 let connection = localConnection
 
-// let connection = mysql.createConnection({
-//     host: 'localhost',
-//     post: 3306,
-//     user: 'root',
-//     password: '970603',
-//     // password: '123456',
-//     database: 'tourpal',
-// })
-
 connection.connect()
 
 let query = function (sql, values) {
