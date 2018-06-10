@@ -10,7 +10,12 @@ var fn = async (ctx, next) => {
         {
             guideId: guideId
         },
-        () => GetGuideById(guideId)
+        async () => {
+            let guide = await GetGuideById(guideId)
+            // 拦截openId
+            delete guide.openId
+            return guide
+        }
     )
 }
 

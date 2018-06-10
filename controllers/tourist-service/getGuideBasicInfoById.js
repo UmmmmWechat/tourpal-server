@@ -6,7 +6,7 @@ const CutGuide = require('../../utils/CutGuide')
 * @param {int} lastIndex
 */
 /**
- * 这边拿到的是完整信息
+ * 这边拿到的是基本信息
  * @param {*} ctx 
  * @param {*} next 
  */
