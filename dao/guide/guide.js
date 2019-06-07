@@ -2,9 +2,9 @@ const query = require("../database")
 
 let insert = function (guide) {
     return new Promise((resolve, reject) => {
-        let sql = "insert into guide (avatar, gender, idCard, introduction, openId, phone, realName, wechat, numOfFinishOrder, goodFeedbackRate) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+        let sql = "insert into guide (avatar, gender, age, idCard, introduction, openId, phone, realName, wechat, numOfFinishOrder, goodFeedbackRate) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
 
-        query(sql, [guide.avatar, guide.gender, guide.idCard, guide.introduction, guide.openId, guide.phone, guide.realName, guide.wechat, guide.numOfFinishOrder, guide.goodFeedbackRate])
+        query(sql, [guide.avatar, guide.gender, guide.age, guide.idCard, guide.introduction, guide.openId, guide.phone, guide.realName, guide.wechat, guide.numOfFinishOrder, guide.goodFeedbackRate])
             .then(async res => {
                 let id = res.insertId;
                 let favorSpots = guide.favorSpots;
@@ -33,13 +33,13 @@ let update = function (guide) {
             }
         }
 
-        sql = sql.slice(0, sql.length - 1) + " where id=" + guide.id;
+        sql = `${sql.slice(0, sql.length - 1)} where id=?`;
 
-        query(sql)
+        query(sql, [guide.id])
             .then(async res => {
                 sql = "delete from guide_favor_spot where guideId=?"
                 await query(sql, [guide.id])
-                    .then(async res => {
+                    .then(async () => {
                         let favorSpots = guide.favorSpots;
                         if (favorSpots) {
                             for (let i = 0; i < favorSpots.length; i++) {
@@ -58,9 +58,9 @@ let update = function (guide) {
     });
 }
 
-let find = function (sql) {
+let find = function (sql, val) {
     return new Promise((resolve, reject) => {
-        query(sql)
+        query(sql, val)
             .then(async (res) => {
                 let guides = []
 
@@ -69,7 +69,7 @@ let find = function (sql) {
                     let guideId = guide.id;
 
                     sql = "select * from guide_favor_spot where guideId=?"
-                    await query(sql, guideId)
+                    await query(sql, [guideId])
                         .then(res => {
                             let favorSpots = []
 
@@ -91,22 +91,22 @@ let find = function (sql) {
 }
 
 let findById = function (id) {
-    let sql = "select * from guide where id=" + id
-    return find(sql)
+    let sql = "select * from guide where id=?"
+    return find(sql, [id])
 }
 
 let findByOpenId = function (openId) {
-    let sql = "select * from guide where openId='" + openId + "'"
-    return find(sql)
+    let sql = "select * from guide where openId=?"
+    return find(sql, [openId])
 }
 
 let findByFavorSpot = function (spotId) {
-    let sql = "select * from guide where exists (select * from guide_favor_spot where guide_favor_spot.guideId=guide.id and spotId=" + spotId + ")"
-    return find(sql)
+    let sql = "select * from guide where exists (select * from guide_favor_spot where guide_favor_spot.guideId=guide.id and spotId=?)"
+    return find(sql, [spotId])
 }
 
 let findByKeyword = function (keyword) {
-    let sql = "select * from guide where realName like '%" + keyword + "%' or introduction like '%" + keyword + "%'"
+    let sql = `select * from guide where realName like '%${keyword}%' or introduction like '%${keyword}%'`
     return find(sql)
 }
 

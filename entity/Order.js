@@ -18,4 +18,8 @@ module.exports = function () {
     this.cancelReason = '';
 
     this.feedback = '';
+
+    // this.touristName = '';
+    // this.spotName = '';
+    // this.guideName = '';
 }

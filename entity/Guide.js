@@ -5,6 +5,7 @@ module.exports = function () {
     this.realName = '';
     this.idCard = '';
     this.gender = '男';
+    this.age = 0;
     this.wechat = '';
     this.phone = '';
     this.introduction = '';

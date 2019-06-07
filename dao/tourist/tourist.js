@@ -1,8 +1,21 @@
 const query = require("../database")
 
 let insert = function (tourist) {
-    let sql = "insert into tourist (openId) values (?)"
-    return query(sql, [tourist.openId])
+    let sql = "insert into tourist (openId, name, wechat, idCard) values (?, ?, ?, ?)";
+    return query(sql, [tourist.openId, tourist.name, tourist.wechat, tourist.idCard]);
+}
+
+let update = function (tourist) {
+    let sql = "update tourist set";
+
+    for (let key in tourist) {
+        if (tourist[key]) {
+            sql += `${key}='${tourist[key]}',`
+        }
+    }
+
+    sql = `${sql.slice(0, sql.length - 1)} where id= ?`;
+    return query(sql, [tourist.id])
 }
 
 let findById = function (id) {
@@ -15,4 +28,4 @@ let findByOpenId = function (openId) {
     return query(sql, [openId])
 }
 
-module.exports = {insert, findById, findByOpenId}
+module.exports = {insert, update, findById, findByOpenId}

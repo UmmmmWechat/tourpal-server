@@ -25,12 +25,15 @@ public class GuidePre {
 }
 */
 /**
- * 
+ *
  * TODO: 其实是更新， 不是增加
- * @param {Guide} guide 
+ * @param {Guide} guide
  */
 module.exports = async function (guide) {
     try {
+        let nowYear = new Date().getFullYear();
+        let guideYear = parseInt(guide.idCard.substr(6, 4));
+        guide.age = nowYear - guideYear;
         await GuideDAO.update(guide)
     } catch (error) {
         throw error

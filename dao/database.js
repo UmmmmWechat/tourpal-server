@@ -1,45 +1,40 @@
-const config = require('../config')
-let mysql = require('mysql')
+let mysql = require('mysql');
 
-const remoteConnection = mysql.createConnection({
-    host: '111.231.99.122',
-    post: 3306,
-    user: 'root',
-    password: '970603',
-    // password: '123456',
-    database: 'tourpal',
-})
-
-let localConnection = mysql.createConnection({
+let pool = mysql.createPool({
     host: 'localhost',
     post: 3306,
     user: 'root',
-    password: '970603',
-    // password: '123456',
+    password: '123456',
     database: 'tourpal',
-})
+});
 
-let connection = localConnection
-
-connection.connect()
-
-let query = function (sql, values) {
-
+let query = function (sql, val = []) {
     return new Promise((resolve, reject) => {
-        connection.query(sql, values, (err, result) => {
-            if (err)
+        pool.getConnection((err, connection) => {
+            if (err) {
                 reject(err)
-            else
-                resolve(result)
+            } else {
+                connection.query(sql, val, (err, res) => {
+                    if (err) {
+                        reject(err)
+                    } else {
+                        resolve(res)
+                    }
+                    connection.release()
+                })
+            }
         })
     })
-}
+};
 
 let tourist = `create table if not exists tourist (
     id integer not null auto_increment, 
     openId varchar(255), 
+    name varchar(255),
+    wechat varchar(255),
+    idCard: varchar(20),
     primary key (id))
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let spot = `create table if not exists spot (
     id integer not null auto_increment, 
@@ -49,54 +44,58 @@ let spot = `create table if not exists spot (
     popularity integer not null, 
     recommendLevel double not null, 
     primary key (id))
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let location = `create table if not exists location (
     spotId integer not null, 
     city varchar(255), 
     province varchar(255), 
     region varchar(255))
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let guide = `create table if not exists guide (
     id integer not null auto_increment, 
     avatar varchar(255), 
     gender varchar(255) not null, 
     goodFeedbackRate double not null, 
-    idCard varchar(255), 
+    idCard varchar(20), 
     introduction varchar(255), 
     numOfFinishOrder integer not null, 
     openId varchar(255), 
     phone varchar(255), 
+    age integer,
     realName varchar(255), 
     wechat varchar(255), 
     primary key (id)) 
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let guide_favor_spot = `create table if not exists guide_favor_spot (
     guideId integer not null, 
     spotId integer) 
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let order = `create table if not exists my_order (
     id integer not null auto_increment, 
     cancelReason varchar(255), 
     generatedDate datetime, 
     guideId integer not null, 
+    guideName varchar(255),
     message varchar(255), 
     spotId integer not null, 
+    spotName varchar(255),
     state varchar(255), 
     touristId integer not null, 
+    touristName varchar(255),
     travelDate datetime, 
     primary key (id))
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let order_feedback = `create table if not exists order_feedback (
     orderId integer not null,
     guidePoint integer not null, 
     spotPoint integer not null, 
     comment longtext)
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let message = `create table if not exists message (
     id integer not null auto_increment, 
@@ -104,19 +103,19 @@ let message = `create table if not exists message (
     formId varchar(255),
     createDate datetime default now(),
     primary key (id))
-    default charset=utf8;`
+    default charset=utf8;`;
 
 let createTable = function (sql) {
-    query(sql, [])
-}
+    query(sql)
+};
 
-createTable(tourist)
-createTable(spot)
-createTable(location)
-createTable(order)
-createTable(order_feedback)
-createTable(guide)
-createTable(guide_favor_spot)
-createTable(message)
+createTable(tourist);
+createTable(spot);
+createTable(location);
+createTable(order);
+createTable(order_feedback);
+createTable(guide);
+createTable(guide_favor_spot);
+createTable(message);
 
-module.exports = query
+module.exports = query;

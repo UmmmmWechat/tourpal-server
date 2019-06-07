@@ -26,9 +26,9 @@ let update = function (spot) {
     return query(sql, [spot.popularity, spot.recommendLevel, spot.id])
 }
 
-let find = function (sql) {
+let find = function (sql, val) {
     return new Promise((resolve, reject) => {
-        query(sql)
+        query(sql, val)
             .then(async res => {
                 let spots = []
 
@@ -54,22 +54,22 @@ let find = function (sql) {
 
 
 let findById = function (id) {
-    let sql = "select * from spot where id=" + id
-    return find(sql)
+    let sql = "select * from spot where id=?"
+    return find(sql, [id])
 }
 
 let findByProvinceAndCity = function (province, city) {
-    let sql = "select * from spot where exists (select * from location where province='" + province + "' and city='" + city + "' and spotId=id)"
+    let sql = `select * from spot where exists (select * from location where province='${province}' and city='${city}' and spotId=id)`
     return find(sql)
 }
 
 let findByKeyword = function (keyword) {
-    let sql = "select * from spot where name like '%" + keyword + "%' or introduction like '%" + keyword + "%'"
+    let sql = `select * from spot where name like '%${keyword}%' or introduction like '%${keyword}%'`
     return find(sql)
 }
 
 let findByCityAndKeyword = function (city, keyword) {
-    let sql = "select * from spot where exists (select * from location where city='" + city + "' and (name like '%" + keyword + "%' or introduction like '%" + keyword + "%') and spotId=id)"
+    let sql = `select * from spot where exists (select * from location where city='${city}' and (name like '%${keyword}%' or introduction like '%${keyword}%') and spotId=id)`
     return find(sql)
 }
 

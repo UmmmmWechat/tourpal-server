@@ -62,9 +62,9 @@ let updateFinished = function (list) {
     })
 }
 
-let find = function (sql) {
+let find = function (sql, val) {
     return new Promise((resolve, reject) => {
-        query(sql)
+        query(sql, val)
             .then(async res => {
                 let orders = []
 
