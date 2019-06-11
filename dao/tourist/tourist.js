@@ -1,8 +1,8 @@
 const query = require("../database")
 
 let insert = function (tourist) {
-    let sql = "insert into tourist (openId, name, wechat, idCard) values (?, ?, ?, ?)";
-    return query(sql, [tourist.openId, tourist.name, tourist.wechat, tourist.idCard]);
+    let sql = "insert into tourist (openId, name, wechat, idCard, age) values (?, ?, ?, ?, ?)";
+    return query(sql, [tourist.openId, tourist.name, tourist.wechat, tourist.idCard, tourist.age]);
 }
 
 let update = function (tourist) {
