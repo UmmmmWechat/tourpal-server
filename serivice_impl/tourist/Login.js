@@ -24,7 +24,21 @@ module.exports = async function (code) {
             tourist = new Tourist()
             tourist.openId = openId
             let insertResult = await TouristDAO.insert(tourist)
-            tourist.id = insertResult.insertId
+            let id = insertResult.insertId
+            return {
+                message: ResultMessage.NOT_REGISTER,
+                touristId: id
+            }
+        } else if (!tourist.idCard) {
+            return {
+                message: ResultMessage.NOT_REGISTER,
+                touristId: tourist.id
+            }
+        } else {
+            return {
+                message: ResultMessage.SUCCESS,
+                touristId: tourist.id
+            }
         }
         return tourist.id
     } catch (error) {
