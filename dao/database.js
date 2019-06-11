@@ -1,4 +1,6 @@
 let mysql = require('mysql');
+let path = require('path');
+let fs = require('fs');
 
 let pool = mysql.createPool({
     host: 'localhost',
@@ -32,7 +34,7 @@ let tourist = `create table if not exists tourist (
     openId varchar(255), 
     name varchar(255),
     wechat varchar(255),
-    idCard: varchar(20),
+    idCard varchar(20),
     primary key (id))
     default charset=utf8;`;
 
@@ -117,5 +119,31 @@ createTable(order_feedback);
 createTable(guide);
 createTable(guide_favor_spot);
 createTable(message);
+
+let insertSpots = () => {
+    query("select * from spot limit 1")
+        .then(res => {
+                if (!res.length) {
+                    let dir = 'spots';
+                    let files = fs.readdirSync(path.resolve(dir));
+                    let spotSql = 'insert into spot (name, introduction, pictureUrl, popularity, recommendLevel) values (?, ?, ?, ?, ?)';
+                    let locationSql = 'insert into location (spotId, city) values (?, ?)';
+                    files.forEach(file => {
+                        let data = JSON.parse(fs.readFileSync(path.resolve(dir, file), 'utf-8'));
+                        let city = data.city;
+                        let spots = data.spots;
+                        spots.forEach(spot => {
+                            query(spotSql, [spot.name, spot.introduction, spot.pictureUrl, spot.popularity, spot.recommendLevel])
+                                .then(result => {
+                                    let id = result.insertId;
+                                    query(locationSql, [id, city]);
+                                });
+                        })
+                    })
+                }
+            }
+        )
+};
+insertSpots();
 
 module.exports = query;

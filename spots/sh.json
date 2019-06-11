@@ -1,1766 +1,1769 @@
-[
-  {
-    "name": "外滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/964b2e4e92017e92d1c86adc.jpg",
-    "introduction": "外滩是上海最有名的地方，也是乘凉的好去处。周围的高大建筑承载着太多历史的沉淀。夜景很棒，能看到黄浦江两岸壮观的景色和亮丽的灯光。适合夜晚漫步，看看夜色，吹吹海风。",
-    "popularity": "6083",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "东方明珠",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ff41bd5ad6eddc4e7a9a1b438dbb6fd52663336.jpg",
-    "introduction": "东方明珠是很漂亮很高的建筑，附近既繁华又景色优美。在甲板上游外滩太惬意，而且上海历史陈列馆值得看看。东方明珠晚上的景色是最美的，视野非常开阔，能够俯瞰黄浦江两岸风光。",
-    "popularity": "3836",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "南京路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/342ac65c10385343967a466e9213b07ecb8088cc.jpg",
-    "introduction": "南京路也是上海比较有名的地方，是一条繁华的商业街。商品算得上是琳琅满目，吃饭的地方也很多，特别得热闹。南京路还有着美丽的外滩风景，去看看帅哥美女也是很不错的。",
-    "popularity": "3494",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "田子坊",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e78c6589c1917ee40e24443c.jpg",
-    "introduction": "田子坊店铺很多，有许多特色小店，洋溢着浓厚的艺术气息，灯光打得很悠闲，能够感受到老上海的风情。这里的东西都不便宜，但是环境不错。还有许多地道的美食，不过价格也不便宜。",
-    "popularity": "3112",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "朱家角",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b90e7bec54e736d15601b1989b504fc2d562690b.jpg",
-    "introduction": "朱家角很漂亮，有江南水乡的别致，商业气息不浓。地方不是很大，就是人太多了，小吃真的是不错的，都很有特色，而且吃的东西也不贵。",
-    "popularity": "671",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海科技馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b6045da9d61459911e17a285.jpg",
-    "introduction": "上海科技馆很好玩，周五人比较多。球幕影院不是很推荐，价格略贵。设施陈旧，然而很多项目还是很有趣的，小朋友最喜欢是智慧之光和彩虹儿童乐园。科技馆里面内容丰富，动物馆也不错。",
-    "popularity": "1051",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "崇明岛",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8d5494eef01f3a291e1d83709925bc315d607cb2.jpg",
-    "introduction": "崇明岛水洁风清，到处都有未经人工斧凿的天然风光。绿树成荫的环岛大堤，犹如一条绿色巨龙，盘伏在长江口上。重点推荐森林公园，景色宜人，尤其深秋的西沙湿地大气磅礴。",
-    "popularity": "499",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "豫园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19880a331f42a9ad0e.jpg",
-    "introduction": "“全国四大文化市场”之一，与北京潘家园、琉璃厂、南京夫子庙齐名。“奇秀甲于东南”的城市山林，在江南古典园林中独树一帜。",
-    "popularity": "1677",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "泰晤士小镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/472309f7905298220129c78bd7ca7bcb0a46d464.jpg",
-    "introduction": "一个坐落在上海松江很美很美的小镇，里面环境悠闲雅致，建筑精美，既浪漫又安逸，难得的享受休闲时刻的绝佳选择。",
-    "popularity": "665",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海野生动物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bbe0d311058b7d48b9127bfd.jpg",
-    "introduction": "人很多，服务不错。整体感觉很好，收费略高。吃竹子的大熊猫超可爱，还有凶猛的动物。适合大半天的旅游，野生动物园离上海稍远，适合自驾游，停车方便。物种齐全，表演精彩。",
-    "popularity": "851",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "七宝老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcfaaf51f3deb48f774f026bf11f3a292df57865.jpg",
-    "introduction": "上海有特色的一条老街，有一条小吃街绝对值得一去。景色还行，不过不推荐节假日去。人实在太多，羊肉很出名，鲜榨甘蔗汁味道也还好。保存最完好的古街，很漂亮的古风建筑。",
-    "popularity": "973",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海欢乐谷",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b79ec22c8b30adcbef76099b1b.jpg",
-    "introduction": "是上海乃至全国规模最大、景色最美、科技含量最高的主题公园，动感、时尚、欢乐、梦幻。",
-    "popularity": "790",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "上海海洋水族馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6dc09e0a44ae8666b0351d6b.jpg",
-    "introduction": "海底世界不错，海洋馆虽然门票价格有点小贵，但里面的鱼种类很多，水母馆非常好看。馆内除了展出世界上有特色的淡水及海洋生物外，也有一些目前在中国已濒临绝种的稀有水生生物。",
-    "popularity": "539",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "复旦大学",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43e6c733e3377b2eac4b5f34.jpg",
-    "introduction": "风景很不错，很漂亮的地方。光华楼太现代化了，对新闻传播学院的大楼印象极为深刻。校园内很安静，自然而然心就静了下来。",
-    "popularity": "772",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海杜莎夫人蜡像馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e8112b2ac9962c605243c107.jpg",
-    "introduction": "九个主题展区，百位栩栩如生名人蜡像陈列。",
-    "popularity": "1625",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海动物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e8112b2a75ca88555243c121.jpg",
-    "introduction": "风景很漂亮，很赞的地方。上海动物园内有珍稀动物近600种、6000余只，其中有我国珍贵动物麋鹿、大熊猫、金丝猴等，还有来自世界各地的长颈鹿、袋鼠、企鹅、非洲狮等。",
-    "popularity": "709",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "金茂大厦",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf39ef2307f9dcd100baa12ba6.jpg",
-    "introduction": "景观很好，俯视的景色真的很美，而且真的很壮观。人非常多，排队很长。很气派，很有特色的摩天大楼。象征了上海的繁华，但是没有东方明珠好玩。",
-    "popularity": "1502",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "徐家汇天主教堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e7ce6dcc79e22cccc116628.jpg",
-    "introduction": "徐家汇天主堂真的算是精致的教堂，建筑有特色，是上海市区保存得最完好的的天主教堂，而且庄严肃穆。",
-    "popularity": "615",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "1933老场坊",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2bce203985878e5d43f7caf.jpg",
-    "introduction": "艺术气息浓厚，很经典的建筑，而且很好的创意园区。现在是非常受欢迎的时尚园区，经常有活动在此举办。\n",
-    "popularity": "543",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "枫泾",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/78701455198cd79cb645ae4b.jpg",
-    "introduction": "枫泾最有名的就是枫泾古镇了，吃的东西很便宜。人多乱的很，但是乡村美景。味道非常清淡，有很多好吃的。很安静的一个小镇，但是商业化气息不浓，远离城市的喧嚣。",
-    "popularity": "211",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/38403f3f564a008154e72397.jpg",
-    "introduction": "上海博物馆是个很值得去的一个地方，内容很丰富，很多珍贵的文物，而且质量精湛。宣传页内容很多，进入的时候检查的比较严格。外形看着就很霸气啊，感受博大精深的古人智慧。",
-    "popularity": "963",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "世纪公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0862c354a5910935d00906ea.jpg",
-    "introduction": "典型的生态城市公园，碧湖草地、音乐广场，为野餐休闲好去处。",
-    "popularity": "584",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "共青森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a231465458c55edf0e86.jpg",
-    "introduction": "经济实惠又好玩，在杨浦区，比较远的一个公园，但风景不错，四五月份会开很多漂亮的小紫花的。",
-    "popularity": "357",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "新天地",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c63514a8609394e08f7ef38.jpg",
-    "introduction": "美味的美食，非常非常推荐去，而且有很多酒吧和特色的小店，氛围也很好，惬意的生活，并且感觉还是蛮古朴的，历史和摩登的冲击，以老上海标志石库门建筑为基础。",
-    "popularity": "1066",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "环球金融中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918fc87fcdc0503d269759eec40a.jpg",
-    "introduction": "一幢以办公为主，集商贸，宾馆，观光，会议等设施于一体的综合型大厦，是中国目前第一高楼，世界第三高楼，楼高492米。视野非常好，很好玩，服务也很好。",
-    "popularity": "1128",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "外滩观光隧道",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/377adab44aed2e7390eb466b8701a18b87d6fa73.jpg",
-    "introduction": "我国第一条越江行人隧道，将浦西外滩观光区和浦东小陆家嘴新兴旅游区连为一体。最超现实主义最具迷幻色彩而且最有趣的公交形式，来这里，感受一段如梦如幻的旅程。",
-    "popularity": "547",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "上海人民广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/902397dda144ad3432ddb02dd0a20cf431ad853d.jpg",
-    "introduction": "环境很好，既简单又漂亮，在卫星地图上看起来不错。人民广场是上海的经济政治文化中心、交通枢纽、旅游中心，也是上海最为重要的地标之一。",
-    "popularity": "619",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "静安寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0526df01da361f7a50f525e.jpg",
-    "introduction": "静安寺是上海最为著名的真言宗古刹之一。外观非常新，高楼大厦之间静静地坐落着的寺庙，金碧辉煌的建筑楼顶还是很耀眼的，建筑风格非常有特色的历史遗物。",
-    "popularity": "295",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "M50创意园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cf5a831631fd013cf3de32d2.jpg",
-    "introduction": "由纺织厂演变而成的艺术创意园，众多工作室、设计师、艺术家入驻，带来新的创新艺术。",
-    "popularity": "181",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c57e3faee4ac986b48f31d0.jpg",
-    "introduction": "老街非常有特色，小吃也蛮不错的。上海老街的商业经营以传统特色行业为主流，突出传统民俗文化，营造海派文化氛围。",
-    "popularity": "316",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "锦江乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9252ae7edd385e600dd7da35.jpg",
-    "introduction": "坐地铁特别方便，门票不贵，但是排队耗费了子大半时间。里面的设施很好玩，而且玩的项目很多。整体来说不错， 游人可以选择自己喜爱的项目参与，在惊险的气氛中得到欢乐。",
-    "popularity": "363",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "东方绿舟",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a23157194fc55fdf0e43.jpg",
-    "introduction": "空气清新，服务也很好。小朋友玩的东西挺多的，烧烤也不错。节假日人太多，但是个休闲放松的好地方。景区食物价格比较贵，但是买张门票就可以了，买套票挺实惠的。",
-    "popularity": "289",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "外白渡桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/27d647eedbe66ca3b3fb9541.jpg",
-    "introduction": "风光很不错，灯光很美。《情深深，雨蒙蒙》《新上海滩》《上海王》等 ，这些都使用的是上海影视城里仿的外白渡桥。",
-    "popularity": "449",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海植物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b258f5c4e7ccdbc48326ac5c.jpg",
-    "introduction": "植物园很新颖，空气质量也很好，有很多很珍贵的植物。门票不贵，不同季节都适合前往。每年都有百万游客在此感受春天的百花烂漫、夏日的荷风送爽、秋天的菊花傲霜、冬日的梅花凌寒。",
-    "popularity": "369",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "同济大学",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b94f65ec498678bc2e2e216b.jpg",
-    "introduction": "同济是历史悠久的大学, 同济的建筑土木很厉害，建筑系应该是全国最有名的，校园里自然环境很好，同济的樱花很是漂亮。",
-    "popularity": "313",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "东平国家森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/61183b2d461a8359349bf7bb.jpg",
-    "introduction": "空气很清新，说实话并不怎么好玩，不过呼吸新鲜空气还不错，风景也还不错。园内森林繁茂，以“幽、静、秀、野”为特色，植物资源丰富，是人们“回归大自然”的最佳胜地。",
-    "popularity": "154",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海车墩影视乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a0ca99d6e0dba47706088b5a.jpg",
-    "introduction": "地方特别漂亮，风景不错，而且很好玩。交通很方便。乐园里的设施都很陈旧了，但是里面的表演不错，适合拍照取景。整体不错，票价太贵。",
-    "popularity": "127",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海交通大学",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f95898189c1d94d94bedbc72.jpg",
-    "introduction": "一个在中国乃至世界都比较有名的大学，学习氛围很浓的地方",
-    "popularity": "208",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "中共一大会址",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/83cab81ecd72c5474034175e.jpg",
-    "introduction": "虽然内部装修没有开放，但还是注目良久。95年前这里走进过谁？谁成了共和国的缔造者？谁当了叛徒？谁选择了放弃？党从这里诞生经历了怎样的苦难？她与祖国的辉煌是怎样的共生？读过金一南教授的苦难辉煌，体会愈深！一墙之隔的酒吧街，灯红酒绿中，熙熙攘攘的人群里，我隐约看到细雨中一大共产党人的身影，他们为了信仰为了苦难中国奔入历史的波澜，抚今追昔，深受教育，感慨万千！",
-    "popularity": "309",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "鲁迅公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d143596e266473f082025aaf0759.jpg",
-    "introduction": "中国第一个体育公园，主要景点有鲁迅墓，总体保留了英国风景园的特点。非常适合情侣散步，看日落的好地方，而且里面有漂亮的礁石。",
-    "popularity": "318",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "陆家嘴",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/245e8bcab8ca9cdec91768ff.jpg",
-    "introduction": "现在已是上海最具魅力的地方，是夜上海的典型代表。视野辽阔，一派繁荣的景象。很漂亮的地方，看看外景还是不错的。",
-    "popularity": "762",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海城隍庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f510fb30f2442a7058dc322d043ad4bd01302b1.jpg",
-    "introduction": "环境非常的好，就是人太多了，非常繁华的一个地方。小吃都很一般，有点小贵，但是很有特色，推荐可以去瞧瞧。印象最深的就是水汤包，很有上海的特色。最有名的南翔小笼包，味道不错。",
-    "popularity": "1178",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "大观园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b0d4f0f25c6ea726059f3bd.jpg",
-    "introduction": "上海五星级公园，亭台楼阁，精雕细镂，古木翠竹，相衬成趣，上海大观园，红楼梦一场。",
-    "popularity": "188",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "苏州河",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f6e1908e3ea2668e8248808.jpg",
-    "introduction": "上海境内继黄浦江之后的第二大河，分隔了繁华的十里洋场和琐碎不堪的弄堂的河，被许多艺术家赋予了独特的文艺气息",
-    "popularity": "261",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海图书馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a992e31f5d6a1467314e1568.jpg",
-    "introduction": "作为经常去上图自习的我，闲扯几句。因为地处上只脚的关系，周围餐饮比较贵，不过往旁边走2,3分钟就有一家罗森，还有图书馆的食堂饭菜还可以，15块钱可以吃个套餐，就是汤有点油了。\n很神奇的是那个自助借还的东东，不知道原理是神马。\n图书馆感觉一直很闷，坐在窗边又太热了，最舒服的是工作人员坐的位置。我觉得在外面的位置还可以，阅览室闷的呆不住。有些位置是有插座，手机党的福利，还有上图有很多wifi，网速还可以，不过经常掉线了，上图自己的网要输入图书卡号和身份证。\n周围有很多的故居，我中午饭吃饱了没事在周围溜达，还有两个领事馆，一个是德国的，还有一个忘了，不过那个站岗的士兵特逗，头像拨浪鼓一样。",
-    "popularity": "242",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "热带风暴",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c856613e9d12675070cf6cae.jpg",
-    "introduction": "热带风暴是目前亚洲最大的露天水上乐园之一，惊险刺激，惊喜无限。",
-    "popularity": "103",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "石库门",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb312c18bdfd933c895d0430c99.jpg",
-    "introduction": "石库门是上海最有代表性的民居建筑，通常被认为是上海近代都市文明的象征之一，石库门代表了上海传统的市民生活方式，如今随着老城区的大规模改造，已成危房的石库门所剩无几，抓紧时间去观赏正在消失的老上海吧。\n",
-    "popularity": "248",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "磁悬浮列车",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda144daacacf5b2b7d0a20df486d4.jpg",
-    "introduction": "上海磁悬浮列车是我国第一条磁悬浮列车。",
-    "popularity": "319",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "金山城市沙滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19d6661d2842a9ad35.jpg",
-    "introduction": "长三角最具海派风格的城市海岸景观，拥有世界唯一海上浮动游泳池。",
-    "popularity": "263",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "马勒别墅",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f35ea0099c94cc7c6a60fbf5.jpg",
-    "introduction": "马勒别墅门前的绿地广场马勒别墅的大门很小，走进去，就看到这个色彩斑斓带着童话色彩的别墅，挪威式的尖塔、哥特式的尖顶、中国式的琉璃瓦、老虎窗、泰山面砖、彩色花砖、随处可见的佛龛汇聚一堂，到处都雕着美丽精致的图案，室内穹顶上装有彩色玻璃，高低不一的塔尖构成了神秘奇妙的轮廓，让你仿佛置身于北欧的神秘乡村。马勒虽然是英国人，但他发家却在中国，所以他很喜欢中国的传统文化，比如大门口就安置了两尊中国传统的石狮子。",
-    "popularity": "80",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "顾村公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8c1001e93901213fefc25d9554e736d12e2e9581.jpg",
-    "introduction": "满园的樱花很是迷人，空气流通很好。地方很大很漂亮，遇上樱花开的时候人超多，建议不要节假日去。",
-    "popularity": "182",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "松江辰山植物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/42166d224f4a20a451f02a8e90529822730ed088.jpg",
-    "introduction": "辰山植物园是一座集科研、科普和观赏游览于一体的综合性植物园。植物很齐全，记得樱花开的也很美，而且性价比很高的植物园。",
-    "popularity": "129",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "淮海路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a8a1446012a82516b63e5ab.jpg",
-    "introduction": "上海最繁华的商业街之一，以高雅浪漫著称。中现代化建筑林立，时尚名品荟萃，紧随世界潮流。购物环境温馨典雅，众多餐饮娱乐名店以及优越的酒店服务使他与南京路齐名。",
-    "popularity": "520",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "中国馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/37d12f2eb9389b5011aef31b8535e5dde7116e21.jpg",
-    "introduction": "非常有特色的建筑，犹如华冠高耸，天下粮仓；地区馆平台基座汇聚人流，寓意社泽神州，富庶四方。",
-    "popularity": "442",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海美术馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc5e5f34f4bb0d16241f142e.jpg",
-    "introduction": "步入端庄的大厅，沿着宽敞的楼梯拾级而上，抚摸着三十年代的铜铸马头，你定会领略到新旧上海的历史变迁。",
-    "popularity": "109",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "长风公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91529822720e0cf3a366b7b30a46f21fbf09aae1.jpg",
-    "introduction": "上海市大型综合性山水公园，青山绿水，湖底有中国首家主题新概念海洋水族馆。",
-    "popularity": "139",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "七宝古镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a136327d75282ce908fa0ec09fac794.jpg",
-    "introduction": "风景如画，典型的城中之镇，这里有好多好吃的，七宝羊肉是上海最有名的羊肉之一，一定要尝试下。",
-    "popularity": "200",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "滨江森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4a77b2af967f09a17dd92a35.jpg",
-    "introduction": "这里保留了原生态的乡土植物和动植物的栖息地，适合游客享受休闲的乐趣，空气很清新，绿化植被茂盛。烧烤的地方很干净，很不错的公园。花花草草特别美，服务人员态度热情。",
-    "popularity": "86",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "佘山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/34bbf8cdfaf3d03c0eb3454c.jpg",
-    "introduction": "传说由蛇化作的山，上海唯一的自然山林胜地，中外建筑在此汇聚。",
-    "popularity": "263",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "周公馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d01373f082025aaf7f0d5e83fbedab64034f1abe.jpg",
-    "introduction": "一幢西式小楼房，为三层花园别墅，幽静宜人，这是当年中国共产党代表团驻沪办事处，亦称周公馆。",
-    "popularity": "152",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海中山公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0df431adcbef7609cac65fd82edda3cc7dd99eac.jpg",
-    "introduction": "Zhongshan park is one of the best place to see cherry blossoms on 24 March until April. The air quality is good and make people calm down, breath fresh air. Therefore, I highly recommend to see..",
-    "popularity": "141",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "召稼楼",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf5a79c308fadcd100baa12b37.jpg",
-    "introduction": "横跨元明清三个朝代的古镇。青砖黛瓦等充满明清文化韵味的建筑。",
-    "popularity": "95",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "思南公馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82b3b4893b6c81800a18d843b4.jpg",
-    "introduction": "偶然从田子坊骑行去淮海路遇见  幽静 安逸",
-    "popularity": "100",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "滨江大道",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a54e55fb5a8e963c034f5698.jpg",
-    "introduction": "夜色中的滨江大道很美，好惬意的一条临江大道呢。风景非常好，夜晚的滨江大道是对望万国建筑群的绝佳位置，也适合散步，很赞很美的地方。",
-    "popularity": "524",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海巧克力开心乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c75c10385343fbf26fca16dbb17eca8064388f60.jpg",
-    "introduction": "因为不想排队所以没有卖DIY票，游览票的话是120元，主要就是逛逛看看拍拍照，不会花费太多时间。感觉只有最后的欧洲艺术馆以及中华文化里兵马俑青铜器看着有巧克力的样子，其他的看不出巧克力的本色了。蒙娜丽莎、玛丽莲梦露是面包拼成的，听着旁边人说走进看了才发现嘿。演出的话是按时间点来的，为了看一出从12点等到1点，是滑稽剧，不过很值得一看哦。",
-    "popularity": "94",
-    "recommendLevel": "4.6"
-  },
-  {
-    "name": "大宁灵石公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b587fbc8c0ad162d9f2d3c934.jpg",
-    "introduction": "大宁灵石公园以其各具特色的山林、清泉、湖泊、瀑布形成一片湖光山色，景色迷人的都市园林。",
-    "popularity": "131",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海人民公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b211c175a206ca8065380cd78e1a.jpg",
-    "introduction": "地处上海市中心，东临南京路步行街，素来享有“城市绿肺”之美称。",
-    "popularity": "174",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "甜爱路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82b301893b6c81800a19d84319.jpg",
-    "introduction": "被誉为上海“最浪漫”的道路，一种独有的寂静和舒缓的情调浸透其间，恋人散步好去处。",
-    "popularity": "272",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "滴水湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8640bf8bd60988129f2fb4ea.jpg",
-    "introduction": "滴水湖位于上海市浦东新区临港新城，它是目前在尚未成陆的海滩上填海造陆开挖的国内最大人工湖。",
-    "popularity": "254",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "大洋海底世界",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7bc4c6695188a49ab184cd8.jpg",
-    "introduction": "海底世界节假日人比较多，白鲸表演还不错，而且海洋世界里的鱼类很丰富。海豚表演也很精彩，值得一看哦。",
-    "popularity": "212",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海自然博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a23111870df05fdf0ee4.jpg",
-    "introduction": "一所包括古生物学、植物学、动物学、人类学、地质学、天文学多种自然科学的综合性博物馆。",
-    "popularity": "182",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "宋庆龄故居",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/060828381f30e924b6eca4794c086e061d95f729.jpg",
-    "introduction": "这幢房子原是一个德国人的私人别墅，从1948年到1963年，宋庆龄在这里工作、生活达15年之久。",
-    "popularity": "92",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "碧海金沙水上乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167d85683320a4462308f7d3e4.jpg",
-    "introduction": "碧海金沙是目前中国最大的人造沙滩海滨浴场，也是上海唯一一处碧波荡漾的蓝色海域。风景不错，水上自行车挺好玩的。沙子很细腻，赤脚走在沙滩上很舒服。乐喷泉很棒，设施还不错。",
-    "popularity": "66",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "鲁迅故居",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc379310899446eebc4b74542a91187.jpg",
-    "introduction": "前面参观的是鲁迅祖居，此处则是鲁迅故居。祖居是爷爷的，故居是孙子的宅子，也称周家新台门。感觉周家新台门比老台门要大很多，鲁迅在这里度过了他的童年和少年时代。",
-    "popularity": "103",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海八万人体育场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faacb56446a6e39df63654f3.jpg",
-    "introduction": "上海的标志性体育场之一，一直习惯性的把它叫做八万人体育场。记得读书的时候好像是来看过一届大学生运动会，那些运动选手在场上从看台上基本上是看不清脸的……实在是很大……据说，这个体育场是国内唯一不多的可以盈利经营的体育场馆之一，因为经常举办各个演唱会的关系。来看过周杰伦2014魔天伦世界巡回演唱会，买的内场后区票。入口安检和检票速度还蛮快的，内场的椅子差了点，就是普通的塑料凳，而且还比较脏。",
-    "popularity": "152",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海城市规划展示馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6f470395802a80657af48064.jpg",
-    "introduction": "上海内环的整体模型很壮观，内容丰富。门票实惠，规划馆值得参观。展示引人怀旧的上海20世纪30年代老街风貌，以及采用虚拟实境、幻影成像等高新技术手段呈现的上海未来都市景观。",
-    "popularity": "119",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "外滩情人墙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5366d0160924ab18afa4729c34fae6cd7a890bee.jpg",
-    "introduction": "“情人墙”既承载海派文化的人文内涵，又是情侣们携手夜游的好去处。",
-    "popularity": "183",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "龙华寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b6045da92d7cf4a41e17a290.jpg",
-    "introduction": "上海历史最久、规模最大的古刹，取名自弥勒菩萨在龙华树下成佛的典故。",
-    "popularity": "84",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海邮政博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3508d1312a365ed6438dbe8.jpg",
-    "introduction": "1、上海邮政博物馆在外滩附近，四川路桥北堍北苏州路276号，乘坐公交14、19、25路路至天潼路河南北路站下即到。2、周三、四、六、日开放 9:00-17:00(16:00停止入场)（中午11点后也不能入场）3、费用免费4、上海市中国近代邮政的发祥地之一上海邮政博物馆1922年由协澄洋行设计，辛丰记营造厂施工，在原集美里地块上建造，1924年11月竣工。曾列为当时上海十大建筑之一5、博物馆用文字、实物等各种形式，呈现了中国的邮政发展史6、值得去学习和了解",
-    "popularity": "84",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "琉璃中国博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4075890ac00a947295ca6b97.jpg",
-    "introduction": "在田子坊旁边有个琉璃博物馆，如果时间来得及，去那里逛逛是很不错的。1楼是卖场，出售一些琉璃制品，2楼以上都是博物馆，展出各种精美的琉璃制品，也会播放一些琉璃制作过程的视频。琉璃博物馆的门票是35元，早上9点开门，如果田子坊去的早了，小店还没有开门到也可以先去琉璃馆逛逛。地铁9号线，打浦桥站上去最近博物馆。",
-    "popularity": "47",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "徐家汇藏书楼",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a600c338744ebf8666d9e77d9f9d72a6059a75e.jpg",
-    "introduction": "去上海徐汇区专门去看天主教堂的时候碰巧看到的，真没想到居然离得这么近，坐地铁1号线在徐汇站下车差不多走600多米就能看到了，我们看到的是一个小的草坪，有个铜做的弯身坐着的思考者，我看着门是关闭的，就没走进去，大概周日不开放，周六开放，免费的，里面有很多珍藏书籍，很值得一去，下次再去上海再去看了。",
-    "popularity": "108",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "衡山路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3a86813d8993ed58baa1678c.jpg",
-    "introduction": "整条街长2.3公里，南接商业中心徐家汇，北邻时尚购物街淮海路，是两大繁华区域间的幽静而高雅的通道。",
-    "popularity": "145",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "东海大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b77808cb8c31adcbef77099be7.jpg",
-    "introduction": "自驾去嵊泗时途经过的。它是连接大陆与小洋山深水港码头的通道，横跨杭州湾北部海域，它是我国真正意义上的第一座跨海大桥。沿途能看到海上风力发电的风车阵，很是壮观的。注意，桥上不允许停车游览的，只能在行车途中在车上一边欣赏风景一边抓拍相片了。",
-    "popularity": "49",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "文庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c856613e6ad6525071cf6ce9.jpg",
-    "introduction": "文庙内部的风景感觉很秀美，和古城内大多数的其他的景点感觉不同，有耳目一新的感觉！不过感觉没有济南的文庙气派。。文庙门票是包含在古城通票里的，不需要单独购票。买平遥古城通票，通票限本人使用，2天内有效，旺季价格：150元/人，淡季120元/人。园内的绿化挺不错的，很清新。小院子很秀气，有江南小城的感觉",
-    "popularity": "126",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "徐家汇公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4bed2e738bd4b31cc48a6ef387d6277f9f2ff8c0.jpg",
-    "introduction": "有根红色的的大烟囱是原大中华橡胶厂的旧烟囱，在公园建设中不仅没被拆除，反而增高了11米。设计人员别出心裁地将“长高”部分的内部设计为布满光导纤维、外观镂空的“高帽子”，烟囱一旦通电打开，光导纤维发出的光亮透出外罩，就像是烟囱顶端冒出的白烟，弥漫整个夜空，煞是好看。独具匠心，很厉害",
-    "popularity": "93",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "淀山湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d31b0ef41bd5ad6ef191fb7f81cb39dbb6fd3c3e.jpg",
-    "introduction": "“风吹芦苇倒，湖上渔舟飘，池塘荷花笑。”",
-    "popularity": "95",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "上海长江隧桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad84c755704b36acaf2edd9865.jpg",
-    "introduction": "长长的隧桥连接了长江两岸，在夜晚录影斑驳的时刻，有多少思乡人从这里经过，又有多少相聚是从这里开始。",
-    "popularity": "90",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "福州路文化街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae10eddef512b00c95ee3752.jpg",
-    "introduction": "“中华文化第一街”，上海书城、古籍书店、外文书店、科技书店充满浓郁书香气息。",
-    "popularity": "161",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海野生昆虫馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1fc204a772304e251f95ca5f6c.jpg",
-    "introduction": "真心无语 很多缸里都是空的 只有那些不容易死的虫和蜥蜴还健在 还养了两只羊估计也算昆虫类的 可怜的一直叫 卫生很差非常臭 工作人员打瞌睡服务态度也不好 管理不好怎么可能有生意 真心同情那些动物 如果没有免费票 不管是买门票还是团购都不值得 想去的慎重",
-    "popularity": "53",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海音乐厅",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0df431adcbef760962bbe7d72edda3cc7dd99ec1.jpg",
-    "introduction": "上海音乐厅共有观众席1122座，其中楼下640座，楼上482 座，镜框舞台深8.35 米、宽16米，舞台可使用面积约100平方米。舞台上方有可调控反响板，备有斯坦威D -274三角钢琴一架、60路调光台、24路雅马哈调音音响一套、台口话筒插口16只，冷暖气齐备",
-    "popularity": "75",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "南京西路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29381f30e924b899fb8c86706e061d950b7bf6c2.jpg",
-    "introduction": "南京西路被誉为“中华商业第一街”——南京路的西半部，这里是购物的天堂，被称为贵胄之地。",
-    "popularity": "252",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "外滩三号",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e1fe9925bc315c6093faaaa88db1cb134954770e.jpg",
-    "introduction": "外滩三号建筑面积共约12000平方米，在七层楼面里拥有并经营四家呈现精美菜肴的餐厅、高级品牌专卖店、依云水疗中心、沪申画廊和一间音乐沙龙。外滩3号执行董事长李景汉先生表示：“三品牌专卖店完美体现了外滩3号的理念",
-    "popularity": "62",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "欧罗巴世界乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33c86c118f1a4c510fd9f9a164.jpg",
-    "introduction": "以欧洲风情、园林风格，结合佘山风景的特点，吸收中国园林的精华，并以现代娱乐、健身型游乐设施为补充建成的新型游乐场所。",
-    "popularity": "42",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "南翔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a899e510fb30f248130fd4ac895d143ac4b03d4.jpg",
-    "introduction": "一对白鹤落入此处歇息，因此被视为福地，至今已有1500多年的历史，是上海市四大历史文化名镇之一。",
-    "popularity": "184",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "大世界",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db1f4b617e60823dd54574e7493.jpg",
-    "introduction": "集演出、娱乐、观赏、竞技等为一体的综合性游乐中心。",
-    "popularity": "161",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "吴淞湿地公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/024f78f0f736afc34af7cf2db319ebc4b64512fa.jpg",
-    "introduction": "还不错啦！靠海的地方，有一个长廊，可以享受海边散步的悠闲，海风吹吹，吹走了烦恼。公园内部到是比较安静的，有个草坪上没什么人，我们三个就在那边狂吃西瓜，桃子神马的。很high！有一个大大的炮台，就是历史上的淞沪会战的古战场！",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "八音盒珍品陈列馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f070865b5d448e924b899a801f2c2.jpg",
-    "introduction": "这个八音盒陈列馆处在浦东的东方艺术中心之内，要50元门票，门票真心不便宜。不过里面的收藏真的是超赞的！让我不禁想起鼓浪屿的钢琴博物馆，绝对是让人看得弹眼落睛，没想到八音盒也有这么多花样，很多小细节，小机关真是让人看到眼花缭乱！去这个陈列馆的交通是很方便的，地铁2号线坐到上海科技馆站下车，然后步行500来米就能到了。可以和上海科技馆安排在一天游玩。",
-    "popularity": "43",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "上海国际赛车场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7003af33a87e950272b8a2410385343fbf2b4bd.jpg",
-    "introduction": "从上海市区乘坐地铁11号线到上海赛车场下车，步行几分钟就是赛车场的入口了。这个周末正好有Super Race的赛事，来的观众非常多。观众坐席是一排排的椅子就像是电影院一样但是没有那么舒适。赛车场的赛道很长，赛车要隔几分钟才能转一圈经过观众席，现场的发动机轰鸣声非常大，建议在门口购买耳塞。 赛车中午休息的时候，所有的赛车都排队摆放到了赛道上，供一些观众近距离接触，而更吸引眼球的而是身材高挑的车模，她们或漫步在赛道外，或倚靠在车身上，引得无数游客争相拍照，在车展上看不到的景象在赛车场上展现出来了。",
-    "popularity": "64",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "西沙湿地",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf4e8f85c3c77094b36adaf99ed.jpg",
-    "introduction": "门票免费，停车10元（不限时）；站在长江口望着碧波万顷的长江确实震撼；普及：西沙湿地有着丰富的动植物资源。湿地共有种子植物46种，植物优势种有芦苇、野茭白、荩草、马兰、糙叶苔草以及人工种植的旱柳、落羽杉等，水塘中主要为狐尾藻、巩草等沉水植物，边缘为芦苇、狭叶香蒲等挺水植物。西沙滩涂湿地和植物资源地吸引了大量的鸟类，使其成为许多候鸟重要的越冬栖息地。目前记录到的鸟类有26种，其中林灌丛活动鸟类14种，湿地环境活动鸟类11种，最为常见的有大白鹭、绿头鸭、震旦雅雀等。",
-    "popularity": "83",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "3D奇幻印象体验馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/48540923dd54564ef5a4eac0b2de9c82d0584f01.jpg",
-    "introduction": "在上海非常热闹的四川北路中信广场二楼，交通非常方便。景区在餐饮区，很小，里面就10多幅图画，应该半小时足够，但是和我原来去过的几个3D体验馆还是算大的人。景区特别有3D效果拍照角度提示和最佳拍摄点提示，非常贴心，按照提示拍摄的作品效果更好。3D画非常逼真，有趣。如果是75元的价格过高了点",
-    "popularity": "72",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "红坊",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9d4cf433674ed4b73f05dbc.jpg",
-    "introduction": "因为红坊和民生现代美术馆都有鹦鹉螺集市举办，所以恰好去了，红坊位于淮海路的尽头，由上钢十厂原轧钢厂厂房改建而成，里面的建筑都是由废弃的钢材组成，一个钻头做的汽车很有特色，这里闹中取静，大大的草坪可散步，休憩，里面有不少画廊、艺术中心可参观。",
-    "popularity": "43",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "沙特馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c869ab23d37e3e6709c93d5136.jpg",
-    "introduction": "沙特馆展馆形似一艘高悬于空中的“月亮船”，在地面和屋顶栽种枣椰树，形成一个树影婆娑、沙漠风情浓郁的空中花园。月亮船3d电影很精彩。",
-    "popularity": "117",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "紫海鹭缘浪漫庄园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a08b87d6277f9e2f3530ccfc1e30e924b899f339.jpg",
-    "introduction": "以“薰衣草香薰,绿色,生态,环保”为特色,野趣浓郁,是人们“回归大自然”的最佳胜地。",
-    "popularity": "68",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "万国建筑群",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a899e510fb30f245ab917d2c995d143ad4b033b.jpg",
-    "introduction": "￼万国建筑群7图28 ~ 24 ℃阵雨转阴明 32 ~ 25℃后 31 ~ 26℃万国建筑群位于黄浦江西岸的外滩南北全长4公里，是上海的重要象征。主要是在上海外滩北起外白渡桥，南抵金陵东路，这一段是外滩建筑群的精华所在。地址中山东一路地图评分 4.5分开放时间全天门票价格免费著名景点外白渡桥中文名万国建筑群地理位置黄浦江西岸的外滩南北全长4公里历史100到120年所属国家中国所属城市上海市",
-    "popularity": "501",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "东方艺术中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d5bac2fd19ef430ef477c4.jpg",
-    "introduction": "位于浦东世纪公园附近，地铁2号线世纪公园出来就是。场馆构造很有特色，有5个半球组成，老远就能看到，外形宛若一朵美丽的“蝴蝶兰”。中心一共有5个厅，分别是东方演奏厅、东方音乐厅、展览厅、东方歌剧厅。每个厅的功能跟座位总数不同，还有一块很大的休息区域，进入场馆都需要进行安检，售票点在中心里面。很多国内外著名的表演艺术团队跟个人都会来这里演出，去的时候正巧碰到钢琴王子李云迪的专场演出，演出完毕后还进行了签售活动。",
-    "popularity": "66",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "卢浦大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/906289dd086003595982ddb7.jpg",
-    "introduction": "江边这样的路~~遥望卢浦大桥~~~据说沿着这条路的反方向可以走到徐汇区的滨江景观道。天太热了，后来加上我拉肚子，就放弃了到徒步到徐汇的计划。如果徒步的话，这条路肯定很美很美！那年是第一年开放，人也不多，可以笃定地边走边看，除却高温天，一切都是天时地利啊！",
-    "popularity": "84",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "杨浦大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9922720e0cf3d7ca4b721b3ef21fbe096a63a9f5.jpg",
-    "introduction": "黄浦江上的第二座跨江大桥（第一座是南浦大桥）。当初看它还觉得很新鲜，建成后新闻里还整天报道。现在上海的建桥修路工程越来越多，越来越大，它杨浦大桥也就不算个事儿了。其实这类大桥镇没什么好点评的，就是一个过往渡江的桥而已。",
-    "popularity": "113",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "8号桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aad4ae719a91276b8382075.jpg",
-    "introduction": "8号桥在卢湾区建国中路上，离大家熟知的田子坊非常近。这里以前是法租界的旧厂房，后来经过重新设计改造成为一片时尚创意园区。这里之所以成为“桥”，是因为每栋建筑之间都有天桥相连，其中还有一个天桥是横跨建国中路的，这也是蛮有创意的。有空可以去那边逛逛的。",
-    "popularity": "40",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "思南路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a50f4bfbfbedab64eac9723ff636afc378311e91.jpg",
-    "introduction": "￼思南路34图28 ~ 24 ℃阵雨转阴明 32 ~ 25℃后 31 ~ 26℃思南路，位于上海。1914年，在上海法租界第三次扩张的当年，公董局修筑了这条马路。为纪念在1912年8月13日去世的法国著名音乐家Massenet而命名为Massenet，Rue（马斯南路）。地址上海市黄浦区地图评分 4.4分开放时间全天开放游览时长建议2-3小时门票价格无需门票中文名称思南路所属国家中国所属城市上海市",
-    "popularity": "245",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "闵行体育公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f9bfdfb8d513d269759eec44d.jpg",
-    "introduction": "由建筑垃圾堆场改建而来，将运动与自然结合，是上海市首个体育主题公园。",
-    "popularity": "72",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "长兴岛",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0c8a786c9177f3eebfff94570cf3bc79e3d56aa.jpg",
-    "introduction": "长兴岛现在已经挺方便了，大桥下来直达，横沙岛还是上海唯一一个要通过水路才能到达的乡镇。两岛都还保持着比较原始的农业风貌，每到柑橘成熟的时候，就可以来这里采摘柑橘，我们去的时候橘子特别甜，再加上农家菜，超级过瘾",
-    "popularity": "55",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "雁荡路休闲街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8d158aeeb71503712df534c7.jpg",
-    "introduction": "雁荡路的名气应该是二十年前的了。这里是以前的小吃一条街，八十年代的时候，淮海路啊南京路啊这类的商业街是只有服饰和生活用品卖的，吃的东西是不会在这些商业街上出现的，难以想象吧，孩子们，也就是说那个时候你要喝个奶茶或是吃个点心，或是找个小饭堂，这基本就是无法完成的，便利店小卖部一概没有，只有偶尔会有街边摆个小摊，卖茶水的，还不是经常有，要碰运气的。喝水就别想了，因为也不能喝，没有公用厕所，所有商店里的厕所也是不对外开放的。",
-    "popularity": "58",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "陈毅广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/834344af3b5576a3fbed5097.jpg",
-    "introduction": "以前在电视上见到的，现在都在眼前了。在陈毅广场处下来，可以去南京街啦。下午来到浦东逛一下，这些高层建筑都是有天桥连接的。驴友们注意啦，登塔的门票在网上买是要提前一天的，价格非常便宜的，现场票2球160,3球220，船票100元，很贵的！夜游黄浦江地铁站在中国平安楼下，返回昆山，结束一天的行程。",
-    "popularity": "110",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "国际会议中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/73ca591080dfb291c2ce791f.jpg",
-    "introduction": "这边是上海陆家嘴附近一个重要的平民的会议中心，里面有四五层，通常都在同时举办着很多会议，当然在会议中心入口处会有工作人员检查证件，不过软件设施比较好，洗手间有鲜花、温水、卷纸、压花擦手纸、自动给皂器、香喷喷的，服务人员全部都是白色工装。 哈哈",
-    "popularity": "57",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "世博会博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a9d3fd1f4134970a94fc35c194cad1c8a6865d54.jpg",
-    "introduction": "这个应该是叫世博纪念展哦，这已经是第三次去世博纪念展了，真的好难忘，世博的时候去了七八次世博会的 偶是坐地铁，在西藏南路下车的，差不多还要走1000米左右，才能到场馆 十一的时候是买两张送一张，正好有人卖，偶买了一张，15块钱，然后又去买了张学生票，学生证就是好啊，等于两个人只要三十块钱，还是蛮核算的 这里留下了太多的世博的记忆，不知道什么时候还能再看看世博会",
-    "popularity": "59",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "月湖雕塑公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/020e66f05df9979b7831aa0d.jpg",
-    "introduction": "来到这里，心也沉静了，月湖雕塑公园，门票价为成人120元，儿童50元，宠物30元。里面有雕塑，公园很大，设计的也很新式，小桥流水，还有空旷的草地，很开阔，适合周末的时候带小孩来进行亲子活动，交通也挺方便的，9号线佘山站过去一点点路和热带树，适合周末钓鱼。",
-    "popularity": "44",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "佘山教堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8ad4b31c8701a18b9c16de089e2f07082938fefc.jpg",
-    "introduction": "佘山进教之佑圣母大殿，佘山教堂的全称，又名佘山圣母大教堂、佘山天主堂、佘山圣母大殿、远东圣母大殿。位于中国上海市松江区佘山山顶，为中国天主教著名的圣母朝圣地，与法国罗德圣母大殿齐名。\n交通：9号地铁 洞泾地铁站下，再乘坐公交 松重线, 在佘山站下车即到。\n门票：去窗口免费取门票",
-    "popularity": "57",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "崇明湿地",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a54e55fb6b49e509024f5636.jpg",
-    "introduction": "崇明湿地一望无际，伴随着潮汐的声音，人们可以通过一条2公里长的木栈桥，徜徉于芦苇和丛林之中，更接近大自然。",
-    "popularity": "83",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "沐恩堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00e93901213fb80e2995789f36d12f2eb9389435.jpg",
-    "introduction": "在人民广场附近，坐地铁在人民广场站下即可看到沐恩堂。我曾在沐恩堂停留一个上午，感受基督教徒的虔诚：听满怀感恩的演讲，一起诵读《圣经》，一起做各种仪式。沐恩堂的建筑也是十分的典雅，庄重，喜欢拍照的可以进去感受下。如果希望感受这种有仪式感的氛围，礼拜的时候去，基督教活动时去，一年四季都可去，活动在室内进行。",
-    "popularity": "63",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "南翔老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf1b4f01f7f9dcd100bba12b96.jpg",
-    "introduction": "南翔古镇位于上海，交通十分便利，从上海市区做地铁可直达南翔站，乘坐公交车就可到达南翔古镇。南翔古镇并不大，标志性的是古猗园、南翔老街和留云禅寺，南翔小笼更是其代表性的美食。古猗园是典型的江南园林风格，布局合理景色优美值得一去，南翔老街保留的已经不多，隐约还可看到它过去的繁华，留云禅寺是当地名寺历史悠久，现在正在修缮中。",
-    "popularity": "61",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "天马山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb15117492ce28d543022.jpg",
-    "introduction": "普通山上的普通庙，要是免费还可以，付钱不值当",
-    "popularity": "32",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "桂林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0865b5181856e85f34fa4172.jpg",
-    "introduction": "这个桂林公园的桂林可不是地名，是因为园里的桂花林而得名。原名是黄家花园，是上海滩大亨黄金荣的产业。老上海是冒险家的乐园，也是黑社会的乐园。到上海来是不能不看看这些大亨们的遗迹的。",
-    "popularity": "96",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "番茄农庄",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f46a0fcdb4f3d385e9.jpg",
-    "introduction": "乘坐松江27路松江70路松江71路松江72路松江73路到泖港(新乐路中南路)环境还可以，比较清静，空气还是不错的，适合周末度假，就是配套设施还是稍微少了点。",
-    "popularity": "33",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "静安别墅",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/63d9f2d3572c11df4a58cf97632762d0f603c2fd.jpg",
-    "introduction": "静安别墅位于上海市中心静安区，南京西路1025弄1～198号。全天免费坐地铁2号线到南京西路，当天进门后，走了好久，才走到对面的门，还蛮大的，行走在别墅群里，感受居民的生活日常。有些房间的走道门是开的，还可见他们的居家。羡慕啊",
-    "popularity": "64",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "静安公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7dd98d1001e9390116c2fd8a7bec54e737d19645.jpg",
-    "introduction": "本来以为静安公园回想北京很多的城市公园一样，但是小巧玲珑依然是它的主题。不过，绿植茂盛、花开繁茂，让人们在城市快节奏的生活中能够有些许休憩的地方。即使已经11点，还是有跳舞的中老年人，三两个在草坪上玩耍的孩子，在这里完全感受不到门外的快节奏与压力，相反，“悠闲\u0026amp;笑声”才是主题。",
-    "popularity": "66",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "古城公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2f738bd4b31c8701e58a48ae277f9e2f0708ffbe.jpg",
-    "introduction": "城隍庙人太多了，这里可以稍微歇一歇。从福佑路进去的门，门口都是黑暗料理的小摊小贩，再加上运货的面包车，很混乱，就差脏乱差了……进去还可以，右手边有供人休息的长椅，旁边就是桂花树，记得以前汇总推荐赏桂地点的时候，瞄到过这里。人工小河上有一座城墙，当然是后来造的，二楼是咖啡厅，可以无视直接等顶。人工河里的睡莲蛮好看的，给嘈杂的环境带来一点安静。\n乘坐64路, 在新北门站下车可以到达",
-    "popularity": "55",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "环球金融中心观光厅",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/267f9e2f07082838d844b8e4b999a9014d08f1f1.jpg",
-    "introduction": "景色很美，景点很值得一看。白天可俯瞰浦江两岸景色，上海的历史和变化一目了然。入夜后放眼看去黄浦江上大小巨轮如星火般点缀着江面，夜上海的繁华和璀璨尽收眼底。",
-    "popularity": "64",
-    "recommendLevel": "4.6"
-  },
-  {
-    "name": "瀑布钟",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/738b4710b912c8fc5ddbe885fc039245d6882149.jpg",
-    "introduction": "　　\u0026quot;时代的步伐\u0026quot;即位于海关大楼正对面的瀑布钟。它镶嵌于绿色长廊之中，钟高3.5米，长2.7米，呈墨绿色阶梯状，共分十个台阶，每个台阶上装有喷水管，用电脑控制，喷泉涌出可见由一千多个水柱形成的水帘，水帘拖至阶梯，顺势而下成为瀑布。五彩灯光映于水帘，显现出用阿拉伯数字表示的世界主要城市时间。时代瀑布钟与海关大钟相映成趣，两钟位置一高一底，风格一是古典，一是现代，装置一是机械驱动，一是电脑控制，“一老一少”相得益彰，它们昼夜都在提醒人们守时、惜时。　　",
-    "popularity": "49",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "南汇嘴观海公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/908fa0ec08fa513d17c259973d6d55fbb2fbd90a.jpg",
-    "introduction": "滴水湖地铁站出来坐浦东33路，2元钱(优惠后一元)，最多15分钟就到了。就是车次间隔比较长，一般是2-30分钟。周末估计人多点，平时估计没人坐。那个假日酒店不错，不知多少钱一个晚上。虽然也是一望无际，但杭州湾的水和长江一样黄，哪像海水。可以翻过围墙直接到海边。据说这是上海最东南角，就像威海的成山头。拍几张照片走人。金山奉闲南汇的海边都去过了。最后就是川沙还没去了。",
-    "popularity": "35",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "金山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dc54564e9258d109d3ced906d158ccbf6c814d50.jpg",
-    "introduction": "金山区是上海西南部的远郊，位于中国长江以南的江南地区，地处黄浦江上游的金山，东与奉贤区接壤、北与松江区、青浦区为邻，西与浙江平湖、嘉善交界。",
-    "popularity": "123",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "玻璃博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/78310a55b319ebc4fd90f2678326cffc1f171667.jpg",
-    "introduction": "成人160元/人，儿童80元/人，两岁以下婴幼儿免费。购买一大一小两张门票，赠送了30元代金券可在馆内购买饮料甜点。先说里面的罐装可乐是5元，咖啡之类的热饮是25到35左右，可见代金券还是挺实在的。博物馆是老厂房改建的吧，所以坐落了好几个区块，好好玩四个小时绝对需要的，如果要当场制作物品当然要更久。我们时间有限，只玩了两个半小时，玩得比较认真的是儿童玻璃博物馆（此次的重头戏，主要是通过通关游戏了解玻璃的特性）和观看玻璃制品现场制作。有看有玩有买有动手，绝对是深的小朋友的喜爱。",
-    "popularity": "47",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "瀛东村渔家乐",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7fd5266d01609242195c353d40735fae7cd34c1.jpg",
-    "introduction": "崇明瀛东村渔家乐去东航售票处换票，那个人多来了，拿了个号前面居然有36个人在排队，保安说起码2个小时要的，哎，先去吃中饭吧。走出去，看到招商局广场一帮白领们也出来觅食，所以就跟着他们走了，然后看到他们进了这家。",
-    "popularity": "24",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "滨江公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828bcd23ed57fd1f4134970a5a05.jpg",
-    "introduction": "滨江公园我认为是上海一个很不错的休闲散步场所，滨江公园很大，沿着黄浦江成长条状布局，位于陆家嘴的滨江公园紧邻上海的繁华中心，与高楼林立间显的温柔婉约。滨江公园是观赏黄浦江的好地方，对面的外滩，从滨江公园看去又是不一样的感觉，滨江公园是免费的，参观东方明珠以后可以顺带走走滨江公园，还可以从这里乘坐渡轮直接去对面！",
-    "popularity": "42",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "同乐坊",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/245e8bcaba5c9edec8176849.jpg",
-    "introduction": "同乐坊其实蛮有历史的，据说早在20年代，它就已经深入人心了。它是由西康路、余姚路和海防路围出来的三角地带，这里除了有上海特色弄堂之外，还有很多让老同乐坊人所骄傲自豪的“弄堂小工厂”。在2005年，经过对一批老工厂的改造工程，这里已经成为上海的创意产业集聚区之一。可以说这里见证了上海的历史变迁。",
-    "popularity": "26",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "国际礼拜堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bba1cd11728b47100059c684c3cec3fdfc032307.jpg",
-    "introduction": "乘15路或者824路有经过，\n平时不对外开放，周日7点30，10点，19点做三次礼拜，游人可以进去参观。去时正好是周日，看到国际礼拜堂大家好多人都在做礼拜，感受下氛围还是不错滴，很多爸爸妈妈都带小朋友到这里来，教他们要与人为善，还蛮不错的，虽然小时候一直跟外婆去礼拜堂，但气氛没有这里那么好。\n\n只是周边好多乞讨的和小摊贩，都是看中教徒们的爱心么，有点煞风景，整体很不错。",
-    "popularity": "34",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "海军上海博览馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9825bc315c6034a88e9e41c9cb1349540923767e.jpg",
-    "introduction": "这里是上海的一个军事博物馆，主要展出了一些海军方面的东西。是一个免费景点，但必须用身份证登记。这里还有一个射击场，你可以掏钱玩一下真枪。这里还有一个贝壳展，里面有各种各样的贝壳，有些还是非常珍贵的。它包括了主体展览馆、海洋科普与海洋艺术馆、海军历史馆、海军兵器馆以及轻武器实弹射击馆等七个展馆和上海宝山海军少年军校。在宝山区靠近海边建着。里面有很多退役的海军装备，包括军舰，是一个值得去看的地方，向大家推荐了。",
-    "popularity": "31",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "陆家嘴中心绿地",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82270a7c6c6d81800a18d843e2.jpg",
-    "introduction": "上海的金融中心，摩登时代，这类绝对是藏龙卧虎",
-    "popularity": "65",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "新场古镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ac6eddc451da81cb971a9c425366d01608243144.jpg",
-    "introduction": "很安静的一个古镇，游客不多，街角还能看到老爷爷老奶奶自个儿摆摊卖些蔬菜和自家种的无花果，感觉特别适合生活，去的那天天气晴好，想着如果有一天老去，就应该在这样安静的地方，坐在门口，看青石板路上走过来往的人，晒着太阳，怀里抱着一只猫……",
-    "popularity": "49",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "黄浦江观光区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f0708e4d4548fe824b899a801f268.jpg",
-    "introduction": "黄浦江的景色非常的美丽，江面很开阔，而且晚上有灯光很漂亮。浦江两岸荟粹了上海城市景观的精华，从这里你可以看到上海的过去、现在，更可以展望上海的灿烂明天。 ",
-    "popularity": "90",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "嘉定孔庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0d968f2357e93729ad34de87.jpg",
-    "introduction": "免费开放，内部有很多的关于科举文化的展览。信息量多于南京夫子庙。一共有五个展厅。有关于考场的（考场秩序和考试安排人员）。状元的（历代状元，外籍进士）。八股的（八股文章）。里面有很多古木，很多都是两百年以上的历史。科举制度存在了整整1300年，给中国乃至世界非常巨大的影响，既有正面的也有负面的。参观完之后，我相信大家会对科举制度有一个更加客观公允的评价。也相信大家会更加努力的朝着自己学业更上一层楼的方向所奋斗。",
-    "popularity": "69",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "南浦大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc37931ecf8a061ebc4b74542a911e1.jpg",
-    "introduction": "如今的南浦大桥，行人已不能通行，但有过桥的公交，有机会的亲们可以体验一下哦。我顺着黄浦江走，竟然到了码头。很久以前就听说，上海的码头是当地最早的交通工具，这是一种最具生活气息的通行方式，充满了市井气息，我果断要体验一下。买了张船票，5毛钱，一块钱硬币大小的塑料圆。乘船的大都是当地人，他们骑着电车、自行车，第一次见把车放在船上的。",
-    "popularity": "143",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "和平公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ac0acf13eeadbe5a5aaf5392.jpg",
-    "introduction": "我是8号线四平路站下的，沿着大连路走一段，在控江路3岔口那里就有一号门。进公园后就是一个大湖，湖内也没有船啊什么的游乐设施，这样很好，看着很安静。公园里面有儿童乐园，还有一座假山里面有猴子供人参观，有点像动物园。很多附近的居民傍晚会在里面散散步，挺健康的生活方式。不要门票。进动物岛10元一个人，里面还有各种游乐设施，10元左右",
-    "popularity": "51",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "世纪广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32fa828ba61ea8d341d0b743970a304e241f5883.jpg",
-    "introduction": "其实购物对于我的吸引力还不足以让我特地去一趟centresud而是这里还有一个世纪广场，有法国人告诉我，广场上有一个毛泽东的塑像，使蒙彼成为欧洲唯一一个有毛泽东塑像的城市。（据说2012年蒙市当时的市长决定在世纪广场树立十位20世纪最具国际影响力的人物塑像，并且其中有毛泽东的时候，引起了很大争议，甚至有极右组织试图在塑像揭幕仪式当天进行破坏。）",
-    "popularity": "86",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "上海浦东射击俱乐部",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e7ce6dc2ede15cccc1166e9.jpg",
-    "introduction": "其实这就是个度假村，荣获国家AAA级旅游景点称号的旅游胜地。这里最受人关注的就是枪支齐全的实弹射击尝彩弹 枪对抗性射击。当时我就是这么被吸引过来的。确实很好玩，不过小孩要有大人的陪同才行。虽然有防弹衣，但是还是很疼的！！\n公交：乘坐浦东31路到欣河村老年活动室、两滨线到通源路南滨公路都可以到达",
-    "popularity": "24",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海玛雅海滩水公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a8ec8a13632762d070953545a1ec08fa503dc6a5.jpg",
-    "introduction": "设施很不错，超级好玩的地方，夏天有水的地方就是比较凉快。上午人还可以，下午人非常多，里面吃的东西非常贵",
-    "popularity": "35",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "寻梦园香草农场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5243fbf2b211931366db44c064380cd791238d22.jpg",
-    "introduction": "这里是薰衣草的世界，成片的紫色，让人流连忘返，浪漫的花海，令人向往。",
-    "popularity": "20",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "上海意大利中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e3df8dcd100baa138f8bc4f4610b912c9fc2e6a.jpg",
-    "introduction": "前身是上海世博会意大利馆，每周二到周日营业，周一闭馆不营业。票价60元。除了世博会时展出的展品外，还一直不定期地更新展品，展品往往都是集合意大利艺术、手工业、设计、饮食文化和创意等领域的精华，非常值得一看。此外，上海意大利中心还经常开展各种活动，包括意大利品牌的发布会等商贸活动。总的来说，它是向中国展示意大利人文的传统艺术结晶、意大利及其他欧洲国家高品质的生活方式的重要窗口。有时候广场会搞一些交流活动，有演出歌舞和欧洲小吃，气氛很好。意大利馆犹如一座微型的意大利城市，充满弄堂、庭院、小径、广场等传统城市元素。",
-    "popularity": "39",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "世博轴",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb34cf1e045d833c895d0430c73.jpg",
-    "introduction": "世博轴是上海世博会留下的产物，世博轴由上南路直接可以走到黄浦江边，景色很美。世博轴的薄膜的建筑结构，也值得参观。世博轴有不少的高档美食，价格并不便宜。周边也中国馆及其他一些展览馆可以参观。来这里旅游不需要门票。",
-    "popularity": "63",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "秋霞圃",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b219ebc4b74543a968badb841e178a82b80114d0.jpg",
-    "introduction": "百度百科告诉我们：秋霞圃分为四个部分——邑庙、龚家花园、沈家花园、金氏园林，它的历史最早可追溯到宋代，它的地位，在上海的五大园林中，列为最古老的园林。相比起豫园的红色背景、古漪园的游艺气息，秋霞圃更多的是人文气息。因为我偏爱人文类的旅游，喜欢走走逛逛拍拍照，而相比起苏州园林的不菲票价，10元的门票显得平易近人。",
-    "popularity": "39",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "长风海洋世界科普馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167d296a5a22a4462309f7d3df.jpg",
-    "introduction": "由于是在网上预定的门票，需要换票，但是排队排了很长时间才取到的门票，建议可以增加窗口。 关于长风海洋世界的地理位置：是在普陀区大渡河路451号，也就是在上海的长风公园内，这里交通很便利，可以乘坐2号线在中山公园站转地铁3、4号线在金沙江路站下车后步行30分钟左右到达。也可以直接乘坐公交车前往，乘坐44、67、94、754、837、846路、旅游车6A、6B，在长风公园站下车。 关于长风海洋世界的门票：由于这次主要来是为了看白鲸表演，因为这里也是这个华东地区首家拥有的白鲸动物表演，所以还是很值得一看的，门票价格是180元，在网上预定的门票160元，儿童票的门票价格是100元",
-    "popularity": "33",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "州桥老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d8114c4e4d33fa828ba61e462f.jpg",
-    "introduction": "舟桥老街很多好的小店都在巷子的深处，比如吉阿婆，假面馆，泰迪之家，方糖，章鱼小丸子（在比较里面的一家比较好吃  正宗  外面的完全比不上  是个大叔卖的），豪大大也要吃85度巷子里的那家，和章鱼小丸子挨得比较近一般只有常住嘉定的人才知道这些好吃的，而且生意超好。一般旅游的只在主街上逛，很少吃到好吃的。",
-    "popularity": "47",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "老上海1930风情街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f2f070828381f307b393f6fa8014c086f06f0d0.jpg",
-    "introduction": "上海1930风情街，从博物馆的匆匆离开脚脚被磨除了花，无奈辗转寻找买双鞋。惊喜发现在附近还有一小去处，也是二话没说奔了过来。其实上海有很多类似这样的地方，是一条及小吃、商贩于一体的商业步行街，设计的蛮讨巧的。",
-    "popularity": "107",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "﻿佘山国家森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dc54564e9258d10943882863d058ccbf6d814dfc.jpg",
-    "introduction": "佘山最难忘的回忆就是被顽皮的猴子抓破了手，现在留下的疤是去过佘山印证。佘山免费。地铁线路：地铁9号线至佘山站下，可换乘多辆公交包括92路（4站即到）地铁9号线至佘山站下出站左转至车站转乘公交车松青专线（4站即到）。上海市区——延安高架路——沪青平公路——中春路——沪松公路——沈砖公路——外青松公路——到达佘山森林公园佘山里面有教堂，有新人喜欢在这里拍婚纱照。当然这里也有拓展基地，很多公司在这里开展拓展活动。",
-    "popularity": "43",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "三甲港海滨乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f636afc379310a555206f306b64543a982261025.jpg",
-    "introduction": "是浦东新区唯一可开发利用的生活海岸线，天高地阔，空气清新，水天相交，风光旖旎，自然条件得天独厚。景色优美流连忘返，但是水质不太好。",
-    "popularity": "22",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "上海汽车博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fb9bd448d46c224f4a20a4dd35.jpg",
-    "introduction": "博物馆旁边的公园很大很美，老爷车真的很漂亮，交通也挺便利的。车子种类多，汽车博物馆里面很宽敞。小孩玩的很开心，会推荐给朋友。",
-    "popularity": "40",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "长乐路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9825bc315c6034a8ec4e647fca134954082376a4.jpg",
-    "introduction": "长乐路是一条有故事的马路，瘦瘦长长的，贯穿着黄浦、徐汇和卢湾区。在那里有许多的名人故居，当然大部分都是不对外开放的，部分已经挪为商用，破墙开店了。因为长乐路以前是在法租界区域，所以那里的旧房子都是漂亮的洋房，喜欢摄影的朋友应该带上家伙去长乐路采个风。另外长乐路上还有各类美食，中西都有，不容错过。",
-    "popularity": "41",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海马戏城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7af40ad162d9f2d3a0f93ea7a9ec8a136227cc8a.jpg",
-    "introduction": "内容非常好，动物和演员们还是挺卖力的。表演精彩，欢乐马戏真是太欢乐了。上海马戏城，有“中国马戏第一城”的美誉，是上海国际文化都市又一标志性建筑。",
-    "popularity": "88",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "犹太摩西会堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cfc3e75845f8dcd100baa12b5d.jpg",
-    "introduction": "下午去的，下午的讲解是每一个整点开始。讲解员讲解的比较详细，就是同一批一起参观的小朋友有些吵，特别是在二 三展区，吵的没法好好参观。希望以后讲解员在没有讲解内容的展区也陪同一下，能管一下小朋友。学生票价10元，对于学生来说是一个能长知识 灰常nice的学习场所。跟着讲解员的话参观完纪念馆大概1个小时多一点。总体还是推荐学生朋友来看看～",
-    "popularity": "21",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "西佘山园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea4ab1130af9052eea8.jpg",
-    "introduction": "春光明媚中驱车来到了多年未去的西佘山国家森林公园，自行取票后刷卡进入（免费），山不高但细细看来值得品味，尤其爱透过层层光晕的竹林。还在远东第一天主教堂静静的坐了坐，虽不及欧洲教堂的华丽但自有它的韵味和壮美，喜欢！",
-    "popularity": "32",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "课植园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b7e283303930adcbef76099b2a.jpg",
-    "introduction": "朱家角最大的庄园式园林建筑,不妨漫步其中,体会亭台楼阁之美。",
-    "popularity": "39",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "电影博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/242dd42a2834349b06dc1578c8ea15ce37d3be70.jpg",
-    "introduction": "电影博物馆的惊喜当真持续不断。进入电梯后，发现电梯的天花板上是一块液晶屏幕。片段里的主演还有Carmelo Anthony和Scottie Pippen。中国电影业潜力无限啊，NBA球星都来客串一把。另外当电梯门关上的时候，电梯的天花板屏幕自动切换成倒计时，等倒计时到1的时候，电梯刚好抵达4楼。",
-    "popularity": "42",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "南汇上海鲜花港",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5243fbf2b2119313a5d09af865380cd790238de2.jpg",
-    "introduction": "上海鲜花港是现代种植科技农业和观光旅游农业的新亮点，春赏郁金香、夏赏荷、秋赏菊，多样性的展示为你呈上鲜花展的饕餮盛宴。适合拍照，还有适合小孩子玩的迷宫和游乐设施。",
-    "popularity": "49",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "安亭老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f3d3572c11dfa9eca0c09c5f62d0f703908fc188.jpg",
-    "introduction": "上海的古镇老街还是挺多的，安亭老街比较小，主要就是一条河一条街，没有多少游客。乘坐地铁11号线到安亭站下车，然后步行过去。老街上有一座塔还是很有气势的，旁边的一座寺庙没有进去，整体感觉比较冷清，可能跟位置太偏僻有关系。",
-    "popularity": "43",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "玉佛寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8367d1fc4a8112efb801a021.jpg",
-    "introduction": "每逢初一、十五或佛教传统节日，善男信女，三皈居士，接踵而至。院内香烟缭绕，福烛高照，都市风光中的丛林名刹，超凡脱俗、别具韵味。",
-    "popularity": "66",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海历史博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a686c9177f3e67094de046cb38c79f3df8dc5525.jpg",
-    "introduction": "很不错的博物馆。我国三大历史博物馆之一。一共四层。每一层基本有两个展馆。去的时候一定要安排好时间。早点去。和其他博物馆一样，不收门票，每天有限额，记得带身份证。个人印象最深的就是石碑馆、少数民族馆以及货币馆。其他也是不错的。我大约用了两个小时匆匆走了一遍。个人建议，如果要去的话，上午早点去，用一个上午的时间，好好欣赏一下。",
-    "popularity": "32",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "中国航海博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b2119edfe6bdcb8065380dd78e4b.jpg",
-    "introduction": "5.19中国旅游日去的，门票免费，平时是50块的门票，位于临港新城滴水湖旁边，现在地铁16号线可以直达。周一闭馆，馆内展区分为三层，第一层设置了航海历史馆、船舶馆、海员馆，以及渔船与捕鱼专题展区；第二层设置了航海与港口馆、海事与海上安全馆、军事航海馆，以及航海体育与休闲专题展区。第三层是不对外开放的，隔行如隔山，参观达到的效果基本就是蜻蜓点水，临近的滴水湖环境也相当不错。",
-    "popularity": "19",
-    "recommendLevel": "4.7"
-  },
-  {
-    "name": "新国际博览中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745ae93925ecffc1e178a821576.jpg",
-    "introduction": "上海新国际博览中心(SNIEC)是上海一个大型展览中心，每年吸引约200万名海内外观众和2万余名国内外参展商。",
-    "popularity": "98",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "孙中山故居",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d38ecd079baa1cd11728b296d.jpg",
-    "introduction": "孙中山故居位于上海思南路附近，是孙中山在18年开始到25年去世的住所。一栋欧式小洋房，不管是楼阁本身还是里面的家具陈列都保存完好。完整再现了一位国家领导人的生活方方面面。门票20（个人感觉小贵），进去先是一座博物陈列馆，然后是客厅，起居室等故居景点。进去要穿塑料脚套，不能拍照，感觉还是不错的。先坐地铁3号线到大世界，参观中共一大会址，然后在思南路上走，一转弯就到了。旁边还有周公馆，史沫特莱旧居等代表上海民国时期风貌的小洋楼。与周围的高楼大厦相比，这里就是休闲与怀旧风貌的代表。总体来说值得一去！",
-    "popularity": "81",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "荷兰新镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/060828381f30e924af09ad784c086e061c95f7cd.jpg",
-    "introduction": "感觉有点远，不过有空还是想去看看，",
-    "popularity": "40",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "世界巧克力梦公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/55e736d12f2eb9382c42840ad4628535e5dd6f1f.jpg",
-    "introduction": "上海巧克力梦公园在浦东新区，距离市中心有些距离，可以坐地铁7号线到花木路站，3号口出,步行3分钟即可。梦公园的门票是100元/人，可以在网上提前预定，价格会比较便宜。这里大部分的游客是小孩子，比较童趣。公园里有代表性的可爱公仔，可以和公仔合影。展示厅里全是巧克力的奇作，甚至还有巧克力做的兵马俑，非常神奇。这里还专门设有儿童的活动区，可以自己制作东西，这边的小礼品价格较贵，不建议购买。\n总体，这里还是偏小孩子游玩。",
-    "popularity": "28",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "步高里",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf41629819776094b36acaf9938.jpg",
-    "introduction": "乘公交24、104路。冲着名头去的.里弄口有门卫,我说明了就是想进去参观一下,也就让我进了.呵呵\n看的话也没什么特别之处,也就是一普通的居民里弄.红砖墙体看起来还是蛮舒服的.挺干净,安静的.\n我想主要还是以前法租界的保存建筑吧,作为一段历史的见证者(虽然是死物),我们当下的人也应该去感受一下.",
-    "popularity": "28",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "南汇书院人家",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1ad5ad6eddc451da9583fda3b6fd5266d0163204.jpg",
-    "introduction": "这里的农家菜都按标准化统一管理卫生,量很足.我们一行五人点了六菜一荡,服务员就不让再加了,菜多肯定吃不了.菜的味道基夲上都不错.环境比较舒服.",
-    "popularity": "13",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "飞行家主题乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f2f709630503d269758eec4a3.jpg",
-    "introduction": "上海那边离杭州也近，可以带小孩到杭州烂苹果乐园玩呀，那边有十大梦幻主题和近百项高科技互动游乐，小孩会很感兴趣的",
-    "popularity": "26",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "豫园老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c8205d01e596d81800a18d843ab.jpg",
-    "introduction": "此处集聚了极富中国民族风情的特色商铺，涵盖了居家用品、工艺礼品、喜庆用品和传统特色商品四大板块。万余种传统商品汇集一市，数十家特色商店同处一街，每逢庙会假日，芸芸众生，扶老携幼，熙熙攘攘，摩肩接踵，一幅“吃、玩、带”的民俗画，一派“国泰民安”的好风景，尽收眼底。",
-    "popularity": "127",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "临江公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4034970a304e251f13a8e0b0a786c9177f3e531e.jpg",
-    "introduction": "淞沪会战抗战纪念馆，非常雄伟！可惜正在整修，要到15年7月才能对外开放。里面的古城墙和古水关已经十分残破，而朱棣留的碑更是被乱涂乱写十分严重！所幸只是复制品。孔庙已经改为一个展览馆，展览淞沪抗战的照片。陈化成像也比较宏伟。",
-    "popularity": "38",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "金山海滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/503d269759ee3d6dbb2ff73642166d224e4ade66.jpg",
-    "introduction": "其实与其说是金山海滩，不如说金沙泥滩更确切。小时候不懂，知道大人要带着去金山海边觉得特别兴奋。到了才觉得很受骗，怎么没有电视里的那种沙滩呢？只有个黑兮兮的大泥滩。不过大泥滩也有大泥滩的好，就是在这里你尅抓到不少小螃蟹，哈哈。",
-    "popularity": "19",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "南汇桃花村",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2f738bd4b31c87016574c8ae277f9e2f0608ffbc.jpg",
-    "introduction": "南汇这两年搞油菜花经济，搞桃花经济。3月份桃花盛开的时节大批人都会过去看桃花，要拍桃花还是要挑一个晴天，这样拍出来会比较好看。另外这些桃花日后结了果实后，桃子也是拿出来卖的，你如果对老农家有信心，你在看桃花的时候可以跟老乡预定他家的桃子，等7,8月桃子成熟了，老乡会把桃子给你寄过来。桃花村在惠南镇北门路289号，可以地铁16号线坐到惠南镇下车，然后打个车，一个起步费可以抵达。当然自驾依然是去这些郊区的最佳出行方式。",
-    "popularity": "28",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "安徒生童话乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9213b07eca8065384bf1b1c496dda144ac3482c9.jpg",
-    "introduction": "千呼万唤始出来，听说马上就要开业了 ，之前有豆瓣的朋友说翻墙（免费的。。）去看过推荐去，昨天去看了下非常不错，好像之前有电视台在那里取景的。",
-    "popularity": "17",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "喜玛拉雅美术馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9a504fc2d56285358963fdc491ef76c6a6ef6357.jpg",
-    "introduction": "虽然喜马拉雅中心的外墙很酷炫，但也有点经不起细看，墙面质感欠佳。美术馆似乎不是它主要的部分，开在整个中心的3楼，兜兜转转有点难找。而且我去的时候，四楼正厅在装修，只能从卖品部小扶梯上去，到处弥漫着怪味道ORZ门票30元的价格很合理，但这次展览的内容不算多（主题：不合时宜），也许，现代艺术，尤其是那种比较晦涩的题材，本就不宜多，一多人容易疲劳、容易颓废。志愿者倒是很多，一问之下都是来社会实践的中学生，啧啧，青春洋溢啊，非常主动的来给你介绍，无奈介绍内容似乎也是背稿子，而朋友则认为现代艺术不应该被解释，略微理解其中的意思，因为一旦“被”解释，我们就被先入为主带入一个既定的圈套里。",
-    "popularity": "26",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "国际展览中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2e2eb9389b504fc2a3618a4de5dde71190ef6dbf.jpg",
-    "introduction": "上次来上海国际展览中心，主要是为了去看车展，展览中心相当大，分为好多个展区，从地铁出站后一路走只是到了展览中心的后面，走到前门兑换门票，门票是在网络上预订的，遇上特价的话买门票优惠很多，从地铁到展馆入口都有好一段路，够累的。展馆就更加不用说了，逛一天的车展，累得够呛的，场馆不单是大而且多。检票口架起了铁马，方便大家排队，我是临到快要结束展出的那天去的，人少很多，不过车模的整体质素就肯定没有开始的漂亮了，而且看到明显的疲惫感，场馆非常多，各大厂商都争夺发布新车，场馆里面的各个展台都争相做show，此起彼伏，那个人群呀就是冲着音乐去，音乐一响起SHOW就开始，模特也就出场了，要等show结束了才能走进展台看车，了解车，看新车，每年都不能错过上海的车展。",
-    "popularity": "45",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "崇明岛国家地质公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2fdfc039245d68865be9b4aa5c27d1ed31b249b.jpg",
-    "introduction": "园区内有许多自然、人文历史古迹，尤其以东平国家森林公园、学宫、寿安寺等最为著名。园内水土洁净，空气清新，风光优美，地质科学奥妙，是休闲度假、旅游和科学考察的胜地。这个地质公园算是还不错的了，展出的怪石嶙峋，很吸引人，门票也不算太贵，",
-    "popularity": "24",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "横沙岛",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0824ab18972bd40721fc2a037a899e510fb30910.jpg",
-    "introduction": "没有崇明岛的人多，这里无论是游人还是车辆都是稀薄的。来这里度假不失为一个好的选择，则一处木屋，处于中国最东边的海岛上，一醒来就可以看到东海第一缕阳光，那时候我们是为了追逐你这一抹阳光而去，然而一整晚疲劳的骑行让我们放弃了这种想法。",
-    "popularity": "35",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "莘庄公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21bb051f8198618720712cc4aed2e738bd4e632.jpg",
-    "introduction": "阴雨绵绵，寒冷的初春经人推荐来到莘庄公园。这里介绍从前为私家花园，有庭院和小桥流水，地方不大，绿化面积可观。以梅花闻名。很开心看到一个湖面有脚踏船，10元20分钟，结果发现可以划船的地方也太小了，2分钟一圈就结束了。不过蛮适合小朋友玩一下的。生态不错，许多人在这里唱歌，吹奏器乐，跳舞，还有小朋友撩小蝌蚪！加划船20分钟，一小时足够逛完，天气好就更好了！",
-    "popularity": "42",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "安福路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c81667eda16bd3eb13532fa4087.jpg",
-    "introduction": "走了一段吧，一个路口，我就没有按照安福路继续走下去，直接右拐进入乌鲁木齐中路，事先没有做任何的计划，就是随便逛逛，走着走着，又拐进一条路，好像是永福路，来到了 张乐平大师的故居，就是《三毛流浪记》的原著，喜出望外，这个真的值得一去的，关键是免费的！！！里面的环境不错，多媒体介绍，游客留言，感觉真实回到童年溜一圈，志愿者会给一个很有寓意很可爱三毛的书签，虽然简单，但是真是不虚此行~~",
-    "popularity": "60",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "嘉定马陆葡萄园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9345d688d43f8794a98bbe66d21b0ef41bd53a05.jpg",
-    "introduction": "开车子过来还是挺方便滴 如果乘车的话 11号线有个马陆站 但是还要再转车这里的葡萄可以自己摘 也可以直接买他们摘好了的",
-    "popularity": "24",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "滩浒岛",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a1363276a5bd4eb918fa0ec09fac7b7.jpg",
-    "introduction": "与上海隔海相望的滩浒岛气候宜人，空气清新，周围环境优美，被誉为\"东海明珠\"。",
-    "popularity": "28",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "宋庆龄陵园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2eccd796284fc2d562843568a3.jpg",
-    "introduction": "童年回忆，小时候天天五点起床抓一袋米去宋庆龄陵园喂鸽子，后来好像因为鸽子的安全问题没有鸽子了，也不知道现在还有没有鸽子了。",
-    "popularity": "34",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "极地体验馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7fd5266d016092482d923d7d50735fae7cd3479.jpg",
-    "introduction": "583路, 774路, 779路, 791路, 870路, 961路, 985路陆家嘴站下。\n购买观光隧道门票的时候注意到的，门票可以和其他娱乐项目以套票的形式购买~\n极地体验馆的门票是10元，价格不贵，买了票体验下~\n这个馆不大，从头到尾溜达一圈就10分钟~里面设计的挺曼妙的，主色调是天蓝色和白色，馆内很凉爽，清凉的空气更让人设身处地的体验一下极地的感觉",
-    "popularity": "23",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "吴江路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/48540923dd54564e52b833c7b2de9c82d0584f6b.jpg",
-    "introduction": "曾经上海最热闹的小吃街，就如同武汉的户部巷一样。窄窄的马路紧挨着数百家店铺。上海最著名的小杨生煎就是从这里起家的。每到晚上这里就灯火通明，油烟弥漫，挤到你只能侧着走，甚至不用走就有后面的人会堆着你走。前几年市政府改建吴江路，一下子脏乱却美味的平民吴江路摇身一变成了高大上的吴江路了，年轻人热衷的烧烤店，生煎店变成了高大上的咖啡馆，巧克力店，蛋糕店。环境自然干净了，但是人气也是和从前不能比了，有时候，人气和环境真的不能平衡吗？现在吴江路上仍然有小杨生煎，地铁2号线坐到南京西路上来就是了。除了小杨生煎，靠近南京路这里的王家沙也是上海小吃的天堂，吃货们不可错过。",
-    "popularity": "38",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "三甲港海滨",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/64380cd7912397ddbd0de24c5982b2b7d0a28705.jpg",
-    "introduction": "今天刚去，大家别去了，感觉已经萧条了，居然还好意思收门票，幸好去之前没有买票，去了啥也没看到，就只有一个芦苇荡，然后外面还有围墙，围墙里面就是那个乐园，但是没有什么项目也没人玩，基本上去的人都失望而归啊！[弱]",
-    "popularity": "45",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "老相机制造博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d87cc75ac132fa828ba71e462a.jpg",
-    "introduction": "这是孩子暑假实践的百所场馆之一，虽然在田子坊附近，但是由于在白玉兰剧场楼下，大部分游客都是到了剧场前怀疑自己搞错了。作为开馆时间不长的民间博物馆，游客不多。虽然不是摄影发烧友，也长了不少见识。尤其是参观结束，对馆长也是上海摄影协会副主席的陈海汶先生，深表敬意。他出资1百多万收购了海鸥相机厂的装配流水线，如今在展馆一旁保留了3个车间，田子坊设有一家实体店，接受定制机械相机的业务。这样的博物馆，不仅在国内，在全球都相当少见，因为现存的机械相机流水线已经不超过3条，有1条便在这面积不大的博物馆里面。曾经是机械相机制造大国的中国，在数码相机这段历史中可能将是一片空白。",
-    "popularity": "26",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "徐光启墓",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bf33a87e950352a8c9705405343fbf2b3118b87.jpg",
-    "introduction": "坐落在徐家汇光启公园内，作为一名科学家居然能官至次辅，明朝两人之下的大官相比名节也是过人，墓地是合葬墓，墓堆起伏，周边都是打牌的群众，很是和谐，还有很多石碑和石像石马遗迹，在上海非常罕见，单凭徐家汇源于其名字就值得一去",
-    "popularity": "38",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "金山农民画村",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bb22487e7ed0e72c75cc332.jpg",
-    "introduction": "交通不太方便，乘坐枫泾一路到中洪村下车，枫泾一路每半个小时开一班车。整个村子游客很少，环境幽静。这里有来自全国各地的农民画艺术家，农民画作品色彩明快，每个地区又有自己的特色。整个村子1小时就能逛完，也可以进入艺术家的工作室看他们画画或者编织工艺品。",
-    "popularity": "17",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "崇明沿江观光大堤",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8ea15ce36d3d53955ad4c0e3b87e950342ab06f.jpg",
-    "introduction": "崇明二日游的第一个景点在南门港码头的旁边，一条小路穿过去就可以看见外滩看黄浦江，这里看的是长江，感觉完全不一样，可能是对面望不到边的缘故江面挺平缓的，稍微走上那么一小段就行了，其实也没什么大看头有看到一块“崇明岛”的石碑，到此一游者可别错过",
-    "popularity": "19",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "上海白云观",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/18d8bc3eb13533fa1b02b066a8d3fd1f40345bc5.jpg",
-    "introduction": "离上海著名的城隍庙很近，去年游上海全家一起路过，因为妈妈信菩萨，所以进去拜了拜，谁想从外面看起来不太起眼，进到里面却是香火鼎胜，而且大大小小十几个神像，很出乎预料。不必远行便可以找到一份心灵的宁静，让心情有所寄托，我觉得这便是本观的优势。建议前往。",
-    "popularity": "31",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "五角场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a1ec08fa513d2697e3ce4aa054fbb2fb4316d82a.jpg",
-    "introduction": "五角场全称\"江湾-五角场\"，因邯郸路、四平路、黄兴路、翔殷路、淞沪路五条发散型大道的交汇处而得名。民国初年五角场一带原来是上海江湾镇以东的一片荒野，1920年代复旦大学迁来此处。五角场周围，复旦、同济、财大、二军大，可以说是个大学区。",
-    "popularity": "105",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "沉香阁",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7c1ed21b0ef41bd5079af6bc51da81cb38db3da8.jpg",
-    "introduction": "沉香阁又叫慈云禅寺，门票10元，坐落在上海的城隍庙附近，在黄浦区沉香阁路。沉香阁始建于明万历年间，前有弥勒殿，山门石坊；中有大雄宝殿、沉香佛殿，还有造鹤轩、前殿禅堂及左右厢楼。阁在清代为邑城官员祈晴祷雨之处，上海在未建万寿宫前，皇帝皇太后生日也在这里朝贺。因而香火旺盛，誉满上海城。里面有历史悠久的大钟多个，摆放在寺的廊上，如果能保护好就好了",
-    "popularity": "28",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "醉白池",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d009b3de9c82d15858b378f9800a19d8bc3e4240.jpg",
-    "introduction": "醉白池历经300余年，至今仍保存有堂，轩，亭，舫，榭等古建筑，并保持着明清江南园林风貌，其曲栏横槛、回廊曲径，古色古香。园林布局以一泓池水为中心，环池三面皆为曲廊亭榭，晴雨均可凭栏赏景。园内古木葱笼，亭台密布，古迹甚多，有四面厅、乐天轩、疑肪、雪海堂、宝成楼、池上草堂等亭台楼阁及邦彦画像石刻、历史艺术碑廊、“十鹿九回头”石刻、《赤壁赋》真迹石刻、《难得糊涂》石刻等艺术瑰宝，还有树龄在三四百年的古银杏、古樟树，年龄在百年以上的牡丹。",
-    "popularity": "61",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "华东师范大学",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/94cad1c8a786c9179c48b0ffc83d70cf3ac757a9.jpg",
-    "introduction": "本部在普陀区，地段很好的。风景也不错，毗邻长风公园。据说华师大的食堂特别赞，我以前有个好朋友在那里读研，我去过几次，她带我吃过几个食堂，果然很赞的。不过去年网上的黑暗料理里居然华师大也榜上有名了，只能说厨师太天才了。我个人还是喜欢上师大紫薇苑二楼的鸡丝拌面，太赞啦！天天排队有木有！",
-    "popularity": "30",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "龙华烈士陵园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a6c7d71713505c51c83d6d63.jpg",
-    "introduction": "这是个意外的收获，出龙华寺后，感觉时间还早，便去隔壁的龙华烈士陵园，开始并没觉的时候，但走在后面的时候，发现这还真是个不错的地方，绿化很好，景观以及雕塑虽然并没有多久的历史，但却与环境相得益彰，不仅让公园增彩，也恰如其分的表现了公园想要表达的主题",
-    "popularity": "61",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "共青团中央机关旧址",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda144fed140fab2b7d0a20df48699.jpg",
-    "introduction": "在淮海路上。房子的建筑特色跟一大会址相类似，但是名气远不如后者。里面的布局也大同小异，只有进门大厅可以拍照，其他的展览室里虽然都是各种图片，也不允许拍照。不是不可以用闪光灯，是不能拍照。只去过一次，也是因为徒步淮海路的时候进去参观了一下。",
-    "popularity": "22",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "证券大厦",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/359b033b5bb5c9ea39f01dabd539b6003af3b372.jpg",
-    "introduction": "陆家嘴有各种造型的建筑，有且长得很好看，有些则比较奇葩。这座证券大厦就是属于后者。一直都不知道当初设计师是怎么想的，难道想模仿凯旋门咩？这地方反正也不属于景点，也不是能随便参观的，路过抬头看一眼就好了。",
-    "popularity": "18",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海儿童博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f9198618367adab446842fbe8ad4b31c8601e4f2.jpg",
-    "introduction": "细细玩起来真是可以玩一天。但我小孩不喜欢小人书，不喜欢互动游戏，只喜欢玩开关和爬楼梯……美中不足的是很多设备坏了",
-    "popularity": "19",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "洋山深水港",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5bafa40f4bfbfbed63fe28ab78f0f736aec31fba.jpg",
-    "introduction": "参观代表上海市新发展之一的洋山深水港，感受上海新貌。",
-    "popularity": "49",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "陈云纪念馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b07ec1f4d44563bf624e483.jpg",
-    "introduction": "免费不免票的，用身份证去换票就好了.进门的时候是那种地铁一样的入口，估计为了便于工作人员统计参观量和人数吧，所以只好一个个进去，门口就挤了好半天，因为排队排的也是几道队伍，最后再挤成一条道。\n进去后的空间还是很大的，纪念馆有三层，一楼是一号、二号展厅，楼上是三号展厅，地下还有两个临时展厅。一楼的人比较多，楼上基本就没啥人了。里面空调也开得很足，所以逛逛看看还是蛮舒服的~",
-    "popularity": "18",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "前卫生态村",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c10384318aa8ab2119313b07e8917.jpg",
-    "introduction": "生态环境良好，空气非常好，景色很美。中午吃了当地的农家菜很新鲜，吃住价格都还不贵，在崇明农家乐办的比较成熟的村子。",
-    "popularity": "48",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海铁路博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f2f070828381f30cb424f4da8014c086f06f0ff.jpg",
-    "introduction": "因为是上海铁路局的直属单位，所以要出10元的门票。中午11:30要闭馆，13:00又开馆，想去的话要注意开放时间！！！坐地铁3、4号线宝山路站下，走几分钟路就到了。院子里停着两列上世纪20年代美国产的蒸汽机车头",
-    "popularity": "26",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "海湾旅游区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc37931d09bacf1ebc4b74542a91172.jpg",
-    "introduction": "阳光、碧海、沙滩、绿树，上海不能缺海，上海的海就在奉贤海湾旅游区。",
-    "popularity": "34",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "上海老码头景区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/77c6a7efce1b9d1696968dbaf2deb48f8d546493.jpg",
-    "introduction": "“老码头”是原来的十六铺，有着最上海的传奇。这里的临江弄堂、老式石库门群落流传着上海滩大亨们的故事。闲坐屋顶的欧式露台，看黄浦江江水滔滔，楼下曾是黄金荣、杜月笙的仓库。如今，老码头将更好地融合上海这座城市的艺术、文化 、商业与风尚，呈现给世人别具一格的海派风情。",
-    "popularity": "28",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "圣三一堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d788d43f8794a4c2370b57120cf41bd5ad6e39da.jpg",
-    "introduction": "逛街时路过的，但是刚刚想进去时，就被保安劝住了，不让进？！只能和家人看看建筑物了，这栋建筑物貌似很有年代的感觉，可惜看不到里面的环境。估计应该和一般的教堂差不多吧，红白洋楼，挺好看的。看到有游客对其拍照留念呢",
-    "popularity": "18",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "韩湘水博园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d01373f082025aaf188c7831faedab64024f1a89.jpg",
-    "introduction": "闵行区江川西路3805号有一座韩湘水博园，因所处的地名“韩仓”相传是古代八仙之一的韩湘子留下的宅院而得名。景区人气不是很旺，喜欢古建古桥的可以集中品味，因为韩湘水博园内有56座桥，表示了我国有56个民族，而其中有30座桥是地地道道清明时期的古桥，这些桥都是从别处搬迁而来，重新经过园艺设计集合在了一个园区。五孔的韩湘桥，单孔的香泾桥、三孔的醒狮桥，还有跨梁式平桥、曲桥、廊桥、每一座桥都有一段历史。个人对建园的方式虽然持有保留意见，但小桥流水间的亭台回转黑瓦，朱红的雕花木格门窗、青砖铺设的地面、处处彰显着传统建筑的精彩。",
-    "popularity": "16",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "世博公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cefc1e178a82b901a0fdeed6728da9773812ef87.jpg",
-    "introduction": "因为世博会的时候没来成，到了上海特意去世博会纪念展区参观了一下。坐地铁4号线到鲁班路，不过地铁站离的有点远，出站以后往南走大概20分钟才到。注意一下，纪念展区是世博会的城市规划馆，不是中国馆，我来之前一直以为在一起，结果中国馆是在江对岸，离这里还有好远，千万别弄错了。纪念展门票30，楼里有3层，一楼是世博会的图片及资料介绍，二楼展出了国内各地方馆的展品，三楼是其他 国家留下的展品。流动的清明上河图给我留下的印象最深刻，非常赞。那个小米宝宝塑像总觉得有点吓人。对我这没参加世博会的人来说觉得非常不错了。提醒一下，世博会纪念展周一闭馆，平时下午5点关门，下午4点就不售票了，来的话要注意时间安排。这里过江可以参观世博中国馆和世博公园，可以安排在一起参观。",
-    "popularity": "37",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "中国武术博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc5e5f34fa200316251f14a7.jpg",
-    "introduction": "太烂了，我们是一所松江的幼儿园，也是文明而来，上周六的时候白天过来，下着大雨，到了博物馆旁边的侧门，一位阿姨工作人员就是不愿意帮忙喊人开门，说是规定不可以开，我们这么多小朋友那么远过来，我们好说歹说，就是不让进，最后还是从恒仁路那个门走进来，所有孩子就躲在三个老师的伞下，走到了鞋子裤子外套都湿的差不多了。刚进去没多久，发现门卫给了其他人开门。我本想带着孩子们多多了解中国的传统文化，也算是为这个博物馆做了些贡献了吧？好的话年年都会带不同的人了解传统文化，这样无形中也会惠及到不少人，也算是响应了这个博物馆的建立了。可是工作人员这种非人性化的行为，真的太寒人心了！为我们大老远有淋湿了过来感到不值！",
-    "popularity": "18",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "虹口足球场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f05951e80e78310a55b2191cf0.jpg",
-    "introduction": "中国的第一座专业化足球场，果然名不虚传，三层看台，整个球场设计特有现代感，顶层流线型侧棚很漂亮，从南看台顶棚球可以看到陆家嘴的东方明珠和厨房三件套等与球场遥相呼应。球场视野很开阔，一览无余全场无死角，看球的氛围也超级带感，南北看台都是主队球迷，现场感觉超级赞，和电视机上完全不是一个感觉，说来申花算是我半个主队吧，希望申花能早日重回巅峰，WE ARE BLUE！ 咚咚咚咚咚！申花是冠军！",
-    "popularity": "37",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "上海黄浦江游览清游江船",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8601a18b87d6277f907800c429381f30e824fce7.jpg",
-    "introduction": "买的现场票，100块一张成人，坐的是船长3号，有3层，船上环境不错。建议上到第三层看黄浦江的夜景。但是现在商业气息真重，100块的船票在第一层可以免费坐，但是谁会坐在第一层啊，在第三层如果想坐着必须额外再付80块一人。除此之外，如果可以网上订票的话就网上订票吧，携程价才68，就是因为网上预定没有位置了才买的现场票。全程40分钟左右，上海的夜景名不虚传，真心漂亮。而且是中秋前两天去的，月亮很圆，天朗气清漂亮极了！明珠塔我也上去过，如果要看夜景的话，黄浦江游船性价比是最高的，因为明珠塔更坑爹，光是排队就要3个小时，码了这么多字叫我活雷锋不谢。",
-    "popularity": "35",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "复兴公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/08f790529822720e2a53ceb27bcb0a46f31fabdc.jpg",
-    "introduction": "复兴公园是上海开辟最早的公园之一。八十多年前这里是肥沃的良田，当时有个姓顾的人家拥有十多亩土地，便在此建造了一个私人小花园，人们称之为“顾家宅花园”。1900年，法租界公董局以7.6万两规银购入152亩民田，将其中112亩租给法军建造兵营，即顾家宅兵营， 1908年改建公园，于1909年6月建成开放，取名“顾家宅公园”，也称“法国公园”。",
-    "popularity": "74",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "徐汇滨江",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f9198618367adab474c5fe0b8bd4b31c8701e465.jpg",
-    "introduction": "徐汇滨江是世博会前才弄起来的。之前那里的滨江很差劲的。跟黄浦的外滩、浦东的外滩都不是一个级别的。后来大力整治后，修出了休闲步道。很赞的。连龙华庙会都搬到徐汇滨江的海事塔广场了。我去过一次。与老的庙会龙华塔那里有免费的接驳车。从徐汇滨江可以一路走到卢湾这边来的，很长。天气好的时候，适合小情侣徒步。有情调。我2011前后去的时候人都不是很多。现在估计名声大噪，人不会少了。",
-    "popularity": "60",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "川沙古城墙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe0970c3dc5c6b600c338644addc.jpg",
-    "introduction": "从地铁2号线华夏东路下车后步行至华夏东路华东路站换成977路，坐7站到东城壕路中市街站下车，就距离城墙很近了。这座古城墙现仅存60米。不过上海能保存下来的城墙真的是太少太少了，连个城墙样都没有了，只剩几块砖，一个土疙瘩了。整个遗址公园不大，一进去就看到这段城墙，两边则是一些名士诗句碑刻。城墙是可以走上去的，在遗址公园旁边就是一座小学，站在城墙上看着学校操场上的孩子们玩耍，很有穿越时空的感觉。",
-    "popularity": "20",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "东佘山园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f473e4f4b4f2d38580.jpg",
-    "introduction": "刚到公园门口的时候，看着山还蛮高的，听说有90多米，后来爬爬看，逛了两圈，觉得没自己想象的那么累，人还是挺多的，可以去哪里烧烤，野餐，挺好玩的",
-    "popularity": "23",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "圣母大堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a2cc7cd98d1001e976e90d47b80e7bec55e797a4.jpg",
-    "introduction": "路过一次，没有开门所以只是看了一下外观。这教堂的体型真的不算大，但看来还挺精致，保护的也不错（只是外观上看来）。上海教堂不少，但东正教教堂真的好像就这座了。周边有不少景点（孙中山故居之类的），又是那种梧桐路，所以来逛逛，找个咖啡馆悠闲地度过一个下午还是蛮不错的。",
-    "popularity": "36",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "芦潮港",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745a54a955ecffc1e178b82159f.jpg",
-    "introduction": "不大的一座小岛，过东海大桥可以到。岛上很多深水港码头，玩的地方并不是很多，可以爬个山看看风景拍拍照。",
-    "popularity": "32",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "东滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ff41bd5ad6eddc4959d92b339dbb6fd5266337b.jpg",
-    "introduction": "比较冷门，人很少，风景很自然，骑车游很适宜",
-    "popularity": "36",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "老码头阳光沙滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6f061d950a7b0208146db80263d9f2d3562cc8a9.jpg",
-    "introduction": "城市中心的另类沙滩",
-    "popularity": "32",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "崇明学宫",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b2119c64e506ca8065380cd78e2b.jpg",
-    "introduction": "崇明学宫是现今上海仅存的三座学宫之一。来游玩时可参考节庆展览:正月初一至初八豫园元宵灯会、3月-4月南汇桃花节、4月龙华庙会、4月国际花卉节、4月-5月国际茶文化节、9月-10月上海桂花节、9月-10月上海旅游节、12月31日迎新春，撞龙华晚钟，是来游玩时的最佳时节。",
-    "popularity": "20",
-    "recommendLevel": "3.5"
-  },
-  {
-    "name": "嘉善老市",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b03533fa828ba61e26d8dfcc4034970a304e591a.jpg",
-    "introduction": "这是一片老外的小小聚集地 门口一栋创意园 里面各种店铺 各种handmade产品 自成一格 来采风的人很多 来凑热闹的人也有 比如我;P 其中有加cake The British Kitchen 那家是看DP友人介绍前往的 味道不熟大品牌或五星品级产品",
-    "popularity": "8",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "青龙寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/63d0f703918fa0ec6efd9845269759ee3d6ddb44.jpg",
-    "introduction": "乘公交车白徐线（或青华专线）到纪鹤公路青龙路站（或旧青浦站）下均可，下车后朝东至青龙公路，再朝南步行刻把钟可见青龙村，村口是村委会，过村委会的路口朝西直走便见寺与塔。\n  有着近1300年历史的古寺门前立有青浦区文物保护单位碑。\n  中轴线上由南至北是山门、大雄宝殿和在建殿；东侧前后布置钟楼、聚贤堂、观音殿；西侧是财神殿、客堂、鼓楼、地藏殿。\n\n  寺颇具规模，可能是地处偏僻交通不便，显得格外清静。\n  山门前收票的保安介绍说，该寺的素斋很好，6菜1汤才5元，中午11时开斋，因不在饭时而未品尝。",
-    "popularity": "24",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
-    "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
-    "popularity": "62",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海迪士尼度假区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cb1cb1349540923b9a160c89558d109b2de49bf.jpg",
-    "introduction": "上海迪士尼乐园于2016年6月16日盛大开幕！",
-    "popularity": "91",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "练塘老街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e824b899a9014c08980535ec0a7b02087bf4f4b9.jpg",
-    "introduction": "作为练塘人，我不得不说，练塘古镇不像其他古镇那么喧嚣，较为安静，民风质朴，延河边坐落的店铺和陈列馆，慢悠悠走，细细看，绝对不会人挤人的，我们几个好友下午吹吹风晒晒太阳听听树叶飘动声聊聊天，特别舒服放松，相比市区的快节奏，这里可算世外桃源了。特产，肯定是茭白，我家是茭白个体户，可能从小在乡下吃自家种的菜，市区卖的菜看着新鲜，味道却不一样。也难怪，市区的都比较稀罕乡下带去的，没办法比。（在此推广一下，喜欢茭白的，可以到练塘毛练里加油站对面小摊购买，当天采摘，偶尔有自家时令蔬菜，茭白干可以预定，手工制作，有需要的可以给我留言哦。）还有熏拉丝，练塘菜场门口有卖，人家自己做的。",
-    "popularity": "28",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "上海世博展览馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d83a2f94ff32fa828ba61e461f.jpg",
-    "introduction": "值得去看看的地方。建设的不错，印象还是很深刻的。上海世博展览馆是一座设施先进、布局合理、节能环保、交通便捷、功能齐全的高规格、现代化、国际性会展场地。 ",
-    "popularity": "64",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "法华塔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/64380cd7912397ddd29d55435982b2b7d1a28795.jpg",
-    "introduction": "法华塔内部有两大名人的纪念馆，一个是近代知名的外交官顾维钧，另一个是实业政治家胡厥文。两人的生平事迹都有详细的介绍。参观完这两个纪念馆，我对两人为中国、对世界所做出的贡献感到肃然起敬。诚然，两人一生也遭到很多坎坷，如顾维钧的巴黎和会外交失败，也如胡厥文的事业被战争所波及。但是一人屡败屡战，一人留髯明志，终成大业。相信大家参观完这个点之后会有极大的精神收获。",
-    "popularity": "30",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "鹤鸣楼",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1160924ab18972b63f81c82e6cd7b899f510ab3.jpg",
-    "introduction": "川沙公园是一座江南古典式园林。鹤鸣楼是川沙公园主景，整个楼厅雄柱80根，每根10余米高，楼高54米，4200平方米，五塔七层，四遂翘角，垂系60金钟，风吹鹤鸣有声，金黄琉璃，画栋回廊，风光旖迤，海天旭日，物华地宝，欲穷千里，声闻于天。",
-    "popularity": "18",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "武康路",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8c1001e93901213f66ffe53f55e736d12e2e9501.jpg",
-    "introduction": "一直很想来武康路的，得以昨天兴致大起，说去就去了，一路上是做公交车过去的，从嘉定出发到曹杨路兰溪路下车，然后一直往前走，到曹杨路白玉路上车，923路公交车做七八站吧！到华山路江苏路下车，步行一公里左右就可以到达了，你就可以感受一下一千米长的武康路的建筑和榕树，确实很美。",
-    "popularity": "66",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "世博展览馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c543c541ad43b292df5e1fe7f42.jpg",
-    "introduction": "世博的时候去的，有些展览馆非常有特色，好像世博结束后有些保留下来了。外面看看就可以了。现在里面应该什么都没有了。",
-    "popularity": "19",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "上海SMP滑板公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa26aa9e5f58ee3d6d54fbdaa4.jpg",
-    "introduction": "地铁10号线到新江湾城下来后步行可以到，不过步行距离颇远。这里是滑板爱好者的天堂，不过国内这类活动始终开展的不算很蓬勃。在这里看到一些很刺激的极限的动作，还是很爽的。",
-    "popularity": "17",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "上海滨海森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e824b899a9014c08369ad85d0b7b02087af4f4a1.jpg",
-    "introduction": "从龙阳路地铁站有公交车直接到滨海森林公园，距离上海鲜花港约两三公里，步行半个小时。滨海森林公园内最大的特色就是到处可见的风力发电站。公园内也可以骑马，有大片的草地和湖水，这里的水质在上海的景点里算是比较好的，也可以约上三五好友一起烧烤，公园出租烧烤炉。",
-    "popularity": "18",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "震旦博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745415a78f2cefc1e178b821503.jpg",
-    "introduction": "BVLGARI展——在震旦博物馆展出的125年宝格丽回顾展，本身那个博物馆就是建筑大师安藤忠雄设计的，很不错。展厅有三个楼层，按设计风格展出了不同时期的宝格丽的饰品，一路闪眼，宝石的闪光点比闪光灯的还要亮，虽然已经禁止使用闪光灯了。但是阻止不了不停按快门的参观者。观展结束后从二楼平台出来，正好有爵士歌手在那边现场，听了一会儿才姗姗离去。",
-    "popularity": "10",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "浦东孙桥现代农业园区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b5fb6bf8c0ad162d9f3d3c9f3.jpg",
-    "introduction": "30元的票价不算便宜，也别指望让你满意的服务。破败的院子，稀少的人员，良莠不齐的服务人员，和装修中现代化农业大棚截然反差。来了就看看吧，如果还没来过，那就奉劝没有必要花时间来了。。。路也不太好找，适合您开车前往。。。几个暖棚进去看看，也没啥特别的。除非你没见过南瓜，有个南瓜碰里搭了点凉棚和小桥。好多标签不清楚，甚至没啥标签的居多。。。不过反过来想，常见的农作物，有必要花大成本搭棚建屋吗？",
-    "popularity": "18",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "上海人民英雄纪念塔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/80cb39dbb6fd52662458eed9aa18972bd5073688.jpg",
-    "introduction": "走到外滩最北面和苏州河交界的地方就能看到三根方形柱子指向天空，这就是上海人民英雄纪念碑了。这里以前是外滩的一个公园，据说很早以前曾经竖过一块“华人与狗不得入内”的牌子。是否真有其事很多老上海意见并不一致。后来公园开放了，外滩也改造了，就成了今天看到的样子。从这里向西看就是外白渡桥了。",
-    "popularity": "60",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "极地白鲸馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b151f8198618367aa36cd9112f738bd4b21ce511.jpg",
-    "introduction": "在长风公园的另一边，是一个专门看白鲸表演的馆，表演免费。可以搭电瓶车过去，5元一位，走着的话大概要20多分钟。馆里中间是一个七八米深的大水池，表演除了白鲸，还有海狮，最逗的是驯兽员让海狮学海豹走路，超搞笑。",
-    "popularity": "11",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "星期八小镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8ea15ce36d3d539d5a4cc3b3b87e950342ab0a9.jpg",
-    "introduction": "学校春游时去的，那是老早的事儿了，我还记得，我穿上警服，与伙伴一起抓工作人员扮演的小偷，还当过消防员灭过火，修过车，做的最多的就属当擦鞋匠给人擦鞋了，，一次一块钱，有时能得两块。当时我特傻，留着那大把大把的钱不舍得花，我看做蛋糕的店里店外站满了排队的人，我本来就不舍的花30元去做蛋糕，更何况还要排这么久的队，最后，要集合回学校了，我拿着大把的星期八小镇的钞票离开了，，现在想想，我真傻，蛮好那时做个蛋糕，不仅能体验做蛋糕的感觉，还能饱餐一顿呢，坐在大巴上，我看着同学手中的蛋糕盒嘴馋啊！现在看了看那放在床前盒子里的那一大打不能用只能拿来当纪念品的钱，，那叫一个不得已啊！",
-    "popularity": "13",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "海湾旅游区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb151b3b588d78d543060.jpg",
-    "introduction": "垃圾的奉贤区政府，垃圾的海湾旅游区管委会，两个垃圾在一起，造成了海湾5年来没一点长进。地理位置位于上海的正南方，可供游玩的两个海边除了海湾旅游区，就是金山的城市沙滩。奉贤区政府没有把握这优越的地理位置发展旅游业，搞什么化工区，搞了个什么墓地，乱七八糟的，地铁么没通过来，大学城么熙熙朗朗，奉贤区政府穷啊，也懒，根本没踏踏实实的发展海湾旅游业，就是个垃圾",
-    "popularity": "27",
-    "recommendLevel": "4.3"
-  }
-]
+{
+  "city": "上海",
+  "spots": [
+    {
+      "name": "外滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/964b2e4e92017e92d1c86adc.jpg",
+      "introduction": "外滩是上海最有名的地方，也是乘凉的好去处。周围的高大建筑承载着太多历史的沉淀。夜景很棒，能看到黄浦江两岸壮观的景色和亮丽的灯光。适合夜晚漫步，看看夜色，吹吹海风。",
+      "popularity": "6083",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "东方明珠",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ff41bd5ad6eddc4e7a9a1b438dbb6fd52663336.jpg",
+      "introduction": "东方明珠是很漂亮很高的建筑，附近既繁华又景色优美。在甲板上游外滩太惬意，而且上海历史陈列馆值得看看。东方明珠晚上的景色是最美的，视野非常开阔，能够俯瞰黄浦江两岸风光。",
+      "popularity": "3836",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "南京路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/342ac65c10385343967a466e9213b07ecb8088cc.jpg",
+      "introduction": "南京路也是上海比较有名的地方，是一条繁华的商业街。商品算得上是琳琅满目，吃饭的地方也很多，特别得热闹。南京路还有着美丽的外滩风景，去看看帅哥美女也是很不错的。",
+      "popularity": "3494",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "田子坊",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e78c6589c1917ee40e24443c.jpg",
+      "introduction": "田子坊店铺很多，有许多特色小店，洋溢着浓厚的艺术气息，灯光打得很悠闲，能够感受到老上海的风情。这里的东西都不便宜，但是环境不错。还有许多地道的美食，不过价格也不便宜。",
+      "popularity": "3112",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "朱家角",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b90e7bec54e736d15601b1989b504fc2d562690b.jpg",
+      "introduction": "朱家角很漂亮，有江南水乡的别致，商业气息不浓。地方不是很大，就是人太多了，小吃真的是不错的，都很有特色，而且吃的东西也不贵。",
+      "popularity": "671",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海科技馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b6045da9d61459911e17a285.jpg",
+      "introduction": "上海科技馆很好玩，周五人比较多。球幕影院不是很推荐，价格略贵。设施陈旧，然而很多项目还是很有趣的，小朋友最喜欢是智慧之光和彩虹儿童乐园。科技馆里面内容丰富，动物馆也不错。",
+      "popularity": "1051",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "崇明岛",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8d5494eef01f3a291e1d83709925bc315d607cb2.jpg",
+      "introduction": "崇明岛水洁风清，到处都有未经人工斧凿的天然风光。绿树成荫的环岛大堤，犹如一条绿色巨龙，盘伏在长江口上。重点推荐森林公园，景色宜人，尤其深秋的西沙湿地大气磅礴。",
+      "popularity": "499",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "豫园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19880a331f42a9ad0e.jpg",
+      "introduction": "“全国四大文化市场”之一，与北京潘家园、琉璃厂、南京夫子庙齐名。“奇秀甲于东南”的城市山林，在江南古典园林中独树一帜。",
+      "popularity": "1677",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "泰晤士小镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/472309f7905298220129c78bd7ca7bcb0a46d464.jpg",
+      "introduction": "一个坐落在上海松江很美很美的小镇，里面环境悠闲雅致，建筑精美，既浪漫又安逸，难得的享受休闲时刻的绝佳选择。",
+      "popularity": "665",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海野生动物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bbe0d311058b7d48b9127bfd.jpg",
+      "introduction": "人很多，服务不错。整体感觉很好，收费略高。吃竹子的大熊猫超可爱，还有凶猛的动物。适合大半天的旅游，野生动物园离上海稍远，适合自驾游，停车方便。物种齐全，表演精彩。",
+      "popularity": "851",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "七宝老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcfaaf51f3deb48f774f026bf11f3a292df57865.jpg",
+      "introduction": "上海有特色的一条老街，有一条小吃街绝对值得一去。景色还行，不过不推荐节假日去。人实在太多，羊肉很出名，鲜榨甘蔗汁味道也还好。保存最完好的古街，很漂亮的古风建筑。",
+      "popularity": "973",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海欢乐谷",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b79ec22c8b30adcbef76099b1b.jpg",
+      "introduction": "是上海乃至全国规模最大、景色最美、科技含量最高的主题公园，动感、时尚、欢乐、梦幻。",
+      "popularity": "790",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "上海海洋水族馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6dc09e0a44ae8666b0351d6b.jpg",
+      "introduction": "海底世界不错，海洋馆虽然门票价格有点小贵，但里面的鱼种类很多，水母馆非常好看。馆内除了展出世界上有特色的淡水及海洋生物外，也有一些目前在中国已濒临绝种的稀有水生生物。",
+      "popularity": "539",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "复旦大学",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43e6c733e3377b2eac4b5f34.jpg",
+      "introduction": "风景很不错，很漂亮的地方。光华楼太现代化了，对新闻传播学院的大楼印象极为深刻。校园内很安静，自然而然心就静了下来。",
+      "popularity": "772",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海杜莎夫人蜡像馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e8112b2ac9962c605243c107.jpg",
+      "introduction": "九个主题展区，百位栩栩如生名人蜡像陈列。",
+      "popularity": "1625",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海动物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e8112b2a75ca88555243c121.jpg",
+      "introduction": "风景很漂亮，很赞的地方。上海动物园内有珍稀动物近600种、6000余只，其中有我国珍贵动物麋鹿、大熊猫、金丝猴等，还有来自世界各地的长颈鹿、袋鼠、企鹅、非洲狮等。",
+      "popularity": "709",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "金茂大厦",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf39ef2307f9dcd100baa12ba6.jpg",
+      "introduction": "景观很好，俯视的景色真的很美，而且真的很壮观。人非常多，排队很长。很气派，很有特色的摩天大楼。象征了上海的繁华，但是没有东方明珠好玩。",
+      "popularity": "1502",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "徐家汇天主教堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e7ce6dcc79e22cccc116628.jpg",
+      "introduction": "徐家汇天主堂真的算是精致的教堂，建筑有特色，是上海市区保存得最完好的的天主教堂，而且庄严肃穆。",
+      "popularity": "615",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "1933老场坊",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2bce203985878e5d43f7caf.jpg",
+      "introduction": "艺术气息浓厚，很经典的建筑，而且很好的创意园区。现在是非常受欢迎的时尚园区，经常有活动在此举办。\n",
+      "popularity": "543",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "枫泾",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/78701455198cd79cb645ae4b.jpg",
+      "introduction": "枫泾最有名的就是枫泾古镇了，吃的东西很便宜。人多乱的很，但是乡村美景。味道非常清淡，有很多好吃的。很安静的一个小镇，但是商业化气息不浓，远离城市的喧嚣。",
+      "popularity": "211",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/38403f3f564a008154e72397.jpg",
+      "introduction": "上海博物馆是个很值得去的一个地方，内容很丰富，很多珍贵的文物，而且质量精湛。宣传页内容很多，进入的时候检查的比较严格。外形看着就很霸气啊，感受博大精深的古人智慧。",
+      "popularity": "963",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "世纪公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0862c354a5910935d00906ea.jpg",
+      "introduction": "典型的生态城市公园，碧湖草地、音乐广场，为野餐休闲好去处。",
+      "popularity": "584",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "共青森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a231465458c55edf0e86.jpg",
+      "introduction": "经济实惠又好玩，在杨浦区，比较远的一个公园，但风景不错，四五月份会开很多漂亮的小紫花的。",
+      "popularity": "357",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "新天地",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c63514a8609394e08f7ef38.jpg",
+      "introduction": "美味的美食，非常非常推荐去，而且有很多酒吧和特色的小店，氛围也很好，惬意的生活，并且感觉还是蛮古朴的，历史和摩登的冲击，以老上海标志石库门建筑为基础。",
+      "popularity": "1066",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "环球金融中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918fc87fcdc0503d269759eec40a.jpg",
+      "introduction": "一幢以办公为主，集商贸，宾馆，观光，会议等设施于一体的综合型大厦，是中国目前第一高楼，世界第三高楼，楼高492米。视野非常好，很好玩，服务也很好。",
+      "popularity": "1128",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "外滩观光隧道",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/377adab44aed2e7390eb466b8701a18b87d6fa73.jpg",
+      "introduction": "我国第一条越江行人隧道，将浦西外滩观光区和浦东小陆家嘴新兴旅游区连为一体。最超现实主义最具迷幻色彩而且最有趣的公交形式，来这里，感受一段如梦如幻的旅程。",
+      "popularity": "547",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "上海人民广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/902397dda144ad3432ddb02dd0a20cf431ad853d.jpg",
+      "introduction": "环境很好，既简单又漂亮，在卫星地图上看起来不错。人民广场是上海的经济政治文化中心、交通枢纽、旅游中心，也是上海最为重要的地标之一。",
+      "popularity": "619",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "静安寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0526df01da361f7a50f525e.jpg",
+      "introduction": "静安寺是上海最为著名的真言宗古刹之一。外观非常新，高楼大厦之间静静地坐落着的寺庙，金碧辉煌的建筑楼顶还是很耀眼的，建筑风格非常有特色的历史遗物。",
+      "popularity": "295",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "M50创意园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cf5a831631fd013cf3de32d2.jpg",
+      "introduction": "由纺织厂演变而成的艺术创意园，众多工作室、设计师、艺术家入驻，带来新的创新艺术。",
+      "popularity": "181",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c57e3faee4ac986b48f31d0.jpg",
+      "introduction": "老街非常有特色，小吃也蛮不错的。上海老街的商业经营以传统特色行业为主流，突出传统民俗文化，营造海派文化氛围。",
+      "popularity": "316",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "锦江乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9252ae7edd385e600dd7da35.jpg",
+      "introduction": "坐地铁特别方便，门票不贵，但是排队耗费了子大半时间。里面的设施很好玩，而且玩的项目很多。整体来说不错， 游人可以选择自己喜爱的项目参与，在惊险的气氛中得到欢乐。",
+      "popularity": "363",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "东方绿舟",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a23157194fc55fdf0e43.jpg",
+      "introduction": "空气清新，服务也很好。小朋友玩的东西挺多的，烧烤也不错。节假日人太多，但是个休闲放松的好地方。景区食物价格比较贵，但是买张门票就可以了，买套票挺实惠的。",
+      "popularity": "289",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "外白渡桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/27d647eedbe66ca3b3fb9541.jpg",
+      "introduction": "风光很不错，灯光很美。《情深深，雨蒙蒙》《新上海滩》《上海王》等 ，这些都使用的是上海影视城里仿的外白渡桥。",
+      "popularity": "449",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海植物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b258f5c4e7ccdbc48326ac5c.jpg",
+      "introduction": "植物园很新颖，空气质量也很好，有很多很珍贵的植物。门票不贵，不同季节都适合前往。每年都有百万游客在此感受春天的百花烂漫、夏日的荷风送爽、秋天的菊花傲霜、冬日的梅花凌寒。",
+      "popularity": "369",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "同济大学",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b94f65ec498678bc2e2e216b.jpg",
+      "introduction": "同济是历史悠久的大学, 同济的建筑土木很厉害，建筑系应该是全国最有名的，校园里自然环境很好，同济的樱花很是漂亮。",
+      "popularity": "313",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "东平国家森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/61183b2d461a8359349bf7bb.jpg",
+      "introduction": "空气很清新，说实话并不怎么好玩，不过呼吸新鲜空气还不错，风景也还不错。园内森林繁茂，以“幽、静、秀、野”为特色，植物资源丰富，是人们“回归大自然”的最佳胜地。",
+      "popularity": "154",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海车墩影视乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a0ca99d6e0dba47706088b5a.jpg",
+      "introduction": "地方特别漂亮，风景不错，而且很好玩。交通很方便。乐园里的设施都很陈旧了，但是里面的表演不错，适合拍照取景。整体不错，票价太贵。",
+      "popularity": "127",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海交通大学",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f95898189c1d94d94bedbc72.jpg",
+      "introduction": "一个在中国乃至世界都比较有名的大学，学习氛围很浓的地方",
+      "popularity": "208",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "中共一大会址",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/83cab81ecd72c5474034175e.jpg",
+      "introduction": "虽然内部装修没有开放，但还是注目良久。95年前这里走进过谁？谁成了共和国的缔造者？谁当了叛徒？谁选择了放弃？党从这里诞生经历了怎样的苦难？她与祖国的辉煌是怎样的共生？读过金一南教授的苦难辉煌，体会愈深！一墙之隔的酒吧街，灯红酒绿中，熙熙攘攘的人群里，我隐约看到细雨中一大共产党人的身影，他们为了信仰为了苦难中国奔入历史的波澜，抚今追昔，深受教育，感慨万千！",
+      "popularity": "309",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "鲁迅公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d143596e266473f082025aaf0759.jpg",
+      "introduction": "中国第一个体育公园，主要景点有鲁迅墓，总体保留了英国风景园的特点。非常适合情侣散步，看日落的好地方，而且里面有漂亮的礁石。",
+      "popularity": "318",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "陆家嘴",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/245e8bcab8ca9cdec91768ff.jpg",
+      "introduction": "现在已是上海最具魅力的地方，是夜上海的典型代表。视野辽阔，一派繁荣的景象。很漂亮的地方，看看外景还是不错的。",
+      "popularity": "762",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海城隍庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f510fb30f2442a7058dc322d043ad4bd01302b1.jpg",
+      "introduction": "环境非常的好，就是人太多了，非常繁华的一个地方。小吃都很一般，有点小贵，但是很有特色，推荐可以去瞧瞧。印象最深的就是水汤包，很有上海的特色。最有名的南翔小笼包，味道不错。",
+      "popularity": "1178",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "大观园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b0d4f0f25c6ea726059f3bd.jpg",
+      "introduction": "上海五星级公园，亭台楼阁，精雕细镂，古木翠竹，相衬成趣，上海大观园，红楼梦一场。",
+      "popularity": "188",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "苏州河",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f6e1908e3ea2668e8248808.jpg",
+      "introduction": "上海境内继黄浦江之后的第二大河，分隔了繁华的十里洋场和琐碎不堪的弄堂的河，被许多艺术家赋予了独特的文艺气息",
+      "popularity": "261",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海图书馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a992e31f5d6a1467314e1568.jpg",
+      "introduction": "作为经常去上图自习的我，闲扯几句。因为地处上只脚的关系，周围餐饮比较贵，不过往旁边走2,3分钟就有一家罗森，还有图书馆的食堂饭菜还可以，15块钱可以吃个套餐，就是汤有点油了。\n很神奇的是那个自助借还的东东，不知道原理是神马。\n图书馆感觉一直很闷，坐在窗边又太热了，最舒服的是工作人员坐的位置。我觉得在外面的位置还可以，阅览室闷的呆不住。有些位置是有插座，手机党的福利，还有上图有很多wifi，网速还可以，不过经常掉线了，上图自己的网要输入图书卡号和身份证。\n周围有很多的故居，我中午饭吃饱了没事在周围溜达，还有两个领事馆，一个是德国的，还有一个忘了，不过那个站岗的士兵特逗，头像拨浪鼓一样。",
+      "popularity": "242",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "热带风暴",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c856613e9d12675070cf6cae.jpg",
+      "introduction": "热带风暴是目前亚洲最大的露天水上乐园之一，惊险刺激，惊喜无限。",
+      "popularity": "103",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "石库门",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb312c18bdfd933c895d0430c99.jpg",
+      "introduction": "石库门是上海最有代表性的民居建筑，通常被认为是上海近代都市文明的象征之一，石库门代表了上海传统的市民生活方式，如今随着老城区的大规模改造，已成危房的石库门所剩无几，抓紧时间去观赏正在消失的老上海吧。\n",
+      "popularity": "248",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "磁悬浮列车",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda144daacacf5b2b7d0a20df486d4.jpg",
+      "introduction": "上海磁悬浮列车是我国第一条磁悬浮列车。",
+      "popularity": "319",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "金山城市沙滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19d6661d2842a9ad35.jpg",
+      "introduction": "长三角最具海派风格的城市海岸景观，拥有世界唯一海上浮动游泳池。",
+      "popularity": "263",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "马勒别墅",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f35ea0099c94cc7c6a60fbf5.jpg",
+      "introduction": "马勒别墅门前的绿地广场马勒别墅的大门很小，走进去，就看到这个色彩斑斓带着童话色彩的别墅，挪威式的尖塔、哥特式的尖顶、中国式的琉璃瓦、老虎窗、泰山面砖、彩色花砖、随处可见的佛龛汇聚一堂，到处都雕着美丽精致的图案，室内穹顶上装有彩色玻璃，高低不一的塔尖构成了神秘奇妙的轮廓，让你仿佛置身于北欧的神秘乡村。马勒虽然是英国人，但他发家却在中国，所以他很喜欢中国的传统文化，比如大门口就安置了两尊中国传统的石狮子。",
+      "popularity": "80",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "顾村公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8c1001e93901213fefc25d9554e736d12e2e9581.jpg",
+      "introduction": "满园的樱花很是迷人，空气流通很好。地方很大很漂亮，遇上樱花开的时候人超多，建议不要节假日去。",
+      "popularity": "182",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "松江辰山植物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/42166d224f4a20a451f02a8e90529822730ed088.jpg",
+      "introduction": "辰山植物园是一座集科研、科普和观赏游览于一体的综合性植物园。植物很齐全，记得樱花开的也很美，而且性价比很高的植物园。",
+      "popularity": "129",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "淮海路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a8a1446012a82516b63e5ab.jpg",
+      "introduction": "上海最繁华的商业街之一，以高雅浪漫著称。中现代化建筑林立，时尚名品荟萃，紧随世界潮流。购物环境温馨典雅，众多餐饮娱乐名店以及优越的酒店服务使他与南京路齐名。",
+      "popularity": "520",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "中国馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/37d12f2eb9389b5011aef31b8535e5dde7116e21.jpg",
+      "introduction": "非常有特色的建筑，犹如华冠高耸，天下粮仓；地区馆平台基座汇聚人流，寓意社泽神州，富庶四方。",
+      "popularity": "442",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海美术馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc5e5f34f4bb0d16241f142e.jpg",
+      "introduction": "步入端庄的大厅，沿着宽敞的楼梯拾级而上，抚摸着三十年代的铜铸马头，你定会领略到新旧上海的历史变迁。",
+      "popularity": "109",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "长风公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91529822720e0cf3a366b7b30a46f21fbf09aae1.jpg",
+      "introduction": "上海市大型综合性山水公园，青山绿水，湖底有中国首家主题新概念海洋水族馆。",
+      "popularity": "139",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "七宝古镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a136327d75282ce908fa0ec09fac794.jpg",
+      "introduction": "风景如画，典型的城中之镇，这里有好多好吃的，七宝羊肉是上海最有名的羊肉之一，一定要尝试下。",
+      "popularity": "200",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "滨江森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4a77b2af967f09a17dd92a35.jpg",
+      "introduction": "这里保留了原生态的乡土植物和动植物的栖息地，适合游客享受休闲的乐趣，空气很清新，绿化植被茂盛。烧烤的地方很干净，很不错的公园。花花草草特别美，服务人员态度热情。",
+      "popularity": "86",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "佘山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/34bbf8cdfaf3d03c0eb3454c.jpg",
+      "introduction": "传说由蛇化作的山，上海唯一的自然山林胜地，中外建筑在此汇聚。",
+      "popularity": "263",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "周公馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d01373f082025aaf7f0d5e83fbedab64034f1abe.jpg",
+      "introduction": "一幢西式小楼房，为三层花园别墅，幽静宜人，这是当年中国共产党代表团驻沪办事处，亦称周公馆。",
+      "popularity": "152",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海中山公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0df431adcbef7609cac65fd82edda3cc7dd99eac.jpg",
+      "introduction": "Zhongshan park is one of the best place to see cherry blossoms on 24 March until April. The air quality is good and make people calm down, breath fresh air. Therefore, I highly recommend to see..",
+      "popularity": "141",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "召稼楼",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf5a79c308fadcd100baa12b37.jpg",
+      "introduction": "横跨元明清三个朝代的古镇。青砖黛瓦等充满明清文化韵味的建筑。",
+      "popularity": "95",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "思南公馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82b3b4893b6c81800a18d843b4.jpg",
+      "introduction": "偶然从田子坊骑行去淮海路遇见  幽静 安逸",
+      "popularity": "100",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "滨江大道",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a54e55fb5a8e963c034f5698.jpg",
+      "introduction": "夜色中的滨江大道很美，好惬意的一条临江大道呢。风景非常好，夜晚的滨江大道是对望万国建筑群的绝佳位置，也适合散步，很赞很美的地方。",
+      "popularity": "524",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海巧克力开心乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c75c10385343fbf26fca16dbb17eca8064388f60.jpg",
+      "introduction": "因为不想排队所以没有卖DIY票，游览票的话是120元，主要就是逛逛看看拍拍照，不会花费太多时间。感觉只有最后的欧洲艺术馆以及中华文化里兵马俑青铜器看着有巧克力的样子，其他的看不出巧克力的本色了。蒙娜丽莎、玛丽莲梦露是面包拼成的，听着旁边人说走进看了才发现嘿。演出的话是按时间点来的，为了看一出从12点等到1点，是滑稽剧，不过很值得一看哦。",
+      "popularity": "94",
+      "recommendLevel": "4.6"
+    },
+    {
+      "name": "大宁灵石公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b587fbc8c0ad162d9f2d3c934.jpg",
+      "introduction": "大宁灵石公园以其各具特色的山林、清泉、湖泊、瀑布形成一片湖光山色，景色迷人的都市园林。",
+      "popularity": "131",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海人民公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b211c175a206ca8065380cd78e1a.jpg",
+      "introduction": "地处上海市中心，东临南京路步行街，素来享有“城市绿肺”之美称。",
+      "popularity": "174",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "甜爱路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82b301893b6c81800a19d84319.jpg",
+      "introduction": "被誉为上海“最浪漫”的道路，一种独有的寂静和舒缓的情调浸透其间，恋人散步好去处。",
+      "popularity": "272",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "滴水湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8640bf8bd60988129f2fb4ea.jpg",
+      "introduction": "滴水湖位于上海市浦东新区临港新城，它是目前在尚未成陆的海滩上填海造陆开挖的国内最大人工湖。",
+      "popularity": "254",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "大洋海底世界",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7bc4c6695188a49ab184cd8.jpg",
+      "introduction": "海底世界节假日人比较多，白鲸表演还不错，而且海洋世界里的鱼类很丰富。海豚表演也很精彩，值得一看哦。",
+      "popularity": "212",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海自然博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9864a23111870df05fdf0ee4.jpg",
+      "introduction": "一所包括古生物学、植物学、动物学、人类学、地质学、天文学多种自然科学的综合性博物馆。",
+      "popularity": "182",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "宋庆龄故居",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/060828381f30e924b6eca4794c086e061d95f729.jpg",
+      "introduction": "这幢房子原是一个德国人的私人别墅，从1948年到1963年，宋庆龄在这里工作、生活达15年之久。",
+      "popularity": "92",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "碧海金沙水上乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167d85683320a4462308f7d3e4.jpg",
+      "introduction": "碧海金沙是目前中国最大的人造沙滩海滨浴场，也是上海唯一一处碧波荡漾的蓝色海域。风景不错，水上自行车挺好玩的。沙子很细腻，赤脚走在沙滩上很舒服。乐喷泉很棒，设施还不错。",
+      "popularity": "66",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "鲁迅故居",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc379310899446eebc4b74542a91187.jpg",
+      "introduction": "前面参观的是鲁迅祖居，此处则是鲁迅故居。祖居是爷爷的，故居是孙子的宅子，也称周家新台门。感觉周家新台门比老台门要大很多，鲁迅在这里度过了他的童年和少年时代。",
+      "popularity": "103",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海八万人体育场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faacb56446a6e39df63654f3.jpg",
+      "introduction": "上海的标志性体育场之一，一直习惯性的把它叫做八万人体育场。记得读书的时候好像是来看过一届大学生运动会，那些运动选手在场上从看台上基本上是看不清脸的……实在是很大……据说，这个体育场是国内唯一不多的可以盈利经营的体育场馆之一，因为经常举办各个演唱会的关系。来看过周杰伦2014魔天伦世界巡回演唱会，买的内场后区票。入口安检和检票速度还蛮快的，内场的椅子差了点，就是普通的塑料凳，而且还比较脏。",
+      "popularity": "152",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海城市规划展示馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6f470395802a80657af48064.jpg",
+      "introduction": "上海内环的整体模型很壮观，内容丰富。门票实惠，规划馆值得参观。展示引人怀旧的上海20世纪30年代老街风貌，以及采用虚拟实境、幻影成像等高新技术手段呈现的上海未来都市景观。",
+      "popularity": "119",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "外滩情人墙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5366d0160924ab18afa4729c34fae6cd7a890bee.jpg",
+      "introduction": "“情人墙”既承载海派文化的人文内涵，又是情侣们携手夜游的好去处。",
+      "popularity": "183",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "龙华寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b6045da92d7cf4a41e17a290.jpg",
+      "introduction": "上海历史最久、规模最大的古刹，取名自弥勒菩萨在龙华树下成佛的典故。",
+      "popularity": "84",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海邮政博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3508d1312a365ed6438dbe8.jpg",
+      "introduction": "1、上海邮政博物馆在外滩附近，四川路桥北堍北苏州路276号，乘坐公交14、19、25路路至天潼路河南北路站下即到。2、周三、四、六、日开放 9:00-17:00(16:00停止入场)（中午11点后也不能入场）3、费用免费4、上海市中国近代邮政的发祥地之一上海邮政博物馆1922年由协澄洋行设计，辛丰记营造厂施工，在原集美里地块上建造，1924年11月竣工。曾列为当时上海十大建筑之一5、博物馆用文字、实物等各种形式，呈现了中国的邮政发展史6、值得去学习和了解",
+      "popularity": "84",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "琉璃中国博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4075890ac00a947295ca6b97.jpg",
+      "introduction": "在田子坊旁边有个琉璃博物馆，如果时间来得及，去那里逛逛是很不错的。1楼是卖场，出售一些琉璃制品，2楼以上都是博物馆，展出各种精美的琉璃制品，也会播放一些琉璃制作过程的视频。琉璃博物馆的门票是35元，早上9点开门，如果田子坊去的早了，小店还没有开门到也可以先去琉璃馆逛逛。地铁9号线，打浦桥站上去最近博物馆。",
+      "popularity": "47",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "徐家汇藏书楼",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a600c338744ebf8666d9e77d9f9d72a6059a75e.jpg",
+      "introduction": "去上海徐汇区专门去看天主教堂的时候碰巧看到的，真没想到居然离得这么近，坐地铁1号线在徐汇站下车差不多走600多米就能看到了，我们看到的是一个小的草坪，有个铜做的弯身坐着的思考者，我看着门是关闭的，就没走进去，大概周日不开放，周六开放，免费的，里面有很多珍藏书籍，很值得一去，下次再去上海再去看了。",
+      "popularity": "108",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "衡山路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3a86813d8993ed58baa1678c.jpg",
+      "introduction": "整条街长2.3公里，南接商业中心徐家汇，北邻时尚购物街淮海路，是两大繁华区域间的幽静而高雅的通道。",
+      "popularity": "145",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "东海大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b77808cb8c31adcbef77099be7.jpg",
+      "introduction": "自驾去嵊泗时途经过的。它是连接大陆与小洋山深水港码头的通道，横跨杭州湾北部海域，它是我国真正意义上的第一座跨海大桥。沿途能看到海上风力发电的风车阵，很是壮观的。注意，桥上不允许停车游览的，只能在行车途中在车上一边欣赏风景一边抓拍相片了。",
+      "popularity": "49",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "文庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c856613e6ad6525071cf6ce9.jpg",
+      "introduction": "文庙内部的风景感觉很秀美，和古城内大多数的其他的景点感觉不同，有耳目一新的感觉！不过感觉没有济南的文庙气派。。文庙门票是包含在古城通票里的，不需要单独购票。买平遥古城通票，通票限本人使用，2天内有效，旺季价格：150元/人，淡季120元/人。园内的绿化挺不错的，很清新。小院子很秀气，有江南小城的感觉",
+      "popularity": "126",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "徐家汇公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4bed2e738bd4b31cc48a6ef387d6277f9f2ff8c0.jpg",
+      "introduction": "有根红色的的大烟囱是原大中华橡胶厂的旧烟囱，在公园建设中不仅没被拆除，反而增高了11米。设计人员别出心裁地将“长高”部分的内部设计为布满光导纤维、外观镂空的“高帽子”，烟囱一旦通电打开，光导纤维发出的光亮透出外罩，就像是烟囱顶端冒出的白烟，弥漫整个夜空，煞是好看。独具匠心，很厉害",
+      "popularity": "93",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "淀山湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d31b0ef41bd5ad6ef191fb7f81cb39dbb6fd3c3e.jpg",
+      "introduction": "“风吹芦苇倒，湖上渔舟飘，池塘荷花笑。”",
+      "popularity": "95",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "上海长江隧桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad84c755704b36acaf2edd9865.jpg",
+      "introduction": "长长的隧桥连接了长江两岸，在夜晚录影斑驳的时刻，有多少思乡人从这里经过，又有多少相聚是从这里开始。",
+      "popularity": "90",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "福州路文化街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae10eddef512b00c95ee3752.jpg",
+      "introduction": "“中华文化第一街”，上海书城、古籍书店、外文书店、科技书店充满浓郁书香气息。",
+      "popularity": "161",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海野生昆虫馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1fc204a772304e251f95ca5f6c.jpg",
+      "introduction": "真心无语 很多缸里都是空的 只有那些不容易死的虫和蜥蜴还健在 还养了两只羊估计也算昆虫类的 可怜的一直叫 卫生很差非常臭 工作人员打瞌睡服务态度也不好 管理不好怎么可能有生意 真心同情那些动物 如果没有免费票 不管是买门票还是团购都不值得 想去的慎重",
+      "popularity": "53",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海音乐厅",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0df431adcbef760962bbe7d72edda3cc7dd99ec1.jpg",
+      "introduction": "上海音乐厅共有观众席1122座，其中楼下640座，楼上482 座，镜框舞台深8.35 米、宽16米，舞台可使用面积约100平方米。舞台上方有可调控反响板，备有斯坦威D -274三角钢琴一架、60路调光台、24路雅马哈调音音响一套、台口话筒插口16只，冷暖气齐备",
+      "popularity": "75",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "南京西路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29381f30e924b899fb8c86706e061d950b7bf6c2.jpg",
+      "introduction": "南京西路被誉为“中华商业第一街”——南京路的西半部，这里是购物的天堂，被称为贵胄之地。",
+      "popularity": "252",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "外滩三号",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e1fe9925bc315c6093faaaa88db1cb134954770e.jpg",
+      "introduction": "外滩三号建筑面积共约12000平方米，在七层楼面里拥有并经营四家呈现精美菜肴的餐厅、高级品牌专卖店、依云水疗中心、沪申画廊和一间音乐沙龙。外滩3号执行董事长李景汉先生表示：“三品牌专卖店完美体现了外滩3号的理念",
+      "popularity": "62",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "欧罗巴世界乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33c86c118f1a4c510fd9f9a164.jpg",
+      "introduction": "以欧洲风情、园林风格，结合佘山风景的特点，吸收中国园林的精华，并以现代娱乐、健身型游乐设施为补充建成的新型游乐场所。",
+      "popularity": "42",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "南翔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a899e510fb30f248130fd4ac895d143ac4b03d4.jpg",
+      "introduction": "一对白鹤落入此处歇息，因此被视为福地，至今已有1500多年的历史，是上海市四大历史文化名镇之一。",
+      "popularity": "184",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "大世界",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db1f4b617e60823dd54574e7493.jpg",
+      "introduction": "集演出、娱乐、观赏、竞技等为一体的综合性游乐中心。",
+      "popularity": "161",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "吴淞湿地公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/024f78f0f736afc34af7cf2db319ebc4b64512fa.jpg",
+      "introduction": "还不错啦！靠海的地方，有一个长廊，可以享受海边散步的悠闲，海风吹吹，吹走了烦恼。公园内部到是比较安静的，有个草坪上没什么人，我们三个就在那边狂吃西瓜，桃子神马的。很high！有一个大大的炮台，就是历史上的淞沪会战的古战场！",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "八音盒珍品陈列馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f070865b5d448e924b899a801f2c2.jpg",
+      "introduction": "这个八音盒陈列馆处在浦东的东方艺术中心之内，要50元门票，门票真心不便宜。不过里面的收藏真的是超赞的！让我不禁想起鼓浪屿的钢琴博物馆，绝对是让人看得弹眼落睛，没想到八音盒也有这么多花样，很多小细节，小机关真是让人看到眼花缭乱！去这个陈列馆的交通是很方便的，地铁2号线坐到上海科技馆站下车，然后步行500来米就能到了。可以和上海科技馆安排在一天游玩。",
+      "popularity": "43",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "上海国际赛车场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7003af33a87e950272b8a2410385343fbf2b4bd.jpg",
+      "introduction": "从上海市区乘坐地铁11号线到上海赛车场下车，步行几分钟就是赛车场的入口了。这个周末正好有Super Race的赛事，来的观众非常多。观众坐席是一排排的椅子就像是电影院一样但是没有那么舒适。赛车场的赛道很长，赛车要隔几分钟才能转一圈经过观众席，现场的发动机轰鸣声非常大，建议在门口购买耳塞。 赛车中午休息的时候，所有的赛车都排队摆放到了赛道上，供一些观众近距离接触，而更吸引眼球的而是身材高挑的车模，她们或漫步在赛道外，或倚靠在车身上，引得无数游客争相拍照，在车展上看不到的景象在赛车场上展现出来了。",
+      "popularity": "64",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "西沙湿地",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf4e8f85c3c77094b36adaf99ed.jpg",
+      "introduction": "门票免费，停车10元（不限时）；站在长江口望着碧波万顷的长江确实震撼；普及：西沙湿地有着丰富的动植物资源。湿地共有种子植物46种，植物优势种有芦苇、野茭白、荩草、马兰、糙叶苔草以及人工种植的旱柳、落羽杉等，水塘中主要为狐尾藻、巩草等沉水植物，边缘为芦苇、狭叶香蒲等挺水植物。西沙滩涂湿地和植物资源地吸引了大量的鸟类，使其成为许多候鸟重要的越冬栖息地。目前记录到的鸟类有26种，其中林灌丛活动鸟类14种，湿地环境活动鸟类11种，最为常见的有大白鹭、绿头鸭、震旦雅雀等。",
+      "popularity": "83",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "3D奇幻印象体验馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/48540923dd54564ef5a4eac0b2de9c82d0584f01.jpg",
+      "introduction": "在上海非常热闹的四川北路中信广场二楼，交通非常方便。景区在餐饮区，很小，里面就10多幅图画，应该半小时足够，但是和我原来去过的几个3D体验馆还是算大的人。景区特别有3D效果拍照角度提示和最佳拍摄点提示，非常贴心，按照提示拍摄的作品效果更好。3D画非常逼真，有趣。如果是75元的价格过高了点",
+      "popularity": "72",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "红坊",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9d4cf433674ed4b73f05dbc.jpg",
+      "introduction": "因为红坊和民生现代美术馆都有鹦鹉螺集市举办，所以恰好去了，红坊位于淮海路的尽头，由上钢十厂原轧钢厂厂房改建而成，里面的建筑都是由废弃的钢材组成，一个钻头做的汽车很有特色，这里闹中取静，大大的草坪可散步，休憩，里面有不少画廊、艺术中心可参观。",
+      "popularity": "43",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "沙特馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c869ab23d37e3e6709c93d5136.jpg",
+      "introduction": "沙特馆展馆形似一艘高悬于空中的“月亮船”，在地面和屋顶栽种枣椰树，形成一个树影婆娑、沙漠风情浓郁的空中花园。月亮船3d电影很精彩。",
+      "popularity": "117",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "紫海鹭缘浪漫庄园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a08b87d6277f9e2f3530ccfc1e30e924b899f339.jpg",
+      "introduction": "以“薰衣草香薰,绿色,生态,环保”为特色,野趣浓郁,是人们“回归大自然”的最佳胜地。",
+      "popularity": "68",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "万国建筑群",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7a899e510fb30f245ab917d2c995d143ad4b033b.jpg",
+      "introduction": "￼万国建筑群7图28 ~ 24 ℃阵雨转阴明 32 ~ 25℃后 31 ~ 26℃万国建筑群位于黄浦江西岸的外滩南北全长4公里，是上海的重要象征。主要是在上海外滩北起外白渡桥，南抵金陵东路，这一段是外滩建筑群的精华所在。地址中山东一路地图评分 4.5分开放时间全天门票价格免费著名景点外白渡桥中文名万国建筑群地理位置黄浦江西岸的外滩南北全长4公里历史100到120年所属国家中国所属城市上海市",
+      "popularity": "501",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "东方艺术中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d5bac2fd19ef430ef477c4.jpg",
+      "introduction": "位于浦东世纪公园附近，地铁2号线世纪公园出来就是。场馆构造很有特色，有5个半球组成，老远就能看到，外形宛若一朵美丽的“蝴蝶兰”。中心一共有5个厅，分别是东方演奏厅、东方音乐厅、展览厅、东方歌剧厅。每个厅的功能跟座位总数不同，还有一块很大的休息区域，进入场馆都需要进行安检，售票点在中心里面。很多国内外著名的表演艺术团队跟个人都会来这里演出，去的时候正巧碰到钢琴王子李云迪的专场演出，演出完毕后还进行了签售活动。",
+      "popularity": "66",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "卢浦大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/906289dd086003595982ddb7.jpg",
+      "introduction": "江边这样的路~~遥望卢浦大桥~~~据说沿着这条路的反方向可以走到徐汇区的滨江景观道。天太热了，后来加上我拉肚子，就放弃了到徒步到徐汇的计划。如果徒步的话，这条路肯定很美很美！那年是第一年开放，人也不多，可以笃定地边走边看，除却高温天，一切都是天时地利啊！",
+      "popularity": "84",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "杨浦大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9922720e0cf3d7ca4b721b3ef21fbe096a63a9f5.jpg",
+      "introduction": "黄浦江上的第二座跨江大桥（第一座是南浦大桥）。当初看它还觉得很新鲜，建成后新闻里还整天报道。现在上海的建桥修路工程越来越多，越来越大，它杨浦大桥也就不算个事儿了。其实这类大桥镇没什么好点评的，就是一个过往渡江的桥而已。",
+      "popularity": "113",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "8号桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aad4ae719a91276b8382075.jpg",
+      "introduction": "8号桥在卢湾区建国中路上，离大家熟知的田子坊非常近。这里以前是法租界的旧厂房，后来经过重新设计改造成为一片时尚创意园区。这里之所以成为“桥”，是因为每栋建筑之间都有天桥相连，其中还有一个天桥是横跨建国中路的，这也是蛮有创意的。有空可以去那边逛逛的。",
+      "popularity": "40",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "思南路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a50f4bfbfbedab64eac9723ff636afc378311e91.jpg",
+      "introduction": "￼思南路34图28 ~ 24 ℃阵雨转阴明 32 ~ 25℃后 31 ~ 26℃思南路，位于上海。1914年，在上海法租界第三次扩张的当年，公董局修筑了这条马路。为纪念在1912年8月13日去世的法国著名音乐家Massenet而命名为Massenet，Rue（马斯南路）。地址上海市黄浦区地图评分 4.4分开放时间全天开放游览时长建议2-3小时门票价格无需门票中文名称思南路所属国家中国所属城市上海市",
+      "popularity": "245",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "闵行体育公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f9bfdfb8d513d269759eec44d.jpg",
+      "introduction": "由建筑垃圾堆场改建而来，将运动与自然结合，是上海市首个体育主题公园。",
+      "popularity": "72",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "长兴岛",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0c8a786c9177f3eebfff94570cf3bc79e3d56aa.jpg",
+      "introduction": "长兴岛现在已经挺方便了，大桥下来直达，横沙岛还是上海唯一一个要通过水路才能到达的乡镇。两岛都还保持着比较原始的农业风貌，每到柑橘成熟的时候，就可以来这里采摘柑橘，我们去的时候橘子特别甜，再加上农家菜，超级过瘾",
+      "popularity": "55",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "雁荡路休闲街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8d158aeeb71503712df534c7.jpg",
+      "introduction": "雁荡路的名气应该是二十年前的了。这里是以前的小吃一条街，八十年代的时候，淮海路啊南京路啊这类的商业街是只有服饰和生活用品卖的，吃的东西是不会在这些商业街上出现的，难以想象吧，孩子们，也就是说那个时候你要喝个奶茶或是吃个点心，或是找个小饭堂，这基本就是无法完成的，便利店小卖部一概没有，只有偶尔会有街边摆个小摊，卖茶水的，还不是经常有，要碰运气的。喝水就别想了，因为也不能喝，没有公用厕所，所有商店里的厕所也是不对外开放的。",
+      "popularity": "58",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "陈毅广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/834344af3b5576a3fbed5097.jpg",
+      "introduction": "以前在电视上见到的，现在都在眼前了。在陈毅广场处下来，可以去南京街啦。下午来到浦东逛一下，这些高层建筑都是有天桥连接的。驴友们注意啦，登塔的门票在网上买是要提前一天的，价格非常便宜的，现场票2球160,3球220，船票100元，很贵的！夜游黄浦江地铁站在中国平安楼下，返回昆山，结束一天的行程。",
+      "popularity": "110",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "国际会议中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/73ca591080dfb291c2ce791f.jpg",
+      "introduction": "这边是上海陆家嘴附近一个重要的平民的会议中心，里面有四五层，通常都在同时举办着很多会议，当然在会议中心入口处会有工作人员检查证件，不过软件设施比较好，洗手间有鲜花、温水、卷纸、压花擦手纸、自动给皂器、香喷喷的，服务人员全部都是白色工装。 哈哈",
+      "popularity": "57",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "世博会博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a9d3fd1f4134970a94fc35c194cad1c8a6865d54.jpg",
+      "introduction": "这个应该是叫世博纪念展哦，这已经是第三次去世博纪念展了，真的好难忘，世博的时候去了七八次世博会的 偶是坐地铁，在西藏南路下车的，差不多还要走1000米左右，才能到场馆 十一的时候是买两张送一张，正好有人卖，偶买了一张，15块钱，然后又去买了张学生票，学生证就是好啊，等于两个人只要三十块钱，还是蛮核算的 这里留下了太多的世博的记忆，不知道什么时候还能再看看世博会",
+      "popularity": "59",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "月湖雕塑公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/020e66f05df9979b7831aa0d.jpg",
+      "introduction": "来到这里，心也沉静了，月湖雕塑公园，门票价为成人120元，儿童50元，宠物30元。里面有雕塑，公园很大，设计的也很新式，小桥流水，还有空旷的草地，很开阔，适合周末的时候带小孩来进行亲子活动，交通也挺方便的，9号线佘山站过去一点点路和热带树，适合周末钓鱼。",
+      "popularity": "44",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "佘山教堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8ad4b31c8701a18b9c16de089e2f07082938fefc.jpg",
+      "introduction": "佘山进教之佑圣母大殿，佘山教堂的全称，又名佘山圣母大教堂、佘山天主堂、佘山圣母大殿、远东圣母大殿。位于中国上海市松江区佘山山顶，为中国天主教著名的圣母朝圣地，与法国罗德圣母大殿齐名。\n交通：9号地铁 洞泾地铁站下，再乘坐公交 松重线, 在佘山站下车即到。\n门票：去窗口免费取门票",
+      "popularity": "57",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "崇明湿地",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a54e55fb6b49e509024f5636.jpg",
+      "introduction": "崇明湿地一望无际，伴随着潮汐的声音，人们可以通过一条2公里长的木栈桥，徜徉于芦苇和丛林之中，更接近大自然。",
+      "popularity": "83",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "沐恩堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00e93901213fb80e2995789f36d12f2eb9389435.jpg",
+      "introduction": "在人民广场附近，坐地铁在人民广场站下即可看到沐恩堂。我曾在沐恩堂停留一个上午，感受基督教徒的虔诚：听满怀感恩的演讲，一起诵读《圣经》，一起做各种仪式。沐恩堂的建筑也是十分的典雅，庄重，喜欢拍照的可以进去感受下。如果希望感受这种有仪式感的氛围，礼拜的时候去，基督教活动时去，一年四季都可去，活动在室内进行。",
+      "popularity": "63",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "南翔老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cf1b4f01f7f9dcd100bba12b96.jpg",
+      "introduction": "南翔古镇位于上海，交通十分便利，从上海市区做地铁可直达南翔站，乘坐公交车就可到达南翔古镇。南翔古镇并不大，标志性的是古猗园、南翔老街和留云禅寺，南翔小笼更是其代表性的美食。古猗园是典型的江南园林风格，布局合理景色优美值得一去，南翔老街保留的已经不多，隐约还可看到它过去的繁华，留云禅寺是当地名寺历史悠久，现在正在修缮中。",
+      "popularity": "61",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "天马山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb15117492ce28d543022.jpg",
+      "introduction": "普通山上的普通庙，要是免费还可以，付钱不值当",
+      "popularity": "32",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "桂林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0865b5181856e85f34fa4172.jpg",
+      "introduction": "这个桂林公园的桂林可不是地名，是因为园里的桂花林而得名。原名是黄家花园，是上海滩大亨黄金荣的产业。老上海是冒险家的乐园，也是黑社会的乐园。到上海来是不能不看看这些大亨们的遗迹的。",
+      "popularity": "96",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "番茄农庄",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f46a0fcdb4f3d385e9.jpg",
+      "introduction": "乘坐松江27路松江70路松江71路松江72路松江73路到泖港(新乐路中南路)环境还可以，比较清静，空气还是不错的，适合周末度假，就是配套设施还是稍微少了点。",
+      "popularity": "33",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "静安别墅",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/63d9f2d3572c11df4a58cf97632762d0f603c2fd.jpg",
+      "introduction": "静安别墅位于上海市中心静安区，南京西路1025弄1～198号。全天免费坐地铁2号线到南京西路，当天进门后，走了好久，才走到对面的门，还蛮大的，行走在别墅群里，感受居民的生活日常。有些房间的走道门是开的，还可见他们的居家。羡慕啊",
+      "popularity": "64",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "静安公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7dd98d1001e9390116c2fd8a7bec54e737d19645.jpg",
+      "introduction": "本来以为静安公园回想北京很多的城市公园一样，但是小巧玲珑依然是它的主题。不过，绿植茂盛、花开繁茂，让人们在城市快节奏的生活中能够有些许休憩的地方。即使已经11点，还是有跳舞的中老年人，三两个在草坪上玩耍的孩子，在这里完全感受不到门外的快节奏与压力，相反，“悠闲\u0026amp;笑声”才是主题。",
+      "popularity": "66",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "古城公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2f738bd4b31c8701e58a48ae277f9e2f0708ffbe.jpg",
+      "introduction": "城隍庙人太多了，这里可以稍微歇一歇。从福佑路进去的门，门口都是黑暗料理的小摊小贩，再加上运货的面包车，很混乱，就差脏乱差了……进去还可以，右手边有供人休息的长椅，旁边就是桂花树，记得以前汇总推荐赏桂地点的时候，瞄到过这里。人工小河上有一座城墙，当然是后来造的，二楼是咖啡厅，可以无视直接等顶。人工河里的睡莲蛮好看的，给嘈杂的环境带来一点安静。\n乘坐64路, 在新北门站下车可以到达",
+      "popularity": "55",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "环球金融中心观光厅",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/267f9e2f07082838d844b8e4b999a9014d08f1f1.jpg",
+      "introduction": "景色很美，景点很值得一看。白天可俯瞰浦江两岸景色，上海的历史和变化一目了然。入夜后放眼看去黄浦江上大小巨轮如星火般点缀着江面，夜上海的繁华和璀璨尽收眼底。",
+      "popularity": "64",
+      "recommendLevel": "4.6"
+    },
+    {
+      "name": "瀑布钟",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/738b4710b912c8fc5ddbe885fc039245d6882149.jpg",
+      "introduction": "　　\u0026quot;时代的步伐\u0026quot;即位于海关大楼正对面的瀑布钟。它镶嵌于绿色长廊之中，钟高3.5米，长2.7米，呈墨绿色阶梯状，共分十个台阶，每个台阶上装有喷水管，用电脑控制，喷泉涌出可见由一千多个水柱形成的水帘，水帘拖至阶梯，顺势而下成为瀑布。五彩灯光映于水帘，显现出用阿拉伯数字表示的世界主要城市时间。时代瀑布钟与海关大钟相映成趣，两钟位置一高一底，风格一是古典，一是现代，装置一是机械驱动，一是电脑控制，“一老一少”相得益彰，它们昼夜都在提醒人们守时、惜时。　　",
+      "popularity": "49",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "南汇嘴观海公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/908fa0ec08fa513d17c259973d6d55fbb2fbd90a.jpg",
+      "introduction": "滴水湖地铁站出来坐浦东33路，2元钱(优惠后一元)，最多15分钟就到了。就是车次间隔比较长，一般是2-30分钟。周末估计人多点，平时估计没人坐。那个假日酒店不错，不知多少钱一个晚上。虽然也是一望无际，但杭州湾的水和长江一样黄，哪像海水。可以翻过围墙直接到海边。据说这是上海最东南角，就像威海的成山头。拍几张照片走人。金山奉闲南汇的海边都去过了。最后就是川沙还没去了。",
+      "popularity": "35",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "金山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dc54564e9258d109d3ced906d158ccbf6c814d50.jpg",
+      "introduction": "金山区是上海西南部的远郊，位于中国长江以南的江南地区，地处黄浦江上游的金山，东与奉贤区接壤、北与松江区、青浦区为邻，西与浙江平湖、嘉善交界。",
+      "popularity": "123",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "玻璃博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/78310a55b319ebc4fd90f2678326cffc1f171667.jpg",
+      "introduction": "成人160元/人，儿童80元/人，两岁以下婴幼儿免费。购买一大一小两张门票，赠送了30元代金券可在馆内购买饮料甜点。先说里面的罐装可乐是5元，咖啡之类的热饮是25到35左右，可见代金券还是挺实在的。博物馆是老厂房改建的吧，所以坐落了好几个区块，好好玩四个小时绝对需要的，如果要当场制作物品当然要更久。我们时间有限，只玩了两个半小时，玩得比较认真的是儿童玻璃博物馆（此次的重头戏，主要是通过通关游戏了解玻璃的特性）和观看玻璃制品现场制作。有看有玩有买有动手，绝对是深的小朋友的喜爱。",
+      "popularity": "47",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "瀛东村渔家乐",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7fd5266d01609242195c353d40735fae7cd34c1.jpg",
+      "introduction": "崇明瀛东村渔家乐去东航售票处换票，那个人多来了，拿了个号前面居然有36个人在排队，保安说起码2个小时要的，哎，先去吃中饭吧。走出去，看到招商局广场一帮白领们也出来觅食，所以就跟着他们走了，然后看到他们进了这家。",
+      "popularity": "24",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "滨江公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828bcd23ed57fd1f4134970a5a05.jpg",
+      "introduction": "滨江公园我认为是上海一个很不错的休闲散步场所，滨江公园很大，沿着黄浦江成长条状布局，位于陆家嘴的滨江公园紧邻上海的繁华中心，与高楼林立间显的温柔婉约。滨江公园是观赏黄浦江的好地方，对面的外滩，从滨江公园看去又是不一样的感觉，滨江公园是免费的，参观东方明珠以后可以顺带走走滨江公园，还可以从这里乘坐渡轮直接去对面！",
+      "popularity": "42",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "同乐坊",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/245e8bcaba5c9edec8176849.jpg",
+      "introduction": "同乐坊其实蛮有历史的，据说早在20年代，它就已经深入人心了。它是由西康路、余姚路和海防路围出来的三角地带，这里除了有上海特色弄堂之外，还有很多让老同乐坊人所骄傲自豪的“弄堂小工厂”。在2005年，经过对一批老工厂的改造工程，这里已经成为上海的创意产业集聚区之一。可以说这里见证了上海的历史变迁。",
+      "popularity": "26",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "国际礼拜堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bba1cd11728b47100059c684c3cec3fdfc032307.jpg",
+      "introduction": "乘15路或者824路有经过，\n平时不对外开放，周日7点30，10点，19点做三次礼拜，游人可以进去参观。去时正好是周日，看到国际礼拜堂大家好多人都在做礼拜，感受下氛围还是不错滴，很多爸爸妈妈都带小朋友到这里来，教他们要与人为善，还蛮不错的，虽然小时候一直跟外婆去礼拜堂，但气氛没有这里那么好。\n\n只是周边好多乞讨的和小摊贩，都是看中教徒们的爱心么，有点煞风景，整体很不错。",
+      "popularity": "34",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "海军上海博览馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9825bc315c6034a88e9e41c9cb1349540923767e.jpg",
+      "introduction": "这里是上海的一个军事博物馆，主要展出了一些海军方面的东西。是一个免费景点，但必须用身份证登记。这里还有一个射击场，你可以掏钱玩一下真枪。这里还有一个贝壳展，里面有各种各样的贝壳，有些还是非常珍贵的。它包括了主体展览馆、海洋科普与海洋艺术馆、海军历史馆、海军兵器馆以及轻武器实弹射击馆等七个展馆和上海宝山海军少年军校。在宝山区靠近海边建着。里面有很多退役的海军装备，包括军舰，是一个值得去看的地方，向大家推荐了。",
+      "popularity": "31",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "陆家嘴中心绿地",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82270a7c6c6d81800a18d843e2.jpg",
+      "introduction": "上海的金融中心，摩登时代，这类绝对是藏龙卧虎",
+      "popularity": "65",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "新场古镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ac6eddc451da81cb971a9c425366d01608243144.jpg",
+      "introduction": "很安静的一个古镇，游客不多，街角还能看到老爷爷老奶奶自个儿摆摊卖些蔬菜和自家种的无花果，感觉特别适合生活，去的那天天气晴好，想着如果有一天老去，就应该在这样安静的地方，坐在门口，看青石板路上走过来往的人，晒着太阳，怀里抱着一只猫……",
+      "popularity": "49",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "黄浦江观光区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f0708e4d4548fe824b899a801f268.jpg",
+      "introduction": "黄浦江的景色非常的美丽，江面很开阔，而且晚上有灯光很漂亮。浦江两岸荟粹了上海城市景观的精华，从这里你可以看到上海的过去、现在，更可以展望上海的灿烂明天。 ",
+      "popularity": "90",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "嘉定孔庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0d968f2357e93729ad34de87.jpg",
+      "introduction": "免费开放，内部有很多的关于科举文化的展览。信息量多于南京夫子庙。一共有五个展厅。有关于考场的（考场秩序和考试安排人员）。状元的（历代状元，外籍进士）。八股的（八股文章）。里面有很多古木，很多都是两百年以上的历史。科举制度存在了整整1300年，给中国乃至世界非常巨大的影响，既有正面的也有负面的。参观完之后，我相信大家会对科举制度有一个更加客观公允的评价。也相信大家会更加努力的朝着自己学业更上一层楼的方向所奋斗。",
+      "popularity": "69",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "南浦大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc37931ecf8a061ebc4b74542a911e1.jpg",
+      "introduction": "如今的南浦大桥，行人已不能通行，但有过桥的公交，有机会的亲们可以体验一下哦。我顺着黄浦江走，竟然到了码头。很久以前就听说，上海的码头是当地最早的交通工具，这是一种最具生活气息的通行方式，充满了市井气息，我果断要体验一下。买了张船票，5毛钱，一块钱硬币大小的塑料圆。乘船的大都是当地人，他们骑着电车、自行车，第一次见把车放在船上的。",
+      "popularity": "143",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "和平公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ac0acf13eeadbe5a5aaf5392.jpg",
+      "introduction": "我是8号线四平路站下的，沿着大连路走一段，在控江路3岔口那里就有一号门。进公园后就是一个大湖，湖内也没有船啊什么的游乐设施，这样很好，看着很安静。公园里面有儿童乐园，还有一座假山里面有猴子供人参观，有点像动物园。很多附近的居民傍晚会在里面散散步，挺健康的生活方式。不要门票。进动物岛10元一个人，里面还有各种游乐设施，10元左右",
+      "popularity": "51",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "世纪广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32fa828ba61ea8d341d0b743970a304e241f5883.jpg",
+      "introduction": "其实购物对于我的吸引力还不足以让我特地去一趟centresud而是这里还有一个世纪广场，有法国人告诉我，广场上有一个毛泽东的塑像，使蒙彼成为欧洲唯一一个有毛泽东塑像的城市。（据说2012年蒙市当时的市长决定在世纪广场树立十位20世纪最具国际影响力的人物塑像，并且其中有毛泽东的时候，引起了很大争议，甚至有极右组织试图在塑像揭幕仪式当天进行破坏。）",
+      "popularity": "86",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "上海浦东射击俱乐部",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e7ce6dc2ede15cccc1166e9.jpg",
+      "introduction": "其实这就是个度假村，荣获国家AAA级旅游景点称号的旅游胜地。这里最受人关注的就是枪支齐全的实弹射击尝彩弹 枪对抗性射击。当时我就是这么被吸引过来的。确实很好玩，不过小孩要有大人的陪同才行。虽然有防弹衣，但是还是很疼的！！\n公交：乘坐浦东31路到欣河村老年活动室、两滨线到通源路南滨公路都可以到达",
+      "popularity": "24",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海玛雅海滩水公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a8ec8a13632762d070953545a1ec08fa503dc6a5.jpg",
+      "introduction": "设施很不错，超级好玩的地方，夏天有水的地方就是比较凉快。上午人还可以，下午人非常多，里面吃的东西非常贵",
+      "popularity": "35",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "寻梦园香草农场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5243fbf2b211931366db44c064380cd791238d22.jpg",
+      "introduction": "这里是薰衣草的世界，成片的紫色，让人流连忘返，浪漫的花海，令人向往。",
+      "popularity": "20",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "上海意大利中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9e3df8dcd100baa138f8bc4f4610b912c9fc2e6a.jpg",
+      "introduction": "前身是上海世博会意大利馆，每周二到周日营业，周一闭馆不营业。票价60元。除了世博会时展出的展品外，还一直不定期地更新展品，展品往往都是集合意大利艺术、手工业、设计、饮食文化和创意等领域的精华，非常值得一看。此外，上海意大利中心还经常开展各种活动，包括意大利品牌的发布会等商贸活动。总的来说，它是向中国展示意大利人文的传统艺术结晶、意大利及其他欧洲国家高品质的生活方式的重要窗口。有时候广场会搞一些交流活动，有演出歌舞和欧洲小吃，气氛很好。意大利馆犹如一座微型的意大利城市，充满弄堂、庭院、小径、广场等传统城市元素。",
+      "popularity": "39",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "世博轴",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb34cf1e045d833c895d0430c73.jpg",
+      "introduction": "世博轴是上海世博会留下的产物，世博轴由上南路直接可以走到黄浦江边，景色很美。世博轴的薄膜的建筑结构，也值得参观。世博轴有不少的高档美食，价格并不便宜。周边也中国馆及其他一些展览馆可以参观。来这里旅游不需要门票。",
+      "popularity": "63",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "秋霞圃",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b219ebc4b74543a968badb841e178a82b80114d0.jpg",
+      "introduction": "百度百科告诉我们：秋霞圃分为四个部分——邑庙、龚家花园、沈家花园、金氏园林，它的历史最早可追溯到宋代，它的地位，在上海的五大园林中，列为最古老的园林。相比起豫园的红色背景、古漪园的游艺气息，秋霞圃更多的是人文气息。因为我偏爱人文类的旅游，喜欢走走逛逛拍拍照，而相比起苏州园林的不菲票价，10元的门票显得平易近人。",
+      "popularity": "39",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "长风海洋世界科普馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167d296a5a22a4462309f7d3df.jpg",
+      "introduction": "由于是在网上预定的门票，需要换票，但是排队排了很长时间才取到的门票，建议可以增加窗口。 关于长风海洋世界的地理位置：是在普陀区大渡河路451号，也就是在上海的长风公园内，这里交通很便利，可以乘坐2号线在中山公园站转地铁3、4号线在金沙江路站下车后步行30分钟左右到达。也可以直接乘坐公交车前往，乘坐44、67、94、754、837、846路、旅游车6A、6B，在长风公园站下车。 关于长风海洋世界的门票：由于这次主要来是为了看白鲸表演，因为这里也是这个华东地区首家拥有的白鲸动物表演，所以还是很值得一看的，门票价格是180元，在网上预定的门票160元，儿童票的门票价格是100元",
+      "popularity": "33",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "州桥老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d8114c4e4d33fa828ba61e462f.jpg",
+      "introduction": "舟桥老街很多好的小店都在巷子的深处，比如吉阿婆，假面馆，泰迪之家，方糖，章鱼小丸子（在比较里面的一家比较好吃  正宗  外面的完全比不上  是个大叔卖的），豪大大也要吃85度巷子里的那家，和章鱼小丸子挨得比较近一般只有常住嘉定的人才知道这些好吃的，而且生意超好。一般旅游的只在主街上逛，很少吃到好吃的。",
+      "popularity": "47",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "老上海1930风情街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f2f070828381f307b393f6fa8014c086f06f0d0.jpg",
+      "introduction": "上海1930风情街，从博物馆的匆匆离开脚脚被磨除了花，无奈辗转寻找买双鞋。惊喜发现在附近还有一小去处，也是二话没说奔了过来。其实上海有很多类似这样的地方，是一条及小吃、商贩于一体的商业步行街，设计的蛮讨巧的。",
+      "popularity": "107",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "﻿佘山国家森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dc54564e9258d10943882863d058ccbf6d814dfc.jpg",
+      "introduction": "佘山最难忘的回忆就是被顽皮的猴子抓破了手，现在留下的疤是去过佘山印证。佘山免费。地铁线路：地铁9号线至佘山站下，可换乘多辆公交包括92路（4站即到）地铁9号线至佘山站下出站左转至车站转乘公交车松青专线（4站即到）。上海市区——延安高架路——沪青平公路——中春路——沪松公路——沈砖公路——外青松公路——到达佘山森林公园佘山里面有教堂，有新人喜欢在这里拍婚纱照。当然这里也有拓展基地，很多公司在这里开展拓展活动。",
+      "popularity": "43",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "三甲港海滨乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f636afc379310a555206f306b64543a982261025.jpg",
+      "introduction": "是浦东新区唯一可开发利用的生活海岸线，天高地阔，空气清新，水天相交，风光旖旎，自然条件得天独厚。景色优美流连忘返，但是水质不太好。",
+      "popularity": "22",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "上海汽车博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fb9bd448d46c224f4a20a4dd35.jpg",
+      "introduction": "博物馆旁边的公园很大很美，老爷车真的很漂亮，交通也挺便利的。车子种类多，汽车博物馆里面很宽敞。小孩玩的很开心，会推荐给朋友。",
+      "popularity": "40",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "长乐路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9825bc315c6034a8ec4e647fca134954082376a4.jpg",
+      "introduction": "长乐路是一条有故事的马路，瘦瘦长长的，贯穿着黄浦、徐汇和卢湾区。在那里有许多的名人故居，当然大部分都是不对外开放的，部分已经挪为商用，破墙开店了。因为长乐路以前是在法租界区域，所以那里的旧房子都是漂亮的洋房，喜欢摄影的朋友应该带上家伙去长乐路采个风。另外长乐路上还有各类美食，中西都有，不容错过。",
+      "popularity": "41",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海马戏城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7af40ad162d9f2d3a0f93ea7a9ec8a136227cc8a.jpg",
+      "introduction": "内容非常好，动物和演员们还是挺卖力的。表演精彩，欢乐马戏真是太欢乐了。上海马戏城，有“中国马戏第一城”的美誉，是上海国际文化都市又一标志性建筑。",
+      "popularity": "88",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "犹太摩西会堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7e3e6709c93d70cfc3e75845f8dcd100baa12b5d.jpg",
+      "introduction": "下午去的，下午的讲解是每一个整点开始。讲解员讲解的比较详细，就是同一批一起参观的小朋友有些吵，特别是在二 三展区，吵的没法好好参观。希望以后讲解员在没有讲解内容的展区也陪同一下，能管一下小朋友。学生票价10元，对于学生来说是一个能长知识 灰常nice的学习场所。跟着讲解员的话参观完纪念馆大概1个小时多一点。总体还是推荐学生朋友来看看～",
+      "popularity": "21",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "西佘山园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea4ab1130af9052eea8.jpg",
+      "introduction": "春光明媚中驱车来到了多年未去的西佘山国家森林公园，自行取票后刷卡进入（免费），山不高但细细看来值得品味，尤其爱透过层层光晕的竹林。还在远东第一天主教堂静静的坐了坐，虽不及欧洲教堂的华丽但自有它的韵味和壮美，喜欢！",
+      "popularity": "32",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "课植园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b7e283303930adcbef76099b2a.jpg",
+      "introduction": "朱家角最大的庄园式园林建筑,不妨漫步其中,体会亭台楼阁之美。",
+      "popularity": "39",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "电影博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/242dd42a2834349b06dc1578c8ea15ce37d3be70.jpg",
+      "introduction": "电影博物馆的惊喜当真持续不断。进入电梯后，发现电梯的天花板上是一块液晶屏幕。片段里的主演还有Carmelo Anthony和Scottie Pippen。中国电影业潜力无限啊，NBA球星都来客串一把。另外当电梯门关上的时候，电梯的天花板屏幕自动切换成倒计时，等倒计时到1的时候，电梯刚好抵达4楼。",
+      "popularity": "42",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "南汇上海鲜花港",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5243fbf2b2119313a5d09af865380cd790238de2.jpg",
+      "introduction": "上海鲜花港是现代种植科技农业和观光旅游农业的新亮点，春赏郁金香、夏赏荷、秋赏菊，多样性的展示为你呈上鲜花展的饕餮盛宴。适合拍照，还有适合小孩子玩的迷宫和游乐设施。",
+      "popularity": "49",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "安亭老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f3d3572c11dfa9eca0c09c5f62d0f703908fc188.jpg",
+      "introduction": "上海的古镇老街还是挺多的，安亭老街比较小，主要就是一条河一条街，没有多少游客。乘坐地铁11号线到安亭站下车，然后步行过去。老街上有一座塔还是很有气势的，旁边的一座寺庙没有进去，整体感觉比较冷清，可能跟位置太偏僻有关系。",
+      "popularity": "43",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "玉佛寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8367d1fc4a8112efb801a021.jpg",
+      "introduction": "每逢初一、十五或佛教传统节日，善男信女，三皈居士，接踵而至。院内香烟缭绕，福烛高照，都市风光中的丛林名刹，超凡脱俗、别具韵味。",
+      "popularity": "66",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海历史博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a686c9177f3e67094de046cb38c79f3df8dc5525.jpg",
+      "introduction": "很不错的博物馆。我国三大历史博物馆之一。一共四层。每一层基本有两个展馆。去的时候一定要安排好时间。早点去。和其他博物馆一样，不收门票，每天有限额，记得带身份证。个人印象最深的就是石碑馆、少数民族馆以及货币馆。其他也是不错的。我大约用了两个小时匆匆走了一遍。个人建议，如果要去的话，上午早点去，用一个上午的时间，好好欣赏一下。",
+      "popularity": "32",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "中国航海博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b2119edfe6bdcb8065380dd78e4b.jpg",
+      "introduction": "5.19中国旅游日去的，门票免费，平时是50块的门票，位于临港新城滴水湖旁边，现在地铁16号线可以直达。周一闭馆，馆内展区分为三层，第一层设置了航海历史馆、船舶馆、海员馆，以及渔船与捕鱼专题展区；第二层设置了航海与港口馆、海事与海上安全馆、军事航海馆，以及航海体育与休闲专题展区。第三层是不对外开放的，隔行如隔山，参观达到的效果基本就是蜻蜓点水，临近的滴水湖环境也相当不错。",
+      "popularity": "19",
+      "recommendLevel": "4.7"
+    },
+    {
+      "name": "新国际博览中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745ae93925ecffc1e178a821576.jpg",
+      "introduction": "上海新国际博览中心(SNIEC)是上海一个大型展览中心，每年吸引约200万名海内外观众和2万余名国内外参展商。",
+      "popularity": "98",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "孙中山故居",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d38ecd079baa1cd11728b296d.jpg",
+      "introduction": "孙中山故居位于上海思南路附近，是孙中山在18年开始到25年去世的住所。一栋欧式小洋房，不管是楼阁本身还是里面的家具陈列都保存完好。完整再现了一位国家领导人的生活方方面面。门票20（个人感觉小贵），进去先是一座博物陈列馆，然后是客厅，起居室等故居景点。进去要穿塑料脚套，不能拍照，感觉还是不错的。先坐地铁3号线到大世界，参观中共一大会址，然后在思南路上走，一转弯就到了。旁边还有周公馆，史沫特莱旧居等代表上海民国时期风貌的小洋楼。与周围的高楼大厦相比，这里就是休闲与怀旧风貌的代表。总体来说值得一去！",
+      "popularity": "81",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "荷兰新镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/060828381f30e924af09ad784c086e061c95f7cd.jpg",
+      "introduction": "感觉有点远，不过有空还是想去看看，",
+      "popularity": "40",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "世界巧克力梦公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/55e736d12f2eb9382c42840ad4628535e5dd6f1f.jpg",
+      "introduction": "上海巧克力梦公园在浦东新区，距离市中心有些距离，可以坐地铁7号线到花木路站，3号口出,步行3分钟即可。梦公园的门票是100元/人，可以在网上提前预定，价格会比较便宜。这里大部分的游客是小孩子，比较童趣。公园里有代表性的可爱公仔，可以和公仔合影。展示厅里全是巧克力的奇作，甚至还有巧克力做的兵马俑，非常神奇。这里还专门设有儿童的活动区，可以自己制作东西，这边的小礼品价格较贵，不建议购买。\n总体，这里还是偏小孩子游玩。",
+      "popularity": "28",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "步高里",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf41629819776094b36acaf9938.jpg",
+      "introduction": "乘公交24、104路。冲着名头去的.里弄口有门卫,我说明了就是想进去参观一下,也就让我进了.呵呵\n看的话也没什么特别之处,也就是一普通的居民里弄.红砖墙体看起来还是蛮舒服的.挺干净,安静的.\n我想主要还是以前法租界的保存建筑吧,作为一段历史的见证者(虽然是死物),我们当下的人也应该去感受一下.",
+      "popularity": "28",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "南汇书院人家",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1ad5ad6eddc451da9583fda3b6fd5266d0163204.jpg",
+      "introduction": "这里的农家菜都按标准化统一管理卫生,量很足.我们一行五人点了六菜一荡,服务员就不让再加了,菜多肯定吃不了.菜的味道基夲上都不错.环境比较舒服.",
+      "popularity": "13",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "飞行家主题乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f2f709630503d269758eec4a3.jpg",
+      "introduction": "上海那边离杭州也近，可以带小孩到杭州烂苹果乐园玩呀，那边有十大梦幻主题和近百项高科技互动游乐，小孩会很感兴趣的",
+      "popularity": "26",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "豫园老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c8205d01e596d81800a18d843ab.jpg",
+      "introduction": "此处集聚了极富中国民族风情的特色商铺，涵盖了居家用品、工艺礼品、喜庆用品和传统特色商品四大板块。万余种传统商品汇集一市，数十家特色商店同处一街，每逢庙会假日，芸芸众生，扶老携幼，熙熙攘攘，摩肩接踵，一幅“吃、玩、带”的民俗画，一派“国泰民安”的好风景，尽收眼底。",
+      "popularity": "127",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "临江公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4034970a304e251f13a8e0b0a786c9177f3e531e.jpg",
+      "introduction": "淞沪会战抗战纪念馆，非常雄伟！可惜正在整修，要到15年7月才能对外开放。里面的古城墙和古水关已经十分残破，而朱棣留的碑更是被乱涂乱写十分严重！所幸只是复制品。孔庙已经改为一个展览馆，展览淞沪抗战的照片。陈化成像也比较宏伟。",
+      "popularity": "38",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "金山海滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/503d269759ee3d6dbb2ff73642166d224e4ade66.jpg",
+      "introduction": "其实与其说是金山海滩，不如说金沙泥滩更确切。小时候不懂，知道大人要带着去金山海边觉得特别兴奋。到了才觉得很受骗，怎么没有电视里的那种沙滩呢？只有个黑兮兮的大泥滩。不过大泥滩也有大泥滩的好，就是在这里你尅抓到不少小螃蟹，哈哈。",
+      "popularity": "19",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "南汇桃花村",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2f738bd4b31c87016574c8ae277f9e2f0608ffbc.jpg",
+      "introduction": "南汇这两年搞油菜花经济，搞桃花经济。3月份桃花盛开的时节大批人都会过去看桃花，要拍桃花还是要挑一个晴天，这样拍出来会比较好看。另外这些桃花日后结了果实后，桃子也是拿出来卖的，你如果对老农家有信心，你在看桃花的时候可以跟老乡预定他家的桃子，等7,8月桃子成熟了，老乡会把桃子给你寄过来。桃花村在惠南镇北门路289号，可以地铁16号线坐到惠南镇下车，然后打个车，一个起步费可以抵达。当然自驾依然是去这些郊区的最佳出行方式。",
+      "popularity": "28",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "安徒生童话乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9213b07eca8065384bf1b1c496dda144ac3482c9.jpg",
+      "introduction": "千呼万唤始出来，听说马上就要开业了 ，之前有豆瓣的朋友说翻墙（免费的。。）去看过推荐去，昨天去看了下非常不错，好像之前有电视台在那里取景的。",
+      "popularity": "17",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "喜玛拉雅美术馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9a504fc2d56285358963fdc491ef76c6a6ef6357.jpg",
+      "introduction": "虽然喜马拉雅中心的外墙很酷炫，但也有点经不起细看，墙面质感欠佳。美术馆似乎不是它主要的部分，开在整个中心的3楼，兜兜转转有点难找。而且我去的时候，四楼正厅在装修，只能从卖品部小扶梯上去，到处弥漫着怪味道ORZ门票30元的价格很合理，但这次展览的内容不算多（主题：不合时宜），也许，现代艺术，尤其是那种比较晦涩的题材，本就不宜多，一多人容易疲劳、容易颓废。志愿者倒是很多，一问之下都是来社会实践的中学生，啧啧，青春洋溢啊，非常主动的来给你介绍，无奈介绍内容似乎也是背稿子，而朋友则认为现代艺术不应该被解释，略微理解其中的意思，因为一旦“被”解释，我们就被先入为主带入一个既定的圈套里。",
+      "popularity": "26",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "国际展览中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2e2eb9389b504fc2a3618a4de5dde71190ef6dbf.jpg",
+      "introduction": "上次来上海国际展览中心，主要是为了去看车展，展览中心相当大，分为好多个展区，从地铁出站后一路走只是到了展览中心的后面，走到前门兑换门票，门票是在网络上预订的，遇上特价的话买门票优惠很多，从地铁到展馆入口都有好一段路，够累的。展馆就更加不用说了，逛一天的车展，累得够呛的，场馆不单是大而且多。检票口架起了铁马，方便大家排队，我是临到快要结束展出的那天去的，人少很多，不过车模的整体质素就肯定没有开始的漂亮了，而且看到明显的疲惫感，场馆非常多，各大厂商都争夺发布新车，场馆里面的各个展台都争相做show，此起彼伏，那个人群呀就是冲着音乐去，音乐一响起SHOW就开始，模特也就出场了，要等show结束了才能走进展台看车，了解车，看新车，每年都不能错过上海的车展。",
+      "popularity": "45",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "崇明岛国家地质公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2fdfc039245d68865be9b4aa5c27d1ed31b249b.jpg",
+      "introduction": "园区内有许多自然、人文历史古迹，尤其以东平国家森林公园、学宫、寿安寺等最为著名。园内水土洁净，空气清新，风光优美，地质科学奥妙，是休闲度假、旅游和科学考察的胜地。这个地质公园算是还不错的了，展出的怪石嶙峋，很吸引人，门票也不算太贵，",
+      "popularity": "24",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "横沙岛",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0824ab18972bd40721fc2a037a899e510fb30910.jpg",
+      "introduction": "没有崇明岛的人多，这里无论是游人还是车辆都是稀薄的。来这里度假不失为一个好的选择，则一处木屋，处于中国最东边的海岛上，一醒来就可以看到东海第一缕阳光，那时候我们是为了追逐你这一抹阳光而去，然而一整晚疲劳的骑行让我们放弃了这种想法。",
+      "popularity": "35",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "莘庄公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21bb051f8198618720712cc4aed2e738bd4e632.jpg",
+      "introduction": "阴雨绵绵，寒冷的初春经人推荐来到莘庄公园。这里介绍从前为私家花园，有庭院和小桥流水，地方不大，绿化面积可观。以梅花闻名。很开心看到一个湖面有脚踏船，10元20分钟，结果发现可以划船的地方也太小了，2分钟一圈就结束了。不过蛮适合小朋友玩一下的。生态不错，许多人在这里唱歌，吹奏器乐，跳舞，还有小朋友撩小蝌蚪！加划船20分钟，一小时足够逛完，天气好就更好了！",
+      "popularity": "42",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "安福路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c81667eda16bd3eb13532fa4087.jpg",
+      "introduction": "走了一段吧，一个路口，我就没有按照安福路继续走下去，直接右拐进入乌鲁木齐中路，事先没有做任何的计划，就是随便逛逛，走着走着，又拐进一条路，好像是永福路，来到了 张乐平大师的故居，就是《三毛流浪记》的原著，喜出望外，这个真的值得一去的，关键是免费的！！！里面的环境不错，多媒体介绍，游客留言，感觉真实回到童年溜一圈，志愿者会给一个很有寓意很可爱三毛的书签，虽然简单，但是真是不虚此行~~",
+      "popularity": "60",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "嘉定马陆葡萄园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9345d688d43f8794a98bbe66d21b0ef41bd53a05.jpg",
+      "introduction": "开车子过来还是挺方便滴 如果乘车的话 11号线有个马陆站 但是还要再转车这里的葡萄可以自己摘 也可以直接买他们摘好了的",
+      "popularity": "24",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "滩浒岛",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a1363276a5bd4eb918fa0ec09fac7b7.jpg",
+      "introduction": "与上海隔海相望的滩浒岛气候宜人，空气清新，周围环境优美，被誉为\"东海明珠\"。",
+      "popularity": "28",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "宋庆龄陵园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2eccd796284fc2d562843568a3.jpg",
+      "introduction": "童年回忆，小时候天天五点起床抓一袋米去宋庆龄陵园喂鸽子，后来好像因为鸽子的安全问题没有鸽子了，也不知道现在还有没有鸽子了。",
+      "popularity": "34",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "极地体验馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7fd5266d016092482d923d7d50735fae7cd3479.jpg",
+      "introduction": "583路, 774路, 779路, 791路, 870路, 961路, 985路陆家嘴站下。\n购买观光隧道门票的时候注意到的，门票可以和其他娱乐项目以套票的形式购买~\n极地体验馆的门票是10元，价格不贵，买了票体验下~\n这个馆不大，从头到尾溜达一圈就10分钟~里面设计的挺曼妙的，主色调是天蓝色和白色，馆内很凉爽，清凉的空气更让人设身处地的体验一下极地的感觉",
+      "popularity": "23",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "吴江路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/48540923dd54564e52b833c7b2de9c82d0584f6b.jpg",
+      "introduction": "曾经上海最热闹的小吃街，就如同武汉的户部巷一样。窄窄的马路紧挨着数百家店铺。上海最著名的小杨生煎就是从这里起家的。每到晚上这里就灯火通明，油烟弥漫，挤到你只能侧着走，甚至不用走就有后面的人会堆着你走。前几年市政府改建吴江路，一下子脏乱却美味的平民吴江路摇身一变成了高大上的吴江路了，年轻人热衷的烧烤店，生煎店变成了高大上的咖啡馆，巧克力店，蛋糕店。环境自然干净了，但是人气也是和从前不能比了，有时候，人气和环境真的不能平衡吗？现在吴江路上仍然有小杨生煎，地铁2号线坐到南京西路上来就是了。除了小杨生煎，靠近南京路这里的王家沙也是上海小吃的天堂，吃货们不可错过。",
+      "popularity": "38",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "三甲港海滨",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/64380cd7912397ddbd0de24c5982b2b7d0a28705.jpg",
+      "introduction": "今天刚去，大家别去了，感觉已经萧条了，居然还好意思收门票，幸好去之前没有买票，去了啥也没看到，就只有一个芦苇荡，然后外面还有围墙，围墙里面就是那个乐园，但是没有什么项目也没人玩，基本上去的人都失望而归啊！[弱]",
+      "popularity": "45",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "老相机制造博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d87cc75ac132fa828ba71e462a.jpg",
+      "introduction": "这是孩子暑假实践的百所场馆之一，虽然在田子坊附近，但是由于在白玉兰剧场楼下，大部分游客都是到了剧场前怀疑自己搞错了。作为开馆时间不长的民间博物馆，游客不多。虽然不是摄影发烧友，也长了不少见识。尤其是参观结束，对馆长也是上海摄影协会副主席的陈海汶先生，深表敬意。他出资1百多万收购了海鸥相机厂的装配流水线，如今在展馆一旁保留了3个车间，田子坊设有一家实体店，接受定制机械相机的业务。这样的博物馆，不仅在国内，在全球都相当少见，因为现存的机械相机流水线已经不超过3条，有1条便在这面积不大的博物馆里面。曾经是机械相机制造大国的中国，在数码相机这段历史中可能将是一片空白。",
+      "popularity": "26",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "徐光启墓",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bf33a87e950352a8c9705405343fbf2b3118b87.jpg",
+      "introduction": "坐落在徐家汇光启公园内，作为一名科学家居然能官至次辅，明朝两人之下的大官相比名节也是过人，墓地是合葬墓，墓堆起伏，周边都是打牌的群众，很是和谐，还有很多石碑和石像石马遗迹，在上海非常罕见，单凭徐家汇源于其名字就值得一去",
+      "popularity": "38",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "金山农民画村",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bb22487e7ed0e72c75cc332.jpg",
+      "introduction": "交通不太方便，乘坐枫泾一路到中洪村下车，枫泾一路每半个小时开一班车。整个村子游客很少，环境幽静。这里有来自全国各地的农民画艺术家，农民画作品色彩明快，每个地区又有自己的特色。整个村子1小时就能逛完，也可以进入艺术家的工作室看他们画画或者编织工艺品。",
+      "popularity": "17",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "崇明沿江观光大堤",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8ea15ce36d3d53955ad4c0e3b87e950342ab06f.jpg",
+      "introduction": "崇明二日游的第一个景点在南门港码头的旁边，一条小路穿过去就可以看见外滩看黄浦江，这里看的是长江，感觉完全不一样，可能是对面望不到边的缘故江面挺平缓的，稍微走上那么一小段就行了，其实也没什么大看头有看到一块“崇明岛”的石碑，到此一游者可别错过",
+      "popularity": "19",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "上海白云观",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/18d8bc3eb13533fa1b02b066a8d3fd1f40345bc5.jpg",
+      "introduction": "离上海著名的城隍庙很近，去年游上海全家一起路过，因为妈妈信菩萨，所以进去拜了拜，谁想从外面看起来不太起眼，进到里面却是香火鼎胜，而且大大小小十几个神像，很出乎预料。不必远行便可以找到一份心灵的宁静，让心情有所寄托，我觉得这便是本观的优势。建议前往。",
+      "popularity": "31",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "五角场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a1ec08fa513d2697e3ce4aa054fbb2fb4316d82a.jpg",
+      "introduction": "五角场全称\"江湾-五角场\"，因邯郸路、四平路、黄兴路、翔殷路、淞沪路五条发散型大道的交汇处而得名。民国初年五角场一带原来是上海江湾镇以东的一片荒野，1920年代复旦大学迁来此处。五角场周围，复旦、同济、财大、二军大，可以说是个大学区。",
+      "popularity": "105",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "沉香阁",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7c1ed21b0ef41bd5079af6bc51da81cb38db3da8.jpg",
+      "introduction": "沉香阁又叫慈云禅寺，门票10元，坐落在上海的城隍庙附近，在黄浦区沉香阁路。沉香阁始建于明万历年间，前有弥勒殿，山门石坊；中有大雄宝殿、沉香佛殿，还有造鹤轩、前殿禅堂及左右厢楼。阁在清代为邑城官员祈晴祷雨之处，上海在未建万寿宫前，皇帝皇太后生日也在这里朝贺。因而香火旺盛，誉满上海城。里面有历史悠久的大钟多个，摆放在寺的廊上，如果能保护好就好了",
+      "popularity": "28",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "醉白池",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d009b3de9c82d15858b378f9800a19d8bc3e4240.jpg",
+      "introduction": "醉白池历经300余年，至今仍保存有堂，轩，亭，舫，榭等古建筑，并保持着明清江南园林风貌，其曲栏横槛、回廊曲径，古色古香。园林布局以一泓池水为中心，环池三面皆为曲廊亭榭，晴雨均可凭栏赏景。园内古木葱笼，亭台密布，古迹甚多，有四面厅、乐天轩、疑肪、雪海堂、宝成楼、池上草堂等亭台楼阁及邦彦画像石刻、历史艺术碑廊、“十鹿九回头”石刻、《赤壁赋》真迹石刻、《难得糊涂》石刻等艺术瑰宝，还有树龄在三四百年的古银杏、古樟树，年龄在百年以上的牡丹。",
+      "popularity": "61",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "华东师范大学",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/94cad1c8a786c9179c48b0ffc83d70cf3ac757a9.jpg",
+      "introduction": "本部在普陀区，地段很好的。风景也不错，毗邻长风公园。据说华师大的食堂特别赞，我以前有个好朋友在那里读研，我去过几次，她带我吃过几个食堂，果然很赞的。不过去年网上的黑暗料理里居然华师大也榜上有名了，只能说厨师太天才了。我个人还是喜欢上师大紫薇苑二楼的鸡丝拌面，太赞啦！天天排队有木有！",
+      "popularity": "30",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "龙华烈士陵园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a6c7d71713505c51c83d6d63.jpg",
+      "introduction": "这是个意外的收获，出龙华寺后，感觉时间还早，便去隔壁的龙华烈士陵园，开始并没觉的时候，但走在后面的时候，发现这还真是个不错的地方，绿化很好，景观以及雕塑虽然并没有多久的历史，但却与环境相得益彰，不仅让公园增彩，也恰如其分的表现了公园想要表达的主题",
+      "popularity": "61",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "共青团中央机关旧址",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda144fed140fab2b7d0a20df48699.jpg",
+      "introduction": "在淮海路上。房子的建筑特色跟一大会址相类似，但是名气远不如后者。里面的布局也大同小异，只有进门大厅可以拍照，其他的展览室里虽然都是各种图片，也不允许拍照。不是不可以用闪光灯，是不能拍照。只去过一次，也是因为徒步淮海路的时候进去参观了一下。",
+      "popularity": "22",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "证券大厦",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/359b033b5bb5c9ea39f01dabd539b6003af3b372.jpg",
+      "introduction": "陆家嘴有各种造型的建筑，有且长得很好看，有些则比较奇葩。这座证券大厦就是属于后者。一直都不知道当初设计师是怎么想的，难道想模仿凯旋门咩？这地方反正也不属于景点，也不是能随便参观的，路过抬头看一眼就好了。",
+      "popularity": "18",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海儿童博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f9198618367adab446842fbe8ad4b31c8601e4f2.jpg",
+      "introduction": "细细玩起来真是可以玩一天。但我小孩不喜欢小人书，不喜欢互动游戏，只喜欢玩开关和爬楼梯……美中不足的是很多设备坏了",
+      "popularity": "19",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "洋山深水港",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5bafa40f4bfbfbed63fe28ab78f0f736aec31fba.jpg",
+      "introduction": "参观代表上海市新发展之一的洋山深水港，感受上海新貌。",
+      "popularity": "49",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "陈云纪念馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b07ec1f4d44563bf624e483.jpg",
+      "introduction": "免费不免票的，用身份证去换票就好了.进门的时候是那种地铁一样的入口，估计为了便于工作人员统计参观量和人数吧，所以只好一个个进去，门口就挤了好半天，因为排队排的也是几道队伍，最后再挤成一条道。\n进去后的空间还是很大的，纪念馆有三层，一楼是一号、二号展厅，楼上是三号展厅，地下还有两个临时展厅。一楼的人比较多，楼上基本就没啥人了。里面空调也开得很足，所以逛逛看看还是蛮舒服的~",
+      "popularity": "18",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "前卫生态村",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c10384318aa8ab2119313b07e8917.jpg",
+      "introduction": "生态环境良好，空气非常好，景色很美。中午吃了当地的农家菜很新鲜，吃住价格都还不贵，在崇明农家乐办的比较成熟的村子。",
+      "popularity": "48",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海铁路博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9f2f070828381f30cb424f4da8014c086f06f0ff.jpg",
+      "introduction": "因为是上海铁路局的直属单位，所以要出10元的门票。中午11:30要闭馆，13:00又开馆，想去的话要注意开放时间！！！坐地铁3、4号线宝山路站下，走几分钟路就到了。院子里停着两列上世纪20年代美国产的蒸汽机车头",
+      "popularity": "26",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "海湾旅游区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/79f0f736afc37931d09bacf1ebc4b74542a91172.jpg",
+      "introduction": "阳光、碧海、沙滩、绿树，上海不能缺海，上海的海就在奉贤海湾旅游区。",
+      "popularity": "34",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "上海老码头景区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/77c6a7efce1b9d1696968dbaf2deb48f8d546493.jpg",
+      "introduction": "“老码头”是原来的十六铺，有着最上海的传奇。这里的临江弄堂、老式石库门群落流传着上海滩大亨们的故事。闲坐屋顶的欧式露台，看黄浦江江水滔滔，楼下曾是黄金荣、杜月笙的仓库。如今，老码头将更好地融合上海这座城市的艺术、文化 、商业与风尚，呈现给世人别具一格的海派风情。",
+      "popularity": "28",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "圣三一堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d788d43f8794a4c2370b57120cf41bd5ad6e39da.jpg",
+      "introduction": "逛街时路过的，但是刚刚想进去时，就被保安劝住了，不让进？！只能和家人看看建筑物了，这栋建筑物貌似很有年代的感觉，可惜看不到里面的环境。估计应该和一般的教堂差不多吧，红白洋楼，挺好看的。看到有游客对其拍照留念呢",
+      "popularity": "18",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "韩湘水博园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d01373f082025aaf188c7831faedab64024f1a89.jpg",
+      "introduction": "闵行区江川西路3805号有一座韩湘水博园，因所处的地名“韩仓”相传是古代八仙之一的韩湘子留下的宅院而得名。景区人气不是很旺，喜欢古建古桥的可以集中品味，因为韩湘水博园内有56座桥，表示了我国有56个民族，而其中有30座桥是地地道道清明时期的古桥，这些桥都是从别处搬迁而来，重新经过园艺设计集合在了一个园区。五孔的韩湘桥，单孔的香泾桥、三孔的醒狮桥，还有跨梁式平桥、曲桥、廊桥、每一座桥都有一段历史。个人对建园的方式虽然持有保留意见，但小桥流水间的亭台回转黑瓦，朱红的雕花木格门窗、青砖铺设的地面、处处彰显着传统建筑的精彩。",
+      "popularity": "16",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "世博公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cefc1e178a82b901a0fdeed6728da9773812ef87.jpg",
+      "introduction": "因为世博会的时候没来成，到了上海特意去世博会纪念展区参观了一下。坐地铁4号线到鲁班路，不过地铁站离的有点远，出站以后往南走大概20分钟才到。注意一下，纪念展区是世博会的城市规划馆，不是中国馆，我来之前一直以为在一起，结果中国馆是在江对岸，离这里还有好远，千万别弄错了。纪念展门票30，楼里有3层，一楼是世博会的图片及资料介绍，二楼展出了国内各地方馆的展品，三楼是其他 国家留下的展品。流动的清明上河图给我留下的印象最深刻，非常赞。那个小米宝宝塑像总觉得有点吓人。对我这没参加世博会的人来说觉得非常不错了。提醒一下，世博会纪念展周一闭馆，平时下午5点关门，下午4点就不售票了，来的话要注意时间安排。这里过江可以参观世博中国馆和世博公园，可以安排在一起参观。",
+      "popularity": "37",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "中国武术博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc5e5f34fa200316251f14a7.jpg",
+      "introduction": "太烂了，我们是一所松江的幼儿园，也是文明而来，上周六的时候白天过来，下着大雨，到了博物馆旁边的侧门，一位阿姨工作人员就是不愿意帮忙喊人开门，说是规定不可以开，我们这么多小朋友那么远过来，我们好说歹说，就是不让进，最后还是从恒仁路那个门走进来，所有孩子就躲在三个老师的伞下，走到了鞋子裤子外套都湿的差不多了。刚进去没多久，发现门卫给了其他人开门。我本想带着孩子们多多了解中国的传统文化，也算是为这个博物馆做了些贡献了吧？好的话年年都会带不同的人了解传统文化，这样无形中也会惠及到不少人，也算是响应了这个博物馆的建立了。可是工作人员这种非人性化的行为，真的太寒人心了！为我们大老远有淋湿了过来感到不值！",
+      "popularity": "18",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "虹口足球场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f05951e80e78310a55b2191cf0.jpg",
+      "introduction": "中国的第一座专业化足球场，果然名不虚传，三层看台，整个球场设计特有现代感，顶层流线型侧棚很漂亮，从南看台顶棚球可以看到陆家嘴的东方明珠和厨房三件套等与球场遥相呼应。球场视野很开阔，一览无余全场无死角，看球的氛围也超级带感，南北看台都是主队球迷，现场感觉超级赞，和电视机上完全不是一个感觉，说来申花算是我半个主队吧，希望申花能早日重回巅峰，WE ARE BLUE！ 咚咚咚咚咚！申花是冠军！",
+      "popularity": "37",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "上海黄浦江游览清游江船",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8601a18b87d6277f907800c429381f30e824fce7.jpg",
+      "introduction": "买的现场票，100块一张成人，坐的是船长3号，有3层，船上环境不错。建议上到第三层看黄浦江的夜景。但是现在商业气息真重，100块的船票在第一层可以免费坐，但是谁会坐在第一层啊，在第三层如果想坐着必须额外再付80块一人。除此之外，如果可以网上订票的话就网上订票吧，携程价才68，就是因为网上预定没有位置了才买的现场票。全程40分钟左右，上海的夜景名不虚传，真心漂亮。而且是中秋前两天去的，月亮很圆，天朗气清漂亮极了！明珠塔我也上去过，如果要看夜景的话，黄浦江游船性价比是最高的，因为明珠塔更坑爹，光是排队就要3个小时，码了这么多字叫我活雷锋不谢。",
+      "popularity": "35",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "复兴公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/08f790529822720e2a53ceb27bcb0a46f31fabdc.jpg",
+      "introduction": "复兴公园是上海开辟最早的公园之一。八十多年前这里是肥沃的良田，当时有个姓顾的人家拥有十多亩土地，便在此建造了一个私人小花园，人们称之为“顾家宅花园”。1900年，法租界公董局以7.6万两规银购入152亩民田，将其中112亩租给法军建造兵营，即顾家宅兵营， 1908年改建公园，于1909年6月建成开放，取名“顾家宅公园”，也称“法国公园”。",
+      "popularity": "74",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "徐汇滨江",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f9198618367adab474c5fe0b8bd4b31c8701e465.jpg",
+      "introduction": "徐汇滨江是世博会前才弄起来的。之前那里的滨江很差劲的。跟黄浦的外滩、浦东的外滩都不是一个级别的。后来大力整治后，修出了休闲步道。很赞的。连龙华庙会都搬到徐汇滨江的海事塔广场了。我去过一次。与老的庙会龙华塔那里有免费的接驳车。从徐汇滨江可以一路走到卢湾这边来的，很长。天气好的时候，适合小情侣徒步。有情调。我2011前后去的时候人都不是很多。现在估计名声大噪，人不会少了。",
+      "popularity": "60",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "川沙古城墙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe0970c3dc5c6b600c338644addc.jpg",
+      "introduction": "从地铁2号线华夏东路下车后步行至华夏东路华东路站换成977路，坐7站到东城壕路中市街站下车，就距离城墙很近了。这座古城墙现仅存60米。不过上海能保存下来的城墙真的是太少太少了，连个城墙样都没有了，只剩几块砖，一个土疙瘩了。整个遗址公园不大，一进去就看到这段城墙，两边则是一些名士诗句碑刻。城墙是可以走上去的，在遗址公园旁边就是一座小学，站在城墙上看着学校操场上的孩子们玩耍，很有穿越时空的感觉。",
+      "popularity": "20",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "东佘山园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f473e4f4b4f2d38580.jpg",
+      "introduction": "刚到公园门口的时候，看着山还蛮高的，听说有90多米，后来爬爬看，逛了两圈，觉得没自己想象的那么累，人还是挺多的，可以去哪里烧烤，野餐，挺好玩的",
+      "popularity": "23",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "圣母大堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a2cc7cd98d1001e976e90d47b80e7bec55e797a4.jpg",
+      "introduction": "路过一次，没有开门所以只是看了一下外观。这教堂的体型真的不算大，但看来还挺精致，保护的也不错（只是外观上看来）。上海教堂不少，但东正教教堂真的好像就这座了。周边有不少景点（孙中山故居之类的），又是那种梧桐路，所以来逛逛，找个咖啡馆悠闲地度过一个下午还是蛮不错的。",
+      "popularity": "36",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "芦潮港",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745a54a955ecffc1e178b82159f.jpg",
+      "introduction": "不大的一座小岛，过东海大桥可以到。岛上很多深水港码头，玩的地方并不是很多，可以爬个山看看风景拍拍照。",
+      "popularity": "32",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "东滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ff41bd5ad6eddc4959d92b339dbb6fd5266337b.jpg",
+      "introduction": "比较冷门，人很少，风景很自然，骑车游很适宜",
+      "popularity": "36",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "老码头阳光沙滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6f061d950a7b0208146db80263d9f2d3562cc8a9.jpg",
+      "introduction": "城市中心的另类沙滩",
+      "popularity": "32",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "崇明学宫",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/11385343fbf2b2119c64e506ca8065380cd78e2b.jpg",
+      "introduction": "崇明学宫是现今上海仅存的三座学宫之一。来游玩时可参考节庆展览:正月初一至初八豫园元宵灯会、3月-4月南汇桃花节、4月龙华庙会、4月国际花卉节、4月-5月国际茶文化节、9月-10月上海桂花节、9月-10月上海旅游节、12月31日迎新春，撞龙华晚钟，是来游玩时的最佳时节。",
+      "popularity": "20",
+      "recommendLevel": "3.5"
+    },
+    {
+      "name": "嘉善老市",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b03533fa828ba61e26d8dfcc4034970a304e591a.jpg",
+      "introduction": "这是一片老外的小小聚集地 门口一栋创意园 里面各种店铺 各种handmade产品 自成一格 来采风的人很多 来凑热闹的人也有 比如我;P 其中有加cake The British Kitchen 那家是看DP友人介绍前往的 味道不熟大品牌或五星品级产品",
+      "popularity": "8",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "青龙寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/63d0f703918fa0ec6efd9845269759ee3d6ddb44.jpg",
+      "introduction": "乘公交车白徐线（或青华专线）到纪鹤公路青龙路站（或旧青浦站）下均可，下车后朝东至青龙公路，再朝南步行刻把钟可见青龙村，村口是村委会，过村委会的路口朝西直走便见寺与塔。\n  有着近1300年历史的古寺门前立有青浦区文物保护单位碑。\n  中轴线上由南至北是山门、大雄宝殿和在建殿；东侧前后布置钟楼、聚贤堂、观音殿；西侧是财神殿、客堂、鼓楼、地藏殿。\n\n  寺颇具规模，可能是地处偏僻交通不便，显得格外清静。\n  山门前收票的保安介绍说，该寺的素斋很好，6菜1汤才5元，中午11时开斋，因不在饭时而未品尝。",
+      "popularity": "24",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海当代艺术博物馆-卡地亚当代艺术基金会：陌生风景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c33cf011e9a164c510fd9f9a16c.jpg",
+      "introduction": "卡地亚基金会的藏品将通过展览“卡地亚当代艺术基金会: 陌生风景”，在上海当代艺术博物馆呈现。本次展览由卡地亚当代艺术基金会与中国知名文化机构——上海当代艺术博物馆联合举办。\n展览地点：上海当代艺术博物馆\n展览时间：2018年4月25日至7月29日\n票价：60元",
+      "popularity": "62",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海迪士尼度假区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cb1cb1349540923b9a160c89558d109b2de49bf.jpg",
+      "introduction": "上海迪士尼乐园于2016年6月16日盛大开幕！",
+      "popularity": "91",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "练塘老街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e824b899a9014c08980535ec0a7b02087bf4f4b9.jpg",
+      "introduction": "作为练塘人，我不得不说，练塘古镇不像其他古镇那么喧嚣，较为安静，民风质朴，延河边坐落的店铺和陈列馆，慢悠悠走，细细看，绝对不会人挤人的，我们几个好友下午吹吹风晒晒太阳听听树叶飘动声聊聊天，特别舒服放松，相比市区的快节奏，这里可算世外桃源了。特产，肯定是茭白，我家是茭白个体户，可能从小在乡下吃自家种的菜，市区卖的菜看着新鲜，味道却不一样。也难怪，市区的都比较稀罕乡下带去的，没办法比。（在此推广一下，喜欢茭白的，可以到练塘毛练里加油站对面小摊购买，当天采摘，偶尔有自家时令蔬菜，茭白干可以预定，手工制作，有需要的可以给我留言哦。）还有熏拉丝，练塘菜场门口有卖，人家自己做的。",
+      "popularity": "28",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "上海世博展览馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cdbf6c81800a19d83a2f94ff32fa828ba61e461f.jpg",
+      "introduction": "值得去看看的地方。建设的不错，印象还是很深刻的。上海世博展览馆是一座设施先进、布局合理、节能环保、交通便捷、功能齐全的高规格、现代化、国际性会展场地。 ",
+      "popularity": "64",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "法华塔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/64380cd7912397ddd29d55435982b2b7d1a28795.jpg",
+      "introduction": "法华塔内部有两大名人的纪念馆，一个是近代知名的外交官顾维钧，另一个是实业政治家胡厥文。两人的生平事迹都有详细的介绍。参观完这两个纪念馆，我对两人为中国、对世界所做出的贡献感到肃然起敬。诚然，两人一生也遭到很多坎坷，如顾维钧的巴黎和会外交失败，也如胡厥文的事业被战争所波及。但是一人屡败屡战，一人留髯明志，终成大业。相信大家参观完这个点之后会有极大的精神收获。",
+      "popularity": "30",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "鹤鸣楼",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1160924ab18972b63f81c82e6cd7b899f510ab3.jpg",
+      "introduction": "川沙公园是一座江南古典式园林。鹤鸣楼是川沙公园主景，整个楼厅雄柱80根，每根10余米高，楼高54米，4200平方米，五塔七层，四遂翘角，垂系60金钟，风吹鹤鸣有声，金黄琉璃，画栋回廊，风光旖迤，海天旭日，物华地宝，欲穷千里，声闻于天。",
+      "popularity": "18",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "武康路",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8c1001e93901213f66ffe53f55e736d12e2e9501.jpg",
+      "introduction": "一直很想来武康路的，得以昨天兴致大起，说去就去了，一路上是做公交车过去的，从嘉定出发到曹杨路兰溪路下车，然后一直往前走，到曹杨路白玉路上车，923路公交车做七八站吧！到华山路江苏路下车，步行一公里左右就可以到达了，你就可以感受一下一千米长的武康路的建筑和榕树，确实很美。",
+      "popularity": "66",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "世博展览馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c543c541ad43b292df5e1fe7f42.jpg",
+      "introduction": "世博的时候去的，有些展览馆非常有特色，好像世博结束后有些保留下来了。外面看看就可以了。现在里面应该什么都没有了。",
+      "popularity": "19",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "上海SMP滑板公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa26aa9e5f58ee3d6d54fbdaa4.jpg",
+      "introduction": "地铁10号线到新江湾城下来后步行可以到，不过步行距离颇远。这里是滑板爱好者的天堂，不过国内这类活动始终开展的不算很蓬勃。在这里看到一些很刺激的极限的动作，还是很爽的。",
+      "popularity": "17",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "上海滨海森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e824b899a9014c08369ad85d0b7b02087af4f4a1.jpg",
+      "introduction": "从龙阳路地铁站有公交车直接到滨海森林公园，距离上海鲜花港约两三公里，步行半个小时。滨海森林公园内最大的特色就是到处可见的风力发电站。公园内也可以骑马，有大片的草地和湖水，这里的水质在上海的景点里算是比较好的，也可以约上三五好友一起烧烤，公园出租烧烤炉。",
+      "popularity": "18",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "震旦博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b55b319ebc4b745415a78f2cefc1e178b821503.jpg",
+      "introduction": "BVLGARI展——在震旦博物馆展出的125年宝格丽回顾展，本身那个博物馆就是建筑大师安藤忠雄设计的，很不错。展厅有三个楼层，按设计风格展出了不同时期的宝格丽的饰品，一路闪眼，宝石的闪光点比闪光灯的还要亮，虽然已经禁止使用闪光灯了。但是阻止不了不停按快门的参观者。观展结束后从二楼平台出来，正好有爵士歌手在那边现场，听了一会儿才姗姗离去。",
+      "popularity": "10",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "浦东孙桥现代农业园区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b5fb6bf8c0ad162d9f3d3c9f3.jpg",
+      "introduction": "30元的票价不算便宜，也别指望让你满意的服务。破败的院子，稀少的人员，良莠不齐的服务人员，和装修中现代化农业大棚截然反差。来了就看看吧，如果还没来过，那就奉劝没有必要花时间来了。。。路也不太好找，适合您开车前往。。。几个暖棚进去看看，也没啥特别的。除非你没见过南瓜，有个南瓜碰里搭了点凉棚和小桥。好多标签不清楚，甚至没啥标签的居多。。。不过反过来想，常见的农作物，有必要花大成本搭棚建屋吗？",
+      "popularity": "18",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "上海人民英雄纪念塔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/80cb39dbb6fd52662458eed9aa18972bd5073688.jpg",
+      "introduction": "走到外滩最北面和苏州河交界的地方就能看到三根方形柱子指向天空，这就是上海人民英雄纪念碑了。这里以前是外滩的一个公园，据说很早以前曾经竖过一块“华人与狗不得入内”的牌子。是否真有其事很多老上海意见并不一致。后来公园开放了，外滩也改造了，就成了今天看到的样子。从这里向西看就是外白渡桥了。",
+      "popularity": "60",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "极地白鲸馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b151f8198618367aa36cd9112f738bd4b21ce511.jpg",
+      "introduction": "在长风公园的另一边，是一个专门看白鲸表演的馆，表演免费。可以搭电瓶车过去，5元一位，走着的话大概要20多分钟。馆里中间是一个七八米深的大水池，表演除了白鲸，还有海狮，最逗的是驯兽员让海狮学海豹走路，超搞笑。",
+      "popularity": "11",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "星期八小镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8ea15ce36d3d539d5a4cc3b3b87e950342ab0a9.jpg",
+      "introduction": "学校春游时去的，那是老早的事儿了，我还记得，我穿上警服，与伙伴一起抓工作人员扮演的小偷，还当过消防员灭过火，修过车，做的最多的就属当擦鞋匠给人擦鞋了，，一次一块钱，有时能得两块。当时我特傻，留着那大把大把的钱不舍得花，我看做蛋糕的店里店外站满了排队的人，我本来就不舍的花30元去做蛋糕，更何况还要排这么久的队，最后，要集合回学校了，我拿着大把的星期八小镇的钞票离开了，，现在想想，我真傻，蛮好那时做个蛋糕，不仅能体验做蛋糕的感觉，还能饱餐一顿呢，坐在大巴上，我看着同学手中的蛋糕盒嘴馋啊！现在看了看那放在床前盒子里的那一大打不能用只能拿来当纪念品的钱，，那叫一个不得已啊！",
+      "popularity": "13",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "海湾旅游区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb151b3b588d78d543060.jpg",
+      "introduction": "垃圾的奉贤区政府，垃圾的海湾旅游区管委会，两个垃圾在一起，造成了海湾5年来没一点长进。地理位置位于上海的正南方，可供游玩的两个海边除了海湾旅游区，就是金山的城市沙滩。奉贤区政府没有把握这优越的地理位置发展旅游业，搞什么化工区，搞了个什么墓地，乱七八糟的，地铁么没通过来，大学城么熙熙朗朗，奉贤区政府穷啊，也懒，根本没踏踏实实的发展海湾旅游业，就是个垃圾",
+      "popularity": "27",
+      "recommendLevel": "4.3"
+    }
+  ]
+}

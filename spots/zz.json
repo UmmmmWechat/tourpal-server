@@ -1,632 +1,635 @@
-[
-  {
-    "name": "少林寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad9a6356764a36acaf2fdd98cf.jpg",
-    "introduction": "少林寺，又名僧人寺，有“禅宗祖廷，天下第一名刹”之誉，寺院香火旺盛。人特别多，还不如爬山好玩。商业化很严重，到处都是骗子。",
-    "popularity": "1200",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "嵩山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3a86813d3d823969bba1676d.jpg",
-    "introduction": "中岳嵩山，由太室山与少室山组成，北瞰黄河、洛水，南临颍水、箕山，东通郑汴，西连十三朝古都洛阳，是中国佛教禅宗的发源地和道教圣地。",
-    "popularity": "602",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "河南博物院",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d6c781ab40070828381e30fdaa.jpg",
-    "introduction": "内设基本陈列馆、专题陈列馆、临时展览馆。首批推出2个基本陈列和6个专题陈列，内容丰富，蔚为大观。建筑特别有特色，商周青铜器文物真的非常棒，而且展品丰富。",
-    "popularity": "543",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "世纪欢乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caae680944e0fdc22fddd4e0.jpg",
-    "introduction": "世纪欢乐园项目很多，是集火车文化、科普教育、休闲娱乐、餐馆服务的大型综合游乐园。过山车还是很刺激，而且里面的设施很好。",
-    "popularity": "326",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "黄河风景名胜区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3ba5d164843b11d20a4e99e.jpg",
-    "introduction": "这里是黄河地上“悬河”的起点，黄土高原终点，独特的地理特征形成了博大、宏伟、壮丽、优美的自然景观。处于中华民族发源地的核心部位，景区历史古迹丰富，历史文化深厚。",
-    "popularity": "584",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "康百万庄园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e83cb62f74be585e6113a73.jpg",
-    "introduction": "建筑风格独特，很宏伟的建筑，并且古建筑很有特色。整个景区很干净，请个导游比较好，讲解很好。",
-    "popularity": "259",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "黄帝故里",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8759287a2187b4ba2e73b3a9.jpg",
-    "introduction": "无论祠前广场的苍松翠柏，还是轩辕桥下的潺潺流水，都让你有一种寻根的亲近和敬畏。",
-    "popularity": "328",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "二七纪念塔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd315c6034a85edf67e4787c49540923dd547501.jpg",
-    "introduction": "哪里有压迫哪里就有反抗，这里见证了历史，多少年后的饱经风霜，它也注定变成了历史的一部分。",
-    "popularity": "585",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "三皇寨",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6609c93d70cf3bc7e559beb3d100baa1cd112a17.jpg",
-    "introduction": "三皇寨是一处悬挂于少室山腰的天然山寨，四处山峰耸立，怪石崚峋，仿佛将这里与世隔绝",
-    "popularity": "167",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "郑州方特欢乐世界",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b219ebc4b74543a9e36c53fd1f178a82b901148f.jpg",
-    "introduction": "以高科技为主要表现形式的文化科技主题公园。",
-    "popularity": "235",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "环翠峪",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa251d4f9be80961afc3abd6.jpg",
-    "introduction": "环翠峪风景区以独有的石怪，洞奇，林美，景幽著称，以郑汉长城、卧龙云花石，太行猕猴最为有名。门票不贵，景区的人很热情，农家饭也挺好，但开发不是很完善。",
-    "popularity": "140",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "嵩阳书院",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/35a85edf8db1cb1324313b4cdd54564e92584b10.jpg",
-    "introduction": "以理学著称于世的嵩阳书院，文化赡富，漫步在藏书楼中，看一看墙上堪称一绝的字画，无不折服于古人的学识。",
-    "popularity": "151",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "金鹭鸵鸟园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7ac880518f625e4943a75b1b.jpg",
-    "introduction": "恐龙很逼真，很多好玩的项目。景区环境一般，比较好玩的是水上乐园。是亚洲最大的鸵鸟养殖示范基地也是我国最大的恐龙科普基地。",
-    "popularity": "181",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "北宋皇陵",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d760ce26fbaa1cd11738b29fb.jpg",
-    "introduction": "在初冬的一天早上来到北宋皇陵，无需门票，直入，是雄伟的很具气势的左右雀台和乳台，中间石板大道甚是宽阔，两旁肃穆的人像兽像石刻群巍峨而苍桑，主体当然是官城墙里的永昭陵了，可斑驳和破落的木门已被生锈的大锁锁着，看不到也不能看了，透过门缝往里看，里面是一片小树林和空地，还有一些废弃的玩具跑车，竟然内里像是一个被遗弃的游乐场。怪不得不用门票了，主体都没了，只留下前面历经千年的石像群，饱受风雨，默然而立。",
-    "popularity": "190",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "浮戏山雪花洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/730e0cf3d7ca7bcb0770c770be096b63f624a861.jpg",
-    "introduction": "溶洞很漂亮，山沟的空气好。非常好的地方，回程的路上风景也很不错。门票可以用学生证半价，山里很凉快哒。",
-    "popularity": "126",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "黄河大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/902397dda144ad346ecb84d8d0a20cf431ad857c.jpg",
-    "introduction": "郑州市内的黄河大桥太多了，算下来也有十来座，这里说的主要是紧靠黄河风景名胜区的黄河大桥，黄河风景区位于郑州市西北25公里的黄河南岸，是以突出黄河文化，展现时代特色的民族文化型旅游景观。从郑州市内过去可在火车站站前广场左侧坐游16路，一个多小时才能到，比较远。在景区内一直向里走可以看到两座横跨黄河天险的铁路大桥，老桥是建于清政府时期，新桥是建国后我国自行设计建造，目睹了中原大地的苍桑巨变。现在老桥只留下南端5孔约200米供参观教育的桥头遗址。在桥头修建了毛主席视察黄河和周总理亲临指挥黄河防汛抢险的纪念亭。此外在此还可以去看下黄河中游和下游的界碑，也可选择坐缆车，比较节省体力。",
-    "popularity": "182",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "郑州绿博园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dcc451da81cb39dbf0c2c1a5d1160924aa1830c6.jpg",
-    "introduction": "郑州绿博园在郑州市郑开大道，与方特欢乐世界正对着，门票30元，学生半价，这里主要是去看花看植物的，郑州市内乘坐地铁一号线到黄河南路站从b2出口出再换乘游568公交可到，距市区稍远，比较费时，自驾去也比较方便，对面的郑州方特欢乐世界有专门的停车场，专人看护，小车5元一天还是不贵。里面还是比较大，可以乘坐代步车，感觉就和一般的植物园差不多，但是票价更贵，建议有花展或其他展览的时候去最好，其他时节不用去，一般春天的郁金香展是最热闹的。",
-    "popularity": "167",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "丰乐农庄",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea46f70f4a09052ee88.jpg",
-    "introduction": "丰乐农庄是一个以种植世界各地30多种名特优葵花为主题，集农业生产、特种蔬菜种植、畜牧养殖、观光旅游、餐饮娱乐、休闲度假为一体，让人能真正的回归大自然，体会农家纯真的生活乐趣。丰乐农庄整体分为丰乐葵园和现代农业示范园两个区。每年5至11月份盛开的向日葵月月向游人开放，吸引着广大游客前往游玩。除葵园外还有荷塘、木屋别墅区、人工湖、篝火营地、台湾烤肉亭、丰乐桃园、美国引进的优质葡萄园等，，最北部的为占地130亩的草原风光牧场，养殖有南阳小黄牛和海南东山羊。同时，农庄还退出了桃花坞温泉、马拉湾水上游乐项目、真人CS等，工作之余来到这里放松放松，很惬意，是人们靠近大自然、领略大自然风光的绝好去处。",
-    "popularity": "89",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "黄帝宫",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4651a712827aa9a2c2fd7857.jpg",
-    "introduction": "黄帝宫位于武定湖北岸，依山傍水，环境幽雅。曾是轩辕黄帝建宫筑殿，练兵讲武、研创八阵图的地方。这里山水秀丽，风光旖旎。自古流传着许多传奇的故事和动听的歌谣。",
-    "popularity": "171",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "中原福塔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db16f41b0e30823dd54574e74ce.jpg",
-    "introduction": "又名河南广播电视塔，是世界最高的全钢结构电视发射塔，拥有世界上最大的全景画。",
-    "popularity": "155",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "中原影视城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167aa250e321a4462308f7d3ed.jpg",
-    "introduction": "中原第一影视城",
-    "popularity": "97",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "黄河大观",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a2cc7cd98d1001e9fcd69750b80e7bec55e79783.jpg",
-    "introduction": "黄河大观是观赏黄河、感受黄河水浪及气势的好地方，一个以黄河历史文化为背景，以黄河流域的人文景观为表现形式，融建筑、山水、花木等艺术于一体的风景区。园内模拟小黄河为轴线，两边分为文化风情区和北岸高科技游乐区。文化风情区由黄河流域代表性的人文景观如泰山、龙亭、龙门石窟、大雁塔、兵马俑、长城等组成，都是些微缩景观，门票30元。在火车站站前广场左侧坐游16路，在江山路大观路站下车，景点距离市区较远，有30多里，自驾方便些，其实不用专程去，可以和黄河风景名胜区一起游览，从黄河游览区乘缆车可到。",
-    "popularity": "74",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "中岳庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b46f21fbe096b63e6235d0f0c338744ebf8acb2.jpg",
-    "introduction": "中岳庙是五岳中保存最完整、规模最大的道教庙宇建筑群，基本上保留了清代重修以后的规制。庙中有殿、宫、楼、阁等建筑39座近400间。总面积近11万平方米，中轴线全长650米，共有7进11层建筑，中轴线上的建筑高大雄伟，主殿峻极殿是五岳中最大的殿宇。",
-    "popularity": "116",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "郑州海洋馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d143aa7b32db72f082025aaf073c.jpg",
-    "introduction": "郑州海洋馆位于海洋路和中方园路交叉口，游客可在热带雨林馆欣赏热带淡水观赏鱼，在珊瑚礁馆里观察浅海珊瑚礁鱼，在海洋民俗馆拾贝壳、织渔网。",
-    "popularity": "132",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "郑州动物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4be433c53e83025aafa40f062a.jpg",
-    "introduction": "我和老公第一次约会的地方，传说相爱的俩人同时看到白孔雀开屏 他们就会永远相爱在一起。后来我们真的就结婚了",
-    "popularity": "116",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "普兰斯薰衣草庄园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/738b4710b912c8fcf91d4d37fd039245d7882159.jpg",
-    "introduction": "普兰斯薰衣草庄园集现代农业、生态保护和旅游为一体，是一个风景亮丽、景色迷人的园区，庄园内现有二百多亩薰衣草花田，十余种薰衣草品种，三十多种其他香草花卉。薰衣草盛开的季节，在蓝天的映衬下，一整片的薰衣草田宛如深紫色的波浪在风中层层叠叠地上下起伏，花香四溢，仿佛可以品尝到世界上最浪漫的味道。除了各种薰衣草，这里还有很多欧式浪漫建筑，例如奥比都斯水上教堂，亚琛驿站，金德代克风车，巨型LOVE，教堂，爱丽丝仙境，阿尔勒仙境等，另外还建有小孩游乐园。游玩累了，可以到建在薰衣草花海中的杜埃餐厅享用一次充满法国浪漫情怀的午餐。比较适合情侣一起去，挺浪漫的一个地方。",
-    "popularity": "66",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "禅宗少林音乐大典",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa184cc05358ee3d6d54fbdaf2.jpg",
-    "introduction": "禅宗少林音乐大典是全球最大的山地实景演出，成为中国实景演出的扛鼎之作和河南文化旅游新名片。演出规模宏大，音画一体，场景唯美，很精彩的表演，好评如潮。",
-    "popularity": "64",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "始祖山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a446236d30469c9922720e0df3d752.jpg",
-    "introduction": "始祖山景区在新郑，当时由于有同学在西亚斯读书，重点是找她玩。从南站坐到新郑的公交，以前是七块钱，现在应该在十块左右，车程一个多小时。到新郑汽车站下车后有直接到始祖山的车，景区大门买了门票，还要走挺远，景区大门往左手边有一条小路，一直沿着路走，才算进入景区。说起景色美不美好玩不好玩其实一般了，看了我分享的照片你们可能以为我们爬的是野山。",
-    "popularity": "78",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "大河村遗址",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/18d8bc3eb13533fafe4e9571a8d3fd1f40345bf0.jpg",
-    "introduction": "郑州作为河南省省会，商代早期和中期都城，商文明的发源地，文物古迹众多，但由于城市化建设过快，市区游览性强的人文景观很少很难选择了，想感受历史的遗迹还不如去一些著名博物馆看看。大河村遗址位于郑州市东北郊，一处包含有仰韶、龙山和夏商不同时期考古学文化的大型古代聚落遗址。现在开辟为大河村遗址博物馆，目前更值得去，因为博物馆经过升级改造后重新正式开馆，不只有很多珍贵文物，还有古人生活场景模拟复原以及考古发掘现场展示，多媒体设备也很现代化了，感兴趣的可前往。",
-    "popularity": "82",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "二七广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6d81800a19d8bc3e99a6b734838ba61ea9d345a5.jpg",
-    "introduction": "小吃很多，人也很杂，炒酸奶，，烤鱿鱼，，，很多小吃都很棒",
-    "popularity": "154",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "黄河国家湿地公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa18972bd40735fa396a7a8e9c510fb30f24086a.jpg",
-    "introduction": "位于郑州的花园口，一个免费景点，风景比起收费的黄河风景名胜区要逊色一点，但是专门来看黄河的朋友可以选择这里，毕竟花园口也是个有故事的地方，这里也是个郊游的好去处，夏天就别往草丛里面跑了，碰到蛇就不好办了",
-    "popularity": "49",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "郑州博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c5420c32c6139292df5e0fe7f68.jpg",
-    "introduction": "郑州博物馆，创立于1957年，是地方综合性博物馆，原址位于碧沙岗公园内。长期以来，利用自用优势，致力于郑州地区的历史研究、文物保护、陈列展览、社会教育等等，接待了大批游客，为河南省爱国主义优秀教育基地，是展示郑州悠久历史和灿烂文化的重要窗口。",
-    "popularity": "68",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "观星台",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1c950a7b02087bf4d7b424b6f2d3572c11dfcf11.jpg",
-    "introduction": "登封观星台，登封“天地之中”历史建筑群的景点之一，，2010年8月被列入世界文化遗产名录。对古迹或天文感兴趣要去看看，因为这是真正保存完好的古迹。位于登封市城区东南12公里处的告成镇周公祠院内，是一座砖石结构的城楼式建筑，由台身和石圭两个部分组成，古时郭守敬观星测天象的地方。交通不太方便，没有直达公交前往，游人也不多，最好包车前往。",
-    "popularity": "59",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "郑州城隍庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c3321b0492b1b4c510fd8f9a10c.jpg",
-    "introduction": "郑州城隍庙位于郑州市管城回族区商城路，一处规模较大、保存完好的明清古建筑群落。郑州市内景点不多，游览性强的较少，在市内呆上2天左右时间都可以一去。平时免费开放，庙会活动期间收10元门票。2路、B17路、52路、58路、65路等公交都有郑州城隍庙这个站点，下车后就到，比较方便。从郑州火车站出发，打车也就在10元钱左右。城隍庙内山门、前殿、戏楼、大殿、寝宫等沿中轴线依次排列，层次分明，琉璃瓦覆盖的建筑造型精致，雕栋画梁，古朴典雅，下午有阳光时拍照特别好看。大殿正中有城隍塑像，每年农历三月十八日是城隍爷的生日，也就是庙会时节，是城隍庙最热闹的时候，其次就是每月农历的初一、十五比较火爆。",
-    "popularity": "49",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "九龙峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5bafa40f4bfbfbed9fdbbd8b79f0f736aec31f47.jpg",
-    "introduction": "九龙峡在巩义，景区不是太成熟，管理得不太规范，卫生状况也很一般，尤其交通不方便，其实风景本身还是可以的~",
-    "popularity": "49",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "郑州植物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/38dbb6fd5266d016dff7add7962bd40734fa3566.jpg",
-    "introduction": "一般的地方，还是可以春天去郊游的",
-    "popularity": "45",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "郑州科技馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb3beef7674d833c895d0430c5a.jpg",
-    "introduction": "什么是成长?就是你小时候一张门票5块，现在要10块了。什么是成长?就是你小时候5块一张门票掏不起，但很想进去；如今100块的门票也能掏起了，却不会再进了。",
-    "popularity": "40",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "郑东新区湿地公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b7b02087bf40ad16c46e734562c11dfa8ecce42.jpg",
-    "introduction": "地方好小，随便一逛就完了，感觉也称不上什么湿地，草都快枯死了啊，池子里有些荷花，不过还没开，那时候是大河春季车展在会展中心举行的时候，逛了车展然后去了湿地公园，如果专门去就没多大必要，感觉在周边上班的白领，中午可以去逛逛放松放松很不错！",
-    "popularity": "23",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "奥帕拉拉冒险岛水公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0c8a786c9177f3ebba916f571cf3bc79e3d56ad.jpg",
-    "introduction": "奥帕拉拉是第二次去，这一次去是带我外甥去玩，先说奥帕拉拉没有学生票很不爽，我外甥又超过了一米四（幸好他超过45公斤，游乐设施都可以玩），所以只能买全票，不过团购套票168元还算划算（套票就包含温泉），水公园好玩，温泉环境也很棒，玩的很开心！在此建议先玩再拍照，不要又玩又拿手机拍照，小心手机落水！最后吐槽一下荥阳的出租车，从奥帕拉拉到西流湖地铁口喊价¥50，不打表，最后本以为拦到一个正规好心的出租车，没想到最后不安打表的收钱（打表35，司机理直气壮的说少收你十块你给四十吧），提醒去的游客拒绝坐黑的，铲除黑的士！",
-    "popularity": "39",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "嵩岳寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/377adab44aed2e7341abf5738701a18b87d6fa2b.jpg",
-    "introduction": "嵩阳景区的几个主要景点之一，买通票比较划算，80块！包括嵩阳书院，嵩岳寺，法王寺，嵩山峻极峰等等！嵩岳寺跟法王寺离的比较近，都在嵩山半山腰上，可以一起参观！寺庙中的嵩岳寺有1400多年的历史，塔平面为十二边形，是我国塔中的孤例。高十五层，40米。底层正中供的一位菩萨，所以没有近距离的拍照，也属于世界文化遗产！",
-    "popularity": "51",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "塔林",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134a64cb280241f95cad0c85ed0.jpg",
-    "introduction": "少林寺历代住持和有成就、有贡献的僧人的墓群，现为我国最大的塔林。",
-    "popularity": "108",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "郑州市水上乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8435e5dde71190efd6dc4e36cf1b9d16fdfa6030.jpg",
-    "introduction": "郊区一处大型的游乐园，设施齐全，夏天人气很旺。不足之处是交通不算很方便，没有直达的公交。针对有私家车自驾游的，",
-    "popularity": "90",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "嵩山滑雪滑草场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c8d4e58f787f3e6709c93d5116.jpg",
-    "introduction": "如果现在还是只滑雪就匆匆回家那就弱爆了，在疯玩一天之后泡一泡温泉把一天的疲惫都赶跑才是上上策！",
-    "popularity": "47",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "河南艺术中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7003af33a87e950b7c01d9211385343faf2b47d.jpg",
-    "introduction": "郑东新区的五颗金蛋，还是不能这么肤浅了……是由加拿大国际著名设计大师卡洛斯 ·奥特设计。灵感来源于河南出土文物乐器陶埙、石排箫和贾湖骨笛的造型，艺术墙的设计源自黄河波涛翻卷的浪花造型。河南艺术中心是古代中原文化与现代建筑艺术的完美结合。现在鸟语花香适合周末带上家人踏青。",
-    "popularity": "22",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "青龙山慈云寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8f9d72a6059252dba0acaf0359b033b5bb5b921.jpg",
-    "introduction": "最好自驾去！因为也是正在开发的景区，交通及其不发达！",
-    "popularity": "53",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "桃花峪滑雪场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c8d4e28f787f3e6709c93d5117.jpg",
-    "introduction": "规模在河南最大，其雪场面积在河南多家滑雪场中是最大的！其草场是中原唯一的城郊天然草场，拥有大约30000平方米进口马尼拉原生态草皮，为中原地区最大！其综合服务大厅5000平方米左右。桃花峪滑草场除了天然滑草以外，更是加入了骑马、射箭、黄河快艇、摸黄河鲤鱼、自助烧烤、滑沙、特技摩托、野宿、篝火晚会、儿童乐园等项目元素，成为一个名副其实的综合性游乐休闲景区。",
-    "popularity": "57",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "丰乐葵园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1fae4654de314e251f94ca5f83.jpg",
-    "introduction": "丰乐葵园风景区是郑州丰乐农庄内的一部分，国家4A级旅游景区，虽然距郑州市区较远，但去郑州之前被丰乐葵园那成片的向日葵深深震撼了，所以安排在了行程里。是目前国内最大的一家向日葵主题公园。从郑州火车站乘16路公交车到黄河大堤下车步行可到。坐过去还蛮远的，没位置的话如果不赶时间建议还是等下一班，丰乐葵园种植的世界名葵“日本巨无霸”较多，不过现场所见的规模和宣传图上还是有所差距，向日葵的花期长，从每年5月到10月基本上都能看到，是轮茬种植的，除了赏花，里面还可玩真人CS、自助烧烤，比较适合休闲游的地方。",
-    "popularity": "12",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "新密神仙洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd039245d688d43fe46fcf1d7c1ed21b0ff43b1e.jpg",
-    "introduction": "神仙洞的发现是70 80年代当地农民找水源时偶然发现的，后来由郑州大学的老师过来主持鉴定，认定有开发价值，后由当地政府进行开发，正式对外开发现在已经30余年，是郑州老景点了。景区大门距离神仙洞还有大概2公里距离，神仙洞口现在是这个景区的人口聚集区，在洞口外的停车场边，围了一圈已住宿、餐饮为生的村民。这边的特色么，一般是土鸡、橡子凉皮，卤肉。其它就是家常菜。神仙洞，洞口狭小，是一个狭长的山洞，1000米后略宽阔。所以这边执行的是，每30分钟进一组人，由一名导游带着讲解。里面的灯光也是按照时间开闭的，所以一定要跟上导游的步伐，要不然黑漆漆的，什么也看不见。",
-    "popularity": "33",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "郑王陵博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6d81800a19d8bc3e9cfd4c0f838ba61ea9d34579.jpg",
-    "introduction": "游历至新郑市时，发现了郑王陵博物馆，车马坑、郑公墓等墓穴中存有大量遗迹，出土了大量春秋时期的文物，其中青铜器居多。不过五儿，这还是没法与你家相比啊！",
-    "popularity": "20",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "大法王寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21b83ad5dbaad6eddc451da3f0c.jpg",
-    "introduction": "大法王寺位于嵩山嵩阳景区西端的登山道上，是中国建成最早的寺庙之一，仅比洛阳白马寺晚3年，历经了岁月的风风雨雨，屡毁屡建，所以现在看到的法王寺又是一派崭新的面貌。法王寺内仰观嵩山非常震撼，可以看到“嵩山如卧”，在西方圣人殿外向东看，是每个农历十五观赏“嵩门侍月”的好地方，地藏殿有点阴森恐怖，墙上都是古代酷刑的壁画。法王寺也是学习少林武术的一处场所，寺内能看到很多学生甚至还有少数老外在习武。在中岳庙乘坐2路公交到嵩阳书院，建议攀登完峻极峰后从西线下山，下山路上就可以顺道去参观法王寺了。",
-    "popularity": "46",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "洞林湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa8ffd774258ee3d6d54fbda52.jpg",
-    "introduction": "洞林湖本身只是郑州人民的后花园，位于马寨开发区西侧，洞林湖新田城后与公安学校相邻。洞林湖最大的点就是水坝之侧的洞林寺，据说也是建于东汉末年，距今有1800年的历史，与洛阳白马寺、开封相国寺、登封少林寺合称中原四大寺院，据说，洞林三景，白玉佛、洞林晚钟、楚金炉曾经是享誉四方的精致，现在也没人知晓好在何处。洞林寺2000年后新修了大殿，当年释永信法师前来开光，主持开寺仪式。现在的洞林寺应该也是利属于禅宗，应该是少林寺下院之一。洞林湖附近树林茂密且有平整的地势，是郑州人民夏天纳凉的好地方。找两棵树做个吊床，或者在树下打一会儿扑克都是顶好的。坝上的农家乐也是经营多年，烤鱼是一直很地道，是必吃的菜肴。",
-    "popularity": "24",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "炎黄二帝塑像",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2ec6f599ba4ec2d56284356873.jpg",
-    "introduction": "炎黄二帝巨型塑像位于河南省郑州市西北部三十公里之处的黄河风景名胜区向阳山(始祖山)上，炎黄二帝巨塑背依邙山，面向黄河。塑像占地2816平方米，像整体高106米，其中，山高55米，像高51米，雕塑中高者为炎帝，矮者为黄帝，所使用的材料均是太行山真石。河南炎黄文化研究会会长王仁民是该塑像建设的直接推动者，塑像总设计师为吴树华，由海内外华人捐款和政府投资及招商引资共计人民币1.8亿元，历时二十年于2007年建成。",
-    "popularity": "23",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "雁鸣湖景区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/562c11dfa9ec8a132caab824f603918fa1ecc046.jpg",
-    "introduction": "哪还有景区啊。。。一个大坑周围有几家卖螃蟹的。还有就是周围的房地产开发商和售楼处了。已经算不上景区的地方了，百度旅游可以消掉了",
-    "popularity": "21",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "杨树沟",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bf096b63f6246b60f062ccfceaf81a4c500fa2ce.jpg",
-    "introduction": "山体为碳酸盐岩石覆盖，植物种类590种,野生花卉68种，初霜过后“满山霜叶红胜火”。",
-    "popularity": "21",
-    "recommendLevel": "4.6"
-  },
-  {
-    "name": "虎牢关",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf41a2d8d8076094b36acaf992b.jpg",
-    "introduction": "导航定位准确无误，一路找来直至走到碑下，导航结束。景致如图，和以前看到的图不同是，古老的唐碑用玻璃罩保护起来，避免经一步风化。",
-    "popularity": "111",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "峻极峰",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/35a85edf8db1cb139745c9c3dc54564e92584b36.jpg",
-    "introduction": "峻极峰是嵩山的主峰，也是嵩山太室山的最高峰，山脚下有三条常规路线可以走到峻极峰顶，西边的嵩岳寺塔路线，中间的嵩阳书院路线以及东边的卢崖瀑布路线。上山的话推荐走中间的嵩阳书院路线，下山路线在另外两条之间看个人喜好二选一，个人推荐走嵩岳寺塔路线下山，因为卢崖瀑布路线太长了，而且长期以来都没什么水。嵩阳书院路线登山路口交通很方便，在中岳庙乘坐2路或者在城隍庙乘坐6路公交到嵩阳书院下车即可，面对嵩阳书院向右走就能上山了。走到峻极峰大概3.5-4小时，峰顶曾立有一块“峰中峻极”的石碑，但不知被扔到哪去了，但不影响体验“小天下”的感觉。不过也希望峻极峰顶能重新树立一块有特色的石碑。",
-    "popularity": "44",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "达摩洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d1438a6212ce72f082025baf07c2.jpg",
-    "introduction": "出少林寺大门，顺小路向西，见指路牌右拐，顺路上山，此山叫五乳峰，快爬到山顶的时候就是达摩洞。山顶有达摩像。达摩洞内有一个有达摩的坐像。下了山后，可以去塔林，去初祖庵，然后继续顺大路向西就到了爬山的地方，有两条路，一条是直爬到三皇寨，一条是爬到二祖庵，然后再下山去爬三皇寨。",
-    "popularity": "36",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "巩义石窟寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7bd96c3d9b0ad162d9f2d3c910.jpg",
-    "introduction": "石窟寺座落在巩义市东北九公里的大力山下，背山面水，风景秀丽，曾被誉为“溪雾岩云的幽栖胜地”。这里保存的十五幅帝后礼佛图，构图严谨，技法娴熟，人物性格鲜明，可谓佛教艺苑中的珍品。巩义石窟是北魏皇室开凿的一座石窟，孝文帝创建了寺院，宣武帝时开始凿石为窟，刻佛千万像，后来的东西魏、唐、宋时以陆续在这里刻了一些小龛。石窟寺是继洛阳龙门石窟之后开凿的，它把佛教艺术的外来影响同中原汉族艺术相结合。虽然名气不如龙门石窟，但有很多东西还是值得一看的。",
-    "popularity": "65",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "郑州国家森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c1038c29a343cb3119313b17e896c.jpg",
-    "introduction": "这个森林公园不是很大，而且位置比较远，交通不是很方便。里面有一些比较刺激的游乐项目。人不是很多，而且里面可以烧烤！",
-    "popularity": "66",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "石窟寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dcc451da81cb39db2a746fb9d1160924aa1830ac.jpg",
-    "introduction": "石窟寺门票30元，停车场停车10元，停到路边免费。村村通公交1小时1班，不建议坐。石窟寺门口还是比较气势，里面能看到一个大雄宝殿，左右两个香房（一个是监控室，一个不开门）。转过大雄宝殿后，到了石窟寺的精髓所在，看介绍“石窟寺开凿于北魏的石窟寺距今已有1400多年的历史，现存洞窟5个，千佛龛一个，小佛龛255个，摩崖大佛3尊，佛像7743个，碑刻题记200余块。其中的《帝后礼佛图》是我国现存的唯一石刻图雕（另一处位于龙门石窟的已不存在）”现存的五个窟整体并不是很大，如果没有人解说的话，大概10分钟就能转完，而且石窟并没有文字讲解，这里不妨建议雇个解说，可以砍价，大概40就够了。",
-    "popularity": "22",
-    "recommendLevel": "4.7"
-  },
-  {
-    "name": "巩义竹林",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b03533fa828ba61e620618174334970a304e591a.jpg",
-    "introduction": "靠，巴掌大的一片竹子，算是一个小竹园吧。问当地人说没有大片的竹林，这里叫竹林镇，就是有分散的几片竹园而已，百度旅游配的图太坑爹。",
-    "popularity": "16",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "紫荆山公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a446238d09268b9922720e0df3d71c.jpg",
-    "introduction": "是郑州市建园比较早的一个公园，免费入园。公园主要有月季园、梦溪园、湖心岛等景点。公园里休闲锻炼的人比较多，每天晚上商城遗址、入口广场都有跳广场舞的；还有徒步快走队伍。乘坐地铁1号线在紫荆山站下车就到门口。（2016年1月）",
-    "popularity": "37",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "太室山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/962bd40735fae6cd25831a8e0eb30f2442a70f2d.jpg",
-    "introduction": "太室山是嵩山的主要部分。在登封从公交2路到嵩阳书院，爬山门票50元。开始爬太室山，一路上经过老母洞，中岳行宫，三皇口到太室山最高的峻极峰，然后从另一条路下山经过一线天，卢崖瀑布。下山后可以直接去中岳庙参观。",
-    "popularity": "53",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "青龙山后寺河风景区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f5daf3811503d269758eec4eb.jpg",
-    "introduction": "有山有水的地方 可以划划船什么的",
-    "popularity": "7",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "花园口",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf4b212262477094b36adaf994f.jpg",
-    "introduction": "黄河花园口旅游区是郑州一个可以免费看“黄河之水天上来”的地方，距离市中心有一定的距离，因震惊中外的“花园口事件”闻名。花园口的将军坝、界碑、纪念碑、八卦亭、沙滩浴场等新老景点向游客叙说着一个个不平凡的故事。花园口旅游区主要包括纪念性建筑、马场、黄河大堤风景线等组成，花园口旅游区距离黄河和黄河大桥有一定的距离，穿过马场即可到达，约需20分钟。从市中心前往黄河花园口旅游区可乘坐520路公交车，不过这辆公交车人多难等，节假日堵车的时候下车点不定，可能需要多走一段距离。",
-    "popularity": "20",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "樱桃沟景区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828b2871890cfc1f4134960a5a8a.jpg",
-    "introduction": "如果来郑州时正值五月份，带着同行的亲朋好友到樱桃沟游玩、露营是个不错的安排，五月已是初夏，樱桃沟已是一片郁郁葱葱，青山碧水，空气清新，无论是散步或是骑行都是好选择。樱桃沟有很多樱桃园，多是当地村民自家载种，游客可以进去边摘边吃，价格一般是在15-20元一个人，吃多少都可以。另外，在樱桃沟可以露天烧烤，说实话，这是我最喜欢的项目。~",
-    "popularity": "34",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "美玉桃源",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda1449b446fedb2b7d0a20cf4861b.jpg",
-    "introduction": "美玉桃源已经荒废，免费，位置在新密牛店镇。路牌还在。如果百度搜不到，就搜助泉寺，在一条路上。新密也是个出玉石的地方。在去美玉桃源的路上，有很多村都是做玉石的。如果看到这些，那么就说明你走对了。最终走到大山深处，采石场边，一个涵洞前。徒步进洞，一定要有手电，洞的深度大概1公里多，没有任何灯光。有点陶渊明桃花源记的感觉。出洞后，发现是个房子。这边也做一些农家饭，比如手工面条，价格不贵。涵洞主要是为饮水而修，这边也就是水源地。据说沿着山间小道可以一直走到登封唐庄乡附近。这边也是普通的山景。毕竟山两边的气候，土壤都没有区别。只是这边没有开山崩石头采玉。美玉桃源还有个意思就是可以去废弃采石场捡石头。",
-    "popularity": "68",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "宋陵",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034f78b203e2aec379310b551dd2.jpg",
-    "introduction": "从宋陵公园南门出来，无需过马路，右手边即为旅游专线，浅蓝色的车身，2元钱票搭车前往石窟寺。门票标价30。景区不大，人很少，可以静静的欣赏先人留下的东西。游览完石窟寺后，在刚才下车地方的对面，等待回程的旅游专线（此地无站牌）。回程可以坐车到中医院下车，这里有几家肉合店，可以解决午饭。",
-    "popularity": "12",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "西流湖公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8644ebf81a4c510ff4dac8f46159252dd52aa5c5.jpg",
-    "introduction": "水里漂满了水草，湖水发绿，感觉荒废了似的，公园像个半成品，被分割成好几部分，再加上门口施工，乱的很，感觉不像个公园",
-    "popularity": "19",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "点点梦想城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91529822720e0cf3543ec7030b46f21fbf09aa79.jpg",
-    "introduction": "孩子很喜欢去点点梦想城，都去了很多次了，那儿的确挺不错的！感觉孩子学到不少东西呢，比在家玩电脑游戏强太多了！而且每次都在媚游中原预订，都便宜很多呢！",
-    "popularity": "4",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "黄河博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d6d51dbcf0060828381e30fd86.jpg",
-    "introduction": "黄河博物馆位于郑州市迎宾路402号，基本陈列以“华夏国脉-黄河巨龙的缩影”为主题，前身是治黄展览会。郑州市内的博物馆也是蛮多的，不过黄河博物馆这样的专题性博物馆还是比较值得前往，那些黄河两岸出土的文物以及一张张图片展示，带给我的不仅仅是对黄河、对这片土地的更深认识，更留给了我穿梭历史的旷古心境。交通比较方便，但是距离市区还是蛮远了，郑州市内乘263、155路公交在迎宾路下车可到。免费开放，周一闭馆，游人不多，可以花20元租个自动语音导览器。博物馆到黄河国家湿地公园和普兰斯薰衣草庄园较近，可顺道前往。",
-    "popularity": "8",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "凤凰水都",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/72f082025aafa40f08a05625aa64034f79f019e7.jpg",
-    "introduction": "凤凰水都在登封，是一个水上的娱乐场所，主要是游泳、泡温泉等，游泳池不是太干净，而且池子很少，旺季的时候人还是蛮多的。",
-    "popularity": "10",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "少林寺武术馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f0708ba9a9ad0e824b899a801f247.jpg",
-    "introduction": "嵩山少林寺武术馆位于天下第一名刹少林寺东500米，是国家旅游局和河南省政府共同投资兴建的国内唯一的大型少林功夫表演场馆，同时也是面向海内外招生、培养少林功夫专业人才的大型基地，从少林寺出来步行就能到，内有观看表演大厅、练功房和少林传统功夫练功场。凭少林寺景区门票可在规定的场次可免费观看武术表演，旺季的每天上午10点半、11点半，下午2点、3点和4点正都有，节目有打山门、十八般兵器、童子功、少林硬气功等，表演时间半小时，很震撼很过瘾，推荐一去。最好提前20分钟到达室内，否则就没位置了。",
-    "popularity": "49",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "老母洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe09c93c54d16a600c338644ad91.jpg",
-    "introduction": "嵩山——五岳之一，爬嵩山艰难险阻。山路漫长，不乏一些景点可以游览，首先是人文景观，比如老母洞、峻极宫、聚仙亭和中岳行宫，在这里欣赏半山腰景色尤佳；据《西征记》记载：汉武帝礼登嵩高，见群仙与白鹿为伍集于城，筑聚仙台（亭）于太室中。",
-    "popularity": "26",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "黄河富景生态世界",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b1fda78080bd162d9f3d3c90a.jpg",
-    "introduction": "很不错的地方吧！感觉值得去一趟呢！环境很好，人不是很多，但是同样的对外面的知名度不是很高，所以在自己看咯，要是近的话可以去看看。",
-    "popularity": "8",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "炎黄广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8f9d72a6059252da25ef2c0359b033b5ab5b9ad.jpg",
-    "introduction": "过了炎黄广场，沿着跑马场一直走，隐约之中就可以看到黄河了。再往前走，就能够越加明朗地看到黄河了。我是一个地地道道的南方人，第一次站在黄河岸边，近观抑或是远眺，眼前就是被誉为中华民族之母亲的黄河，有着些许阴沉的天，让整个黄河显得颇为苍茫。其实，这也是黄河留给我的最初印象。说心里话，完全感觉不出黄河的那种壮阔气势，而且很多地段有着明显的干旱现象，没有什么水，剩下一片片的滩涂。而且黄河水的确很黄很浊，很难想象，这就是几千万沿河沿线河南群众的生命之源。",
-    "popularity": "21",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "打虎亭汉墓",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb3bedb77c8d933c895d0430caa.jpg",
-    "introduction": "东汉时期的墓葬，很有考古价值！不过位置不是很好找。如果想散心的话可以选择去那里  比较清静",
-    "popularity": "15",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "二七纪念堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b9128ea6423bc2fdfc039345228b.jpg",
-    "introduction": "郑州市二七纪念堂是1923年京汉铁路总工会成立大会普乐园会场旧址，是为纪念京汉铁路工人大罢工所建的革命历史建筑物。注意，这个二七纪念堂不是二七纪念塔，位于二七区钱塘路，是1952年就建成了的现代纪念建筑，又叫工人俱乐部，分主楼和南北配楼，都是二层。主楼有个很大的会议厅，南楼为“二七史迹陈列馆”，就这个还稍微有点看点，不建议专程去，但这距二七广场的二七纪念塔较近，时间充足可顺便去参观，沿德化步行商业街走入钱塘路商业街就能到，1公里都不到，二七纪念堂和纪念塔都是郑州作为“二七名城”的城市名片。",
-    "popularity": "22",
-    "recommendLevel": "3.3"
-  },
-  {
-    "name": "少室山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/024f78f0f736afc30b5b8f9bb219ebc4b64512fc.jpg",
-    "introduction": "少室山即三皇寨。三皇寨的精华在连天吊桥和书册崖，不过时间充裕的话还是建议从三皇寨（好汉坡）入口上，过书册崖后乘缆车下到塔林，从少林入口出，可以看到更多风景。如果从少林入口进山，在登山前已在公路上消耗过多体力，且全程多为下山，对膝盖磨损大。和人山人海的少林寺相比，三皇寨开发程度不高，游人平时也不多，可以充分享受爬山乐趣。全程只在好汉坡入口处、连天吊桥、书册崖等处有小商店，南天门、一线天、石门连续1-2小时的山路上没有任何服务设施，沿途厕所也很少，需要提前做好思想准备。从登封市区打车至三皇寨入口约需30-40元，从少林索道下山单程需70元，少林入口有8路车可达登封市区。",
-    "popularity": "62",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "龙溪宫",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f703738da9773912b16eb5adf9198618377ae2b5.jpg",
-    "introduction": "下面好凉快啊，惊叹大自然的鬼斧神工太神奇了！",
-    "popularity": "9",
-    "recommendLevel": "3.3"
-  },
-  {
-    "name": "绿城广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0e2442a7d933c895297c5c92d01373f0830200dd.jpg",
-    "introduction": "上学时常去，那已是近20年前的事了。从名称就可以感受到，那时绿城广场也算是郑州的一张城市名片，我对它印象不错。广场面积很大，视野开阔，交通也很方便，虽然没什么特别的景致，但喷泉、雕塑之类的还能时不时给个惊喜，建议晚上去散步看夜景，顺便在周边找点小吃尝尝。与广场一路之隔的碧沙岗公园也值得去转转。不知今天的绿城广场有何变化，有机会我一定会故地重游。",
-    "popularity": "30",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "郑州美术馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2fdfc039245d6880d207376a5c27d1ed31b24c6.jpg",
-    "introduction": "经常在这里可以看到很多画作，作为一个理工科的女生，在这个地方有时候静静的看着这些画作，感觉心旷神怡。。。里面有很多老郑州的画面，感觉还是有浓浓的时代的味道，并且经常会举办什么画作观赏，貌似是免费的，感觉可以提升一些自己的品味吧。。。",
-    "popularity": "10",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "嵩阳公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d52a2834349b033b003d301e14ce36d3d439bdb9.jpg",
-    "introduction": "登封除了嵩山少林寺外，市内几乎没有其他好玩的景点了。晚上吃了饭闲逛走到了市区的嵩阳公园，这是登封市市民休闲的城市公园，中老年人娱乐的多，唱歌跳舞的、健身的、散步的…到处都是，当时还在表演河南民间戏剧“河洛大鼓书”。嵩阳公园东边的有条仿古的嵩阳里街，可惜人气不够，建筑都太新了，没有什么韵味。",
-    "popularity": "19",
-    "recommendLevel": "3.5"
-  },
-  {
-    "name": "白沙水库",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d6ca7bcb0a46f21f1334fdadf7246b600d33aec8.jpg",
-    "introduction": "距离少林寺很近，水库不算小，周围青山绿水，很惬意。",
-    "popularity": "9",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "郑州三皇山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4bdb29920483025aafa50f06ea.jpg",
-    "introduction": "郑州三皇山在荥阳，如果到了景点后，坐车的话大家一定要注意了，先谈好价钱，等到了之后再给钱，不然他很可能会宰你，我们就是被收了两次钱，刚开始在山下收了一次，后来只把我们送到半路，说我们没有说要上顶，实际上已经跟他说清楚了的，但是人生地不熟的，也没办法，只得自认倒霉，从此对这个地方失望透顶，赚钱也不是这样赚的，希望大家不要上当受骗。",
-    "popularity": "9",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "嵩门待月",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/962bd40735fae6cd94b56c590db30f2442a70f81.jpg",
-    "introduction": "“嵩门待月”是登封古八景之一，名气很大，观景点是在距登封市区五公里外的太室山南麓玉柱峰下的大法王寺。法王寺东有两座山峰，嶙峋突兀，相对耸峙，看起来形状很像一个门，世人称之为“嵩门”。每到中秋之时，一轮圆月从半圆形的门洞中徐徐升起，位置不偏不倚，这便是“嵩门待月”。当然这样的景致毕竟只有中秋或者月圆之时才能看到的。大法王寺门票包含在嵩阳景区套票80元内，游览太室山时可顺道而去。周围有几座保存完好的佛塔是最大看点，大法王寺出来旁边就是上山的步道，都是台阶路，比较好走。现在每年中秋时节在嵩山中岳庙峻极殿前会举办一个“待月嵩山”中秋诗会，就是因“嵩门待月”而兴起的。",
-    "popularity": "14",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "杜甫故里",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134fb3977f6241f95cad1c85e2f.jpg",
-    "introduction": "为纪念杜甫而建，景区最引人注目的是花岗岩大型杜甫雕像。",
-    "popularity": "24",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "娄河生态养生园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/55e736d12f2eb93885282b3fd4628535e4dd6fb1.jpg",
-    "introduction": "生态养生园在郑州的二七区，个人觉得这里的植物、生态一般~",
-    "popularity": "5",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "嵩岳寺塔",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a8773912b31bb0510aad91c6377adab44bede057.jpg",
-    "introduction": "嵩岳寺塔位于嵩山的嵩阳景区内，是嵩山的标志，也是中国目前现存最古老的青砖塔，它的独特之处不仅在于年代久远，也在于它是唯一一座十二边形塔，历经1400多年风吹日晒雨淋依然屹立不倒，在中国的建筑艺术和技术方面都有很高的参考价值。嵩岳寺塔门票单卖有些贵了，要40元，贵在它的人文价值。但如果同程预订65元的嵩阳景区套票就实惠了，包括嵩阳书院（30元）、峻极峰（50元）、法王寺（20元）和嵩岳寺塔（40元）都含在内。中岳庙乘坐2路公交到终点站下车，若到了嵩阳景区不要首先参观嵩岳寺塔，建议先攀登峻极峰，再由西端路线下山，依次参观法王寺和嵩岳寺塔，最后参观嵩阳书院。西端路线不长，比起东端卢崖瀑布要轻松许多。",
-    "popularity": "31",
-    "recommendLevel": "3.5"
-  },
-  {
-    "name": "二祖庵",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7bc02f25010bd162d9f3d3c9d9.jpg",
-    "introduction": "二祖庵往返索道40元，学生半价20元。三皇寨往返索道80元。之前看攻略是60元，所以可能时间不同价钱有所调整吧。二祖庵坑爹shi了！除了这大门儿还算是老东西外，里面的酸甜苦辣四眼井完全就是仿建的嘛！现场还在施工，尘土飞扬，工人看着我们都是一脸“竟然还有傻X来这儿玩儿”的表情，哭死！捎带着对二祖慧可也没有了好印象，断了胳膊就踏踏实实找个好地方养着嘛，心塞..",
-    "popularity": "16",
-    "recommendLevel": "3.6"
-  }
-]
+{
+  "city": "郑州",
+  "spots": [
+    {
+      "name": "少林寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad9a6356764a36acaf2fdd98cf.jpg",
+      "introduction": "少林寺，又名僧人寺，有“禅宗祖廷，天下第一名刹”之誉，寺院香火旺盛。人特别多，还不如爬山好玩。商业化很严重，到处都是骗子。",
+      "popularity": "1200",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "嵩山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3a86813d3d823969bba1676d.jpg",
+      "introduction": "中岳嵩山，由太室山与少室山组成，北瞰黄河、洛水，南临颍水、箕山，东通郑汴，西连十三朝古都洛阳，是中国佛教禅宗的发源地和道教圣地。",
+      "popularity": "602",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "河南博物院",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d6c781ab40070828381e30fdaa.jpg",
+      "introduction": "内设基本陈列馆、专题陈列馆、临时展览馆。首批推出2个基本陈列和6个专题陈列，内容丰富，蔚为大观。建筑特别有特色，商周青铜器文物真的非常棒，而且展品丰富。",
+      "popularity": "543",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "世纪欢乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caae680944e0fdc22fddd4e0.jpg",
+      "introduction": "世纪欢乐园项目很多，是集火车文化、科普教育、休闲娱乐、餐馆服务的大型综合游乐园。过山车还是很刺激，而且里面的设施很好。",
+      "popularity": "326",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "黄河风景名胜区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3ba5d164843b11d20a4e99e.jpg",
+      "introduction": "这里是黄河地上“悬河”的起点，黄土高原终点，独特的地理特征形成了博大、宏伟、壮丽、优美的自然景观。处于中华民族发源地的核心部位，景区历史古迹丰富，历史文化深厚。",
+      "popularity": "584",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "康百万庄园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e83cb62f74be585e6113a73.jpg",
+      "introduction": "建筑风格独特，很宏伟的建筑，并且古建筑很有特色。整个景区很干净，请个导游比较好，讲解很好。",
+      "popularity": "259",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "黄帝故里",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8759287a2187b4ba2e73b3a9.jpg",
+      "introduction": "无论祠前广场的苍松翠柏，还是轩辕桥下的潺潺流水，都让你有一种寻根的亲近和敬畏。",
+      "popularity": "328",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "二七纪念塔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd315c6034a85edf67e4787c49540923dd547501.jpg",
+      "introduction": "哪里有压迫哪里就有反抗，这里见证了历史，多少年后的饱经风霜，它也注定变成了历史的一部分。",
+      "popularity": "585",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "三皇寨",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6609c93d70cf3bc7e559beb3d100baa1cd112a17.jpg",
+      "introduction": "三皇寨是一处悬挂于少室山腰的天然山寨，四处山峰耸立，怪石崚峋，仿佛将这里与世隔绝",
+      "popularity": "167",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "郑州方特欢乐世界",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b219ebc4b74543a9e36c53fd1f178a82b901148f.jpg",
+      "introduction": "以高科技为主要表现形式的文化科技主题公园。",
+      "popularity": "235",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "环翠峪",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa251d4f9be80961afc3abd6.jpg",
+      "introduction": "环翠峪风景区以独有的石怪，洞奇，林美，景幽著称，以郑汉长城、卧龙云花石，太行猕猴最为有名。门票不贵，景区的人很热情，农家饭也挺好，但开发不是很完善。",
+      "popularity": "140",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "嵩阳书院",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/35a85edf8db1cb1324313b4cdd54564e92584b10.jpg",
+      "introduction": "以理学著称于世的嵩阳书院，文化赡富，漫步在藏书楼中，看一看墙上堪称一绝的字画，无不折服于古人的学识。",
+      "popularity": "151",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "金鹭鸵鸟园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7ac880518f625e4943a75b1b.jpg",
+      "introduction": "恐龙很逼真，很多好玩的项目。景区环境一般，比较好玩的是水上乐园。是亚洲最大的鸵鸟养殖示范基地也是我国最大的恐龙科普基地。",
+      "popularity": "181",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "北宋皇陵",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c83d70cf3bc79f3d760ce26fbaa1cd11738b29fb.jpg",
+      "introduction": "在初冬的一天早上来到北宋皇陵，无需门票，直入，是雄伟的很具气势的左右雀台和乳台，中间石板大道甚是宽阔，两旁肃穆的人像兽像石刻群巍峨而苍桑，主体当然是官城墙里的永昭陵了，可斑驳和破落的木门已被生锈的大锁锁着，看不到也不能看了，透过门缝往里看，里面是一片小树林和空地，还有一些废弃的玩具跑车，竟然内里像是一个被遗弃的游乐场。怪不得不用门票了，主体都没了，只留下前面历经千年的石像群，饱受风雨，默然而立。",
+      "popularity": "190",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "浮戏山雪花洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/730e0cf3d7ca7bcb0770c770be096b63f624a861.jpg",
+      "introduction": "溶洞很漂亮，山沟的空气好。非常好的地方，回程的路上风景也很不错。门票可以用学生证半价，山里很凉快哒。",
+      "popularity": "126",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "黄河大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/902397dda144ad346ecb84d8d0a20cf431ad857c.jpg",
+      "introduction": "郑州市内的黄河大桥太多了，算下来也有十来座，这里说的主要是紧靠黄河风景名胜区的黄河大桥，黄河风景区位于郑州市西北25公里的黄河南岸，是以突出黄河文化，展现时代特色的民族文化型旅游景观。从郑州市内过去可在火车站站前广场左侧坐游16路，一个多小时才能到，比较远。在景区内一直向里走可以看到两座横跨黄河天险的铁路大桥，老桥是建于清政府时期，新桥是建国后我国自行设计建造，目睹了中原大地的苍桑巨变。现在老桥只留下南端5孔约200米供参观教育的桥头遗址。在桥头修建了毛主席视察黄河和周总理亲临指挥黄河防汛抢险的纪念亭。此外在此还可以去看下黄河中游和下游的界碑，也可选择坐缆车，比较节省体力。",
+      "popularity": "182",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "郑州绿博园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dcc451da81cb39dbf0c2c1a5d1160924aa1830c6.jpg",
+      "introduction": "郑州绿博园在郑州市郑开大道，与方特欢乐世界正对着，门票30元，学生半价，这里主要是去看花看植物的，郑州市内乘坐地铁一号线到黄河南路站从b2出口出再换乘游568公交可到，距市区稍远，比较费时，自驾去也比较方便，对面的郑州方特欢乐世界有专门的停车场，专人看护，小车5元一天还是不贵。里面还是比较大，可以乘坐代步车，感觉就和一般的植物园差不多，但是票价更贵，建议有花展或其他展览的时候去最好，其他时节不用去，一般春天的郁金香展是最热闹的。",
+      "popularity": "167",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "丰乐农庄",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea46f70f4a09052ee88.jpg",
+      "introduction": "丰乐农庄是一个以种植世界各地30多种名特优葵花为主题，集农业生产、特种蔬菜种植、畜牧养殖、观光旅游、餐饮娱乐、休闲度假为一体，让人能真正的回归大自然，体会农家纯真的生活乐趣。丰乐农庄整体分为丰乐葵园和现代农业示范园两个区。每年5至11月份盛开的向日葵月月向游人开放，吸引着广大游客前往游玩。除葵园外还有荷塘、木屋别墅区、人工湖、篝火营地、台湾烤肉亭、丰乐桃园、美国引进的优质葡萄园等，，最北部的为占地130亩的草原风光牧场，养殖有南阳小黄牛和海南东山羊。同时，农庄还退出了桃花坞温泉、马拉湾水上游乐项目、真人CS等，工作之余来到这里放松放松，很惬意，是人们靠近大自然、领略大自然风光的绝好去处。",
+      "popularity": "89",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "黄帝宫",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4651a712827aa9a2c2fd7857.jpg",
+      "introduction": "黄帝宫位于武定湖北岸，依山傍水，环境幽雅。曾是轩辕黄帝建宫筑殿，练兵讲武、研创八阵图的地方。这里山水秀丽，风光旖旎。自古流传着许多传奇的故事和动听的歌谣。",
+      "popularity": "171",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "中原福塔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db16f41b0e30823dd54574e74ce.jpg",
+      "introduction": "又名河南广播电视塔，是世界最高的全钢结构电视发射塔，拥有世界上最大的全景画。",
+      "popularity": "155",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "中原影视城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3c6d55fbb2fb43167aa250e321a4462308f7d3ed.jpg",
+      "introduction": "中原第一影视城",
+      "popularity": "97",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "黄河大观",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a2cc7cd98d1001e9fcd69750b80e7bec55e79783.jpg",
+      "introduction": "黄河大观是观赏黄河、感受黄河水浪及气势的好地方，一个以黄河历史文化为背景，以黄河流域的人文景观为表现形式，融建筑、山水、花木等艺术于一体的风景区。园内模拟小黄河为轴线，两边分为文化风情区和北岸高科技游乐区。文化风情区由黄河流域代表性的人文景观如泰山、龙亭、龙门石窟、大雁塔、兵马俑、长城等组成，都是些微缩景观，门票30元。在火车站站前广场左侧坐游16路，在江山路大观路站下车，景点距离市区较远，有30多里，自驾方便些，其实不用专程去，可以和黄河风景名胜区一起游览，从黄河游览区乘缆车可到。",
+      "popularity": "74",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "中岳庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b46f21fbe096b63e6235d0f0c338744ebf8acb2.jpg",
+      "introduction": "中岳庙是五岳中保存最完整、规模最大的道教庙宇建筑群，基本上保留了清代重修以后的规制。庙中有殿、宫、楼、阁等建筑39座近400间。总面积近11万平方米，中轴线全长650米，共有7进11层建筑，中轴线上的建筑高大雄伟，主殿峻极殿是五岳中最大的殿宇。",
+      "popularity": "116",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "郑州海洋馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d143aa7b32db72f082025aaf073c.jpg",
+      "introduction": "郑州海洋馆位于海洋路和中方园路交叉口，游客可在热带雨林馆欣赏热带淡水观赏鱼，在珊瑚礁馆里观察浅海珊瑚礁鱼，在海洋民俗馆拾贝壳、织渔网。",
+      "popularity": "132",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "郑州动物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4be433c53e83025aafa40f062a.jpg",
+      "introduction": "我和老公第一次约会的地方，传说相爱的俩人同时看到白孔雀开屏 他们就会永远相爱在一起。后来我们真的就结婚了",
+      "popularity": "116",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "普兰斯薰衣草庄园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/738b4710b912c8fcf91d4d37fd039245d7882159.jpg",
+      "introduction": "普兰斯薰衣草庄园集现代农业、生态保护和旅游为一体，是一个风景亮丽、景色迷人的园区，庄园内现有二百多亩薰衣草花田，十余种薰衣草品种，三十多种其他香草花卉。薰衣草盛开的季节，在蓝天的映衬下，一整片的薰衣草田宛如深紫色的波浪在风中层层叠叠地上下起伏，花香四溢，仿佛可以品尝到世界上最浪漫的味道。除了各种薰衣草，这里还有很多欧式浪漫建筑，例如奥比都斯水上教堂，亚琛驿站，金德代克风车，巨型LOVE，教堂，爱丽丝仙境，阿尔勒仙境等，另外还建有小孩游乐园。游玩累了，可以到建在薰衣草花海中的杜埃餐厅享用一次充满法国浪漫情怀的午餐。比较适合情侣一起去，挺浪漫的一个地方。",
+      "popularity": "66",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "禅宗少林音乐大典",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa184cc05358ee3d6d54fbdaf2.jpg",
+      "introduction": "禅宗少林音乐大典是全球最大的山地实景演出，成为中国实景演出的扛鼎之作和河南文化旅游新名片。演出规模宏大，音画一体，场景唯美，很精彩的表演，好评如潮。",
+      "popularity": "64",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "始祖山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a446236d30469c9922720e0df3d752.jpg",
+      "introduction": "始祖山景区在新郑，当时由于有同学在西亚斯读书，重点是找她玩。从南站坐到新郑的公交，以前是七块钱，现在应该在十块左右，车程一个多小时。到新郑汽车站下车后有直接到始祖山的车，景区大门买了门票，还要走挺远，景区大门往左手边有一条小路，一直沿着路走，才算进入景区。说起景色美不美好玩不好玩其实一般了，看了我分享的照片你们可能以为我们爬的是野山。",
+      "popularity": "78",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "大河村遗址",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/18d8bc3eb13533fafe4e9571a8d3fd1f40345bf0.jpg",
+      "introduction": "郑州作为河南省省会，商代早期和中期都城，商文明的发源地，文物古迹众多，但由于城市化建设过快，市区游览性强的人文景观很少很难选择了，想感受历史的遗迹还不如去一些著名博物馆看看。大河村遗址位于郑州市东北郊，一处包含有仰韶、龙山和夏商不同时期考古学文化的大型古代聚落遗址。现在开辟为大河村遗址博物馆，目前更值得去，因为博物馆经过升级改造后重新正式开馆，不只有很多珍贵文物，还有古人生活场景模拟复原以及考古发掘现场展示，多媒体设备也很现代化了，感兴趣的可前往。",
+      "popularity": "82",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "二七广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6d81800a19d8bc3e99a6b734838ba61ea9d345a5.jpg",
+      "introduction": "小吃很多，人也很杂，炒酸奶，，烤鱿鱼，，，很多小吃都很棒",
+      "popularity": "154",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "黄河国家湿地公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa18972bd40735fa396a7a8e9c510fb30f24086a.jpg",
+      "introduction": "位于郑州的花园口，一个免费景点，风景比起收费的黄河风景名胜区要逊色一点，但是专门来看黄河的朋友可以选择这里，毕竟花园口也是个有故事的地方，这里也是个郊游的好去处，夏天就别往草丛里面跑了，碰到蛇就不好办了",
+      "popularity": "49",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "郑州博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c5420c32c6139292df5e0fe7f68.jpg",
+      "introduction": "郑州博物馆，创立于1957年，是地方综合性博物馆，原址位于碧沙岗公园内。长期以来，利用自用优势，致力于郑州地区的历史研究、文物保护、陈列展览、社会教育等等，接待了大批游客，为河南省爱国主义优秀教育基地，是展示郑州悠久历史和灿烂文化的重要窗口。",
+      "popularity": "68",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "观星台",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1c950a7b02087bf4d7b424b6f2d3572c11dfcf11.jpg",
+      "introduction": "登封观星台，登封“天地之中”历史建筑群的景点之一，，2010年8月被列入世界文化遗产名录。对古迹或天文感兴趣要去看看，因为这是真正保存完好的古迹。位于登封市城区东南12公里处的告成镇周公祠院内，是一座砖石结构的城楼式建筑，由台身和石圭两个部分组成，古时郭守敬观星测天象的地方。交通不太方便，没有直达公交前往，游人也不多，最好包车前往。",
+      "popularity": "59",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "郑州城隍庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6a63f6246b600c3321b0492b1b4c510fd8f9a10c.jpg",
+      "introduction": "郑州城隍庙位于郑州市管城回族区商城路，一处规模较大、保存完好的明清古建筑群落。郑州市内景点不多，游览性强的较少，在市内呆上2天左右时间都可以一去。平时免费开放，庙会活动期间收10元门票。2路、B17路、52路、58路、65路等公交都有郑州城隍庙这个站点，下车后就到，比较方便。从郑州火车站出发，打车也就在10元钱左右。城隍庙内山门、前殿、戏楼、大殿、寝宫等沿中轴线依次排列，层次分明，琉璃瓦覆盖的建筑造型精致，雕栋画梁，古朴典雅，下午有阳光时拍照特别好看。大殿正中有城隍塑像，每年农历三月十八日是城隍爷的生日，也就是庙会时节，是城隍庙最热闹的时候，其次就是每月农历的初一、十五比较火爆。",
+      "popularity": "49",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "九龙峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5bafa40f4bfbfbed9fdbbd8b79f0f736aec31f47.jpg",
+      "introduction": "九龙峡在巩义，景区不是太成熟，管理得不太规范，卫生状况也很一般，尤其交通不方便，其实风景本身还是可以的~",
+      "popularity": "49",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "郑州植物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/38dbb6fd5266d016dff7add7962bd40734fa3566.jpg",
+      "introduction": "一般的地方，还是可以春天去郊游的",
+      "popularity": "45",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "郑州科技馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb3beef7674d833c895d0430c5a.jpg",
+      "introduction": "什么是成长?就是你小时候一张门票5块，现在要10块了。什么是成长?就是你小时候5块一张门票掏不起，但很想进去；如今100块的门票也能掏起了，却不会再进了。",
+      "popularity": "40",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "郑东新区湿地公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b7b02087bf40ad16c46e734562c11dfa8ecce42.jpg",
+      "introduction": "地方好小，随便一逛就完了，感觉也称不上什么湿地，草都快枯死了啊，池子里有些荷花，不过还没开，那时候是大河春季车展在会展中心举行的时候，逛了车展然后去了湿地公园，如果专门去就没多大必要，感觉在周边上班的白领，中午可以去逛逛放松放松很不错！",
+      "popularity": "23",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "奥帕拉拉冒险岛水公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0c8a786c9177f3ebba916f571cf3bc79e3d56ad.jpg",
+      "introduction": "奥帕拉拉是第二次去，这一次去是带我外甥去玩，先说奥帕拉拉没有学生票很不爽，我外甥又超过了一米四（幸好他超过45公斤，游乐设施都可以玩），所以只能买全票，不过团购套票168元还算划算（套票就包含温泉），水公园好玩，温泉环境也很棒，玩的很开心！在此建议先玩再拍照，不要又玩又拿手机拍照，小心手机落水！最后吐槽一下荥阳的出租车，从奥帕拉拉到西流湖地铁口喊价¥50，不打表，最后本以为拦到一个正规好心的出租车，没想到最后不安打表的收钱（打表35，司机理直气壮的说少收你十块你给四十吧），提醒去的游客拒绝坐黑的，铲除黑的士！",
+      "popularity": "39",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "嵩岳寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/377adab44aed2e7341abf5738701a18b87d6fa2b.jpg",
+      "introduction": "嵩阳景区的几个主要景点之一，买通票比较划算，80块！包括嵩阳书院，嵩岳寺，法王寺，嵩山峻极峰等等！嵩岳寺跟法王寺离的比较近，都在嵩山半山腰上，可以一起参观！寺庙中的嵩岳寺有1400多年的历史，塔平面为十二边形，是我国塔中的孤例。高十五层，40米。底层正中供的一位菩萨，所以没有近距离的拍照，也属于世界文化遗产！",
+      "popularity": "51",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "塔林",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134a64cb280241f95cad0c85ed0.jpg",
+      "introduction": "少林寺历代住持和有成就、有贡献的僧人的墓群，现为我国最大的塔林。",
+      "popularity": "108",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "郑州市水上乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8435e5dde71190efd6dc4e36cf1b9d16fdfa6030.jpg",
+      "introduction": "郊区一处大型的游乐园，设施齐全，夏天人气很旺。不足之处是交通不算很方便，没有直达的公交。针对有私家车自驾游的，",
+      "popularity": "90",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "嵩山滑雪滑草场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c8d4e58f787f3e6709c93d5116.jpg",
+      "introduction": "如果现在还是只滑雪就匆匆回家那就弱爆了，在疯玩一天之后泡一泡温泉把一天的疲惫都赶跑才是上上策！",
+      "popularity": "47",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "河南艺术中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b7003af33a87e950b7c01d9211385343faf2b47d.jpg",
+      "introduction": "郑东新区的五颗金蛋，还是不能这么肤浅了……是由加拿大国际著名设计大师卡洛斯 ·奥特设计。灵感来源于河南出土文物乐器陶埙、石排箫和贾湖骨笛的造型，艺术墙的设计源自黄河波涛翻卷的浪花造型。河南艺术中心是古代中原文化与现代建筑艺术的完美结合。现在鸟语花香适合周末带上家人踏青。",
+      "popularity": "22",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "青龙山慈云寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8f9d72a6059252dba0acaf0359b033b5bb5b921.jpg",
+      "introduction": "最好自驾去！因为也是正在开发的景区，交通及其不发达！",
+      "popularity": "53",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "桃花峪滑雪场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/314e251f95cad1c8d4e28f787f3e6709c93d5117.jpg",
+      "introduction": "规模在河南最大，其雪场面积在河南多家滑雪场中是最大的！其草场是中原唯一的城郊天然草场，拥有大约30000平方米进口马尼拉原生态草皮，为中原地区最大！其综合服务大厅5000平方米左右。桃花峪滑草场除了天然滑草以外，更是加入了骑马、射箭、黄河快艇、摸黄河鲤鱼、自助烧烤、滑沙、特技摩托、野宿、篝火晚会、儿童乐园等项目元素，成为一个名副其实的综合性游乐休闲景区。",
+      "popularity": "57",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "丰乐葵园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1fae4654de314e251f94ca5f83.jpg",
+      "introduction": "丰乐葵园风景区是郑州丰乐农庄内的一部分，国家4A级旅游景区，虽然距郑州市区较远，但去郑州之前被丰乐葵园那成片的向日葵深深震撼了，所以安排在了行程里。是目前国内最大的一家向日葵主题公园。从郑州火车站乘16路公交车到黄河大堤下车步行可到。坐过去还蛮远的，没位置的话如果不赶时间建议还是等下一班，丰乐葵园种植的世界名葵“日本巨无霸”较多，不过现场所见的规模和宣传图上还是有所差距，向日葵的花期长，从每年5月到10月基本上都能看到，是轮茬种植的，除了赏花，里面还可玩真人CS、自助烧烤，比较适合休闲游的地方。",
+      "popularity": "12",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "新密神仙洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd039245d688d43fe46fcf1d7c1ed21b0ff43b1e.jpg",
+      "introduction": "神仙洞的发现是70 80年代当地农民找水源时偶然发现的，后来由郑州大学的老师过来主持鉴定，认定有开发价值，后由当地政府进行开发，正式对外开发现在已经30余年，是郑州老景点了。景区大门距离神仙洞还有大概2公里距离，神仙洞口现在是这个景区的人口聚集区，在洞口外的停车场边，围了一圈已住宿、餐饮为生的村民。这边的特色么，一般是土鸡、橡子凉皮，卤肉。其它就是家常菜。神仙洞，洞口狭小，是一个狭长的山洞，1000米后略宽阔。所以这边执行的是，每30分钟进一组人，由一名导游带着讲解。里面的灯光也是按照时间开闭的，所以一定要跟上导游的步伐，要不然黑漆漆的，什么也看不见。",
+      "popularity": "33",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "郑王陵博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6d81800a19d8bc3e9cfd4c0f838ba61ea9d34579.jpg",
+      "introduction": "游历至新郑市时，发现了郑王陵博物馆，车马坑、郑公墓等墓穴中存有大量遗迹，出土了大量春秋时期的文物，其中青铜器居多。不过五儿，这还是没法与你家相比啊！",
+      "popularity": "20",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "大法王寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21b83ad5dbaad6eddc451da3f0c.jpg",
+      "introduction": "大法王寺位于嵩山嵩阳景区西端的登山道上，是中国建成最早的寺庙之一，仅比洛阳白马寺晚3年，历经了岁月的风风雨雨，屡毁屡建，所以现在看到的法王寺又是一派崭新的面貌。法王寺内仰观嵩山非常震撼，可以看到“嵩山如卧”，在西方圣人殿外向东看，是每个农历十五观赏“嵩门侍月”的好地方，地藏殿有点阴森恐怖，墙上都是古代酷刑的壁画。法王寺也是学习少林武术的一处场所，寺内能看到很多学生甚至还有少数老外在习武。在中岳庙乘坐2路公交到嵩阳书院，建议攀登完峻极峰后从西线下山，下山路上就可以顺道去参观法王寺了。",
+      "popularity": "46",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "洞林湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f603918fa0ec08fa8ffd774258ee3d6d54fbda52.jpg",
+      "introduction": "洞林湖本身只是郑州人民的后花园，位于马寨开发区西侧，洞林湖新田城后与公安学校相邻。洞林湖最大的点就是水坝之侧的洞林寺，据说也是建于东汉末年，距今有1800年的历史，与洛阳白马寺、开封相国寺、登封少林寺合称中原四大寺院，据说，洞林三景，白玉佛、洞林晚钟、楚金炉曾经是享誉四方的精致，现在也没人知晓好在何处。洞林寺2000年后新修了大殿，当年释永信法师前来开光，主持开寺仪式。现在的洞林寺应该也是利属于禅宗，应该是少林寺下院之一。洞林湖附近树林茂密且有平整的地势，是郑州人民夏天纳凉的好地方。找两棵树做个吊床，或者在树下打一会儿扑克都是顶好的。坝上的农家乐也是经营多年，烤鱼是一直很地道，是必吃的菜肴。",
+      "popularity": "24",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "炎黄二帝塑像",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2ec6f599ba4ec2d56284356873.jpg",
+      "introduction": "炎黄二帝巨型塑像位于河南省郑州市西北部三十公里之处的黄河风景名胜区向阳山(始祖山)上，炎黄二帝巨塑背依邙山，面向黄河。塑像占地2816平方米，像整体高106米，其中，山高55米，像高51米，雕塑中高者为炎帝，矮者为黄帝，所使用的材料均是太行山真石。河南炎黄文化研究会会长王仁民是该塑像建设的直接推动者，塑像总设计师为吴树华，由海内外华人捐款和政府投资及招商引资共计人民币1.8亿元，历时二十年于2007年建成。",
+      "popularity": "23",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "雁鸣湖景区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/562c11dfa9ec8a132caab824f603918fa1ecc046.jpg",
+      "introduction": "哪还有景区啊。。。一个大坑周围有几家卖螃蟹的。还有就是周围的房地产开发商和售楼处了。已经算不上景区的地方了，百度旅游可以消掉了",
+      "popularity": "21",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "杨树沟",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bf096b63f6246b60f062ccfceaf81a4c500fa2ce.jpg",
+      "introduction": "山体为碳酸盐岩石覆盖，植物种类590种,野生花卉68种，初霜过后“满山霜叶红胜火”。",
+      "popularity": "21",
+      "recommendLevel": "4.6"
+    },
+    {
+      "name": "虎牢关",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf41a2d8d8076094b36acaf992b.jpg",
+      "introduction": "导航定位准确无误，一路找来直至走到碑下，导航结束。景致如图，和以前看到的图不同是，古老的唐碑用玻璃罩保护起来，避免经一步风化。",
+      "popularity": "111",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "峻极峰",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/35a85edf8db1cb139745c9c3dc54564e92584b36.jpg",
+      "introduction": "峻极峰是嵩山的主峰，也是嵩山太室山的最高峰，山脚下有三条常规路线可以走到峻极峰顶，西边的嵩岳寺塔路线，中间的嵩阳书院路线以及东边的卢崖瀑布路线。上山的话推荐走中间的嵩阳书院路线，下山路线在另外两条之间看个人喜好二选一，个人推荐走嵩岳寺塔路线下山，因为卢崖瀑布路线太长了，而且长期以来都没什么水。嵩阳书院路线登山路口交通很方便，在中岳庙乘坐2路或者在城隍庙乘坐6路公交到嵩阳书院下车即可，面对嵩阳书院向右走就能上山了。走到峻极峰大概3.5-4小时，峰顶曾立有一块“峰中峻极”的石碑，但不知被扔到哪去了，但不影响体验“小天下”的感觉。不过也希望峻极峰顶能重新树立一块有特色的石碑。",
+      "popularity": "44",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "达摩洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/43a7d933c895d1438a6212ce72f082025baf07c2.jpg",
+      "introduction": "出少林寺大门，顺小路向西，见指路牌右拐，顺路上山，此山叫五乳峰，快爬到山顶的时候就是达摩洞。山顶有达摩像。达摩洞内有一个有达摩的坐像。下了山后，可以去塔林，去初祖庵，然后继续顺大路向西就到了爬山的地方，有两条路，一条是直爬到三皇寨，一条是爬到二祖庵，然后再下山去爬三皇寨。",
+      "popularity": "36",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "巩义石窟寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7bd96c3d9b0ad162d9f2d3c910.jpg",
+      "introduction": "石窟寺座落在巩义市东北九公里的大力山下，背山面水，风景秀丽，曾被誉为“溪雾岩云的幽栖胜地”。这里保存的十五幅帝后礼佛图，构图严谨，技法娴熟，人物性格鲜明，可谓佛教艺苑中的珍品。巩义石窟是北魏皇室开凿的一座石窟，孝文帝创建了寺院，宣武帝时开始凿石为窟，刻佛千万像，后来的东西魏、唐、宋时以陆续在这里刻了一些小龛。石窟寺是继洛阳龙门石窟之后开凿的，它把佛教艺术的外来影响同中原汉族艺术相结合。虽然名气不如龙门石窟，但有很多东西还是值得一看的。",
+      "popularity": "65",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "郑州国家森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c1038c29a343cb3119313b17e896c.jpg",
+      "introduction": "这个森林公园不是很大，而且位置比较远，交通不是很方便。里面有一些比较刺激的游乐项目。人不是很多，而且里面可以烧烤！",
+      "popularity": "66",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "石窟寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dcc451da81cb39db2a746fb9d1160924aa1830ac.jpg",
+      "introduction": "石窟寺门票30元，停车场停车10元，停到路边免费。村村通公交1小时1班，不建议坐。石窟寺门口还是比较气势，里面能看到一个大雄宝殿，左右两个香房（一个是监控室，一个不开门）。转过大雄宝殿后，到了石窟寺的精髓所在，看介绍“石窟寺开凿于北魏的石窟寺距今已有1400多年的历史，现存洞窟5个，千佛龛一个，小佛龛255个，摩崖大佛3尊，佛像7743个，碑刻题记200余块。其中的《帝后礼佛图》是我国现存的唯一石刻图雕（另一处位于龙门石窟的已不存在）”现存的五个窟整体并不是很大，如果没有人解说的话，大概10分钟就能转完，而且石窟并没有文字讲解，这里不妨建议雇个解说，可以砍价，大概40就够了。",
+      "popularity": "22",
+      "recommendLevel": "4.7"
+    },
+    {
+      "name": "巩义竹林",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b03533fa828ba61e620618174334970a304e591a.jpg",
+      "introduction": "靠，巴掌大的一片竹子，算是一个小竹园吧。问当地人说没有大片的竹林，这里叫竹林镇，就是有分散的几片竹园而已，百度旅游配的图太坑爹。",
+      "popularity": "16",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "紫荆山公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a446238d09268b9922720e0df3d71c.jpg",
+      "introduction": "是郑州市建园比较早的一个公园，免费入园。公园主要有月季园、梦溪园、湖心岛等景点。公园里休闲锻炼的人比较多，每天晚上商城遗址、入口广场都有跳广场舞的；还有徒步快走队伍。乘坐地铁1号线在紫荆山站下车就到门口。（2016年1月）",
+      "popularity": "37",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "太室山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/962bd40735fae6cd25831a8e0eb30f2442a70f2d.jpg",
+      "introduction": "太室山是嵩山的主要部分。在登封从公交2路到嵩阳书院，爬山门票50元。开始爬太室山，一路上经过老母洞，中岳行宫，三皇口到太室山最高的峻极峰，然后从另一条路下山经过一线天，卢崖瀑布。下山后可以直接去中岳庙参观。",
+      "popularity": "53",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "青龙山后寺河风景区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/622762d0f703918f5daf3811503d269758eec4eb.jpg",
+      "introduction": "有山有水的地方 可以划划船什么的",
+      "popularity": "7",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "花园口",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf4b212262477094b36adaf994f.jpg",
+      "introduction": "黄河花园口旅游区是郑州一个可以免费看“黄河之水天上来”的地方，距离市中心有一定的距离，因震惊中外的“花园口事件”闻名。花园口的将军坝、界碑、纪念碑、八卦亭、沙滩浴场等新老景点向游客叙说着一个个不平凡的故事。花园口旅游区主要包括纪念性建筑、马场、黄河大堤风景线等组成，花园口旅游区距离黄河和黄河大桥有一定的距离，穿过马场即可到达，约需20分钟。从市中心前往黄河花园口旅游区可乘坐520路公交车，不过这辆公交车人多难等，节假日堵车的时候下车点不定，可能需要多走一段距离。",
+      "popularity": "20",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "樱桃沟景区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828b2871890cfc1f4134960a5a8a.jpg",
+      "introduction": "如果来郑州时正值五月份，带着同行的亲朋好友到樱桃沟游玩、露营是个不错的安排，五月已是初夏，樱桃沟已是一片郁郁葱葱，青山碧水，空气清新，无论是散步或是骑行都是好选择。樱桃沟有很多樱桃园，多是当地村民自家载种，游客可以进去边摘边吃，价格一般是在15-20元一个人，吃多少都可以。另外，在樱桃沟可以露天烧烤，说实话，这是我最喜欢的项目。~",
+      "popularity": "34",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "美玉桃源",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0dd7912397dda1449b446fedb2b7d0a20cf4861b.jpg",
+      "introduction": "美玉桃源已经荒废，免费，位置在新密牛店镇。路牌还在。如果百度搜不到，就搜助泉寺，在一条路上。新密也是个出玉石的地方。在去美玉桃源的路上，有很多村都是做玉石的。如果看到这些，那么就说明你走对了。最终走到大山深处，采石场边，一个涵洞前。徒步进洞，一定要有手电，洞的深度大概1公里多，没有任何灯光。有点陶渊明桃花源记的感觉。出洞后，发现是个房子。这边也做一些农家饭，比如手工面条，价格不贵。涵洞主要是为饮水而修，这边也就是水源地。据说沿着山间小道可以一直走到登封唐庄乡附近。这边也是普通的山景。毕竟山两边的气候，土壤都没有区别。只是这边没有开山崩石头采玉。美玉桃源还有个意思就是可以去废弃采石场捡石头。",
+      "popularity": "68",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "宋陵",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034f78b203e2aec379310b551dd2.jpg",
+      "introduction": "从宋陵公园南门出来，无需过马路，右手边即为旅游专线，浅蓝色的车身，2元钱票搭车前往石窟寺。门票标价30。景区不大，人很少，可以静静的欣赏先人留下的东西。游览完石窟寺后，在刚才下车地方的对面，等待回程的旅游专线（此地无站牌）。回程可以坐车到中医院下车，这里有几家肉合店，可以解决午饭。",
+      "popularity": "12",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "西流湖公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8644ebf81a4c510ff4dac8f46159252dd52aa5c5.jpg",
+      "introduction": "水里漂满了水草，湖水发绿，感觉荒废了似的，公园像个半成品，被分割成好几部分，再加上门口施工，乱的很，感觉不像个公园",
+      "popularity": "19",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "点点梦想城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91529822720e0cf3543ec7030b46f21fbf09aa79.jpg",
+      "introduction": "孩子很喜欢去点点梦想城，都去了很多次了，那儿的确挺不错的！感觉孩子学到不少东西呢，比在家玩电脑游戏强太多了！而且每次都在媚游中原预订，都便宜很多呢！",
+      "popularity": "4",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "黄河博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b21c8701a18b87d6d51dbcf0060828381e30fd86.jpg",
+      "introduction": "黄河博物馆位于郑州市迎宾路402号，基本陈列以“华夏国脉-黄河巨龙的缩影”为主题，前身是治黄展览会。郑州市内的博物馆也是蛮多的，不过黄河博物馆这样的专题性博物馆还是比较值得前往，那些黄河两岸出土的文物以及一张张图片展示，带给我的不仅仅是对黄河、对这片土地的更深认识，更留给了我穿梭历史的旷古心境。交通比较方便，但是距离市区还是蛮远了，郑州市内乘263、155路公交在迎宾路下车可到。免费开放，周一闭馆，游人不多，可以花20元租个自动语音导览器。博物馆到黄河国家湿地公园和普兰斯薰衣草庄园较近，可顺道前往。",
+      "popularity": "8",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "凤凰水都",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/72f082025aafa40f08a05625aa64034f79f019e7.jpg",
+      "introduction": "凤凰水都在登封，是一个水上的娱乐场所，主要是游泳、泡温泉等，游泳池不是太干净，而且池子很少，旺季的时候人还是蛮多的。",
+      "popularity": "10",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "少林寺武术馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d6277f9e2f0708ba9a9ad0e824b899a801f247.jpg",
+      "introduction": "嵩山少林寺武术馆位于天下第一名刹少林寺东500米，是国家旅游局和河南省政府共同投资兴建的国内唯一的大型少林功夫表演场馆，同时也是面向海内外招生、培养少林功夫专业人才的大型基地，从少林寺出来步行就能到，内有观看表演大厅、练功房和少林传统功夫练功场。凭少林寺景区门票可在规定的场次可免费观看武术表演，旺季的每天上午10点半、11点半，下午2点、3点和4点正都有，节目有打山门、十八般兵器、童子功、少林硬气功等，表演时间半小时，很震撼很过瘾，推荐一去。最好提前20分钟到达室内，否则就没位置了。",
+      "popularity": "49",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "老母洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe09c93c54d16a600c338644ad91.jpg",
+      "introduction": "嵩山——五岳之一，爬嵩山艰难险阻。山路漫长，不乏一些景点可以游览，首先是人文景观，比如老母洞、峻极宫、聚仙亭和中岳行宫，在这里欣赏半山腰景色尤佳；据《西征记》记载：汉武帝礼登嵩高，见群仙与白鹿为伍集于城，筑聚仙台（亭）于太室中。",
+      "popularity": "26",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "黄河富景生态世界",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7b1fda78080bd162d9f3d3c90a.jpg",
+      "introduction": "很不错的地方吧！感觉值得去一趟呢！环境很好，人不是很多，但是同样的对外面的知名度不是很高，所以在自己看咯，要是近的话可以去看看。",
+      "popularity": "8",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "炎黄广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8f9d72a6059252da25ef2c0359b033b5ab5b9ad.jpg",
+      "introduction": "过了炎黄广场，沿着跑马场一直走，隐约之中就可以看到黄河了。再往前走，就能够越加明朗地看到黄河了。我是一个地地道道的南方人，第一次站在黄河岸边，近观抑或是远眺，眼前就是被誉为中华民族之母亲的黄河，有着些许阴沉的天，让整个黄河显得颇为苍茫。其实，这也是黄河留给我的最初印象。说心里话，完全感觉不出黄河的那种壮阔气势，而且很多地段有着明显的干旱现象，没有什么水，剩下一片片的滩涂。而且黄河水的确很黄很浊，很难想象，这就是几千万沿河沿线河南群众的生命之源。",
+      "popularity": "21",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "打虎亭汉墓",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e7cd7b899e510fb3bedb77c8d933c895d0430caa.jpg",
+      "introduction": "东汉时期的墓葬，很有考古价值！不过位置不是很好找。如果想散心的话可以选择去那里  比较清静",
+      "popularity": "15",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "二七纪念堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b9128ea6423bc2fdfc039345228b.jpg",
+      "introduction": "郑州市二七纪念堂是1923年京汉铁路总工会成立大会普乐园会场旧址，是为纪念京汉铁路工人大罢工所建的革命历史建筑物。注意，这个二七纪念堂不是二七纪念塔，位于二七区钱塘路，是1952年就建成了的现代纪念建筑，又叫工人俱乐部，分主楼和南北配楼，都是二层。主楼有个很大的会议厅，南楼为“二七史迹陈列馆”，就这个还稍微有点看点，不建议专程去，但这距二七广场的二七纪念塔较近，时间充足可顺便去参观，沿德化步行商业街走入钱塘路商业街就能到，1公里都不到，二七纪念堂和纪念塔都是郑州作为“二七名城”的城市名片。",
+      "popularity": "22",
+      "recommendLevel": "3.3"
+    },
+    {
+      "name": "少室山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/024f78f0f736afc30b5b8f9bb219ebc4b64512fc.jpg",
+      "introduction": "少室山即三皇寨。三皇寨的精华在连天吊桥和书册崖，不过时间充裕的话还是建议从三皇寨（好汉坡）入口上，过书册崖后乘缆车下到塔林，从少林入口出，可以看到更多风景。如果从少林入口进山，在登山前已在公路上消耗过多体力，且全程多为下山，对膝盖磨损大。和人山人海的少林寺相比，三皇寨开发程度不高，游人平时也不多，可以充分享受爬山乐趣。全程只在好汉坡入口处、连天吊桥、书册崖等处有小商店，南天门、一线天、石门连续1-2小时的山路上没有任何服务设施，沿途厕所也很少，需要提前做好思想准备。从登封市区打车至三皇寨入口约需30-40元，从少林索道下山单程需70元，少林入口有8路车可达登封市区。",
+      "popularity": "62",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "龙溪宫",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f703738da9773912b16eb5adf9198618377ae2b5.jpg",
+      "introduction": "下面好凉快啊，惊叹大自然的鬼斧神工太神奇了！",
+      "popularity": "9",
+      "recommendLevel": "3.3"
+    },
+    {
+      "name": "绿城广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0e2442a7d933c895297c5c92d01373f0830200dd.jpg",
+      "introduction": "上学时常去，那已是近20年前的事了。从名称就可以感受到，那时绿城广场也算是郑州的一张城市名片，我对它印象不错。广场面积很大，视野开阔，交通也很方便，虽然没什么特别的景致，但喷泉、雕塑之类的还能时不时给个惊喜，建议晚上去散步看夜景，顺便在周边找点小吃尝尝。与广场一路之隔的碧沙岗公园也值得去转转。不知今天的绿城广场有何变化，有机会我一定会故地重游。",
+      "popularity": "30",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "郑州美术馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c2fdfc039245d6880d207376a5c27d1ed31b24c6.jpg",
+      "introduction": "经常在这里可以看到很多画作，作为一个理工科的女生，在这个地方有时候静静的看着这些画作，感觉心旷神怡。。。里面有很多老郑州的画面，感觉还是有浓浓的时代的味道，并且经常会举办什么画作观赏，貌似是免费的，感觉可以提升一些自己的品味吧。。。",
+      "popularity": "10",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "嵩阳公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d52a2834349b033b003d301e14ce36d3d439bdb9.jpg",
+      "introduction": "登封除了嵩山少林寺外，市内几乎没有其他好玩的景点了。晚上吃了饭闲逛走到了市区的嵩阳公园，这是登封市市民休闲的城市公园，中老年人娱乐的多，唱歌跳舞的、健身的、散步的…到处都是，当时还在表演河南民间戏剧“河洛大鼓书”。嵩阳公园东边的有条仿古的嵩阳里街，可惜人气不够，建筑都太新了，没有什么韵味。",
+      "popularity": "19",
+      "recommendLevel": "3.5"
+    },
+    {
+      "name": "白沙水库",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d6ca7bcb0a46f21f1334fdadf7246b600d33aec8.jpg",
+      "introduction": "距离少林寺很近，水库不算小，周围青山绿水，很惬意。",
+      "popularity": "9",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "郑州三皇山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4bdb29920483025aafa50f06ea.jpg",
+      "introduction": "郑州三皇山在荥阳，如果到了景点后，坐车的话大家一定要注意了，先谈好价钱，等到了之后再给钱，不然他很可能会宰你，我们就是被收了两次钱，刚开始在山下收了一次，后来只把我们送到半路，说我们没有说要上顶，实际上已经跟他说清楚了的，但是人生地不熟的，也没办法，只得自认倒霉，从此对这个地方失望透顶，赚钱也不是这样赚的，希望大家不要上当受骗。",
+      "popularity": "9",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "嵩门待月",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/962bd40735fae6cd94b56c590db30f2442a70f81.jpg",
+      "introduction": "“嵩门待月”是登封古八景之一，名气很大，观景点是在距登封市区五公里外的太室山南麓玉柱峰下的大法王寺。法王寺东有两座山峰，嶙峋突兀，相对耸峙，看起来形状很像一个门，世人称之为“嵩门”。每到中秋之时，一轮圆月从半圆形的门洞中徐徐升起，位置不偏不倚，这便是“嵩门待月”。当然这样的景致毕竟只有中秋或者月圆之时才能看到的。大法王寺门票包含在嵩阳景区套票80元内，游览太室山时可顺道而去。周围有几座保存完好的佛塔是最大看点，大法王寺出来旁边就是上山的步道，都是台阶路，比较好走。现在每年中秋时节在嵩山中岳庙峻极殿前会举办一个“待月嵩山”中秋诗会，就是因“嵩门待月”而兴起的。",
+      "popularity": "14",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "杜甫故里",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134fb3977f6241f95cad1c85e2f.jpg",
+      "introduction": "为纪念杜甫而建，景区最引人注目的是花岗岩大型杜甫雕像。",
+      "popularity": "24",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "娄河生态养生园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/55e736d12f2eb93885282b3fd4628535e4dd6fb1.jpg",
+      "introduction": "生态养生园在郑州的二七区，个人觉得这里的植物、生态一般~",
+      "popularity": "5",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "嵩岳寺塔",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a8773912b31bb0510aad91c6377adab44bede057.jpg",
+      "introduction": "嵩岳寺塔位于嵩山的嵩阳景区内，是嵩山的标志，也是中国目前现存最古老的青砖塔，它的独特之处不仅在于年代久远，也在于它是唯一一座十二边形塔，历经1400多年风吹日晒雨淋依然屹立不倒，在中国的建筑艺术和技术方面都有很高的参考价值。嵩岳寺塔门票单卖有些贵了，要40元，贵在它的人文价值。但如果同程预订65元的嵩阳景区套票就实惠了，包括嵩阳书院（30元）、峻极峰（50元）、法王寺（20元）和嵩岳寺塔（40元）都含在内。中岳庙乘坐2路公交到终点站下车，若到了嵩阳景区不要首先参观嵩岳寺塔，建议先攀登峻极峰，再由西端路线下山，依次参观法王寺和嵩岳寺塔，最后参观嵩阳书院。西端路线不长，比起东端卢崖瀑布要轻松许多。",
+      "popularity": "31",
+      "recommendLevel": "3.5"
+    },
+    {
+      "name": "二祖庵",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d086e061d950a7bc02f25010bd162d9f3d3c9d9.jpg",
+      "introduction": "二祖庵往返索道40元，学生半价20元。三皇寨往返索道80元。之前看攻略是60元，所以可能时间不同价钱有所调整吧。二祖庵坑爹shi了！除了这大门儿还算是老东西外，里面的酸甜苦辣四眼井完全就是仿建的嘛！现场还在施工，尘土飞扬，工人看着我们都是一脸“竟然还有傻X来这儿玩儿”的表情，哭死！捎带着对二祖慧可也没有了好印象，断了胳膊就踏踏实实找个好地方养着嘛，心塞..",
+      "popularity": "16",
+      "recommendLevel": "3.6"
+    }
+  ]
+}

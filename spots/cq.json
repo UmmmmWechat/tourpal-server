@@ -1,1010 +1,1013 @@
-[
-  {
-    "name": "解放碑",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/adee30dd33c5afb58d1029d3.jpg",
-    "introduction": "重庆最繁荣的商务圈，最靓丽的风景是在马路边观望重庆美女。是美食集中地，附近的小吃街不错，酸辣粉超级好吃，火锅也很赞。有点商业性严重，道路狭窄，离朝天门洪崖洞都特别近。",
-    "popularity": "2699",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "洪崖洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31fa35c0235edf8db1cb137025.jpg",
-    "introduction": "大赞特赞洪崖洞，体验古重庆山城的魅力。很有特色的地方，看看江景也不错。灯光很漂亮，气势壮观。建筑风格很古朴，典型的山城建筑。夜色很美，美丽的吊脚楼。",
-    "popularity": "1853",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "磁器口",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/71cf3bc79f3df8dc6234b421cc11728b47102870.jpg",
-    "introduction": "磁器口历史文化底蕴丰厚，漫步其中很是惬意。有人很多，商业气息浓厚，特色小店也很多，有各类美食和小吃。推荐陈麻花，很有名气的特色一条街，而且里面的小吃不错。",
-    "popularity": "2350",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "朝天门",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0862c354eae14034d0090639.jpg",
-    "introduction": "朝天门地理位置好，是很开阔的一片广场。气势雄壮，特别繁华，视野比较开阔，而且一江清澈。这里相当美丽，坐在最上面吹吹江风感觉很好，适合发呆，但是不算好玩。",
-    "popularity": "1390",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "长江三峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b527d27ae56bc69908f9d56.jpg",
-    "introduction": "瞿塘峡、巫峡和西陵峡，四百里的险峻通道和三个动听的名字，容纳了无尽的旖旎风光。如一幅美丽的山水画卷，拥有沿途神奇美景。",
-    "popularity": "357",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "武隆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc1f4134970a304e4e35df4cd0c8a786c9175c74.jpg",
-    "introduction": "美丽的武隆让人置身事外，芙蓉洞的钟乳石漂亮，天坑景观不错，而且空气很好，值得来看一看啊。",
-    "popularity": "683",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "黑山谷",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9a1151c2493b5059e4dd3b63.jpg",
-    "introduction": "景区还不错。溪水清澈，瀑布很漂亮，并且水很清凉。被专家誉为“渝黔生物基因库”，是目前重庆地区最大的、原始生态保护最为完好的自然生态风景区",
-    "popularity": "165",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "渣滓洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1a94b36e31e387b681cb4ab1.jpg",
-    "introduction": "本是一个渣多煤少的煤洞，后国民党特务在此设立了监狱。环境清幽，但是会让人印象深刻—对历史的冷漠和遗忘。",
-    "popularity": "740",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "小三峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/969cbf44a1e815e8b3b7dce3.jpg",
-    "introduction": "被称为“天下奇峡”，包括龙门峡、巴雾峡、滴翠峡，毗邻大三峡。小三峡的特色是秀美，巫山红叶很漂亮，而且小山峡绚丽的风光迷人让人留恋。",
-    "popularity": "385",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "大足石刻",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ef21124c5129559c9955904.jpg",
-    "introduction": "大足石刻非常壮观，石刻很精美，艺术精湛，雕刻精美，而且古人的智慧真的博大精深,更佩服古人高超的智慧和工艺，而且保存的也比较完好。",
-    "popularity": "438",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "洋人街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cf0d513fc52df4fdd5401d0.jpg",
-    "introduction": "充满异域风情的步行街，老外聚集地，搞笑标语随处可见，厕所文化为一大特色。小吃多而不贵，更具特色。设施比较老旧，但是适合拍照，洋人满好玩的。",
-    "popularity": "1212",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "天生三桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1a20cf431adcbef433375b3acaf2edda3cc9f7b.jpg",
-    "introduction": "天生石桥气势磅礴，林森木秀、飞泉流瀑，是一处高品位的生态旅游区。张艺谋曾在这里拍摄了《满城尽带黄金甲》，是整部电影唯一的外景拍摄地点。",
-    "popularity": "369",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "芙蓉洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b0d4f0f35999a406159f368.jpg",
-    "introduction": "芙蓉洞被评为中国最美洞穴，也有很多经典的钟乳石，感慨大自然的鬼斧神工，而且那是我见过的最漂亮的溶洞了。",
-    "popularity": "246",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "白公馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1b930a2a758718bf6d.jpg",
-    "introduction": "是一处使后人缅怀英烈的革命遗迹，“小萝卜头”等人都曾囚禁于此。",
-    "popularity": "528",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "三峡博物馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4bc54dab8982025aafa40f0613.jpg",
-    "introduction": "三峡博物馆是展示重庆和三峡地区历史文化遗产与人类环境物证的公益性文化教育机构，是弘扬和培育民族精神的重要文化基础设施。展品很丰富，珍贵的老照片和文物。",
-    "popularity": "443",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "南山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5202e5f2c971477fb17ec56a.jpg",
-    "introduction": "南山风景区位于重庆长江南岸，北起铜锣峡，南至金竹沟，汪山、黄山、袁山、蒋山、岱山、老君山、文峰山等数十座山峰临江拔地而起，与涂山寺、老君洞、大佛寺等古建筑相映生辉，点缀着山城重庆分外妖娆。\n",
-    "popularity": "437",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "歌乐山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db117ac8bb60923dd54574e7466.jpg",
-    "introduction": "以抗战时期的陪都遗迹和白公馆、渣滓洞监狱而享誉全国，素有“渝西第一峰”之美誉。",
-    "popularity": "331",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "白帝城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f4ce7829b3f3d38531.jpg",
-    "introduction": "白帝城漂亮，到了高处能见到雄伟的夔门。风景还不错，是个不错的地方。门票价格便宜，景区开发的很好。猴子很多也好可爱",
-    "popularity": "166",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "四面山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f6428f8f380e8a90503d92ea.jpg",
-    "introduction": "众多溪流、湖泊、瀑布点染于苍山绿树之间，来四面山感受丹霞地貌。瀑布非常壮观，空气很好，而且景区景色很不错。",
-    "popularity": "112",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "金佛山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d5bac246f350710ff477fc.jpg",
-    "introduction": "空气非常好，服务满意。雪景很漂亮。风景秀丽、气候宜人，以其独特的自然风貌，品种繁多的珍稀动植物荣列国家重点风景名胜区和国家森林公园。",
-    "popularity": "247",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "人民大礼堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cbc17b388ca5454f96ddd844.jpg",
-    "introduction": "重庆市人民大礼堂宏伟壮观，雕梁画栋的雄伟建筑所吸引，而且感觉还是多有气派的。挺有特色，很是热闹。",
-    "popularity": "330",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "龚滩古镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29752a9bf11415dfc9eaf4bf.jpg",
-    "introduction": "居民很纯朴，在古镇小住的时光很难忘。风景很美丽，住在客栈，让人忘掉所有城市中的压力与烦恼。",
-    "popularity": "87",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "仙女山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4a36acaf2edda3cc46d1b39501e93901213f9249.jpg",
-    "introduction": "被誉为“东方瑞士”，有名的景观是南国罕见的林海雪原。",
-    "popularity": "409",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "歌乐山烈士陵园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/62667cd0b23f42e3a0ec9c8e.jpg",
-    "introduction": "歌乐山烈士陵园设在国民党“军统”特务重庆集中营(1939～1949)和“中美特种技术合作所”(1943～1946)的旧址、1949年“一一·二七” 政治大屠杀的发生地。",
-    "popularity": "210",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "永川野生动物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8b8c92a0551f341d42af1d2.jpg",
-    "introduction": "真的不敢恭维，开着车转了一圈，平均每人一两百，结果只看到了一只狼、三只老虎还有一头熊和两只狮子，此外就是一群一群的非洲大羚羊了。",
-    "popularity": "161",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "鹅岭公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cb8065380cd79123b056e2d9ad345982b3b780ec.jpg",
-    "introduction": "重庆最早的私家园林，徜徉其中，尽享“山城第一景”。",
-    "popularity": "227",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "天赐温泉",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1bc8fb85418718bf20.jpg",
-    "introduction": "天赐温泉除了可以泡热汤之外还可以垂钓、品茶，更可品尝到难得的美食、小吃和烧烤。",
-    "popularity": "152",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "金刀峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a75fb6d30fa4ed6c960a1631.jpg",
-    "introduction": "金刀峡是一处保持着原始古老神奇的峡谷自然风景区，地势雄伟，以峡著称，以林见秀，以岩称奇，以水显幽。空气很清新，景区景观不错。",
-    "popularity": "173",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "丰都",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00a827013dbcf4647aec2c4a.jpg",
-    "introduction": "位于三峡腹地的旅游名城，以“鬼城”扬名海内外，被誉为东方“神曲之乡”。",
-    "popularity": "160",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "巫山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7d9893101a83726b203f2e71.jpg",
-    "introduction": "巫山作为渝东门户、三峡腹心，具有典型的喀斯特地貌，著名的“巫山云雨”与红叶节更为她平添了不少色彩。",
-    "popularity": "116",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "重庆湖广会馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9fcc3cec3fdfc03631c0df1d43f8794a4c22617.jpg",
-    "introduction": "整个古建筑群雕栏画栋，雕刻精美，是中国明清时期南方建筑艺术的代表，也是中国现存规模最大的古会馆建筑群。会馆建筑别具一格，感觉不错的古建筑。",
-    "popularity": "132",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "四川美院",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c54acc3aad23b292df5e0fe7f3e.jpg",
-    "introduction": "四川美术学院是中国八大美院之一。老校区在黄桷坪，一个美丽的校园，不能错过的小清新地儿。校园不大，人少幽静，绿树成荫。各种有趣的雕塑和特色的建筑，处处充满了艺术气息。只有这样的一种感觉，为什么别人家的大学总是这么美！重庆轻轨2号线在杨家坪下车，转公交车在黄桷坪站或四川美院站下车，或在杨家坪打的过去，起步价就能到；进学校大门前，美院门口的街边房子满满的涂鸦墙，就知道美院到了。川美无门票，全天开放。",
-    "popularity": "113",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "海石公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea43c3aa5af9052eed7.jpg",
-    "introduction": "海石公园如今已是重庆人周末散心或野餐，平时散步的好去处。随处可见的石头没准哪一个就来自远古几亿年前。",
-    "popularity": "151",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "重庆动物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3f6cea28b16e4c1caefd0f4.jpg",
-    "introduction": "动物园位于重庆市九龙坡区杨家坪，交通很便利，轨道二号线直达。门票也很便宜，仅仅只要30元，可以说是性价比非常之高的了。动物园里面有很多的珍惜动物，很喜欢里面的大熊猫和猴子。里面的鹦鹉和孔雀的表演也非常的不错喔。动物园里面还有一些游乐设施呢，票价不贵，小朋友们进去的时候，可以去玩耍一下。动物园门口有很多小贩，他们有卖给动物吃的口粮哟，五块钱一袋，去玩的时候可以买几包进去，在里面喂食一下动物，是很不错的体验哟",
-    "popularity": "171",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "乌江画廊",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae82673105506575ebc4afd7.jpg",
-    "introduction": "今天的乌江百里画廊没有了纤夫的号子，没有了激流险滩，没有了水逼峡谷的力道，变得平稳和恬静，乌江平静，峡谷如黛，这温柔的调子让人舒缓却也止不住得哀叹。",
-    "popularity": "62",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "龙水峡地缝",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fbf203b66f6d224f4a21a4ddb6.jpg",
-    "introduction": "龙水峡地缝位于武隆县仙女山镇境内，是几千万年前的造山运动形成的，因与天生三桥孪生发育在龙水峡内，壁陡峡深，犹如地球上的一条裂缝而得名，是武隆境内又一岩溶地质奇观。",
-    "popularity": "140",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "涪陵大木花谷",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b89911adaca0f2442a7d9330e00.jpg",
-    "introduction": "其实此时去已经有些品种的花谢了，不过花还是很多很多，适合拍照，可惜离出城有点远，170+km,有一段盘山公路，所以从主城出发大概要开3个小时多一点~刚开始爸爸妈妈抱怨这么远去干什么，后来看见景倒也觉得还不错啦~",
-    "popularity": "76",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "茶山竹海",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c16fdfaaf51f3de3ea28b2d94eef01f3a297962.jpg",
-    "introduction": "茶山竹海，景如其名，是茶和竹的世界。门票30/40元，有淡季和旺季之分。从永川出发，客运中心有专线可以直接到达景区。电影《十面埋伏》的取景地点，吸引了很多游客前来感受电影所呈现的激烈氛围，这里还有三位主演的塑像，游客争相拍照留念。景区内有特色的餐饮场所，不过价格稍高。山脚下有很多出售纪念品和特产的店铺，可以带一点回去。",
-    "popularity": "66",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "缙云山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/08b68e5245163e640cf3e384.jpg",
-    "introduction": "夏天比较凉爽，风景也很好。缙云山景色宜人，植物资源丰富。山间白云缭绕，似雾非雾，似烟非烟，磅礴郁积，气象万千。早晚霞云，姹紫嫣红，五彩缤纷。",
-    "popularity": "154",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "桃花源",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0d338744ebf81a4c9bc95b7cd72a6059242da688.jpg",
-    "introduction": "酉阳桃花源是纯粹的自然风光。此地桃源文化、巴人文化、民族文化、土司文化、桃源风光于一体，已完全展示出隐逸古朴的和平田园风光。",
-    "popularity": "82",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "加勒比海水世界",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/77094b36acaf2edd3e51a6a08d1001e9380193d3.jpg",
-    "introduction": "20160724一行8人去游玩，4个小孩子，4个大人。坑爹的地方：1、门票138元，非常不值。2、进门不准带吃的，让你购买里面很贵的食品，检查包的妹妹象土匪，收到东西就变成她的了，态度很不好。3、柜子要租，25元，押金25元，共50元，租柜子的小妹妹极力劝你往租柜子的手环里充钱，好让你消费。居然要另租柜子，不在门票自带，一切以骗钱为目的。4、凉面16元 一碗，外面2元的肉串，进去要6元，东西超贵。5、租游泳圈去冲浪要50元，否则不让你去。 租浮艇：租金50押金50 6、许多项目要自己扛工具上去，几层楼那么高！7、很多卖防手机进水套的，妈的，一个塑料袋，居然要30元，完全就是在抢。",
-    "popularity": "45",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "瞿塘峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae10edde1f195e3895ee3720.jpg",
-    "introduction": "三峡中最短的峡谷，却最为雄伟险峻，它是一幅神奇的自然画卷和文化艺术走廊。",
-    "popularity": "76",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "重庆园博园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00e93901213fb80e8e46dc2c37d12f2eb83894b2.jpg",
-    "introduction": "重庆园博园是第八届中国（重庆）国际园林博览会的会址，位于重庆市北部新区鸳鸯镇龙景湖区域，总占地面积3300亩，其中水体面积800亩，是一个集自然景观和人文景观为一体的超大型城市公园。离市区很远，轻轨到园博园东门较近，交通还算便利。园区很大，适合电瓶车加步行的方式。纯粹走路游玩，需要留后五六个小时。门票20元，网上订购18元。第一次看到这么多园林相当地震撼，只是自己时间没有规划好。",
-    "popularity": "112",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "阿依河",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29790130dd666af5a9018e94.jpg",
-    "introduction": "阿依河其峡深谷高，河床狭窄，礁石遍布，河水清幽而景色绝美，人行其中或泛舟江上有若陶渊明误入桃花源。",
-    "popularity": "35",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "好吃街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034ffc4a87d6aec379310b551d5e.jpg",
-    "introduction": "解放碑这里的八一路好吃街，适合外地游客过来尝试重庆的味道。好又来酸辣粉算是比较出名的，还有愚小面，开心猫，钵钵鸡，都还不错。抄手也是重庆一大特色，骨汤的话就不辣，可以用来缓解下。一只酸奶牛重庆到处是，紫米酸奶挺好喝的。",
-    "popularity": "157",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "南山植物园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82d1e36b3b6c81800a18d843fb.jpg",
-    "introduction": "优雅而清幽，远离喧嚣与繁杂；它山峦起伏，环秀而不失端庄；它树林阴翳、花草争芳，更可称为秀丽。植物种类丰富，粉色樱花确实很美，而且服务很好。",
-    "popularity": "85",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "石柱黄水森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1b91252c758718bf46.jpg",
-    "introduction": "其实照片上是张家界，黄水，那可没有这么美丽，不过夏天去玩，还是非常不错的，冬天就要去了，那里下雪后，就没有什么玩的了。\n这里有一种出口到日本等国的菜，全世界，只有很少地方有的，叫什么菜一下忘了，去了一定要记得吃哦，非常棒，这里还是中国的黄莲之乡，去了不要忘记买点回去哦。",
-    "popularity": "31",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "万州大瀑布",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19f996622942a9ad64.jpg",
-    "introduction": "运气好的话，青龙瀑布会用她的招牌菜——七彩虹霓来迎接你，你需要的是一点点耐心，和分心——别只顾着听那摄人心魂的水声哦！",
-    "popularity": "1038",
-    "recommendLevel": "4.6"
-  },
-  {
-    "name": "宋庆龄故居",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/83025aafa40f4bfb040b581d034f78f0f63618a4.jpg",
-    "introduction": "由保卫中国同盟总部旧址改建而成，是难得的抗战遗存，记载了宋庆龄的生平及在这栋小房的种种经历，还专门在楼外空地树了一尊汉白玉像来纪念伟人",
-    "popularity": "97",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "奉节天坑地缝",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dbb44aed2e738bd449c49085a18b87d6267ff999.jpg",
-    "introduction": "景色不错，非常美丽的景点。感叹大自然的鬼斧神工，很壮观的大坑，能看到不可思议的绝佳的景色。",
-    "popularity": "38",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "金源方特科幻公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d53f8794a4c27d1e1443028d1bd5ad6eddc43815.jpg",
-    "introduction": "公园很好玩，过山车很刺激。4D科幻公园里风景很好，可以在网上买票实惠。园区内绿树成荫，繁花似锦，有餐饮、购物等配套设施。能够满足于各种类型的旅游团体及家庭旅游的度假需求。",
-    "popularity": "46",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "张飞庙",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dbf554ed0b595db8b31cb1bc.jpg",
-    "introduction": "此庙建于三国时期，依山取势，殿宇恢弘，朱楼碧瓦与江流相一招，背靠葱郁的凤凰山和琵琶山，没有武将的霸气，却更多文藻的秀丽。",
-    "popularity": "91",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "钓鱼城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c28fddfd19f34029d7887dfa.jpg",
-    "introduction": "五一人太多了，在路上堵了四个小时才到，本来应该只用一个小时的，在合川，当时说是重庆不得不去的地方，但是我感觉也就一般般，一个普通的小城，不过那里的全鱼宴不错，都是活鱼，吃的很好吃，汤很好喝，他们叫“水疯子”，吃的鱼，他们叫“母猪壳”",
-    "popularity": "69",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "重庆朝天门两江夜游",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b46f21fbe096b635ae3f2a80d338744eaf8ac54.jpg",
-    "introduction": "都说重庆夜景很漂亮，我们也去看看，白天奔波了一天，晚上吃完饭去坐船感受重庆的魅力，确实很不错。在这里提醒大家，我们白天的时候也是被面的司机拉去一个专门卖船票的地方，一张票好像要188还是180（金碧皇宫），我果断拉着老公出来了，结果站在马路边用手机找酒店的时候，那卖票人员追出来说一张100，我还是没要，然后打面的去酒店的时候，面的师傅说我们6个人每人60还负责把我们从酒店送到码头，留了电话，下午吃完饭直接给师傅打电话，最后的价钱是6个人一共300包括酒店送码头。就是想跟大家说，多打听打听或许能省很多钱，O(∩_∩)O哈哈~",
-    "popularity": "191",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "十八梯",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a6efce1b9d16fdfa19f92aa7b48f8c5495ee7be6.jpg",
-    "introduction": "非常可惜的一件事，十八梯已经在拆迁。一直听别人说十八梯是重庆的灵魂，象征着真正的山城老重庆，所以慕名而来，却只看到断壁残垣，以及散发阵阵异味的墙体，同伴还笑称这简直像个贫民窟。十八梯，背后是高楼大厦，它却逐渐走向衰败，成为别人脑中的一段回忆，令人不禁唏嘘。默默地走完整条道路，然后不让自己的这场旅行留下遗憾。",
-    "popularity": "329",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "重庆科技馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe095096ffe16a600c338644ad7e.jpg",
-    "introduction": "科技馆是一个很有趣的地方，不只是小孩，大人也可以从里面学到很多。不过好玩的游戏总那么多人排队，带上小朋友去真的很有意义。",
-    "popularity": "66",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "巫峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d497006240dd81703088122.jpg",
-    "introduction": "巫峡以“秀”著称，是三峡中最精彩之段，峡谷幽深、奇峰突兀、怪石嶙峋，宛如一条迂回曲折的画廊，充满着诗情画意。",
-    "popularity": "93",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "石宝寨",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caef76094b36acaf871a6eb67cd98d1000e99c86.jpg",
-    "introduction": "从宜昌到重庆乘坐游轮游三峡的最后一天上午去了石宝寨，差不多是游三峡的一个标配景点，3、4天的行程里，每天2个景点，分上午和下午游览，一个自费，一个免费，而石宝寨就属于免费景点，包括在船费中的。石宝寨位于重庆市忠县境内长江北岸，因此地临江处有一块十多丈高的巨石，明代谭宏起义曾占据此处以为山寨而得名。门票50元，还是国家4A级景区，不得不说算是比较坑爹的景区了，不是看湖光山色的风景，而是依山而建的九层木结构建筑，游览过程就是一直爬完9层楼梯，一层层的观景，看看庙里制作粗糙的泥菩萨，即使听了导游的讲解也提不起多大兴趣，景区到处都是购物点，实在不知道都是卖给谁的。",
-    "popularity": "58",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "黔江小南海",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce16fc4b7f74962b4379.jpg",
-    "introduction": "扁舟渔影，绿女红男，穿梭于碧波之上；鸥鹭齐飞，鳞光荡漾，闪烁于海天之间。春夏秋冬，各有奇观；晨昏晴雨，幻化无穷。\n",
-    "popularity": "28",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "长寿湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4b90f603738da9778594f9d8b151f8198718e38e.jpg",
-    "introduction": "长寿湖位于长寿之乡，重庆长寿。交通很便利，现在重庆到长寿是有动车的，大大的缩短了乘客从重庆到长寿的时间，长寿的公路也是四通八达，十分的方便。长寿湖非常之大，景色也是比较漂亮的，是重庆市最大的湖泊旅游风景区。湖中岛屿林木青翠，建有多处园林景点。坝东仿古亭上有周恩来、李富春等同志题词的牌匾。而且长寿古镇现在已经建成了，并且经常都在举办活动，所以说长寿湖的可玩性是非常之高的 。",
-    "popularity": "52",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "重庆花卉园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a4462368ca4a2b9822720e0cf3d773.jpg",
-    "introduction": "气候温和，雨量充沛，无霜期长，土地肥沃。",
-    "popularity": "108",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "黄山蒋介石官邸",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f15e242982d7339299250ab4.jpg",
-    "introduction": "蒋介石本人也曾说过，“本人自出生以来，除家乡以外，没有其他地方比重庆算得是我第二故乡”，而黄山官邸则是蒋介石两遇生死劫的地方。",
-    "popularity": "34",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "华岩寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c28fddfd18244129d6887db1.jpg",
-    "introduction": "华岩寺——重庆名刹，位于重庆市九龙坡区华岩乡大老山，因寺南侧有华岩洞而得名。该寺始建年代无史可考。华岩寺高百丈，形状像笏，寺内外松竹修茂，十分幽邃，有天池夜月、万岭松涛等八景；华岩寺分大寺、小寺。从城区到华岩寺有425,428等多路公交车直达比较方便，目前景区已经实行免费开放。",
-    "popularity": "59",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "丰都鬼城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134c79d54ca251f95cad0c85edf.jpg",
-    "introduction": "门票比较贵。大部分基本上都是人造景点，但鬼城还是挺好玩的。景点比较少，就是天气太热了。",
-    "popularity": "99",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "卫星湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7c5fcc1b1cf8b68dad6e75c1.jpg",
-    "introduction": "黄瓜山麓的卫星湖，湖面狭长，两岸曲折，栽种着成片油菜花和桃花。",
-    "popularity": "116",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "神龙峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21b70b74f16ac6eddc450da3fc2.jpg",
-    "introduction": "上山还是晴空万里的。风景还是可以，漂流的水质也还是可以，只是我漂的时候才下完暴雨，所以水质不是很好，缺点就是人太多了，排队排惨了，然后天公不作美啊！尖叫指数5颗星，全程人工的险滩啊！PS:如果不抓紧会被甩出去或者翻船，我们漂的时候有一个小孩因为太冷没抓好，被甩到河道里了，救生员把他捞出来后抖个不停，吓的哭啊！所以建议一定要戴帽子一定要穿救生衣，一定一定！建议一定带伞或者雨衣，出太阳挡太阳下雨遮雨！",
-    "popularity": "39",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "雪玉洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/42166d224f4a20a494d0617390529822730ed0bc.jpg",
-    "introduction": "大自然在这里尽情发挥了她的雕刻技巧，一个个造型奇特的鹅管、钟乳石、石笋、石柱、石旗和世界第一的塔珊瑚花群，把雪玉洞装备成了“白玉雕琢玲珑界”。",
-    "popularity": "27",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "洪安古镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c1038606fd56cb2119313b07e890e.jpg",
-    "introduction": "读过《边城》的人，都会对洪安这一“边城”的原型有所期待。走入洪安，沿着《边城》的线索，感受古镇的自然美，与古镇人民淳朴的感情。",
-    "popularity": "30",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "青龙湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a1363277d16fb7a918fa0ec09fac7fb.jpg",
-    "introduction": "前几天去了，感觉 不错，不过这个主图上的不是青龙湖吧，青龙湖不是很大，但是胜在青幽。在交通方面，我们是自驾游，延途看去的话，交通还是不怎么便利，要想去，那还得找车，您如果是自己去，那么就需要在壁山包车吧。不过离城区也不是很远。",
-    "popularity": "21",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "巴渝民俗文化村",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c57e3fa60085f86b48f3197.jpg",
-    "introduction": "村内有一馆、四院、一庙、一牌坊，陈列民俗特色木雕及民间工艺品，体现巴渝文化特色。",
-    "popularity": "137",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "统景温泉",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3801213fb80e7bec2adacb362b2eb9389a506be1.jpg",
-    "introduction": "交通很便捷，有特色的鱼疗温泉，服务也不错，水质很好，地方很大，但是池子太少，景区环境优美，农家乐很实惠。",
-    "popularity": "21",
-    "recommendLevel": "3.5"
-  },
-  {
-    "name": "曾家岩50号",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc506c8b9b026f7ec8fc7aa4.jpg",
-    "introduction": "曾家岩50号位于重庆市渝中区中山四路，为便于工作，周恩来同志以个人名义租赁这幢房子，作为中共南方局在市内的一个主要办公地点。",
-    "popularity": "53",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "东溪",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00a827013ac4f5647aec2cc2.jpg",
-    "introduction": "这座有着1300多年历史的古镇，依傍在东丁河、福林河和綦江交界的地方，3000多年的黄葛树群守护着小桥流水人家，不变的吊脚楼民居和自然风光各自美着。",
-    "popularity": "14",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "涞滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae82673169a43173eac4aff9.jpg",
-    "introduction": "别人一说起涞滩必是那张仅存的瓮城的照片，为了不落入俗套，我这里选取了涞园的一张照片。我是2013年去的，在古镇上住了一个晚上，当天晚上雷电交加，把电都整停了。而且最遗憾的是二佛寺正在维修，没能进去参观，虽然我不是佛教徒，但并不代表我不能欣赏。值得一说的是那个涞园，据说是当时一位富豪建的，占地极广，而且修建得不错，整个园区非常的静，要是一个人的话还会感到害怕。在重庆的古镇中值得推荐。",
-    "popularity": "34",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "渝北碧津公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce16ced7a941962b43e9.jpg",
-    "introduction": "是民众休闲放松的不二选择，周围都是居民区，里边有儿童游乐园和老年人活动场所。去的时候一整天都在下雨，雾蒙蒙的，可以说别是一番趣味，但游人依旧不断。湖边的路是白色鹅卵石铺的，下雨的时候不免会有些湿滑，一路过来走的很小心，那个塔可以爬上去，要交三块钱。用来放松可以考虑，当作景点的话，还是欠缺了点，不过是免费的，周末没事的时候随便走走呗。",
-    "popularity": "39",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "罗汉寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b89404809ca0f2442a7d9330e56.jpg",
-    "introduction": "全国汉族地区重点佛教寺庙之一，重庆市佛教协会设于此。",
-    "popularity": "81",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "重庆市游乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b9120935c50dc2fdfc0393452248.jpg",
-    "introduction": "长江大桥桥头，因为会展中心修建被挖去了大半面积，现在面积很小。2017年底标志性的摩天轮也停运了。",
-    "popularity": "65",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "老君洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31d3ec3fd15edf8db1ca1370c1.jpg",
-    "introduction": "上周去的老君洞，位于重庆市南岸区南山，与著名景点一棵树毗邻，是重庆著名的道教旅游景点。可惜这次去的时候正在大修，从一棵树旁边进不了，是从黄桷桠街上一条小巷进的。景色不错，可远眺长江，渝中半岛美景尽收眼帘。",
-    "popularity": "51",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "天主教若瑟堂",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31d3b13fd15edf8db1ca13708e.jpg",
-    "introduction": "天主教若瑟堂距离解放碑商圈非常近，位于民生路若瑟堂巷1号，七星岗苏宁电器的对面，乘401、413、418等路在七星岗下车步行可到。只是现在被周围的高建筑遮挡不少，不太好找，把百度地图导航开起很准。天主教若瑟堂是一座哥特式建筑教堂，很有老重庆的味道，外墙长满爬山虎，文艺范十足。若瑟堂内正中有彩塑耶稣、圣母、若瑟像，两壁有十四耶稣苦修油画像，里面的钟楼超古老了，窗户非常漂亮。作为重庆最大的天主教堂，建议在解放碑商圈闲逛时可顺道去看看哦。",
-    "popularity": "40",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "红岩魂广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21bf6ecc0acad6eddc451da3f56.jpg",
-    "introduction": "广场有两大主题区域，一是瞻仰区域，有红色花岗石英雄烈士雕像，威武英烈，浩气长存，用艺术手法再现了革命的英雄气概。二是纪念区域，有烈士诗文石碑和大型壁画。广场环境幽静、庄严，免费游览，是进行爱国主义教育的好地方。（2001年9月）",
-    "popularity": "62",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "三峡广场",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2eaf09f0834ec2d562843568c0.jpg",
-    "introduction": "三峡广场就是沙坪坝区的步行街了，坐地铁1号线在沙坪坝站下车就可以了，当然到这里的公交车也很多。其实重庆主城每个区都有自己的商业步行街，比如渝中区的解放碑、江北区的观音桥等等，和其他的商业步行街相比，三峡广场占地面积不是最大的，但是是最有活力了，因为大学城就在沙坪坝区，重师老校区就在三峡广场旁边，重庆大学ABC三个校区离着三峡广场也就几站路，所以来三峡广场的大学生非常多。因为人很多，所以也要注意自己的财物，小心扒手！晚上广场有时会有卖花的小姑娘，看见情侣之类的，就会上前缠着你买花，反正第一次和几个同学到三峡广场，就留下了男同学被追着满广场买花的印象...三峡广场上商场百货、大型超市、酒店宾馆、餐馆、电影院等设施都是很齐全的。",
-    "popularity": "80",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "狮子峰",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1a20cf431adcbef654a2bb2acaf2edda3cc9f03.jpg",
-    "introduction": "站在峰顶眺望，但见缙云山茫茫林海，墨绿苍翠，让人体会到无尽江山胜，都归一览中。",
-    "popularity": "47",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "照母山森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/574e9258d109b3deabcbbf8bcdbf6c81810a4cd8.jpg",
-    "introduction": "因为白天受前一晚上酒后的影响 有点头晕目炫犯恶心 所以几乎没有走路 晚上吃完饭 朋友带着在酒店附近的这里溜溜弯 爬爬山 远看郁郁葱葱的树林 灯光忽闪忽闪的 明亮的塔矗立在这一片绿丛中离酒店很近 这边一个陶然古镇 朋友说这个古镇是吃饭的地方 好吧不是很高 没多会儿就爬上来了 月朗星稀 台阶边上没有护栏 看着危险尤其下来的时候 挂在树上错落有致的灯都是一亮一灭的 盯的久了眼睛不舒服登顶后看夜景 并不是很美 可能不是繁华地带的原因吧貌似可以开车过来 有条这种平滑的路一直伴随着我我们",
-    "popularity": "28",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "重庆大剧院",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e61190ef76c6a7efd014f0dbfcfaaf51f3de6618.jpg",
-    "introduction": "重庆大剧院是全国第四大剧院，真正的高大上，不过这外形，这颜色，重型装甲？要不变形给哥看一个，哎呦，这也忒艺术抽象了吧。大剧院在朝天门对面，所以江边有一段城墙，不过能摸出来是仿造的，原先城墙早不在了，只是在原城墙遗址上修一个。江边是大片的芦苇，可以下去玩，遇到一家人在那钓鱼，蛮有情趣的，两个小孩也是HAPPY的很。上来的时候被一只小狗跟踪，我一回头它就往后躲，难道它也是猴子请来的逗逼？",
-    "popularity": "46",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "天福官驿",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9922720e0cf3d7ca91d85cbff31fbe096a63a9c9.jpg",
-    "introduction": "每一个去武隆游玩过的人大概都会拍一张这样的照片吧。其实在此之前我都没有观看过满城尽带黄金甲这部电影，所以也没有刻意去观察过这个景点。但是当真正到临的时候，才会体会到当时导演取景时的煞费苦心，这样的绝世之地也能被找出来。",
-    "popularity": "90",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "奈何桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caae6809c5ab7ec32fddd42f.jpg",
-    "introduction": "说是只能走中间的桥，哥来回三个桥都走了，因为哥是鬼节出生的，回自已家还要讲究什么",
-    "popularity": "30",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "山城步道",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8177f3e6709c93d36124c279e3df8dcd0005479.jpg",
-    "introduction": "去了第一和第三步道。第一步道是从朝天门下船后溜达着无意发现的，就在湖广会馆旁边，是条很安静的巷子，另一头离小什字地铁站比较近，而且还会路过著名的花市豌杂小面，据说是重庆前5强哦！第三步道是许多攻略上会推荐的，有很多民国时候的记忆，重庆还把第三步道做了规划，从头走到位的话会很长，我们是从通远门往下走的，一路下坡会省力些，建议大家也是这个方向走，不然上坡会很累的。第三步道的惊喜就是悬空栈道一段，至于其他民国遗址有些失望。",
-    "popularity": "42",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "芙蓉江",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cb1cb1349540923c4ecdedb9258d109b2de4989.jpg",
-    "introduction": "芙蓉江风景名胜区景色既瑰丽又壮观，秀水碧波，丝竹垂吊江边，古树如虬参天，时而水平如明镜鱼翔浅底，时而滩急似银河猴跃群山，古人对其有“一川游尽画图中”的评价。",
-    "popularity": "67",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "西陵峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa251d4f775f255aaec3ab39.jpg",
-    "introduction": "在湖北省内，是长江三峡中最长的峡谷，全长约120公里。西陵峡西起香溪口，东止南津关，因岸边的西陵山而得名。西陵峡也是自然风光最美的峡谷，可谓大峡套小峡、三峡最险处，文人墨客盛赞“西陵山水天下佳”。主要景点有牛肝马肺峡、灯影峡、黄牛峡、兵书宝剑峡、白狗峡、崆岭峡等。现在三峡大坝蓄水后，奇险风光与悠久的人文历史让人流连忘返。西陵峡口的风光不坐船就可以欣赏，从宜昌市坐10路公交车就到。（2001年9月）",
-    "popularity": "49",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "龙缸地质公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31c910306a5fdf8db1ca1370f6.jpg",
-    "introduction": "公园主要景观类型包括以龙缸岩溶天坑为主的岩溶类和以石笋峡、南三峡、黄陵峡为代表的流水地貌类，同时兼顾草场生物景观和具有浓郁土家风情的人文景观。",
-    "popularity": "25",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "张关水溶洞",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7ab514d13df8438b572c84df.jpg",
-    "introduction": "这里也叫张关旅游风景区，景区很大，景点也还算丰富，果然不愧为天然地质博物馆的美誉，最喜欢的是在地下长河泛舟，可以欣赏美轮美奂的水溶洞，还有地下河漂流，让人仿佛身临鬼吹灯盗墓笔记里面的场景，感觉非常刺激。",
-    "popularity": "14",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "红岩村革命纪念馆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0526df0853089c3a40f52bb.jpg",
-    "introduction": "红岩村是重庆市渝中区江边的一个村庄。抗日战争时期这里曾是革命的根据地，形成了坚定理想信念、不畏艰辛、勇于开拓、团结奋进的“红岩精神”。为了弘扬“红岩精神”，解放后在这里建立了纪念馆。“红岩精神”也是新时期实现“中国梦”的伟大精神力量。（2001年9月）",
-    "popularity": "48",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "南山一棵树观景园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b82b9014a90f60339d413aa3812b31bb151edf3.jpg",
-    "introduction": "是来渝宾客观赏山城夜景的一大佳点，可以日观市容市貌，夜览山城夜景。 由于地理位置的优越，现代的灯饰艺术的华彩，站在视野开阔的一棵树观景台，是一种美的享受。",
-    "popularity": "124",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "816地下核工程",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd039245d688d43f13e49e087c1ed21b0ff43bfe.jpg",
-    "introduction": "对建筑学感兴趣的不妨参观一下～这里的设施结构颇有一番讲究～排水～通风～运输等都一应俱全～还是挺震撼的～就是我们小时候的防空洞，很多人都参加了“三线”建设，至今都留在了那里，无法返城。这里不要错过，号称是世界第一大人工洞体，确实非常震撼的感觉，整个山体基本都挖空了，这要耗费多少人力啊。",
-    "popularity": "27",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "朝天门大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c816936d905bd3eb13532fa40de.jpg",
-    "introduction": "重庆是山城更是江城，山高水长桥也多，最著名的就是横跨长江的朝天门大桥，号称“世界第一拱桥”，重庆的标志性建筑。朝天门大桥连接解放碑、江北城、弹子石三大中央商务区。大桥上层是机动车道，行人可经两侧人行道上桥，下层则是双向地铁轨道。大桥的夜景很不错，虽说是朝天门大桥，但是到朝天门还是有段距离的，其实重庆的夜景美就美在渝中区看江，最佳观景方式是乘坐朝天门两江夜游游轮，推荐网上预定，多种套餐可选择，航程约20公里，时间约1小时，途中就能经过朝天门大桥，还能看到洪崖洞、重庆大剧院以及沿江鳞次栉比的摩天大楼，层层叠叠的灯光映照在江水中非常不错。",
-    "popularity": "82",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "璧山湿地公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9213b07eca8065383e88a4fc96dda144ac3482fa.jpg",
-    "introduction": "又名“观音塘湿地公园”，初次去真的有令人经验的感觉，绿树红花相印成趣，有状元桥，古楼等，一座不小的湖，很多亭子，设计得比较合理，还有化石墙",
-    "popularity": "24",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "卧龙沟",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/647912d7116a42b1a144df93.jpg",
-    "introduction": "夹峙着两岸绝壁馋岩，沟内藤蔓悬垂，充满原始野趣。",
-    "popularity": "16",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "慈云寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bf33a87e950352a9e0717415343fbf2b2118b10.jpg",
-    "introduction": "城区里的寺庙，闹中求静。在第三军医大学读研究生时基础部的一帮做分子生物实验人做不出结果经常去烧香，所说很灵。[微笑]",
-    "popularity": "28",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "阿蓬江",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1160924ab18972b3e22c383e6cd7b899e510a5b.jpg",
-    "introduction": "土家吊脚楼，是土家人的智慧创造，倚山就势，依靠乌江阿蓬江而建。高悬地面既通风干燥，又能防毒蛇、野兽，楼板下还可放杂物。",
-    "popularity": "11",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "涂鸦一条街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fbf254b7e56c224f4a21a4dd67.jpg",
-    "introduction": "中国八大美院之一的四川美术学院打造的艺术高地。",
-    "popularity": "80",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "铁山坪森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c995d143ad4bd1130696f5d15bafa40f4afb05fd.jpg",
-    "introduction": "很大的公园，会迷路的，希望路标多一点指示清楚一点。",
-    "popularity": "18",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "圣灯山森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce1610fd1b40962b4316.jpg",
-    "introduction": "2016年12月10日游圣灯山     高阶上矗立的牌坊——圣山灵境，是谁的芊芊玉手拈花而笑，笑魇如花终是抵不过岁月的抹杀，迎客松八百年的屹立最终没有挡住狂风的肆虐，中空的树干上是谁为它挂上了墓志铭——卒于2016年5月。    时间用苔癣在石阶上刻画了重重的印记，那一泓汩汩的山泉汇成一口井。清风徐来，夹道而立的山茶树又盛开了白色的花，送来清浅的香气，沁人心脾。顺舍身岩上的铁索攀爬向上，若有了目标自然会忘记害怕。白蛇修道还必将忍住剧痛脱壳成仙，愿此磨难之后祛病消灾一马平川。想爱不能爱的仙女牧童只能化身古松，相伴了快千年成为传奇，树根在地底下缠了又缠任谁也别想再分开。",
-    "popularity": "19",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "三峡古玩城",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf49c1d081b77094b36adaf9961.jpg",
-    "introduction": "从大礼堂逛完以后可以顺道过来看看，这里的东西很多，各色的古玩、珍藏应有尽有。个人觉得随便看看、长长见识没问题，但不要轻易成交，因为这里的东西毕竟是良莠不齐的。古董不是一般人可以买的，万一买到假货就要捶胸顿足了，有眼力的人可以去淘宝。",
-    "popularity": "32",
-    "recommendLevel": "3.4"
-  },
-  {
-    "name": "綦江古剑山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/960a304e251f95ca29c21848c8177f3e6709521d.jpg",
-    "introduction": "下雨后去的，空气清新，山上云雾缭绕，增添了古剑山的神秘，现在还在修建中，全是原始风景，非常美丽，还会再去！",
-    "popularity": "11",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "雨台山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034fc957b489aec379310b551da2.jpg",
-    "introduction": "之前都听说过雨台山具体玩的不多，所以去之前也没有抱太大好玩的希望，只觉得中秋没事做要出去玩玩，到了雨台山，我们去爬了山，划了竹筏，总的感觉还可以，回来的时候直接走下来坐的公交车，我觉得也不远，还是挺好玩的，心情很舒畅！",
-    "popularity": "15",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "胜天湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b4c510fd9f9d72ac7988da9d42a2834359bbb82.jpg",
-    "introduction": "胜天湖在重庆北碚区，从偏岩古镇在往前走一段路就到了胜天湖了。胜天湖是一个非常美非常原生态的湖。胜天湖的水质异常的清澈，总体呈现出深绿色，用手舀起来感觉非常的清凉非常的干净。去胜天湖一定要去乘坐游船，通过船来感受胜天湖的美最淋漓尽致。胜天湖当然也有步行道，通过步行感受胜天湖也是不错的选择，最好体力好。由于胜天湖的水质异常的清澈，所以去胜天湖游泳的人特别多。如果各位大大准备去游泳的，最好是做好安全保障措施，毕竟游泳诚可贵，生命价更高。胜天湖是一个值得一去的地方！",
-    "popularity": "20",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "宝顶石刻",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8601a18b87d6277ff23aad8c28381f30e924fc5e.jpg",
-    "introduction": "这是同我国4大石窟齐名的石刻区，宝顶山石刻也是大足石刻的核心景区。里面集儒释道的故事于一体，非常精彩。石刻时间大约在宋代，比四大石窟要晚，但是保存的相当好。建议找一个导游讲解，景区门口有很多，选一个漂亮点的，普通话好点的就行，反正都是背的。现在都是用的导览器听讲解，你也蹭不到。因为重新修葺过，进入景区的路很长，可以做电瓶车，这个挺坑的，就是变相赚钱，走路的话，要20分钟左右。景区里面不大，不听讲解，估计20分钟就看完了。跟导游走大约1个半小时。除了石刻，景区内还有圣寿寺和大足石刻博物馆，有兴趣的朋友们也可以顺道看看。",
-    "popularity": "49",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "大垭口森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/80cb39dbb6fd5266918a92b8ab18972bd50736fc.jpg",
-    "introduction": "公园内山势绵延，岩陡壑深，山泉甘冽，遍布多种松树和竹子科植物，绿得层次分明。",
-    "popularity": "27",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "北温泉",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb151599966e38c543091.jpg",
-    "introduction": "这些叫好的怎么说你们呢？我生为北碚人最有发言权，以前10元的温泉现在被柏联酒店把整个景区封锁承包了，景区都不让人进去了，平时298，周末398的露天大池收费堪称全重庆最贵温泉，然后里面的酒店住宿一晚上收费多少，大家可以去酒店网站上搜柏联温泉酒店的房价，免得说我黑他们，消费跟当地完全不是一个重量级，具体提供给哪些权贵消费的，大家自己想想就知道了。",
-    "popularity": "23",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "重庆铁山坪",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b17eca8065380cd702bf41a4a144ad34588281d2.jpg",
-    "introduction": "作为国家4A级旅游景区和重庆十大新名片之一，目前除了交通不太方便以外（813和817从建新东路出发，还有一班车貌似是从龙头寺出发），景点什么都很有特色，算是精心打造的森林公园了。等到2017年的样子轻轨修过去肯定会方便很多，的确是一个休闲养生的好地方",
-    "popularity": "37",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "大足",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f0e3774fe07b310a55b3191ca0.jpg",
-    "introduction": "大足区位于重庆市西郊，以大足石刻为代表的旅游区文化底蕴深厚，被誉为中国优秀旅游城区。",
-    "popularity": "52",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "濯水古镇",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c81152c0d0dbd3eb13533fa403f.jpg",
-    "introduction": "濯水古镇位于重庆黔江县的阿蓬江畔，与江南水乡的古镇相比，这里的古镇依傍于清澈的江边，依托于起伏的山势，更显得出世脱俗，比江南的水乡古镇多了一份空灵的感觉。而且这里还是以原住民为主的居住其间，更有一些本来的味道。。。",
-    "popularity": "13",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "重庆天地",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf411739b2277094b36adaf996f.jpg",
-    "introduction": "看夜景没必要去这里！吃重庆小吃没必要去这里！北上广深来的人没必要去这里！其他朋友看完红岩村顺道看二十分钟可以，一杯茶这里卖七十元一杯，重庆其它景点十元你自己算帐。晚上这里拍张照片勉强。有中国大妈在哪里锻炼",
-    "popularity": "152",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "印象武隆",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/503d269759ee3d6dccac283342166d224e4adee4.jpg",
-    "introduction": "印象“铁三角”张艺谋任艺术顾问，王潮歌、樊跃任总导演，和其他“印象”系列一样，也是走的实景、大气的路线，整个舞台以一整片山坡石壁作为背景，以一片峡谷盆地作为主舞台，展现武隆山区的人文风情，已经几近消失的“川江号子”也会在舞台上响起。整场演出的声光效果一级棒。",
-    "popularity": "34",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "双桂山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d043ad4bd11373f00b313f2ba40f4bfbfbed0473.jpg",
-    "introduction": "丰都县旅游资源以自然景观和人文景观为主，主要有丰都名山（国家级风景名胜区）、双桂山（国家级森林公园）、鬼国神宫（中国最大的动态人文景观）、鬼王石刻（中国最大摩岩石刻造像）等著名景观。是一座可玩性非常高的城市。",
-    "popularity": "19",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "神女峰",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82263f7c3b6c81800a19d84328.jpg",
-    "introduction": "昨天晚上，我们偷渡到了青石，顺利进入重庆境内。晚上住在传说中的神女苑，主人是宋清贵（电话13896347508），看了她全家人和汪洋的合影。在神女苑对面便是秀丽的神女峰。宋嫂介绍，请向导费用大概是200-300元。围着炭火，我们讨论了很久，不知道这个费用是不是必须花。有的队友认为山路曲折，安全第一，上山之前需要完备的线路和方案；有的认为天气晴好，山上有人家，重在体验新奇，请向导反而败兴。两方唇枪舌剑，互不相让，甚至有隐隐分裂的前兆。不过在我看来，这不是一个",
-    "popularity": "25",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "太白岩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f094cd3d8178310a55b2191cf9.jpg",
-    "introduction": "既然名曰“太白”，自然是不能跟李白脱离了关系的，传说这里是李白曾经读书的地方。孕育了这样一位诗仙的地方，自然也是飘逸绝尘的。",
-    "popularity": "17",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "老舍旧居",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91ef76c6a7efce1b780c557eaf51f3deb48f655b.jpg",
-    "introduction": "重庆因为是抗战的陪都，境内的名人旧居遗迹也多。抗战八年流离，老舍在重庆北碚居住时间最长，其居住的旧居在北碚天生新村61号区委机关大院里，一幢砖木结构的二层楼房，外墙灰白色相间，园内绿化不错，我们是结束了缙云山的旅程后前往的，现在辟为老舍纪念馆，里面主要是老舍各类照和用过的实物，游人不多，很清静。",
-    "popularity": "26",
-    "recommendLevel": "3.7"
-  },
-  {
-    "name": "巴蜀古文化中心",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b91277e1cab7c3fdfc0392452252.jpg",
-    "introduction": "图片乱整，上图为大礼堂的，谁乱上图。至于那个片，说实在的，感觉没有多少味道，虽然曾经也共了大力量去开发。",
-    "popularity": "33",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "北山石刻",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31ac369e2c5edf8db1cb13701f.jpg",
-    "introduction": "网上买的大足石刻的联票60元，单个宝顶山55元。也就是加个北山只需要5元，当然要来看看。自驾的游客会比较方便，因为北山离宝顶山要30分钟车程。这里的石刻比宝顶山还有年代久远，而且损坏严重，所以游客也少很多，当然也没有讲解员。所以只能自己看看，配合网上找找相关介绍，据说这里是唐代的一位将军建的。景点很小，逛一下半小时够了，时间充裕的朋友们还是建议来走走。",
-    "popularity": "28",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "神女溪",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caef76094b36acafbdb3410d7dd98d1000e99cf4.jpg",
-    "introduction": "神女溪是因三峡大坝蓄水而新生的一个景区，只能坐船进入。两边的岩石层理非常奇特，可以见到巫山的上升峰、起云峰等，风景非常秀丽。船进船出各需半小时，上岸只给20分钟拍照，里面的路段被封了，不过水景和石景都非常漂亮。",
-    "popularity": "30",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "潭獐峡",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/21a4462309f790523901e94c0df3d7ca7bcbd5a2.jpg",
-    "introduction": "这里是獐子和他生态链上的朋友们最爱的地方，而天然的奇险峡谷山水使得此地即可观景亦可探险，各种野趣盎然。",
-    "popularity": "7",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "丁山湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b64543a98226cffc85b6ef06b9014a90f703eae2.jpg",
-    "introduction": "出游是一种心境吧，丁山湖是个宁静的地方，湖边是一个生态园，树木茂密葱郁，空气很好，我住在湖边的一个农家乐，叫“湖光水岸”（便宜又热情，特别喜欢从湖边到他家的那条路，旁边就是伴水而生的矮矮的树，很美），那边还有一个寺庙，我去拜了拜，门票才几块钱，求了一个平安符。现在又有一个万佛山大峡谷，喜欢刺激的可以去漂流，我比较喜欢安静，在上面住了一个周末，很不错，空了又去。",
-    "popularity": "12",
-    "recommendLevel": "3.1"
-  },
-  {
-    "name": "铜鼓滩",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/472309f7905298223760f58ad7ca7bcb0a46d42c.jpg",
-    "introduction": "铜鼓滩夏季去最佳，这里被誉为“渝黔第一漂”，位于万盛区与贵州省桐梓县交界的坡渡河上，距万盛城区48公里，基本上不推荐坐公共交通去，要知道万盛到重庆主城区还有89公里哦，花在路上的时间太长了，从黑山谷和龙鳞石海游览后可顺道去。主要是玩漂流，风景还可以，漂流途中经过“一瀑、二岛、三峡、四洞、十滩”等不同景致，落差最大的险滩有6米，漂流全程11.2公里，一般要1个半小时。每年4月底就开放了，重庆本来是火炉嘛。漂流票价100元，建议网上预定哦，景区还有天然游泳场、实弹射击场、苗寨风情园等项目，适合夏季休闲游。",
-    "popularity": "12",
-    "recommendLevel": "3.3"
-  },
-  {
-    "name": "万盛石林",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d5462bfa1f83aee59e514698.jpg",
-    "introduction": "万盛石林既有怪石崚峋也有溶洞奇观，生发自寒武纪的岩石和奇特的喀斯特地貌共同构建自然魅力，生活在此地的苗族姑娘的舞姿更是对此地风光最好的描绘。",
-    "popularity": "33",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "张自忠将军墓",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1f178a82b9014a90abe4d409a9773912b21beea8.jpg",
-    "introduction": "张自忠上将墓，位于重庆市北碚到青木关公路侧梅花山麓。梅花山原名雨台山，1940年5月16日张自忠上将在湖北宜城县南瓜店抗日阵亡后，1940年11月16日下葬于此；1942年6月18日冯玉祥将军隶书山名，刻石置于墓前，并亲自在墓前栽植梅花树。张自忠墓，座南朝北地势南高北低，平面为长方形，占地5亩，陵园分三部分，最高处是张自忠墓，中间是花园，坡下是广场和张自忠纪念馆和标志石碑等。这是一个缅怀张自忠将军的地方，所以周围的环境非常幽静，有人也极少。在冬天更是显得肃穆。参观张自忠将军墓请带着一颗虔诚的心。",
-    "popularity": "29",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "潼南大佛寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9fcc3cec3fdfc030d1efa37d53f8794a5c226de.jpg",
-    "introduction": "潼南大佛寺位于潼南县城西一公里的定明山下，是全国重点文物保护单位。景区旅游资源丰富，文化底蕴厚重，有世界第七、国内第一大室内装金摩岩大佛、最早使用全琉璃顶的古建筑“七檐佛阁”、我国四大回音建筑之一的“石磴琴声”、全国最大的摩石刻书法顶天“佛”字、罕见的天然回音壁“海潮音”等十八胜景。",
-    "popularity": "19",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "涂山寺",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1f81756473304e251f95ca5f7f.jpg",
-    "introduction": "喜欢这里的清静，有些寺院香火虽旺但感觉人多了气场就不好。很喜欢姑苏人恬静淡泊的气场，里面修行的老妈妈都很和蔼。",
-    "popularity": "13",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "统景",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1ad5ad6eddc451da8319efa2b6fd5266d116328f.jpg",
-    "introduction": "其他地方的蹦极不是很清楚，统景蹦极这边按照他们的《安全操作规程》，第一次弹跳不能绑脚跳，只能选择绑腰弹跳。在具备蹦极弹跳经验后，才可以选择绷脚、绑背以及双人跳。",
-    "popularity": "7",
-    "recommendLevel": "4.3"
-  },
-  {
-    "name": "望乡台瀑布",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828bd4ab9656fd1f4134960a5afe.jpg",
-    "introduction": "望乡台瀑布是重庆市江津四面山的标志性景点，到景区后步行不久就能到达，瀑布高150余米，比著名的黄果树瀑布都高出一倍以上，堪称国内第一高瀑。瀑布的绝妙之处不仅在于高且壮观的气势以及水声如雷，更在于只要是夏季晴朗之日，每天上午9点到11点左右，瀑布下端几乎都会准时出现彩虹，堪称一绝，因此强烈建议上午时分去看。推荐游览方式是登上望乡台瀑布后的栈道，沿栈道而行，从瀑中隧道凭栏仰望瀑布，眼前的瀑布排空飞泻，仿佛自己已融入这青山绿水的飞瀑之中，夏季去是最清凉的了，四面山本来是避暑胜地，又是瀑布水量较大的时候，看起很壮观，冬季水量就很小了。",
-    "popularity": "18",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "武陵山国家森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32fa828ba61ea8d30aa7fbfa960a304e241f5843.jpg",
-    "introduction": "来这里是为了参加国际绳索大赛，武陵山大峡谷真的是太壮观了，宣传片里说“天地造化，鬼斧神工”可谓是恰如其分。一路沿着栈道往景区深处走时，李白的蜀道难不断浮现在我的脑中，仰头看着高到天空的悬崖峭壁，低头看着奔腾的湍急河流，不得不想起“上有六龙回日之高标，下有冲波逆折之回川，黄鹤之飞尚不得过，猿猱欲度愁攀援”的诗句，喜欢自然风光的十分推荐去一次。PS：从涪陵到大峡谷景区的途中会路过乌江，没错，就是项羽那个乌江，江水衬着两岸的山峰，风景非常秀丽，一起的驴友说溯江而上景色更优美。",
-    "popularity": "21",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "黄瓜山",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0eb30f2442a7d933167fda3aad4bd11372f001a7.jpg",
-    "introduction": "黄瓜山，距离永川城区15公里，可以在永川市区乘坐前往此地的客车。交通很便利。这里的气候环境十分舒适，是踏青郊游的绝佳之地。黄瓜山上的中华梨村名气很大  许多游客慕名前来寻找 忽如一夜春风来，千树万树梨花开的感觉。此外山上的旅游景点 桃花源也具有非常的吸引力。上山还有许多的狩猎场和农家乐 游客可以非常轻松自在舒适的在这里放松自己的心情。",
-    "popularity": "12",
-    "recommendLevel": "3.8"
-  },
-  {
-    "name": "重庆长江大桥",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b76d07bd1530adcbef77099b43.jpg",
-    "introduction": "说起大桥景点，马上说想起武汉长江大桥、南京长江大桥，这些桥梁都是我国自行设计的桥梁，代表着我国接掌技术的进步。重庆长江大桥位于渝中区，也是我国自行设计、自行建设的大桥，是重庆南北两岸的交通枢纽。大桥有夜景很美，远眺灯光迷离，和山城的夜景融为一体，和着江面点点波光，还有航行的船只，很是好看。（2001年9月）",
-    "popularity": "59",
-    "recommendLevel": "4.2"
-  },
-  {
-    "name": "观音桥步行街",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/30adcbef76094b364dc3bd13a2cc7cd98c109dff.jpg",
-    "introduction": "观音桥是重庆市江北区政治、经济、文化中心和重庆北部商贸中心，是解放碑之后第二大商业中心。地理位置优越， 15分钟以内可到达江北机场、龙头寺火车站、重庆火车站、朝天门港口，具有极强的集聚功能和交通优势，整个步行街由观音桥广场。商业综合体众多，美食相当丰富，夜景也漂亮。",
-    "popularity": "151",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "武隆岩溶国家地质公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/574e9258d109b3de9393445ccebf6c81800a4cd1.jpg",
-    "introduction": "武隆岩溶国家地质公园其实就是天生三桥地质公园园区和芙蓉洞芙蓉江地质公园园区合称，分别位于乌江北岸和南岸。搞不懂一个岩溶国家地质公园为什么分开卖票，武隆的景点门票真心较贵，以前还能使用重庆旅游年票，现在全部退出年票包含范围内。天生三桥是典型的喀斯特地貌，门票旺季135元，淡季95元；芙蓉洞内钟乳石类型几乎囊括世界上30余种洞穴的沉积特征，门票旺季120元，淡季65元；芙蓉江内的岩溶地质主要表现在两岸断层标志和江口地层剖面明显。门票建议在小度等网站上预定，一般有9折，在售票处的取票机上刷身份证取票就行，免去排队。从县城到上述景点都有班车，一般十分钟一趟，推荐自驾，停车和在各景区之间中转都很方便。",
-    "popularity": "47",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "重庆龙门阵魔幻山主题乐园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a44623a3de009a9922720e0cf3d736.jpg",
-    "introduction": "它将是中国唯一一个将地方特色的本土文化与世界最新的高技术游乐设施和演艺手段相结合的主题旅游景区，娱乐设施也很完善，而且玩的项目很多，环境也很好。",
-    "popularity": "8",
-    "recommendLevel": "4.5"
-  },
-  {
-    "name": "重庆邮电大学",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b8955a417790e2442a7d8330e7b.jpg",
-    "introduction": "下索道感觉南岸超级破，跟小乡村的街道一样一样的。又走了很久很久，问了好几个人，才到坐公交上观景台，乡间客车的感觉，终点站竟然是重庆邮电大学。感觉很坑，千里迢迢考来的同学应该两眼一黑了。因为从我们那个段上车之后全部是盘山公路，一直盘一直盘一直盘。重庆开车好费油啊，到处都是坡和山要上。可恨的是，在这个景点没有公交站台，要开到很远的站，再自己走回来！结果又走了很远，还是盘山公路。到了已经8点多了。",
-    "popularity": "32",
-    "recommendLevel": "4.4"
-  },
-  {
-    "name": "白鹤梁",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a686c9177f3e67094f11461a3ac79f3df9dc55c5.jpg",
-    "introduction": "2015年5月，白鹤梁水下博物馆调整升级后重新开放，依然很火，里面变化很大，更换了玻璃窗后水下参观更清晰！",
-    "popularity": "12",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "巫溪红池坝",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b82b9014a90f603341614b93812b31bb151edae.jpg",
-    "introduction": "红池坝有非常多的农家乐，这些农家乐能够提供一些特色美食，比如烤全羊，牛肉汤锅，烤兔子等等，还有很多重庆特色美食。我们在酒店大门口不远的一个农家乐吃的晚饭，现在想想太美味了，哈喇子流一地。这一次遇见红池坝，不是在最美的季节。2011年，巫溪县政府在万亩草场的基础上，引种各类高山花卉，云中花海景区由1500亩构图花卉区、3000亩缀花草坪区、3000亩疏林草地鲜花区、2500亩有机生态农业花海观光区和休闲生活娱乐区构成，是世界上高海拔地区最大、最美的花海景观，面积是日本北海道花海的7倍。我们到的不是时候，想象一下这些目前开垦的土地，到了七月份就是漫山遍野的鲜花，那画面一定很美。",
-    "popularity": "18",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "东温泉",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad49b586744b36acaf2edd981c.jpg",
-    "introduction": "重庆东温泉镇，一个镇字体现出这里是大自然的温泉恩赐，天然的地底浓郁的硫磺纯净的水质成熟的市场完全能满足各层次各人群的各种需要。",
-    "popularity": "16",
-    "recommendLevel": "4.0"
-  },
-  {
-    "name": "鸿恩寺森林公园",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c75c10385343fbf2e94e94cdb17eca8064388ff9.jpg",
-    "introduction": "洪恩寺公园是才建起来的吧，没有太多年的历史，平时是不要门票的，只有要举办花展的时候才需要门票，公园的景色还可以，所以人流量还是挺多的，游客可以乘坐公交车到这里，有个洪恩寺车站，以后还有轻轨会经过这里么，目前正处于规划之中。",
-    "popularity": "33",
-    "recommendLevel": "3.9"
-  },
-  {
-    "name": "梁实秋雅舍",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2fdda3cc7cd98d1086bdca78213fb80e7bec900a.jpg",
-    "introduction": "这个地方是中国著名的散文家、学者梁实秋先生在重庆北碚时的居所，因为梁实秋有本作品叫《雅舍遗珠》所以将其住所取名于此。在北碚城区内，看起很普通，但是有文艺范。北碚是重庆周边有名的温泉和避暑之地，因为对梁实秋不太了解，经过这处故居对其兴趣也不大。",
-    "popularity": "18",
-    "recommendLevel": "4.1"
-  },
-  {
-    "name": "龙水湖",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a9d3fd1f4134970ad107f16695cad1c8a7865d07.jpg",
-    "introduction": "想去，但是发现交通不便。没有到大足宝顶山那种到某地乘车，然后在某地换乘之类的明确标注。让人一头雾水，难不成市区去龙水湖只能自驾？",
-    "popularity": "24",
-    "recommendLevel": "3.6"
-  },
-  {
-    "name": "王二包自然保护区",
-    "pictureUrl": "//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faf2b2119313b07e00f1f9a40cd7912396dd8cca.jpg",
-    "introduction": "听这名儿就知道这地方是个足够野的去处，保护区最有特点的是那随处可见的长着红色果子的南方红豆杉，绿叶之间红得毫不掩饰，煞是可人。",
-    "popularity": "6",
-    "recommendLevel": "5.0"
-  }
-]
+{
+  "city": "重庆",
+  "spots": [
+    {
+      "name": "解放碑",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/adee30dd33c5afb58d1029d3.jpg",
+      "introduction": "重庆最繁荣的商务圈，最靓丽的风景是在马路边观望重庆美女。是美食集中地，附近的小吃街不错，酸辣粉超级好吃，火锅也很赞。有点商业性严重，道路狭窄，离朝天门洪崖洞都特别近。",
+      "popularity": "2699",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "洪崖洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31fa35c0235edf8db1cb137025.jpg",
+      "introduction": "大赞特赞洪崖洞，体验古重庆山城的魅力。很有特色的地方，看看江景也不错。灯光很漂亮，气势壮观。建筑风格很古朴，典型的山城建筑。夜色很美，美丽的吊脚楼。",
+      "popularity": "1853",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "磁器口",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/71cf3bc79f3df8dc6234b421cc11728b47102870.jpg",
+      "introduction": "磁器口历史文化底蕴丰厚，漫步其中很是惬意。有人很多，商业气息浓厚，特色小店也很多，有各类美食和小吃。推荐陈麻花，很有名气的特色一条街，而且里面的小吃不错。",
+      "popularity": "2350",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "朝天门",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0862c354eae14034d0090639.jpg",
+      "introduction": "朝天门地理位置好，是很开阔的一片广场。气势雄壮，特别繁华，视野比较开阔，而且一江清澈。这里相当美丽，坐在最上面吹吹江风感觉很好，适合发呆，但是不算好玩。",
+      "popularity": "1390",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "长江三峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b527d27ae56bc69908f9d56.jpg",
+      "introduction": "瞿塘峡、巫峡和西陵峡，四百里的险峻通道和三个动听的名字，容纳了无尽的旖旎风光。如一幅美丽的山水画卷，拥有沿途神奇美景。",
+      "popularity": "357",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "武隆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fc1f4134970a304e4e35df4cd0c8a786c9175c74.jpg",
+      "introduction": "美丽的武隆让人置身事外，芙蓉洞的钟乳石漂亮，天坑景观不错，而且空气很好，值得来看一看啊。",
+      "popularity": "683",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "黑山谷",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9a1151c2493b5059e4dd3b63.jpg",
+      "introduction": "景区还不错。溪水清澈，瀑布很漂亮，并且水很清凉。被专家誉为“渝黔生物基因库”，是目前重庆地区最大的、原始生态保护最为完好的自然生态风景区",
+      "popularity": "165",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "渣滓洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1a94b36e31e387b681cb4ab1.jpg",
+      "introduction": "本是一个渣多煤少的煤洞，后国民党特务在此设立了监狱。环境清幽，但是会让人印象深刻—对历史的冷漠和遗忘。",
+      "popularity": "740",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "小三峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/969cbf44a1e815e8b3b7dce3.jpg",
+      "introduction": "被称为“天下奇峡”，包括龙门峡、巴雾峡、滴翠峡，毗邻大三峡。小三峡的特色是秀美，巫山红叶很漂亮，而且小山峡绚丽的风光迷人让人留恋。",
+      "popularity": "385",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "大足石刻",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0ef21124c5129559c9955904.jpg",
+      "introduction": "大足石刻非常壮观，石刻很精美，艺术精湛，雕刻精美，而且古人的智慧真的博大精深,更佩服古人高超的智慧和工艺，而且保存的也比较完好。",
+      "popularity": "438",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "洋人街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cf0d513fc52df4fdd5401d0.jpg",
+      "introduction": "充满异域风情的步行街，老外聚集地，搞笑标语随处可见，厕所文化为一大特色。小吃多而不贵，更具特色。设施比较老旧，但是适合拍照，洋人满好玩的。",
+      "popularity": "1212",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "天生三桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1a20cf431adcbef433375b3acaf2edda3cc9f7b.jpg",
+      "introduction": "天生石桥气势磅礴，林森木秀、飞泉流瀑，是一处高品位的生态旅游区。张艺谋曾在这里拍摄了《满城尽带黄金甲》，是整部电影唯一的外景拍摄地点。",
+      "popularity": "369",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "芙蓉洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b0d4f0f35999a406159f368.jpg",
+      "introduction": "芙蓉洞被评为中国最美洞穴，也有很多经典的钟乳石，感慨大自然的鬼斧神工，而且那是我见过的最漂亮的溶洞了。",
+      "popularity": "246",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "白公馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1b930a2a758718bf6d.jpg",
+      "introduction": "是一处使后人缅怀英烈的革命遗迹，“小萝卜头”等人都曾囚禁于此。",
+      "popularity": "528",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "三峡博物馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d833c895d143ad4bc54dab8982025aafa40f0613.jpg",
+      "introduction": "三峡博物馆是展示重庆和三峡地区历史文化遗产与人类环境物证的公益性文化教育机构，是弘扬和培育民族精神的重要文化基础设施。展品很丰富，珍贵的老照片和文物。",
+      "popularity": "443",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "南山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5202e5f2c971477fb17ec56a.jpg",
+      "introduction": "南山风景区位于重庆长江南岸，北起铜锣峡，南至金竹沟，汪山、黄山、袁山、蒋山、岱山、老君山、文峰山等数十座山峰临江拔地而起，与涂山寺、老君洞、大佛寺等古建筑相映生辉，点缀着山城重庆分外妖娆。\n",
+      "popularity": "437",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "歌乐山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5d6034a85edf8db117ac8bb60923dd54574e7466.jpg",
+      "introduction": "以抗战时期的陪都遗迹和白公馆、渣滓洞监狱而享誉全国，素有“渝西第一峰”之美誉。",
+      "popularity": "331",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "白帝城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/034965f4ce7829b3f3d38531.jpg",
+      "introduction": "白帝城漂亮，到了高处能见到雄伟的夔门。风景还不错，是个不错的地方。门票价格便宜，景区开发的很好。猴子很多也好可爱",
+      "popularity": "166",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "四面山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f6428f8f380e8a90503d92ea.jpg",
+      "introduction": "众多溪流、湖泊、瀑布点染于苍山绿树之间，来四面山感受丹霞地貌。瀑布非常壮观，空气很好，而且景区景色很不错。",
+      "popularity": "112",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "金佛山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/86d5bac246f350710ff477fc.jpg",
+      "introduction": "空气非常好，服务满意。雪景很漂亮。风景秀丽、气候宜人，以其独特的自然风貌，品种繁多的珍稀动植物荣列国家重点风景名胜区和国家森林公园。",
+      "popularity": "247",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "人民大礼堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cbc17b388ca5454f96ddd844.jpg",
+      "introduction": "重庆市人民大礼堂宏伟壮观，雕梁画栋的雄伟建筑所吸引，而且感觉还是多有气派的。挺有特色，很是热闹。",
+      "popularity": "330",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "龚滩古镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29752a9bf11415dfc9eaf4bf.jpg",
+      "introduction": "居民很纯朴，在古镇小住的时光很难忘。风景很美丽，住在客栈，让人忘掉所有城市中的压力与烦恼。",
+      "popularity": "87",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "仙女山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4a36acaf2edda3cc46d1b39501e93901213f9249.jpg",
+      "introduction": "被誉为“东方瑞士”，有名的景观是南国罕见的林海雪原。",
+      "popularity": "409",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "歌乐山烈士陵园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/62667cd0b23f42e3a0ec9c8e.jpg",
+      "introduction": "歌乐山烈士陵园设在国民党“军统”特务重庆集中营(1939～1949)和“中美特种技术合作所”(1943～1946)的旧址、1949年“一一·二七” 政治大屠杀的发生地。",
+      "popularity": "210",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "永川野生动物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d8b8c92a0551f341d42af1d2.jpg",
+      "introduction": "真的不敢恭维，开着车转了一圈，平均每人一两百，结果只看到了一只狼、三只老虎还有一头熊和两只狮子，此外就是一群一群的非洲大羚羊了。",
+      "popularity": "161",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "鹅岭公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cb8065380cd79123b056e2d9ad345982b3b780ec.jpg",
+      "introduction": "重庆最早的私家园林，徜徉其中，尽享“山城第一景”。",
+      "popularity": "227",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "天赐温泉",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1bc8fb85418718bf20.jpg",
+      "introduction": "天赐温泉除了可以泡热汤之外还可以垂钓、品茶，更可品尝到难得的美食、小吃和烧烤。",
+      "popularity": "152",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "金刀峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a75fb6d30fa4ed6c960a1631.jpg",
+      "introduction": "金刀峡是一处保持着原始古老神奇的峡谷自然风景区，地势雄伟，以峡著称，以林见秀，以岩称奇，以水显幽。空气很清新，景区景观不错。",
+      "popularity": "173",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "丰都",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00a827013dbcf4647aec2c4a.jpg",
+      "introduction": "位于三峡腹地的旅游名城，以“鬼城”扬名海内外，被誉为东方“神曲之乡”。",
+      "popularity": "160",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "巫山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7d9893101a83726b203f2e71.jpg",
+      "introduction": "巫山作为渝东门户、三峡腹心，具有典型的喀斯特地貌，著名的“巫山云雨”与红叶节更为她平添了不少色彩。",
+      "popularity": "116",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "重庆湖广会馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9fcc3cec3fdfc03631c0df1d43f8794a4c22617.jpg",
+      "introduction": "整个古建筑群雕栏画栋，雕刻精美，是中国明清时期南方建筑艺术的代表，也是中国现存规模最大的古会馆建筑群。会馆建筑别具一格，感觉不错的古建筑。",
+      "popularity": "132",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "四川美院",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae51f3deb48f8c54acc3aad23b292df5e0fe7f3e.jpg",
+      "introduction": "四川美术学院是中国八大美院之一。老校区在黄桷坪，一个美丽的校园，不能错过的小清新地儿。校园不大，人少幽静，绿树成荫。各种有趣的雕塑和特色的建筑，处处充满了艺术气息。只有这样的一种感觉，为什么别人家的大学总是这么美！重庆轻轨2号线在杨家坪下车，转公交车在黄桷坪站或四川美院站下车，或在杨家坪打的过去，起步价就能到；进学校大门前，美院门口的街边房子满满的涂鸦墙，就知道美院到了。川美无门票，全天开放。",
+      "popularity": "113",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "海石公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4e0b3ea43c3aa5af9052eed7.jpg",
+      "introduction": "海石公园如今已是重庆人周末散心或野餐，平时散步的好去处。随处可见的石头没准哪一个就来自远古几亿年前。",
+      "popularity": "151",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "重庆动物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3f6cea28b16e4c1caefd0f4.jpg",
+      "introduction": "动物园位于重庆市九龙坡区杨家坪，交通很便利，轨道二号线直达。门票也很便宜，仅仅只要30元，可以说是性价比非常之高的了。动物园里面有很多的珍惜动物，很喜欢里面的大熊猫和猴子。里面的鹦鹉和孔雀的表演也非常的不错喔。动物园里面还有一些游乐设施呢，票价不贵，小朋友们进去的时候，可以去玩耍一下。动物园门口有很多小贩，他们有卖给动物吃的口粮哟，五块钱一袋，去玩的时候可以买几包进去，在里面喂食一下动物，是很不错的体验哟",
+      "popularity": "171",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "乌江画廊",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae82673105506575ebc4afd7.jpg",
+      "introduction": "今天的乌江百里画廊没有了纤夫的号子，没有了激流险滩，没有了水逼峡谷的力道，变得平稳和恬静，乌江平静，峡谷如黛，这温柔的调子让人舒缓却也止不住得哀叹。",
+      "popularity": "62",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "龙水峡地缝",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fbf203b66f6d224f4a21a4ddb6.jpg",
+      "introduction": "龙水峡地缝位于武隆县仙女山镇境内，是几千万年前的造山运动形成的，因与天生三桥孪生发育在龙水峡内，壁陡峡深，犹如地球上的一条裂缝而得名，是武隆境内又一岩溶地质奇观。",
+      "popularity": "140",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "涪陵大木花谷",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b89911adaca0f2442a7d9330e00.jpg",
+      "introduction": "其实此时去已经有些品种的花谢了，不过花还是很多很多，适合拍照，可惜离出城有点远，170+km,有一段盘山公路，所以从主城出发大概要开3个小时多一点~刚开始爸爸妈妈抱怨这么远去干什么，后来看见景倒也觉得还不错啦~",
+      "popularity": "76",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "茶山竹海",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c16fdfaaf51f3de3ea28b2d94eef01f3a297962.jpg",
+      "introduction": "茶山竹海，景如其名，是茶和竹的世界。门票30/40元，有淡季和旺季之分。从永川出发，客运中心有专线可以直接到达景区。电影《十面埋伏》的取景地点，吸引了很多游客前来感受电影所呈现的激烈氛围，这里还有三位主演的塑像，游客争相拍照留念。景区内有特色的餐饮场所，不过价格稍高。山脚下有很多出售纪念品和特产的店铺，可以带一点回去。",
+      "popularity": "66",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "缙云山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/08b68e5245163e640cf3e384.jpg",
+      "introduction": "夏天比较凉爽，风景也很好。缙云山景色宜人，植物资源丰富。山间白云缭绕，似雾非雾，似烟非烟，磅礴郁积，气象万千。早晚霞云，姹紫嫣红，五彩缤纷。",
+      "popularity": "154",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "桃花源",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0d338744ebf81a4c9bc95b7cd72a6059242da688.jpg",
+      "introduction": "酉阳桃花源是纯粹的自然风光。此地桃源文化、巴人文化、民族文化、土司文化、桃源风光于一体，已完全展示出隐逸古朴的和平田园风光。",
+      "popularity": "82",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "加勒比海水世界",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/77094b36acaf2edd3e51a6a08d1001e9380193d3.jpg",
+      "introduction": "20160724一行8人去游玩，4个小孩子，4个大人。坑爹的地方：1、门票138元，非常不值。2、进门不准带吃的，让你购买里面很贵的食品，检查包的妹妹象土匪，收到东西就变成她的了，态度很不好。3、柜子要租，25元，押金25元，共50元，租柜子的小妹妹极力劝你往租柜子的手环里充钱，好让你消费。居然要另租柜子，不在门票自带，一切以骗钱为目的。4、凉面16元 一碗，外面2元的肉串，进去要6元，东西超贵。5、租游泳圈去冲浪要50元，否则不让你去。 租浮艇：租金50押金50 6、许多项目要自己扛工具上去，几层楼那么高！7、很多卖防手机进水套的，妈的，一个塑料袋，居然要30元，完全就是在抢。",
+      "popularity": "45",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "瞿塘峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae10edde1f195e3895ee3720.jpg",
+      "introduction": "三峡中最短的峡谷，却最为雄伟险峻，它是一幅神奇的自然画卷和文化艺术走廊。",
+      "popularity": "76",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "重庆园博园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00e93901213fb80e8e46dc2c37d12f2eb83894b2.jpg",
+      "introduction": "重庆园博园是第八届中国（重庆）国际园林博览会的会址，位于重庆市北部新区鸳鸯镇龙景湖区域，总占地面积3300亩，其中水体面积800亩，是一个集自然景观和人文景观为一体的超大型城市公园。离市区很远，轻轨到园博园东门较近，交通还算便利。园区很大，适合电瓶车加步行的方式。纯粹走路游玩，需要留后五六个小时。门票20元，网上订购18元。第一次看到这么多园林相当地震撼，只是自己时间没有规划好。",
+      "popularity": "112",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "阿依河",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/29790130dd666af5a9018e94.jpg",
+      "introduction": "阿依河其峡深谷高，河床狭窄，礁石遍布，河水清幽而景色绝美，人行其中或泛舟江上有若陶渊明误入桃花源。",
+      "popularity": "35",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "好吃街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034ffc4a87d6aec379310b551d5e.jpg",
+      "introduction": "解放碑这里的八一路好吃街，适合外地游客过来尝试重庆的味道。好又来酸辣粉算是比较出名的，还有愚小面，开心猫，钵钵鸡，都还不错。抄手也是重庆一大特色，骨汤的话就不辣，可以用来缓解下。一只酸奶牛重庆到处是，紫米酸奶挺好喝的。",
+      "popularity": "157",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "南山植物园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82d1e36b3b6c81800a18d843fb.jpg",
+      "introduction": "优雅而清幽，远离喧嚣与繁杂；它山峦起伏，环秀而不失端庄；它树林阴翳、花草争芳，更可称为秀丽。植物种类丰富，粉色樱花确实很美，而且服务很好。",
+      "popularity": "85",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "石柱黄水森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3853ad1b91252c758718bf46.jpg",
+      "introduction": "其实照片上是张家界，黄水，那可没有这么美丽，不过夏天去玩，还是非常不错的，冬天就要去了，那里下雪后，就没有什么玩的了。\n这里有一种出口到日本等国的菜，全世界，只有很少地方有的，叫什么菜一下忘了，去了一定要记得吃哦，非常棒，这里还是中国的黄莲之乡，去了不要忘记买点回去哦。",
+      "popularity": "31",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "万州大瀑布",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b14ad19f996622942a9ad64.jpg",
+      "introduction": "运气好的话，青龙瀑布会用她的招牌菜——七彩虹霓来迎接你，你需要的是一点点耐心，和分心——别只顾着听那摄人心魂的水声哦！",
+      "popularity": "1038",
+      "recommendLevel": "4.6"
+    },
+    {
+      "name": "宋庆龄故居",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/83025aafa40f4bfb040b581d034f78f0f63618a4.jpg",
+      "introduction": "由保卫中国同盟总部旧址改建而成，是难得的抗战遗存，记载了宋庆龄的生平及在这栋小房的种种经历，还专门在楼外空地树了一尊汉白玉像来纪念伟人",
+      "popularity": "97",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "奉节天坑地缝",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dbb44aed2e738bd449c49085a18b87d6267ff999.jpg",
+      "introduction": "景色不错，非常美丽的景点。感叹大自然的鬼斧神工，很壮观的大坑，能看到不可思议的绝佳的景色。",
+      "popularity": "38",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "金源方特科幻公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d53f8794a4c27d1e1443028d1bd5ad6eddc43815.jpg",
+      "introduction": "公园很好玩，过山车很刺激。4D科幻公园里风景很好，可以在网上买票实惠。园区内绿树成荫，繁花似锦，有餐饮、购物等配套设施。能够满足于各种类型的旅游团体及家庭旅游的度假需求。",
+      "popularity": "46",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "张飞庙",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/dbf554ed0b595db8b31cb1bc.jpg",
+      "introduction": "此庙建于三国时期，依山取势，殿宇恢弘，朱楼碧瓦与江流相一招，背靠葱郁的凤凰山和琵琶山，没有武将的霸气，却更多文藻的秀丽。",
+      "popularity": "91",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "钓鱼城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c28fddfd19f34029d7887dfa.jpg",
+      "introduction": "五一人太多了，在路上堵了四个小时才到，本来应该只用一个小时的，在合川，当时说是重庆不得不去的地方，但是我感觉也就一般般，一个普通的小城，不过那里的全鱼宴不错，都是活鱼，吃的很好吃，汤很好喝，他们叫“水疯子”，吃的鱼，他们叫“母猪壳”",
+      "popularity": "69",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "重庆朝天门两江夜游",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0b46f21fbe096b635ae3f2a80d338744eaf8ac54.jpg",
+      "introduction": "都说重庆夜景很漂亮，我们也去看看，白天奔波了一天，晚上吃完饭去坐船感受重庆的魅力，确实很不错。在这里提醒大家，我们白天的时候也是被面的司机拉去一个专门卖船票的地方，一张票好像要188还是180（金碧皇宫），我果断拉着老公出来了，结果站在马路边用手机找酒店的时候，那卖票人员追出来说一张100，我还是没要，然后打面的去酒店的时候，面的师傅说我们6个人每人60还负责把我们从酒店送到码头，留了电话，下午吃完饭直接给师傅打电话，最后的价钱是6个人一共300包括酒店送码头。就是想跟大家说，多打听打听或许能省很多钱，O(∩_∩)O哈哈~",
+      "popularity": "191",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "十八梯",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a6efce1b9d16fdfa19f92aa7b48f8c5495ee7be6.jpg",
+      "introduction": "非常可惜的一件事，十八梯已经在拆迁。一直听别人说十八梯是重庆的灵魂，象征着真正的山城老重庆，所以慕名而来，却只看到断壁残垣，以及散发阵阵异味的墙体，同伴还笑称这简直像个贫民窟。十八梯，背后是高楼大厦，它却逐渐走向衰败，成为别人脑中的一段回忆，令人不禁唏嘘。默默地走完整条道路，然后不让自己的这场旅行留下遗憾。",
+      "popularity": "329",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "重庆科技馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7acb0a46f21fbe095096ffe16a600c338644ad7e.jpg",
+      "introduction": "科技馆是一个很有趣的地方，不只是小孩，大人也可以从里面学到很多。不过好玩的游戏总那么多人排队，带上小朋友去真的很有意义。",
+      "popularity": "66",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "巫峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4d497006240dd81703088122.jpg",
+      "introduction": "巫峡以“秀”著称，是三峡中最精彩之段，峡谷幽深、奇峰突兀、怪石嶙峋，宛如一条迂回曲折的画廊，充满着诗情画意。",
+      "popularity": "93",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "石宝寨",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caef76094b36acaf871a6eb67cd98d1000e99c86.jpg",
+      "introduction": "从宜昌到重庆乘坐游轮游三峡的最后一天上午去了石宝寨，差不多是游三峡的一个标配景点，3、4天的行程里，每天2个景点，分上午和下午游览，一个自费，一个免费，而石宝寨就属于免费景点，包括在船费中的。石宝寨位于重庆市忠县境内长江北岸，因此地临江处有一块十多丈高的巨石，明代谭宏起义曾占据此处以为山寨而得名。门票50元，还是国家4A级景区，不得不说算是比较坑爹的景区了，不是看湖光山色的风景，而是依山而建的九层木结构建筑，游览过程就是一直爬完9层楼梯，一层层的观景，看看庙里制作粗糙的泥菩萨，即使听了导游的讲解也提不起多大兴趣，景区到处都是购物点，实在不知道都是卖给谁的。",
+      "popularity": "58",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "黔江小南海",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce16fc4b7f74962b4379.jpg",
+      "introduction": "扁舟渔影，绿女红男，穿梭于碧波之上；鸥鹭齐飞，鳞光荡漾，闪烁于海天之间。春夏秋冬，各有奇观；晨昏晴雨，幻化无穷。\n",
+      "popularity": "28",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "长寿湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4b90f603738da9778594f9d8b151f8198718e38e.jpg",
+      "introduction": "长寿湖位于长寿之乡，重庆长寿。交通很便利，现在重庆到长寿是有动车的，大大的缩短了乘客从重庆到长寿的时间，长寿的公路也是四通八达，十分的方便。长寿湖非常之大，景色也是比较漂亮的，是重庆市最大的湖泊旅游风景区。湖中岛屿林木青翠，建有多处园林景点。坝东仿古亭上有周恩来、李富春等同志题词的牌匾。而且长寿古镇现在已经建成了，并且经常都在举办活动，所以说长寿湖的可玩性是非常之高的 。",
+      "popularity": "52",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "重庆花卉园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a4462368ca4a2b9822720e0cf3d773.jpg",
+      "introduction": "气候温和，雨量充沛，无霜期长，土地肥沃。",
+      "popularity": "108",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "黄山蒋介石官邸",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/f15e242982d7339299250ab4.jpg",
+      "introduction": "蒋介石本人也曾说过，“本人自出生以来，除家乡以外，没有其他地方比重庆算得是我第二故乡”，而黄山官邸则是蒋介石两遇生死劫的地方。",
+      "popularity": "34",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "华岩寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c28fddfd18244129d6887db1.jpg",
+      "introduction": "华岩寺——重庆名刹，位于重庆市九龙坡区华岩乡大老山，因寺南侧有华岩洞而得名。该寺始建年代无史可考。华岩寺高百丈，形状像笏，寺内外松竹修茂，十分幽邃，有天池夜月、万岭松涛等八景；华岩寺分大寺、小寺。从城区到华岩寺有425,428等多路公交车直达比较方便，目前景区已经实行免费开放。",
+      "popularity": "59",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "丰都鬼城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a71ea8d3fd1f4134c79d54ca251f95cad0c85edf.jpg",
+      "introduction": "门票比较贵。大部分基本上都是人造景点，但鬼城还是挺好玩的。景点比较少，就是天气太热了。",
+      "popularity": "99",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "卫星湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7c5fcc1b1cf8b68dad6e75c1.jpg",
+      "introduction": "黄瓜山麓的卫星湖，湖面狭长，两岸曲折，栽种着成片油菜花和桃花。",
+      "popularity": "116",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "神龙峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21b70b74f16ac6eddc450da3fc2.jpg",
+      "introduction": "上山还是晴空万里的。风景还是可以，漂流的水质也还是可以，只是我漂的时候才下完暴雨，所以水质不是很好，缺点就是人太多了，排队排惨了，然后天公不作美啊！尖叫指数5颗星，全程人工的险滩啊！PS:如果不抓紧会被甩出去或者翻船，我们漂的时候有一个小孩因为太冷没抓好，被甩到河道里了，救生员把他捞出来后抖个不停，吓的哭啊！所以建议一定要戴帽子一定要穿救生衣，一定一定！建议一定带伞或者雨衣，出太阳挡太阳下雨遮雨！",
+      "popularity": "39",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "雪玉洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/42166d224f4a20a494d0617390529822730ed0bc.jpg",
+      "introduction": "大自然在这里尽情发挥了她的雕刻技巧，一个个造型奇特的鹅管、钟乳石、石笋、石柱、石旗和世界第一的塔珊瑚花群，把雪玉洞装备成了“白玉雕琢玲珑界”。",
+      "popularity": "27",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "洪安古镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e850352ac65c1038606fd56cb2119313b07e890e.jpg",
+      "introduction": "读过《边城》的人，都会对洪安这一“边城”的原型有所期待。走入洪安，沿着《边城》的线索，感受古镇的自然美，与古镇人民淳朴的感情。",
+      "popularity": "30",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "青龙湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/10dfa9ec8a1363277d16fb7a918fa0ec09fac7fb.jpg",
+      "introduction": "前几天去了，感觉 不错，不过这个主图上的不是青龙湖吧，青龙湖不是很大，但是胜在青幽。在交通方面，我们是自驾游，延途看去的话，交通还是不怎么便利，要想去，那还得找车，您如果是自己去，那么就需要在壁山包车吧。不过离城区也不是很远。",
+      "popularity": "21",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "巴渝民俗文化村",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9c57e3fa60085f86b48f3197.jpg",
+      "introduction": "村内有一馆、四院、一庙、一牌坊，陈列民俗特色木雕及民间工艺品，体现巴渝文化特色。",
+      "popularity": "137",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "统景温泉",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3801213fb80e7bec2adacb362b2eb9389a506be1.jpg",
+      "introduction": "交通很便捷，有特色的鱼疗温泉，服务也不错，水质很好，地方很大，但是池子太少，景区环境优美，农家乐很实惠。",
+      "popularity": "21",
+      "recommendLevel": "3.5"
+    },
+    {
+      "name": "曾家岩50号",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc506c8b9b026f7ec8fc7aa4.jpg",
+      "introduction": "曾家岩50号位于重庆市渝中区中山四路，为便于工作，周恩来同志以个人名义租赁这幢房子，作为中共南方局在市内的一个主要办公地点。",
+      "popularity": "53",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "东溪",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/00a827013ac4f5647aec2cc2.jpg",
+      "introduction": "这座有着1300多年历史的古镇，依傍在东丁河、福林河和綦江交界的地方，3000多年的黄葛树群守护着小桥流水人家，不变的吊脚楼民居和自然风光各自美着。",
+      "popularity": "14",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "涞滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/ae82673169a43173eac4aff9.jpg",
+      "introduction": "别人一说起涞滩必是那张仅存的瓮城的照片，为了不落入俗套，我这里选取了涞园的一张照片。我是2013年去的，在古镇上住了一个晚上，当天晚上雷电交加，把电都整停了。而且最遗憾的是二佛寺正在维修，没能进去参观，虽然我不是佛教徒，但并不代表我不能欣赏。值得一说的是那个涞园，据说是当时一位富豪建的，占地极广，而且修建得不错，整个园区非常的静，要是一个人的话还会感到害怕。在重庆的古镇中值得推荐。",
+      "popularity": "34",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "渝北碧津公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce16ced7a941962b43e9.jpg",
+      "introduction": "是民众休闲放松的不二选择，周围都是居民区，里边有儿童游乐园和老年人活动场所。去的时候一整天都在下雨，雾蒙蒙的，可以说别是一番趣味，但游人依旧不断。湖边的路是白色鹅卵石铺的，下雨的时候不免会有些湿滑，一路过来走的很小心，那个塔可以爬上去，要交三块钱。用来放松可以考虑，当作景点的话，还是欠缺了点，不过是免费的，周末没事的时候随便走走呗。",
+      "popularity": "39",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "罗汉寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b89404809ca0f2442a7d9330e56.jpg",
+      "introduction": "全国汉族地区重点佛教寺庙之一，重庆市佛教协会设于此。",
+      "popularity": "81",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "重庆市游乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b9120935c50dc2fdfc0393452248.jpg",
+      "introduction": "长江大桥桥头，因为会展中心修建被挖去了大半面积，现在面积很小。2017年底标志性的摩天轮也停运了。",
+      "popularity": "65",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "老君洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31d3ec3fd15edf8db1ca1370c1.jpg",
+      "introduction": "上周去的老君洞，位于重庆市南岸区南山，与著名景点一棵树毗邻，是重庆著名的道教旅游景点。可惜这次去的时候正在大修，从一棵树旁边进不了，是从黄桷桠街上一条小巷进的。景色不错，可远眺长江，渝中半岛美景尽收眼帘。",
+      "popularity": "51",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "天主教若瑟堂",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31d3b13fd15edf8db1ca13708e.jpg",
+      "introduction": "天主教若瑟堂距离解放碑商圈非常近，位于民生路若瑟堂巷1号，七星岗苏宁电器的对面，乘401、413、418等路在七星岗下车步行可到。只是现在被周围的高建筑遮挡不少，不太好找，把百度地图导航开起很准。天主教若瑟堂是一座哥特式建筑教堂，很有老重庆的味道，外墙长满爬山虎，文艺范十足。若瑟堂内正中有彩塑耶稣、圣母、若瑟像，两壁有十四耶稣苦修油画像，里面的钟楼超古老了，窗户非常漂亮。作为重庆最大的天主教堂，建议在解放碑商圈闲逛时可顺道去看看哦。",
+      "popularity": "40",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "红岩魂广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8694a4c27d1ed21bf6ecc0acad6eddc451da3f56.jpg",
+      "introduction": "广场有两大主题区域，一是瞻仰区域，有红色花岗石英雄烈士雕像，威武英烈，浩气长存，用艺术手法再现了革命的英雄气概。二是纪念区域，有烈士诗文石碑和大型壁画。广场环境幽静、庄严，免费游览，是进行爱国主义教育的好地方。（2001年9月）",
+      "popularity": "62",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "三峡广场",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7aec54e736d12f2eaf09f0834ec2d562843568c0.jpg",
+      "introduction": "三峡广场就是沙坪坝区的步行街了，坐地铁1号线在沙坪坝站下车就可以了，当然到这里的公交车也很多。其实重庆主城每个区都有自己的商业步行街，比如渝中区的解放碑、江北区的观音桥等等，和其他的商业步行街相比，三峡广场占地面积不是最大的，但是是最有活力了，因为大学城就在沙坪坝区，重师老校区就在三峡广场旁边，重庆大学ABC三个校区离着三峡广场也就几站路，所以来三峡广场的大学生非常多。因为人很多，所以也要注意自己的财物，小心扒手！晚上广场有时会有卖花的小姑娘，看见情侣之类的，就会上前缠着你买花，反正第一次和几个同学到三峡广场，就留下了男同学被追着满广场买花的印象...三峡广场上商场百货、大型超市、酒店宾馆、餐馆、电影院等设施都是很齐全的。",
+      "popularity": "80",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "狮子峰",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1a20cf431adcbef654a2bb2acaf2edda3cc9f03.jpg",
+      "introduction": "站在峰顶眺望，但见缙云山茫茫林海，墨绿苍翠，让人体会到无尽江山胜，都归一览中。",
+      "popularity": "47",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "照母山森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/574e9258d109b3deabcbbf8bcdbf6c81810a4cd8.jpg",
+      "introduction": "因为白天受前一晚上酒后的影响 有点头晕目炫犯恶心 所以几乎没有走路 晚上吃完饭 朋友带着在酒店附近的这里溜溜弯 爬爬山 远看郁郁葱葱的树林 灯光忽闪忽闪的 明亮的塔矗立在这一片绿丛中离酒店很近 这边一个陶然古镇 朋友说这个古镇是吃饭的地方 好吧不是很高 没多会儿就爬上来了 月朗星稀 台阶边上没有护栏 看着危险尤其下来的时候 挂在树上错落有致的灯都是一亮一灭的 盯的久了眼睛不舒服登顶后看夜景 并不是很美 可能不是繁华地带的原因吧貌似可以开车过来 有条这种平滑的路一直伴随着我我们",
+      "popularity": "28",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "重庆大剧院",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/e61190ef76c6a7efd014f0dbfcfaaf51f3de6618.jpg",
+      "introduction": "重庆大剧院是全国第四大剧院，真正的高大上，不过这外形，这颜色，重型装甲？要不变形给哥看一个，哎呦，这也忒艺术抽象了吧。大剧院在朝天门对面，所以江边有一段城墙，不过能摸出来是仿造的，原先城墙早不在了，只是在原城墙遗址上修一个。江边是大片的芦苇，可以下去玩，遇到一家人在那钓鱼，蛮有情趣的，两个小孩也是HAPPY的很。上来的时候被一只小狗跟踪，我一回头它就往后躲，难道它也是猴子请来的逗逼？",
+      "popularity": "46",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "天福官驿",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9922720e0cf3d7ca91d85cbff31fbe096a63a9c9.jpg",
+      "introduction": "每一个去武隆游玩过的人大概都会拍一张这样的照片吧。其实在此之前我都没有观看过满城尽带黄金甲这部电影，所以也没有刻意去观察过这个景点。但是当真正到临的时候，才会体会到当时导演取景时的煞费苦心，这样的绝世之地也能被找出来。",
+      "popularity": "90",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "奈何桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caae6809c5ab7ec32fddd42f.jpg",
+      "introduction": "说是只能走中间的桥，哥来回三个桥都走了，因为哥是鬼节出生的，回自已家还要讲究什么",
+      "popularity": "30",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "山城步道",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c8177f3e6709c93d36124c279e3df8dcd0005479.jpg",
+      "introduction": "去了第一和第三步道。第一步道是从朝天门下船后溜达着无意发现的，就在湖广会馆旁边，是条很安静的巷子，另一头离小什字地铁站比较近，而且还会路过著名的花市豌杂小面，据说是重庆前5强哦！第三步道是许多攻略上会推荐的，有很多民国时候的记忆，重庆还把第三步道做了规划，从头走到位的话会很长，我们是从通远门往下走的，一路下坡会省力些，建议大家也是这个方向走，不然上坡会很累的。第三步道的惊喜就是悬空栈道一段，至于其他民国遗址有些失望。",
+      "popularity": "42",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "芙蓉江",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8cb1cb1349540923c4ecdedb9258d109b2de4989.jpg",
+      "introduction": "芙蓉江风景名胜区景色既瑰丽又壮观，秀水碧波，丝竹垂吊江边，古树如虬参天，时而水平如明镜鱼翔浅底，时而滩急似银河猴跃群山，古人对其有“一川游尽画图中”的评价。",
+      "popularity": "67",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "西陵峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/aa251d4f775f255aaec3ab39.jpg",
+      "introduction": "在湖北省内，是长江三峡中最长的峡谷，全长约120公里。西陵峡西起香溪口，东止南津关，因岸边的西陵山而得名。西陵峡也是自然风光最美的峡谷，可谓大峡套小峡、三峡最险处，文人墨客盛赞“西陵山水天下佳”。主要景点有牛肝马肺峡、灯影峡、黄牛峡、兵书宝剑峡、白狗峡、崆岭峡等。现在三峡大坝蓄水后，奇险风光与悠久的人文历史让人流连忘返。西陵峡口的风光不坐船就可以欣赏，从宜昌市坐10路公交车就到。（2001年9月）",
+      "popularity": "49",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "龙缸地质公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31c910306a5fdf8db1ca1370f6.jpg",
+      "introduction": "公园主要景观类型包括以龙缸岩溶天坑为主的岩溶类和以石笋峡、南三峡、黄陵峡为代表的流水地貌类，同时兼顾草场生物景观和具有浓郁土家风情的人文景观。",
+      "popularity": "25",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "张关水溶洞",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/7ab514d13df8438b572c84df.jpg",
+      "introduction": "这里也叫张关旅游风景区，景区很大，景点也还算丰富，果然不愧为天然地质博物馆的美誉，最喜欢的是在地下长河泛舟，可以欣赏美轮美奂的水溶洞，还有地下河漂流，让人仿佛身临鬼吹灯盗墓笔记里面的场景，感觉非常刺激。",
+      "popularity": "14",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "红岩村革命纪念馆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d0526df0853089c3a40f52bb.jpg",
+      "introduction": "红岩村是重庆市渝中区江边的一个村庄。抗日战争时期这里曾是革命的根据地，形成了坚定理想信念、不畏艰辛、勇于开拓、团结奋进的“红岩精神”。为了弘扬“红岩精神”，解放后在这里建立了纪念馆。“红岩精神”也是新时期实现“中国梦”的伟大精神力量。（2001年9月）",
+      "popularity": "48",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "南山一棵树观景园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b82b9014a90f60339d413aa3812b31bb151edf3.jpg",
+      "introduction": "是来渝宾客观赏山城夜景的一大佳点，可以日观市容市貌，夜览山城夜景。 由于地理位置的优越，现代的灯饰艺术的华彩，站在视野开阔的一棵树观景台，是一种美的享受。",
+      "popularity": "124",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "816地下核工程",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fd039245d688d43f13e49e087c1ed21b0ff43bfe.jpg",
+      "introduction": "对建筑学感兴趣的不妨参观一下～这里的设施结构颇有一番讲究～排水～通风～运输等都一应俱全～还是挺震撼的～就是我们小时候的防空洞，很多人都参加了“三线”建设，至今都留在了那里，无法返城。这里不要错过，号称是世界第一大人工洞体，确实非常震撼的感觉，整个山体基本都挖空了，这要耗费多少人力啊。",
+      "popularity": "27",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "朝天门大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c816936d905bd3eb13532fa40de.jpg",
+      "introduction": "重庆是山城更是江城，山高水长桥也多，最著名的就是横跨长江的朝天门大桥，号称“世界第一拱桥”，重庆的标志性建筑。朝天门大桥连接解放碑、江北城、弹子石三大中央商务区。大桥上层是机动车道，行人可经两侧人行道上桥，下层则是双向地铁轨道。大桥的夜景很不错，虽说是朝天门大桥，但是到朝天门还是有段距离的，其实重庆的夜景美就美在渝中区看江，最佳观景方式是乘坐朝天门两江夜游游轮，推荐网上预定，多种套餐可选择，航程约20公里，时间约1小时，途中就能经过朝天门大桥，还能看到洪崖洞、重庆大剧院以及沿江鳞次栉比的摩天大楼，层层叠叠的灯光映照在江水中非常不错。",
+      "popularity": "82",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "璧山湿地公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9213b07eca8065383e88a4fc96dda144ac3482fa.jpg",
+      "introduction": "又名“观音塘湿地公园”，初次去真的有令人经验的感觉，绿树红花相印成趣，有状元桥，古楼等，一座不小的湖，很多亭子，设计得比较合理，还有化石墙",
+      "popularity": "24",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "卧龙沟",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/647912d7116a42b1a144df93.jpg",
+      "introduction": "夹峙着两岸绝壁馋岩，沟内藤蔓悬垂，充满原始野趣。",
+      "popularity": "16",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "慈云寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/3bf33a87e950352a9e0717415343fbf2b2118b10.jpg",
+      "introduction": "城区里的寺庙，闹中求静。在第三军医大学读研究生时基础部的一帮做分子生物实验人做不出结果经常去烧香，所说很灵。[微笑]",
+      "popularity": "28",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "阿蓬江",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d1160924ab18972b3e22c383e6cd7b899e510a5b.jpg",
+      "introduction": "土家吊脚楼，是土家人的智慧创造，倚山就势，依靠乌江阿蓬江而建。高悬地面既通风干燥，又能防毒蛇、野兽，楼板下还可放杂物。",
+      "popularity": "11",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "涂鸦一条街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/279759ee3d6d55fbf254b7e56c224f4a21a4dd67.jpg",
+      "introduction": "中国八大美院之一的四川美术学院打造的艺术高地。",
+      "popularity": "80",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "铁山坪森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c995d143ad4bd1130696f5d15bafa40f4afb05fd.jpg",
+      "introduction": "很大的公园，会迷路的，希望路标多一点指示清楚一点。",
+      "popularity": "18",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "圣灯山森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5327ce1610fd1b40962b4316.jpg",
+      "introduction": "2016年12月10日游圣灯山     高阶上矗立的牌坊——圣山灵境，是谁的芊芊玉手拈花而笑，笑魇如花终是抵不过岁月的抹杀，迎客松八百年的屹立最终没有挡住狂风的肆虐，中空的树干上是谁为它挂上了墓志铭——卒于2016年5月。    时间用苔癣在石阶上刻画了重重的印记，那一泓汩汩的山泉汇成一口井。清风徐来，夹道而立的山茶树又盛开了白色的花，送来清浅的香气，沁人心脾。顺舍身岩上的铁索攀爬向上，若有了目标自然会忘记害怕。白蛇修道还必将忍住剧痛脱壳成仙，愿此磨难之后祛病消灾一马平川。想爱不能爱的仙女牧童只能化身古松，相伴了快千年成为传奇，树根在地底下缠了又缠任谁也别想再分开。",
+      "popularity": "19",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "三峡古玩城",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf49c1d081b77094b36adaf9961.jpg",
+      "introduction": "从大礼堂逛完以后可以顺道过来看看，这里的东西很多，各色的古玩、珍藏应有尽有。个人觉得随便看看、长长见识没问题，但不要轻易成交，因为这里的东西毕竟是良莠不齐的。古董不是一般人可以买的，万一买到假货就要捶胸顿足了，有眼力的人可以去淘宝。",
+      "popularity": "32",
+      "recommendLevel": "3.4"
+    },
+    {
+      "name": "綦江古剑山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/960a304e251f95ca29c21848c8177f3e6709521d.jpg",
+      "introduction": "下雨后去的，空气清新，山上云雾缭绕，增添了古剑山的神秘，现在还在修建中，全是原始风景，非常美丽，还会再去！",
+      "popularity": "11",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "雨台山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/4afbfbedab64034fc957b489aec379310b551da2.jpg",
+      "introduction": "之前都听说过雨台山具体玩的不多，所以去之前也没有抱太大好玩的希望，只觉得中秋没事做要出去玩玩，到了雨台山，我们去爬了山，划了竹筏，总的感觉还可以，回来的时候直接走下来坐的公交车，我觉得也不远，还是挺好玩的，心情很舒畅！",
+      "popularity": "15",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "胜天湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1b4c510fd9f9d72ac7988da9d42a2834359bbb82.jpg",
+      "introduction": "胜天湖在重庆北碚区，从偏岩古镇在往前走一段路就到了胜天湖了。胜天湖是一个非常美非常原生态的湖。胜天湖的水质异常的清澈，总体呈现出深绿色，用手舀起来感觉非常的清凉非常的干净。去胜天湖一定要去乘坐游船，通过船来感受胜天湖的美最淋漓尽致。胜天湖当然也有步行道，通过步行感受胜天湖也是不错的选择，最好体力好。由于胜天湖的水质异常的清澈，所以去胜天湖游泳的人特别多。如果各位大大准备去游泳的，最好是做好安全保障措施，毕竟游泳诚可贵，生命价更高。胜天湖是一个值得一去的地方！",
+      "popularity": "20",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "宝顶石刻",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8601a18b87d6277ff23aad8c28381f30e924fc5e.jpg",
+      "introduction": "这是同我国4大石窟齐名的石刻区，宝顶山石刻也是大足石刻的核心景区。里面集儒释道的故事于一体，非常精彩。石刻时间大约在宋代，比四大石窟要晚，但是保存的相当好。建议找一个导游讲解，景区门口有很多，选一个漂亮点的，普通话好点的就行，反正都是背的。现在都是用的导览器听讲解，你也蹭不到。因为重新修葺过，进入景区的路很长，可以做电瓶车，这个挺坑的，就是变相赚钱，走路的话，要20分钟左右。景区里面不大，不听讲解，估计20分钟就看完了。跟导游走大约1个半小时。除了石刻，景区内还有圣寿寺和大足石刻博物馆，有兴趣的朋友们也可以顺道看看。",
+      "popularity": "49",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "大垭口森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/80cb39dbb6fd5266918a92b8ab18972bd50736fc.jpg",
+      "introduction": "公园内山势绵延，岩陡壑深，山泉甘冽，遍布多种松树和竹子科植物，绿得层次分明。",
+      "popularity": "27",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "北温泉",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/fcbbb151599966e38c543091.jpg",
+      "introduction": "这些叫好的怎么说你们呢？我生为北碚人最有发言权，以前10元的温泉现在被柏联酒店把整个景区封锁承包了，景区都不让人进去了，平时298，周末398的露天大池收费堪称全重庆最贵温泉，然后里面的酒店住宿一晚上收费多少，大家可以去酒店网站上搜柏联温泉酒店的房价，免得说我黑他们，消费跟当地完全不是一个重量级，具体提供给哪些权贵消费的，大家自己想想就知道了。",
+      "popularity": "23",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "重庆铁山坪",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b17eca8065380cd702bf41a4a144ad34588281d2.jpg",
+      "introduction": "作为国家4A级旅游景区和重庆十大新名片之一，目前除了交通不太方便以外（813和817从建新东路出发，还有一班车貌似是从龙头寺出发），景点什么都很有特色，算是精心打造的森林公园了。等到2017年的样子轻轨修过去肯定会方便很多，的确是一个休闲养生的好地方",
+      "popularity": "37",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "大足",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f0e3774fe07b310a55b3191ca0.jpg",
+      "introduction": "大足区位于重庆市西郊，以大足石刻为代表的旅游区文化底蕴深厚，被誉为中国优秀旅游城区。",
+      "popularity": "52",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "濯水古镇",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9d82d158ccbf6c81152c0d0dbd3eb13533fa403f.jpg",
+      "introduction": "濯水古镇位于重庆黔江县的阿蓬江畔，与江南水乡的古镇相比，这里的古镇依傍于清澈的江边，依托于起伏的山势，更显得出世脱俗，比江南的水乡古镇多了一份空灵的感觉。而且这里还是以原住民为主的居住其间，更有一些本来的味道。。。",
+      "popularity": "13",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "重庆天地",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/5882b2b7d0a20cf411739b2277094b36adaf996f.jpg",
+      "introduction": "看夜景没必要去这里！吃重庆小吃没必要去这里！北上广深来的人没必要去这里！其他朋友看完红岩村顺道看二十分钟可以，一杯茶这里卖七十元一杯，重庆其它景点十元你自己算帐。晚上这里拍张照片勉强。有中国大妈在哪里锻炼",
+      "popularity": "152",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "印象武隆",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/503d269759ee3d6dccac283342166d224e4adee4.jpg",
+      "introduction": "印象“铁三角”张艺谋任艺术顾问，王潮歌、樊跃任总导演，和其他“印象”系列一样，也是走的实景、大气的路线，整个舞台以一整片山坡石壁作为背景，以一片峡谷盆地作为主舞台，展现武隆山区的人文风情，已经几近消失的“川江号子”也会在舞台上响起。整场演出的声光效果一级棒。",
+      "popularity": "34",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "双桂山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d043ad4bd11373f00b313f2ba40f4bfbfbed0473.jpg",
+      "introduction": "丰都县旅游资源以自然景观和人文景观为主，主要有丰都名山（国家级风景名胜区）、双桂山（国家级森林公园）、鬼国神宫（中国最大的动态人文景观）、鬼王石刻（中国最大摩岩石刻造像）等著名景观。是一座可玩性非常高的城市。",
+      "popularity": "19",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "神女峰",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/9358d109b3de9c82263f7c3b6c81800a19d84328.jpg",
+      "introduction": "昨天晚上，我们偷渡到了青石，顺利进入重庆境内。晚上住在传说中的神女苑，主人是宋清贵（电话13896347508），看了她全家人和汪洋的合影。在神女苑对面便是秀丽的神女峰。宋嫂介绍，请向导费用大概是200-300元。围着炭火，我们讨论了很久，不知道这个费用是不是必须花。有的队友认为山路曲折，安全第一，上山之前需要完备的线路和方案；有的认为天气晴好，山上有人家，重在体验新奇，请向导反而败兴。两方唇枪舌剑，互不相让，甚至有隐隐分裂的前兆。不过在我看来，这不是一个",
+      "popularity": "25",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "太白岩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faedab64034f78f094cd3d8178310a55b2191cf9.jpg",
+      "introduction": "既然名曰“太白”，自然是不能跟李白脱离了关系的，传说这里是李白曾经读书的地方。孕育了这样一位诗仙的地方，自然也是飘逸绝尘的。",
+      "popularity": "17",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "老舍旧居",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/91ef76c6a7efce1b780c557eaf51f3deb48f655b.jpg",
+      "introduction": "重庆因为是抗战的陪都，境内的名人旧居遗迹也多。抗战八年流离，老舍在重庆北碚居住时间最长，其居住的旧居在北碚天生新村61号区委机关大院里，一幢砖木结构的二层楼房，外墙灰白色相间，园内绿化不错，我们是结束了缙云山的旅程后前往的，现在辟为老舍纪念馆，里面主要是老舍各类照和用过的实物，游人不多，很清静。",
+      "popularity": "26",
+      "recommendLevel": "3.7"
+    },
+    {
+      "name": "巴蜀古文化中心",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/cc11728b4710b91277e1cab7c3fdfc0392452252.jpg",
+      "introduction": "图片乱整，上图为大礼堂的，谁乱上图。至于那个片，说实在的，感觉没有多少味道，虽然曾经也共了大力量去开发。",
+      "popularity": "33",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "北山石刻",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2cf5e0fe9925bc31ac369e2c5edf8db1cb13701f.jpg",
+      "introduction": "网上买的大足石刻的联票60元，单个宝顶山55元。也就是加个北山只需要5元，当然要来看看。自驾的游客会比较方便，因为北山离宝顶山要30分钟车程。这里的石刻比宝顶山还有年代久远，而且损坏严重，所以游客也少很多，当然也没有讲解员。所以只能自己看看，配合网上找找相关介绍，据说这里是唐代的一位将军建的。景点很小，逛一下半小时够了，时间充裕的朋友们还是建议来走走。",
+      "popularity": "28",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "神女溪",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/caef76094b36acafbdb3410d7dd98d1000e99cf4.jpg",
+      "introduction": "神女溪是因三峡大坝蓄水而新生的一个景区，只能坐船进入。两边的岩石层理非常奇特，可以见到巫山的上升峰、起云峰等，风景非常秀丽。船进船出各需半小时，上岸只给20分钟拍照，里面的路段被封了，不过水景和石景都非常漂亮。",
+      "popularity": "30",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "潭獐峡",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/21a4462309f790523901e94c0df3d7ca7bcbd5a2.jpg",
+      "introduction": "这里是獐子和他生态链上的朋友们最爱的地方，而天然的奇险峡谷山水使得此地即可观景亦可探险，各种野趣盎然。",
+      "popularity": "7",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "丁山湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b64543a98226cffc85b6ef06b9014a90f703eae2.jpg",
+      "introduction": "出游是一种心境吧，丁山湖是个宁静的地方，湖边是一个生态园，树木茂密葱郁，空气很好，我住在湖边的一个农家乐，叫“湖光水岸”（便宜又热情，特别喜欢从湖边到他家的那条路，旁边就是伴水而生的矮矮的树，很美），那边还有一个寺庙，我去拜了拜，门票才几块钱，求了一个平安符。现在又有一个万佛山大峡谷，喜欢刺激的可以去漂流，我比较喜欢安静，在上面住了一个周末，很不错，空了又去。",
+      "popularity": "12",
+      "recommendLevel": "3.1"
+    },
+    {
+      "name": "铜鼓滩",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/472309f7905298223760f58ad7ca7bcb0a46d42c.jpg",
+      "introduction": "铜鼓滩夏季去最佳，这里被誉为“渝黔第一漂”，位于万盛区与贵州省桐梓县交界的坡渡河上，距万盛城区48公里，基本上不推荐坐公共交通去，要知道万盛到重庆主城区还有89公里哦，花在路上的时间太长了，从黑山谷和龙鳞石海游览后可顺道去。主要是玩漂流，风景还可以，漂流途中经过“一瀑、二岛、三峡、四洞、十滩”等不同景致，落差最大的险滩有6米，漂流全程11.2公里，一般要1个半小时。每年4月底就开放了，重庆本来是火炉嘛。漂流票价100元，建议网上预定哦，景区还有天然游泳场、实弹射击场、苗寨风情园等项目，适合夏季休闲游。",
+      "popularity": "12",
+      "recommendLevel": "3.3"
+    },
+    {
+      "name": "万盛石林",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d5462bfa1f83aee59e514698.jpg",
+      "introduction": "万盛石林既有怪石崚峋也有溶洞奇观，生发自寒武纪的岩石和奇特的喀斯特地貌共同构建自然魅力，生活在此地的苗族姑娘的舞姿更是对此地风光最好的描绘。",
+      "popularity": "33",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "张自忠将军墓",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1f178a82b9014a90abe4d409a9773912b21beea8.jpg",
+      "introduction": "张自忠上将墓，位于重庆市北碚到青木关公路侧梅花山麓。梅花山原名雨台山，1940年5月16日张自忠上将在湖北宜城县南瓜店抗日阵亡后，1940年11月16日下葬于此；1942年6月18日冯玉祥将军隶书山名，刻石置于墓前，并亲自在墓前栽植梅花树。张自忠墓，座南朝北地势南高北低，平面为长方形，占地5亩，陵园分三部分，最高处是张自忠墓，中间是花园，坡下是广场和张自忠纪念馆和标志石碑等。这是一个缅怀张自忠将军的地方，所以周围的环境非常幽静，有人也极少。在冬天更是显得肃穆。参观张自忠将军墓请带着一颗虔诚的心。",
+      "popularity": "29",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "潼南大佛寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c9fcc3cec3fdfc030d1efa37d53f8794a5c226de.jpg",
+      "introduction": "潼南大佛寺位于潼南县城西一公里的定明山下，是全国重点文物保护单位。景区旅游资源丰富，文化底蕴厚重，有世界第七、国内第一大室内装金摩岩大佛、最早使用全琉璃顶的古建筑“七檐佛阁”、我国四大回音建筑之一的“石磴琴声”、全国最大的摩石刻书法顶天“佛”字、罕见的天然回音壁“海潮音”等十八胜景。",
+      "popularity": "19",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "涂山寺",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/838ba61ea8d3fd1f81756473304e251f95ca5f7f.jpg",
+      "introduction": "喜欢这里的清静，有些寺院香火虽旺但感觉人多了气场就不好。很喜欢姑苏人恬静淡泊的气场，里面修行的老妈妈都很和蔼。",
+      "popularity": "13",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "统景",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/1ad5ad6eddc451da8319efa2b6fd5266d116328f.jpg",
+      "introduction": "其他地方的蹦极不是很清楚，统景蹦极这边按照他们的《安全操作规程》，第一次弹跳不能绑脚跳，只能选择绑腰弹跳。在具备蹦极弹跳经验后，才可以选择绷脚、绑背以及双人跳。",
+      "popularity": "7",
+      "recommendLevel": "4.3"
+    },
+    {
+      "name": "望乡台瀑布",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/bd3eb13533fa828bd4ab9656fd1f4134960a5afe.jpg",
+      "introduction": "望乡台瀑布是重庆市江津四面山的标志性景点，到景区后步行不久就能到达，瀑布高150余米，比著名的黄果树瀑布都高出一倍以上，堪称国内第一高瀑。瀑布的绝妙之处不仅在于高且壮观的气势以及水声如雷，更在于只要是夏季晴朗之日，每天上午9点到11点左右，瀑布下端几乎都会准时出现彩虹，堪称一绝，因此强烈建议上午时分去看。推荐游览方式是登上望乡台瀑布后的栈道，沿栈道而行，从瀑中隧道凭栏仰望瀑布，眼前的瀑布排空飞泻，仿佛自己已融入这青山绿水的飞瀑之中，夏季去是最清凉的了，四面山本来是避暑胜地，又是瀑布水量较大的时候，看起很壮观，冬季水量就很小了。",
+      "popularity": "18",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "武陵山国家森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/32fa828ba61ea8d30aa7fbfa960a304e241f5843.jpg",
+      "introduction": "来这里是为了参加国际绳索大赛，武陵山大峡谷真的是太壮观了，宣传片里说“天地造化，鬼斧神工”可谓是恰如其分。一路沿着栈道往景区深处走时，李白的蜀道难不断浮现在我的脑中，仰头看着高到天空的悬崖峭壁，低头看着奔腾的湍急河流，不得不想起“上有六龙回日之高标，下有冲波逆折之回川，黄鹤之飞尚不得过，猿猱欲度愁攀援”的诗句，喜欢自然风光的十分推荐去一次。PS：从涪陵到大峡谷景区的途中会路过乌江，没错，就是项羽那个乌江，江水衬着两岸的山峰，风景非常秀丽，一起的驴友说溯江而上景色更优美。",
+      "popularity": "21",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "黄瓜山",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/0eb30f2442a7d933167fda3aad4bd11372f001a7.jpg",
+      "introduction": "黄瓜山，距离永川城区15公里，可以在永川市区乘坐前往此地的客车。交通很便利。这里的气候环境十分舒适，是踏青郊游的绝佳之地。黄瓜山上的中华梨村名气很大  许多游客慕名前来寻找 忽如一夜春风来，千树万树梨花开的感觉。此外山上的旅游景点 桃花源也具有非常的吸引力。上山还有许多的狩猎场和农家乐 游客可以非常轻松自在舒适的在这里放松自己的心情。",
+      "popularity": "12",
+      "recommendLevel": "3.8"
+    },
+    {
+      "name": "重庆长江大桥",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a044ad345982b2b76d07bd1530adcbef77099b43.jpg",
+      "introduction": "说起大桥景点，马上说想起武汉长江大桥、南京长江大桥，这些桥梁都是我国自行设计的桥梁，代表着我国接掌技术的进步。重庆长江大桥位于渝中区，也是我国自行设计、自行建设的大桥，是重庆南北两岸的交通枢纽。大桥有夜景很美，远眺灯光迷离，和山城的夜景融为一体，和着江面点点波光，还有航行的船只，很是好看。（2001年9月）",
+      "popularity": "59",
+      "recommendLevel": "4.2"
+    },
+    {
+      "name": "观音桥步行街",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/30adcbef76094b364dc3bd13a2cc7cd98c109dff.jpg",
+      "introduction": "观音桥是重庆市江北区政治、经济、文化中心和重庆北部商贸中心，是解放碑之后第二大商业中心。地理位置优越， 15分钟以内可到达江北机场、龙头寺火车站、重庆火车站、朝天门港口，具有极强的集聚功能和交通优势，整个步行街由观音桥广场。商业综合体众多，美食相当丰富，夜景也漂亮。",
+      "popularity": "151",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "武隆岩溶国家地质公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/574e9258d109b3de9393445ccebf6c81800a4cd1.jpg",
+      "introduction": "武隆岩溶国家地质公园其实就是天生三桥地质公园园区和芙蓉洞芙蓉江地质公园园区合称，分别位于乌江北岸和南岸。搞不懂一个岩溶国家地质公园为什么分开卖票，武隆的景点门票真心较贵，以前还能使用重庆旅游年票，现在全部退出年票包含范围内。天生三桥是典型的喀斯特地貌，门票旺季135元，淡季95元；芙蓉洞内钟乳石类型几乎囊括世界上30余种洞穴的沉积特征，门票旺季120元，淡季65元；芙蓉江内的岩溶地质主要表现在两岸断层标志和江口地层剖面明显。门票建议在小度等网站上预定，一般有9折，在售票处的取票机上刷身份证取票就行，免去排队。从县城到上述景点都有班车，一般十分钟一趟，推荐自驾，停车和在各景区之间中转都很方便。",
+      "popularity": "47",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "重庆龙门阵魔幻山主题乐园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/6c224f4a20a44623a3de009a9922720e0cf3d736.jpg",
+      "introduction": "它将是中国唯一一个将地方特色的本土文化与世界最新的高技术游乐设施和演艺手段相结合的主题旅游景区，娱乐设施也很完善，而且玩的项目很多，环境也很好。",
+      "popularity": "8",
+      "recommendLevel": "4.5"
+    },
+    {
+      "name": "重庆邮电大学",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/d50735fae6cd7b8955a417790e2442a7d8330e7b.jpg",
+      "introduction": "下索道感觉南岸超级破，跟小乡村的街道一样一样的。又走了很久很久，问了好几个人，才到坐公交上观景台，乡间客车的感觉，终点站竟然是重庆邮电大学。感觉很坑，千里迢迢考来的同学应该两眼一黑了。因为从我们那个段上车之后全部是盘山公路，一直盘一直盘一直盘。重庆开车好费油啊，到处都是坡和山要上。可恨的是，在这个景点没有公交站台，要开到很远的站，再自己走回来！结果又走了很远，还是盘山公路。到了已经8点多了。",
+      "popularity": "32",
+      "recommendLevel": "4.4"
+    },
+    {
+      "name": "白鹤梁",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a686c9177f3e67094f11461a3ac79f3df9dc55c5.jpg",
+      "introduction": "2015年5月，白鹤梁水下博物馆调整升级后重新开放，依然很火，里面变化很大，更换了玻璃窗后水下参观更清晰！",
+      "popularity": "12",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "巫溪红池坝",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/8b82b9014a90f603341614b93812b31bb151edae.jpg",
+      "introduction": "红池坝有非常多的农家乐，这些农家乐能够提供一些特色美食，比如烤全羊，牛肉汤锅，烤兔子等等，还有很多重庆特色美食。我们在酒店大门口不远的一个农家乐吃的晚饭，现在想想太美味了，哈喇子流一地。这一次遇见红池坝，不是在最美的季节。2011年，巫溪县政府在万亩草场的基础上，引种各类高山花卉，云中花海景区由1500亩构图花卉区、3000亩缀花草坪区、3000亩疏林草地鲜花区、2500亩有机生态农业花海观光区和休闲生活娱乐区构成，是世界上高海拔地区最大、最美的花海景观，面积是日本北海道花海的7倍。我们到的不是时候，想象一下这些目前开垦的土地，到了七月份就是漫山遍野的鲜花，那画面一定很美。",
+      "popularity": "18",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "东温泉",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/b3b7d0a20cf431ad49b586744b36acaf2edd981c.jpg",
+      "introduction": "重庆东温泉镇，一个镇字体现出这里是大自然的温泉恩赐，天然的地底浓郁的硫磺纯净的水质成熟的市场完全能满足各层次各人群的各种需要。",
+      "popularity": "16",
+      "recommendLevel": "4.0"
+    },
+    {
+      "name": "鸿恩寺森林公园",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/c75c10385343fbf2e94e94cdb17eca8064388ff9.jpg",
+      "introduction": "洪恩寺公园是才建起来的吧，没有太多年的历史，平时是不要门票的，只有要举办花展的时候才需要门票，公园的景色还可以，所以人流量还是挺多的，游客可以乘坐公交车到这里，有个洪恩寺车站，以后还有轻轨会经过这里么，目前正处于规划之中。",
+      "popularity": "33",
+      "recommendLevel": "3.9"
+    },
+    {
+      "name": "梁实秋雅舍",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/2fdda3cc7cd98d1086bdca78213fb80e7bec900a.jpg",
+      "introduction": "这个地方是中国著名的散文家、学者梁实秋先生在重庆北碚时的居所，因为梁实秋有本作品叫《雅舍遗珠》所以将其住所取名于此。在北碚城区内，看起很普通，但是有文艺范。北碚是重庆周边有名的温泉和避暑之地，因为对梁实秋不太了解，经过这处故居对其兴趣也不大。",
+      "popularity": "18",
+      "recommendLevel": "4.1"
+    },
+    {
+      "name": "龙水湖",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/a9d3fd1f4134970ad107f16695cad1c8a7865d07.jpg",
+      "introduction": "想去，但是发现交通不便。没有到大足宝顶山那种到某地乘车，然后在某地换乘之类的明确标注。让人一头雾水，难不成市区去龙水湖只能自驾？",
+      "popularity": "24",
+      "recommendLevel": "3.6"
+    },
+    {
+      "name": "王二包自然保护区",
+      "pictureUrl": "http://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/lvpics/pic/item/faf2b2119313b07e00f1f9a40cd7912396dd8cca.jpg",
+      "introduction": "听这名儿就知道这地方是个足够野的去处，保护区最有特点的是那随处可见的长着红色果子的南方红豆杉，绿叶之间红得毫不掩饰，煞是可人。",
+      "popularity": "6",
+      "recommendLevel": "5.0"
+    }
+  ]
+}
