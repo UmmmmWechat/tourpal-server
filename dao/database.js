@@ -149,4 +149,6 @@ init = async () => {
     await insertSpots();
 };
 
+init();
+
 module.exports = query;
