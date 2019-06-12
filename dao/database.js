@@ -107,21 +107,12 @@ let message = `create table if not exists message (
     primary key (id))
     default charset=utf8;`;
 
-let createTable = function (sql) {
-    query(sql)
+let createTable = async function (sql) {
+    await query(sql)
 };
 
-createTable(tourist);
-createTable(spot);
-createTable(location);
-createTable(order);
-createTable(order_feedback);
-createTable(guide);
-createTable(guide_favor_spot);
-createTable(message);
-
-let insertSpots = () => {
-    query("select * from spot limit 1")
+let insertSpots = async () => {
+    await query("select * from spot limit 1")
         .then(res => {
                 if (!res.length) {
                     let dir = 'spots';
@@ -132,8 +123,8 @@ let insertSpots = () => {
                         let data = JSON.parse(fs.readFileSync(path.resolve(dir, file), 'utf-8'));
                         let city = data.city;
                         let spots = data.spots;
-                        spots.forEach(spot => {
-                            query(spotSql, [spot.name, spot.introduction, spot.pictureUrl, spot.popularity, spot.recommendLevel])
+                        spots.forEach(async spot => {
+                            await query(spotSql, [spot.name, spot.introduction, spot.pictureUrl, spot.popularity, spot.recommendLevel])
                                 .then(result => {
                                     let id = result.insertId;
                                     query(locationSql, [id, city]);
@@ -144,6 +135,18 @@ let insertSpots = () => {
             }
         )
 };
-insertSpots();
+
+init = async () => {
+    await createTable(tourist);
+    await createTable(spot);
+    await createTable(location);
+    await createTable(order);
+    await createTable(order_feedback);
+    await createTable(guide);
+    await createTable(guide_favor_spot);
+    await createTable(message);
+
+    await insertSpots();
+};
 
 module.exports = query;
