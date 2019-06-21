@@ -2,7 +2,7 @@ const query = require("../database")
 
 let insert = function (guide) {
     return new Promise((resolve, reject) => {
-        let sql = "insert into guide (avatar, gender, age, idCard, introduction, openId, phone, realName, wechat, numOfFinishOrder, goodFeedbackRate) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+        let sql = "insert into guide (avatar, gender, age, idCard, introduction, openId, phone, realName, wechat, numOfFinishOrder, goodFeedbackRate) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
 
         query(sql, [guide.avatar, guide.gender, guide.age, guide.idCard, guide.introduction, guide.openId, guide.phone, guide.realName, guide.wechat, guide.numOfFinishOrder, guide.goodFeedbackRate])
             .then(async res => {

@@ -35,6 +35,7 @@ let tourist = `create table if not exists tourist (
     name varchar(255),
     wechat varchar(255),
     idCard varchar(20),
+    age integer,
     primary key (id))
     default charset=utf8;`;
 
@@ -65,9 +66,9 @@ let guide = `create table if not exists guide (
     numOfFinishOrder integer not null, 
     openId varchar(255), 
     phone varchar(255), 
-    age integer,
     realName varchar(255), 
     wechat varchar(255), 
+    age integer,
     primary key (id)) 
     default charset=utf8;`;
 
