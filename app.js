@@ -1,9 +1,10 @@
 const Koa = require('koa')
-const router = require('koa-router')()
+require('koa-router')()
 const controller = require('./controller')
 const logger = require('./utils/logger')
-const cache = require('./utils/cache')
+require('./utils/cache')
 const bodyParser = require('koa-bodyparser')
+require('./schedulers')
 const app = new Koa()
 
 

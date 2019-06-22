@@ -22,6 +22,9 @@ module.exports = async function (orderId) {
         } else if (order.state === OrderState.REJECTED) {
             throw new Error(ResultMessage.ALREADY_REJECTED)
         }
+        if (order.state === OrderState.TIMEOUT) {
+            throw new Error(ResultMessage.ALREADY_TIMEOUT)
+        }
         // 清缓存
         let key = 'order' + order.touristId + OrderState.WAITING
         Cache.removeResource(key)
@@ -32,7 +35,7 @@ module.exports = async function (orderId) {
         // 更新数据库
         await orderDAO.update(order)
         // 清除cache
-        
+
         // 返回成功
         return ResultMessage.SUCCESS
     } catch (err) {
