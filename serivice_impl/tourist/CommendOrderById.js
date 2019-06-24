@@ -22,8 +22,8 @@ const Cache = require('../../utils/cache')
 /**
  * 评价一单
  * 还要更新 guide 和 spot 的信息
- * @param {*} orderId 
- * @param {Feedback} feedback 
+ * @param {*} orderId
+ * @param {Feedback} feedback
  */
 module.exports = async function (orderId, feedback) {
     let order = new Order()
@@ -94,7 +94,6 @@ module.exports = async function (orderId, feedback) {
         let popularity = spot.popularity
         let recommendLevel = spot.recommendLevel
         recommendLevel = (recommendLevel * popularity + spotPoint) / (popularity + 1)
-        recommendLevel = recommendLevel
         // 更新
         spot.popularity = popularity + 1
         spot.recommendLevel = recommendLevel

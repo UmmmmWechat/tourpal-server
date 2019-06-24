@@ -115,7 +115,7 @@ let findByGuideIdAndState = function (guideId, state) {
 }
 
 let findByGuideIdAndKeyword = function (guideId, keyword) {
-    let sql = "select * from my_order where guideId=" + guideId + " and exists (select * from spot where spot.id=my_order.spotId and (name like '%" + keyword + "%' or introduction like '%" + keyword + "%'))";
+    let sql = "select * from my_order where guideId=" + guideId + " and exists (select * from spot where spot.id=my_order.spotId and (name like '%" + keyword + "%'))";
     return find(sql);
 }
 
@@ -134,7 +134,7 @@ let findByTouristIdAndState = function (touristId, state) {
 }
 
 let findByTouristAndKeyword = function (touristId, keyword) {
-    let sql = "select * from my_order where touristId=" + touristId + " and exists (select * from spot where spot.id=my_order.spotId and (name like '%" + keyword + "%' or introduction like '%" + keyword + "%'))";
+    let sql = "select * from my_order where touristId=" + touristId + " and exists (select * from spot where spot.id=my_order.spotId and (name like '%" + keyword + "%'))";
     return find(sql);
 }
 

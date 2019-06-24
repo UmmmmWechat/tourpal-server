@@ -64,12 +64,12 @@ let findByProvinceAndCity = function (province, city) {
 }
 
 let findByKeyword = function (keyword) {
-    let sql = `select * from spot where name like '%${keyword}%' or introduction like '%${keyword}%'`
+    let sql = `select * from spot where name like '%${keyword}%'`
     return find(sql)
 }
 
 let findByCityAndKeyword = function (city, keyword) {
-    let sql = `select * from spot where exists (select * from location where city='${city}' and (name like '%${keyword}%' or introduction like '%${keyword}%') and spotId=id)`
+    let sql = `select * from spot where exists (select * from location where city='${city}' and (name like '%${keyword}%') and spotId=id)`
     return find(sql)
 }
 

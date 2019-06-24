@@ -106,7 +106,7 @@ let findByFavorSpot = function (spotId) {
 }
 
 let findByKeyword = function (keyword) {
-    let sql = `select * from guide where realName like '%${keyword}%' or introduction like '%${keyword}%'`
+    let sql = `select * from guide where realName like '%${keyword}%'`
     return find(sql)
 }
 
