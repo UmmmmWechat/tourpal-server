@@ -26,9 +26,9 @@ module.exports = async function (orderId) {
             throw new Error(ResultMessage.ALREADY_TIMEOUT)
         }
         // 清缓存
-        let key = 'order' + order.touristId + OrderState.WAITING
+        let key = 'order_tourist' + order.touristId + OrderState.WAITING
         Cache.removeResource(key)
-        key = 'order' + order.guideId + OrderState.WAITING
+        key = 'order_guide' + order.guideId + OrderState.WAITING
         Cache.removeResource(key)
         // 改变状态
         order.state = OrderState.CANCELED

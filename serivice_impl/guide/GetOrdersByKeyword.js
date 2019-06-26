@@ -13,7 +13,7 @@ const ResultMessage = require('../../utils/ResultMessage')
  */
 module.exports = async function (guideId, keyword, lastIndex) {
     let result
-    let key = 'order' + guideId + keyword
+    let key = 'order_guide' + guideId + keyword
     await CommonGetByCache(
         key,
         lastIndex,

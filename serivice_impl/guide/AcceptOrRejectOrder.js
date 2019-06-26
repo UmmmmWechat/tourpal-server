@@ -32,9 +32,9 @@ var stateOrder = async (orderId, state) => {
             throw new Error(ResultMessage.ALREADY_CANCELED)
         }
         // 消除cache
-        let key = 'order' + order.touristId + order.state
+        let key = 'order_tourist' + order.touristId + order.state
         Cache.removeResource(key)
-        key = 'order' + order.guideId + order.state
+        key = 'order_guide' + order.guideId + order.state
         Cache.removeResource(key)
         // 更新
         order.state = state
